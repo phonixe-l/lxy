@@ -1,6 +1,6 @@
  {
   "sites": [
-     {"key":"csp_Kmys",
+    {"key":"csp_Kmys",
      "name":"酷猫",
      "type":3,
      "api":"csp_Kmys",
