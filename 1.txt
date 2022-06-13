@@ -1,5 +1,13 @@
  {
   "sites": [
+     {"key":"csp_Kmys",
+     "name":"酷猫",
+     "type":3,
+     "api":"csp_Kmys",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable":1
+    },
     {
       "key":"LiteApple",
       "name": "小苹果",
