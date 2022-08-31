@@ -1,4 +1,7 @@
-{
+{"spider":"http://ww.kf666888.cn/catvod/jar/0711.jar",
+"spider":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcFZiMTJMMHZJbGhrQ1U1SlpCTmJJOUtpcHVLP2U9cXUyQ1VV.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6",
+"spider":"https://wuqikuanglan.coding.net/p/lxy/d/jar/git/tree/master/Tangsan999.jar",
+"spider":"https://wuqikuanglan.coding.net/p/lxy/d/jar/git/tree/master/jar0828.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 "sites":[
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
