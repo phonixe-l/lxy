@@ -1,9 +1,9 @@
 {"spider":"https://down.wss.show/4cdr8dp/9/6d/96da4cdr8dp?cdn_sign=1661932798-29-0-99305af0545a2ffb004599b65c8215f6&exp=240&response-content-disposition=attachment%3B%20filename%3D%22Tangsan999.jar%22%3B%20filename%2A%3Dutf-8%27%27Tangsan999.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 "sites":[
-{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://down.wss.show/4cdr8dp/9/6d/96da4cdr8dp?cdn_sign=1661932798-29-0-99305af0545a2ffb004599b65c8215f6&exp=240&response-content-disposition=attachment%3B%20filename%3D%22Tangsan999.jar%22%3B%20filename%2A%3Dutf-8%27%27Tangsan999.jar"},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}
 {"key":"csp_Alist2","name":"Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
 {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
