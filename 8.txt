@@ -1,7 +1,5 @@
 {"sites":[ 
 {"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"酷猫影视","name":"酷猫影视","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"神速资源","name": "神速资源","type": 1,"api": "https://api.sszyapi.com/api.php/provide/vod/?ac=list"},
 {"key":"番茄资源","name": "番茄资源","type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.fqplayer.com/player/jx.php?url="},
 {"key":"卧龙资源","name": "卧龙资源","type": 0,"api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url="},
 {"key":"量子资源","name": "量子资源","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
@@ -67,7 +65,6 @@
 {"key":"极速BT资源","name":"极速BT资源(切)","type":1,"api":"https://api.jisubt.com/videos","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
