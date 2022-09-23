@@ -1,5 +1,5 @@
 {"spider":"http://ww.kf666888.cn/catvod/jar/0711.jar",
-"spider":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0830.jpg;md5;840763B7C42CA92F1D6C51790AD8174A",
+"spider":"https://gitee.com/wuqikuanglan/jar/raw/master/0906.jar,
 "spider":"http://刚刚.live/jar2/jar0828.jar",
 "spider":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
