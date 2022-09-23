@@ -1,11 +1,10 @@
 {"spider":"http://ww.kf666888.cn/catvod/jar/0711.jar",
-"spider":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcFZiMTJMMHZJbGhrQ1U1SlpCTmJJOUtpcHVLP2U9cXUyQ1VV.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6",
 "spider":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0830.jpg;md5;840763B7C42CA92F1D6C51790AD8174A",
 "spider":"http://刚刚.live/jar2/jar0828.jar",
 "spider":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
-{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://jszt999.ke22.aihost69.top/jar/t30830.jar"},
+{"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://jszt999.ke22.aihost69.top/jar/t30830.jar"},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
