@@ -1,7 +1,6 @@
 {"spider":"http://ww.kf666888.cn/catvod/jar/0711.jar",
 "spider":"https://gitee.com/wuqikuanglan/jar/raw/master/0906.jar,
 "spider":"http://刚刚.live/jar2/jar0828.jar",
-"spider":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
 {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://jszt999.ke22.aihost69.top/jar/t30830.jar"},
