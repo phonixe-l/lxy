@@ -1,5 +1,5 @@
 {"spider":"http://ww.kf666888.cn/catvod/jar/0711.jar",
-"spider":"https://gitee.com/wuqikuanglan/jar/raw/master/0906.jar,
+"spider":"https://gitee.com/wuqikuanglan/jar/raw/master/0906.jar",
 "spider":"http://刚刚.live/jar2/jar0828.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
