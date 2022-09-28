@@ -39,7 +39,7 @@
 {"key":"Upyunso","name":"Up云","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xxooo.ml/3GHsnJ"},
 {"key":"Yisou","name":"易搜","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xxooo.ml/3GHsnJ"},
 {"key":"Alips","name":"喵搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xxooo.ml/3GHsnJ"},
-{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xxooo.ml/3GHsnJ"}
+{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xxooo.ml/3GHsnJ"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
