@@ -6,6 +6,7 @@
 {"key":"番茄资源","name": "番茄资源","type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.fqplayer.com/player/jx.php?url="},
 {"key":"卧龙资源","name": "卧龙资源","type": 0,"api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url="},
 {"key":"量子资源","name":"量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
+{"key":"闪电资源","name":"闪电资源","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"看看资源","name":"看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
