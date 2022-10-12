@@ -1,9 +1,8 @@
 {"sites":[ 
 {"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"天堂资源","name": "天堂资源","type": 1,"api": "http://vipmv.cc/api.php/provide/vod/?ac=list"},
-{"key":"诺讯资源","name": "诺讯资源","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"https://www.nxflv.com/?url="},
-{"key":"神速资源","name": "神速资源","type": 1,"api": "https://api.sszyapi.com/api.php/provide/vod/?ac=list"},
-{"key":"番茄资源","name": "番茄资源","type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.fqplayer.com/player/jx.php?url="},
+{"key":"天堂资源","name":"天堂资源","type": 1,"api": "http://vipmv.cc/api.php/provide/vod/?ac=list"},
+{"key":"诺讯资源","name":"诺讯资源","type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"https://www.nxflv.com/?url="},
+{"key":"番茄资源","name":"番茄资源","type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.fqplayer.com/player/jx.php?url="},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"},
