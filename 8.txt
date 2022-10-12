@@ -12,7 +12,7 @@
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"看看资源","name":"看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"波比影视","name":"波比影视","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/ct/vod/xml","searchable":1,"quickSearch":1},
+{"key":"淘片资源","name":"淘片资源","type":0,"api":"https://taopianapi.com/home/cjapi/as/ct/vod/xml"},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"XYUI","name":"XYUI","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
