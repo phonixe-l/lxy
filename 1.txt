@@ -1,6 +1,6 @@
 {"spider":"http://111.67.196.181/jar/资源包1.jar",
-"spider":"https://phonixe-l.github.io/lxy/0928.jar",
 "spider":"./vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
+"spider":"https://phonixe-l.github.io/lxy/0928.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
 {"key":"mtv_pc_酷云七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
