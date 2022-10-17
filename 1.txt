@@ -69,8 +69,6 @@
 {"key":"csp_biubiu_GIMY影视","name":"GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/GIMY影视.json"},
 {"key":"csp_biubiu_看一看影视","name":"看一看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/看一看影视.json"},
 {"key":"csp_biubiu_31看影视","name":"31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/31看影视.json"},
-{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/小强迷.json"},
-{"key":"csp_biubiu_爱港剧","name":"爱港剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/爱港剧.json"},
 {"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/VIP1280.json"},
 {"key":"csp_biubiu_小熊影视","name":"小熊影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/小熊影视.json"},
 {"key":"csp_biubiu_手机看剧","name":"手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/手机看剧.json"},
