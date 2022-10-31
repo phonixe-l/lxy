@@ -1,4 +1,5 @@
 {"spider":"https://phonixe-l.github.io/lxy/1025.jar",
+"spider":"https://phonixe-l.github.io/lxy/0928.jar",
 "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
   "sites": [
 {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
