@@ -1,6 +1,6 @@
 {"spider":"https://phonixe-l.github.io/lxy/0928.jar",
 "spider":"https://phonixe-l.github.io/lxy/1025.jar",
-"spider":"https://phonixe-l.github.io/lxy/1028.jar",
+"spider":"https://phonixe-l.github.io/lxy/1114.jar",
 "spider":"http://111.67.196.181/jar/资源包1.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
