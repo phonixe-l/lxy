@@ -1,6 +1,6 @@
 {"spider":"http://meow.miaotvs.cn/MTV数据包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
 "spider":"http://w.g9.pub:66/381203888/jar/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar;md5;b965ffdf88f07652189d6416ba83164c",
-"spider":"http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9",
+"spider":"http://cdn.qiaoji8.com/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
 {"key":"mtv_pc_酷云七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
