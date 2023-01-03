@@ -53,7 +53,7 @@
 {"key":"mtv_xp_乌龟影院","name":"乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乌龟影院.json"},
 {"key":"mtv_xp_六度影视","name":"六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-六度影视.json"},
 {"key":"mtv_xp_干饭影视","name":"干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-干饭影视.json"},
-{"key":"mtv_xp_金眼影视","name":"金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-金眼影视.json"}],
+{"key":"mtv_xp_金眼影视","name":"金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-金眼影视.json"},
 {"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/555电影.json"},
 {"key":"csp_biubiu_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/特狗影视.json"},
 {"key":"csp_biubiu_F7好看剧","name":"F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dengzl/Cat/raw/master/MaooXB/F7好看剧.json"},
