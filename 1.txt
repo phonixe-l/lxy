@@ -79,7 +79,7 @@
 {"key":"csp_biubiu_花猫TV","name":"花猫TV〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/花猫TV.json","date":"2023-01-03 09:00:11"},
 {"key":"csp_biubiu_348电影网","name":"348电影网〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/348电影网.json","date":"2023-01-03 09:00:11"},
 {"key":"csp_biubiu_看一看影视","name":"看一看影视〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/看一看影视.json","date":"2023-01-03 09:00:11"},
-{"key":"csp_biubiu_1080Kkk","name":"1080Kkk〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/1080Kkk.json","date":"2023-01-03 09:00:11"}
+{"key":"csp_biubiu_1080Kkk","name":"1080Kkk〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/1080Kkk.json","date":"2023-01-03 09:00:11"},
 {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
 {"key":"冠军资源","name":"冠军资源(切)","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
