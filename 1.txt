@@ -1,4 +1,4 @@
-{"spider":"http://9xi4o.tk/0925.jar"
+{"spider":"http://9xi4o.tk/0925.jar",
 "spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 "spider":"http://meow.miaotvs.cn/MTV数据包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
 "spider":"http://cdn.qiaoji8.com/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b",
