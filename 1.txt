@@ -1,6 +1,5 @@
 {"spider":"http://meow.miaotvs.cn/MTV数据包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
-"spider":"http://cdn.qiaoji8.com/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b",
-"spider":"http://cdn.qiaoji8.com/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a",
+"spider":"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHhhd2kvMS9tYWluL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
