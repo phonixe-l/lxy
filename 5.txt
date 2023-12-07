@@ -300,12 +300,11 @@ CCTV高尔夫网球,http://49.235.110.121:9090/daili/guizho.php?id=gefwq
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?fmmv6
 新疆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?fmmv6
+内蒙古卫视,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw341951814_-1700109677/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8?icpid=3&RTS=1674380457&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+内蒙古卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw342184966_550506844/ott.mobaibox.com/PLTV/3/224/3221225836/index.m3u8?icpid=3&RTS=1674380457&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
+云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1565806879_-1565034663/ott.mobaibox.com/PLTV/3/224/3221225838/index.m3u8?cpid=3&RTS=1674385976&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
@@ -396,8 +395,6 @@ CCTV高尔夫网球,http://49.235.110.121:9090/daili/guizho.php?id=gefwq
 河北卫视,http://183.94.40.49:9901/tsfile/live/faacts/0117_1.m3u8?key=txiptv&url=tvzb.com
 辽宁卫视,http://183.94.40.49:9901/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
 湖北卫视,http://183.94.40.49:9901/tsfile/live/0132_1.m3u8?key=txiptv&url=tvzb.com
-湖北经视,http://183.94.40.49:9901/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
-湖北综合,http://183.94.40.49:9901/tsfile/live/1013_1.m3u8?key=txiptv&url=tvzb.com
 河南卫视,http://183.94.40.49:9901/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
 重庆卫视,http://183.94.40.49:9901/tsfile/live/0142_1.m3u8?key=txiptv&url=tvzb.com
 四川卫视,http://183.94.40.49:9901/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
@@ -407,7 +404,6 @@ CCTV高尔夫网球,http://49.235.110.121:9090/daili/guizho.php?id=gefwq
 贵州卫视,http://183.94.40.49:9901/tsfile/live/0120_1.m3u8?key=txiptv&url=tvzb.com
 东南卫视,http://183.94.40.49:9901/tsfile/live/0137_2.m3u8?key=txiptv&url=tvzb.com
 安徽卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
-北京纪实科教,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
 北京卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 福建东南卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
 贵州卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
@@ -423,7 +419,6 @@ CCTV高尔夫网球,http://49.235.110.121:9090/daili/guizho.php?id=gefwq
 辽宁卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 山东卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 东方卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
-纪实人文,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
 深圳卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 四川卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
 天津卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
@@ -1245,29 +1240,6 @@ CCTV高尔夫·网球_8M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv
 浙江卫视_8M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv_live/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-
 浙江卫视_12M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
 重庆卫视_8M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
-
-
-综艺频道,#genre#
-
-我们的歌,http://kkwk1122.top/bestv.php?id=41
-谜案大世界,http://kkwk1122.top/bestv.php?id=84
-完美的夏天,http://kkwk1122.top/bestv.php?id=59
-极限挑战,http://kkwk1122.top/bestv.php?id=27
-汤妈妈,http://kkwk1122.top/bestv.php?id=213
-完美的夏天2,http://kkwk1122.top/bestv.php?id=222
-王牌对王牌,http://kkwk1122.top/bestv.php?id=193
-东方风云榜,http://kkwk1122.top/bestv.php?id=146
-美好生活家,http://kkwk1122.top/bestv.php?id=228
-人气美食,http://kkwk1122.top/bestv.php?id=144
-漫游记,http://kkwk1122.top/bestv.php?id=218
-两个人的世界,http://kkwk1122.top/bestv.php?id=124
-高能脱口秀,http://kkwk1122.top/bestv.php?id=76
-奔跑吧兄弟,http://kkwk1122.top/bestv.php?id=201
-童年国漫,http://kkwk1122.top/bestv.php?id=37
-城市真英雄,http://kkwk1122.top/bestv.php?id=119
-荒野求生,http://kkwk1122.top/bestv.php?id=226
-整容级妆教,http://kkwk1122.top/bestv.php?id=216
-天籁之战,http://kkwk1122.top/bestv.php?id=156
 
 
 电视剧轮播,#genre#
@@ -2276,9 +2248,6 @@ CGTN 4M576,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1759364445
 CGTN 576,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw339749067_1329413079/ott.mobaibox.com/PLTV/3/224/3221225917/index.m3u8?icpid=3&RTS=1674380455&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CGTN纪录 4M576,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw339922261_2119378178/ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8?icpid=3&RTS=1674380455&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 东南卫视 576,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw341536838_449312766/ott.mobaibox.com/PLTV/3/224/3221225816/index.m3u8?icpid=3&RTS=1674380456&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-云南卫视 576,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1565806879_-1565034663/ott.mobaibox.com/PLTV/3/224/3221225838/index.m3u8?icpid=3&RTS=1674385976&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-内蒙古卫视 3.5M576,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw341951814_-1700109677/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8?icpid=3&RTS=1674380457&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-内蒙古卫视 576,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw342184966_550506844/ott.mobaibox.com/PLTV/3/224/3221225836/index.m3u8?icpid=3&RTS=1674380457&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 北京卫视 576,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw2226833267_-536463601/ott.mobaibox.com/PLTV/3/224/3221228510/index.m3u8?icpid=3&RTS=1674459651&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 吉林卫视 576,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw2057074725_1333293592/ott.mobaibox.com/PLTV/3/224/3221225883/index.m3u8?icpid=3&RTS=1674386467&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 四川卫视 576,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw343097600_-2107678999/ott.mobaibox.com/PLTV/3/224/3221225814/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
