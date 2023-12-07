@@ -77,7 +77,7 @@ CHC高清电影,http://49.235.110.121:9090/daili/IPTV.php?id=chcgqdy
 CHC高清电影,http://49.235.110.121:9090/daili/cqyx.php?id=chcgq
 CHC动作电影,http://49.235.110.121:9090/daili/cqyx.php?id=chcdz
 CHC家庭影院,http://49.235.110.121:9090/daili/cqyx.php?id=chcjt
-CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 中国教育1台,http://49.235.110.121:9090/daili/bestv.php?id=zgjy1
 中国教育2台,http://49.235.110.121:9090/daili/bestv.php?id=zgjy2
