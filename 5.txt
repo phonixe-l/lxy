@@ -2201,8 +2201,12 @@ HBO 2,http://208.115.225.174:14140
 
 备用,#genre#
 
-吉林7,https://stream1.jlntv.cn/fzpd/sd/live.m3u
-吉林乡村,https://stream1.jlntv.cn/xcpd/sd/live.m3u8
+吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8
+吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+吉林7,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw3324980988_-41690276/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?icpid=3&RTS=1674379145&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
