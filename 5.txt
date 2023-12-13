@@ -1234,14 +1234,41 @@ CCTV高尔夫·网球_8M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv
 
 电视剧轮播,#genre#
 
-庆余年,http://49.235.110.121:9090/daili/huya898.php?id=11352960
-铁齿铜牙纪晓岚,http://mmitv.top/pltv/yy.php?id=1352227227
+
+庆余年,https://ygbh--xingkongbujian.repl.co/huya/11352960
+新三国,https://ygbh--xingkongbujian.repl.co/huya/11352944
+新水浒,https://ygbh--xingkongbujian.repl.co/huya/11342384
+铁齿铜牙纪晓岚,https://ygbh--xingkongbujian.repl.co/huya/11342396
+士兵突击,https://ygbh--xingkongbujian.repl.co/huya/11342430
+爱情公寓,https://ygbh--xingkongbujian.repl.co/huya/11336726
+武林外传,https://ygbh--xingkongbujian.repl.co/huya/21059598
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191&uid=2786225719
 封神榜,http://mmitv.top/pltv/yy.php?id=1353426319&uid=1834428187
 知否知否,http://mmitv.top/pltv/yy.php?id=21881901&uid=461123160
 正阳门下,http://mmitv.top/pltv/yy.php?id=1354931580&uid=2705646910
 雍正王朝,http://mmitv.top/pltv/yy.php?id=23206872&uid=2551997293
 新水浒传,http://mmitv.top/pltv/yy.php?id=1356059275&uid=2946303850
+邻里一家亲,https://ygbh--xingkongbujian.repl.co/huya/11342426
+庆余年,http://43.138.170.29:35455/huya/11352960
+三国演义,http://43.138.170.29:35455/huya/11602077
+神话,http://43.138.170.29:35455/huya/11352913
+生活大爆炸,http://43.138.170.29:35455/huya/11342417
+孙悟空,http://43.138.170.29:35455/huya/11342395
+天龙八部,http://43.138.170.29:35455/huya/11602041
+文成公主,http://43.138.170.29:35455/huya/11352974
+铁齿铜牙纪晓岚,http://49.235.110.121:9090/daili/huya898.php?id=11342396
+铁齿铜牙纪晓岚,http://hls.ye23.vip/wl/huya2205.php?id=11342396
+士兵突击,http://49.235.110.121:9090/daili/huya898.php?id=11342430
+爱情公寓,http://49.235.110.121:9090/daili/huya898.php?id=11336726
+家有儿女,http://49.235.110.121:9090/daili/huya898.php?id=11352872
+武林外传,http://49.235.110.121:9090/daili/huya898.php?id=21059598
+地下交通站,http://49.235.110.121:9090/daili/huya898.php?id=11342433
+邻里一家亲,http://49.235.110.121:9090/daili/huya898.php?id=11342426
+好先生,http://epg.112114.xyz/douyu/9650792
+庆余年,http://epg.112114.xyz/douyu/5908256
+我是大哥大,http://43.138.170.29:35455/huya/23652317
+庆余年,http://49.235.110.121:9090/daili/huya898.php?id=11352960
+铁齿铜牙纪晓岚,http://mmitv.top/pltv/yy.php?id=1352227227
 下饭神剧,http://mmitv.top/pltv/yy.php?id=23512910&uid=2244321222
 武林外传,http://mmitv.top/pltv/yy.php?id=1355914397&uid=1634911740
 盜暮笔记,http://mmitv.top/pltv/yy.php?id=1382702247&uid=2714622159
@@ -1282,20 +1309,6 @@ CCTV高尔夫·网球_8M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv
 薛刚反唐,http://mmitv.top/pltv/yy.php?id=31313785
 神雕侠侣,http://mmitv.top/pltv/yy.php?id=1351762426
 西游记,http://mmitv.top/pltv/yy.php?id=1353392400
-老三国,http://49.235.110.121:9090/daili/huya898.php?id=11602081
-新三国,http://49.235.110.121:9090/daili/huya898.php?id=11352944
-新水浒,http://49.235.110.121:9090/daili/huya898.php?id=11342384
-铁齿铜牙纪晓岚,http://49.235.110.121:9090/daili/huya898.php?id=11342396
-铁齿铜牙纪晓岚,http://hls.ye23.vip/wl/huya2205.php?id=11342396
-雍正王朝,http://49.235.110.121:9090/daili/huya898.php?id=11342439
-士兵突击,http://49.235.110.121:9090/daili/huya898.php?id=11342430
-爱情公寓,http://49.235.110.121:9090/daili/huya898.php?id=11336726
-家有儿女,http://49.235.110.121:9090/daili/huya898.php?id=11352872
-武林外传,http://49.235.110.121:9090/daili/huya898.php?id=21059598
-地下交通站,http://49.235.110.121:9090/daili/huya898.php?id=11342433
-邻里一家亲,http://49.235.110.121:9090/daili/huya898.php?id=11342426
-好先生,http://epg.112114.xyz/douyu/9650792
-庆余年,http://epg.112114.xyz/douyu/5908256
 票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
 热播剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8?key
 连续剧1,http://epg.112114.xyz/douyu/4549169
@@ -1303,6 +1316,7 @@ CCTV高尔夫·网球_8M,http://14.22.20.125/ts-gitv-nx-yh.189smarthome.com/gitv
 连续剧3,http://epg.112114.xyz/douyu/5689514
 连续剧4,http://epg.112114.xyz/douyu/7476264
 连续剧5,http://epg.112114.xyz/douyu/4396972
+
 
 埋堆堆,#genre#
 埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
@@ -1777,6 +1791,8 @@ YY電影-林正英2,http://mmitv.top/pltv/yy.php?id=1353685311
 
 虎牙频道,#genre#
 
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1027/86/3816fff1eef0e4c346fc840b627740_180_135.jpg" group-title="一起看", SMG最强大脑
+https://www.goodiptv.club/huya/11352914
 大染坊,https://www.goodiptv.club/huya/11602086
 征服,https://www.goodiptv.club/huya/11601970
 父母爱情,https://www.goodiptv.club/huya/11602071
@@ -1786,6 +1802,8 @@ YY電影-林正英2,http://mmitv.top/pltv/yy.php?id=1353685311
 家有儿女,https://www.goodiptv.club/huya/11352872
 神医喜来乐,https://www.goodiptv.club/huya/11601978
 射雕英雄传,http://hls.ye23.vip/wl/huya2205.php?id=11602082
+康熙微服私访记,https://www.goodiptv.club/huya/11342418
+老三国演义,https://www.goodiptv.club/huya/11602081
 陈翔六点半,https://www.goodiptv.club/huya/11274154
 极限挑战,https://www.goodiptv.club/huya/11352914
 吐槽大会,https://www.goodiptv.club/huya/21059555
@@ -2236,7 +2254,6 @@ NUEST-JR,https://www.goodiptv.club/huya/660276
 陈泽希,https://www.goodiptv.club/huya/21411905
 道英,https://www.goodiptv.club/huya/637216
 刘扬扬,https://www.goodiptv.club/huya/660476
-中国探月太空萌兔,https://www.goodiptv.club/huya/23663418
 演员管轩,https://www.goodiptv.club/huya/23493957
 EXO-伯贤,https://www.goodiptv.club/huya/660204
 5364888,https://www.goodiptv.club/huya/26527833
@@ -2250,7 +2267,6 @@ EXO-世勋,https://www.goodiptv.club/huya/660205
 经典影视女神团,https://www.goodiptv.club/huya/21241777
 嘤嘤嘤,https://www.goodiptv.club/huya/11336579
 小驴影视,https://www.goodiptv.club/huya/24531382
-演员方安娜,https://www.goodiptv.club/huya/22151150
 坚定希望,https://www.goodiptv.club/huya/21059529
 
 
@@ -2638,12 +2654,34 @@ HBO 2,http://208.115.225.174:14140
 
 备用,#genre#
 
-吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8
-吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
-吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-吉林7,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
+吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
+吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
+吉林影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
+吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?zjild
+吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
+吉林7频道,http://stream1.jlntv.cn/fzpd/sd/live.m3u8?zjild
+东北戏曲频道,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=b234e6c41620650518?zjild
+延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
+珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
