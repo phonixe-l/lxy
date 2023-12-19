@@ -609,7 +609,6 @@ TVBS新聞HD,http://47.242.38.45:9999/twjd678-1.php?id=43
 庆余年,https://ygbh--xingkongbujian.repl.co/huya/11352960
 大染坊,https://www.goodiptv.club/huya/11602086
 雪豹,https://www.goodiptv.club/douyu/11863823
-亮剑,https://epg.pw/stream/72d55b8e904d1ff06b242cd3510858ebc294a2ad78a80f39097c179e4074c98c.ctv
 征服,https://www.goodiptv.club/huya/11601970
 父母爱情,https://www.goodiptv.club/huya/11602071
 铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
@@ -634,6 +633,7 @@ TVBS新聞HD,http://47.242.38.45:9999/twjd678-1.php?id=43
 火蓝刀锋,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382737892
 情满四合院,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382851524
 情满四合院,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735541
+芈月传,https://www.goodiptv.club/huya/11352975
 正阳门下,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931580
 雍正王朝,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34956881
 宰相刘罗锅,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745191
@@ -755,6 +755,7 @@ TVBS新聞HD,http://47.242.38.45:9999/twjd678-1.php?id=43
 射雕英雄传,http://hls.ye23.vip/wl/huya2205.php?id=11602082
 康熙微服私访记,https://www.goodiptv.club/huya/11342418
 老三国演义,https://www.goodiptv.club/huya/11602081
+老西游记,https://www.goodiptv.club/douyu/8953746
 士兵突击,https://www.goodiptv.club/douyu/10348728
 铁齿铜牙纪晓岚,https://ygbh--xingkongbujian.repl.co/huya/11342396
 士兵突击,https://ygbh--xingkongbujian.repl.co/huya/11342430
@@ -2901,6 +2902,7 @@ HBO 2,http://208.115.225.174:14140
 元芳你怎么看,https://epg.pw/stream/86c68c7a8abc07ed8a37488940e2aa13e756fb1d2ff7e99fbd7364014c022649.ctv
 冲冲冲!给老子上,https://epg.pw/stream/3249ef400f80add3be9058a6afafa2b28786c6b42e562b4634dcb4caf7e8233d.ctv
 刘小光·捧腹大笑,https://epg.pw/stream/b8ae04454dbaaf91dd1100a1dd638cf25885bcb06aa452ff135c8d59f81d1352.ctv
+亮剑,https://epg.pw/stream/72d55b8e904d1ff06b242cd3510858ebc294a2ad78a80f39097c179e4074c98c.ctv
 刘德华,https://epg.pw/stream/2144d02776244cae5f2b17d31c740aeaf8d681b4d8c2d070ae7d78b774f27c3e.ctv
 动画片莽荒纪,https://epg.pw/stream/f0d6222155560ef62994b326076fc3e7f8f3c240eaee943582e171756a6d68a1.ctv
 医馆笑传,https://epg.pw/stream/e22acd11aa046c695c07ece50b45d3ff46a1466cd31d43cd3b37000f88abe075.ctv
