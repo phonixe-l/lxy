@@ -2953,7 +2953,6 @@ HBO 2,http://208.115.225.174:14140
 斗罗大陆,https://epg.pw/stream/465167b7bf4e345bc339c57775e03c1234d07a4c354f2ce14e92294123121a95.ctv
 斗罗斗破,https://epg.pw/stream/6b09147f48abee1a7e928da8e9b80cbe7e049d92b548e1c3dd6bc83a203dfe6f.ctv
 新三国滚滚长江东逝水,https://epg.pw/stream/67cd630f4a8fafe1cc5d3099e6ec9125a188f40a0d692c188f8f43ae7da6a4bd.ctv
-新水浒传-‪在‪下正‪是‪西公子,https://epg.pw/stream/3a877fd389737e56bdc5173c8c968988d44ba2827636c98c2e61e31f442e2398.ctv
 普通司机小马的直播间,https://epg.pw/stream/0caa8a95adf15c83ff240f81a37c151ad36e5c34eed0aeef3e6c2baef89598fd.ctv
 李连杰,https://epg.pw/stream/57ae05a01c26b36f2ead0dc6c559ad342d26944d0d2934f6c3234e035cdb2c77.ctv
 极限挑战-双黄联手拆弹绝地求生,https://epg.pw/stream/2dc4ea80d6325a63e412bb20c68fd34c4d8bfd338150f90f3799ca5ee2a9f0f7.ctv
