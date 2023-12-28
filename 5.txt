@@ -465,7 +465,59 @@ CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=0
 三沙卫视,http://live.aishang.ctlcdn.com/00000110240589_1/playlist.m3u8?CONTENTID=00000110240589_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
+吉林频道,#genre#
 
+吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
+长影频道,http://jltpc.x3322.net:9901/tsfile/live/1010_1.m3u8
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
+桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
+磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
+永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
+白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
+珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+松原公共频道,http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+农安新闻综合,http://stream2.jlntv.cn/naxw/sd/live.m3u8
+双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
+江源综合频道,http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+靖宇综合频道,http://stream8.jlntv.cn/jytv/sd/live.m3u8
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
+珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8
+龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+梅河口综合,http://stream4.jlntv.cn/mhk/sd/live.m3u8
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8
+东辽综合,http://stream5.jlntv.cn/dl/sd/live.m3u8
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
+前郭综合频道,http://stream2.jlntv.cn/qg/sd/live.m3u8
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
+集安综合频道,http://stream2.jlntv.cn/ja/sd/live.m3u8
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
+延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 
 
 港澳台,#genre#
@@ -743,6 +795,14 @@ HOY,https://hls.ulivetv.net/v/live/crq2e7quuukg.m3u8?
 正阳门下,http://mmitv.top/pltv/yy.php?id=1354931580
 雍正王朝,http://mmitv.top/pltv/yy.php?id=34956881
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
+闯关东http://mmitv.top/pltv/yy.php?id=1382658790
+都挺好http://mmitv.top/pltv/yy.php?id=1382736892
+伪装者http://mmitv.top/pltv/yy.php?id=1382851593
+欢乐颂http://mmitv.top/pltv/yy.php?id=1382735624
+小欢喜http://mmitv.top/pltv/yy.php?id=1382737888
+我的前半生http://mmitv.top/pltv/yy.php?id=1382735564
+安家http://mmitv.top/pltv/yy.php?id=12086226
+一念关山http://mmitv.top/pltv/yy.php?id=1355485328
 正阳门下,http://mmitv.top/pltv/yy.php?id=1382851588
 水浒传,http://mmitv.top/pltv/yy.php?id=1353215589
 父母爱情,http://mmitv.top/pltv/yy.php?id=1354926650
@@ -1358,9 +1418,7 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 
 
 
-熊出没-国漫,https://www.goodiptv.club/yy/1354936157
-熊仔之正义守护-国漫,https://www.goodiptv.club/yy/1382736836
-萌鸡小队S1-国漫,https://www.goodiptv.club/yy/1382736904
+
 猫和老鼠,https://epg.112114.xyz/huya/11352879
 灌篮高手,https://myvercel-iota.vercel.app/yy/1350984033
 海绵宝宝,https://epg.112114.xyz/huya/11352919
@@ -1393,8 +1451,7 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
 经典动漫,http://epg.112114.xyz/douyu/9455567
-熊仔之正義守護-國漫,https://epg.pw/stream/e02bd69a690f136ab21311cd8ef3179245c8036cb6926ec0ff91f6f95baf2d9c.ctv
-熊出沒之探險日記s1-國漫,https://epg.pw/stream/17f7f4e6bc0d3dfa927445e76c00431ed175db48354c2314be74206423659032.ctv
+
 
 
 
@@ -2903,6 +2960,11 @@ wugltest,https://www.goodiptv.club/douyu/1844872
 测试频道,#genre#
 
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+长影频道,http://jltpc.x3322.net:9901/tsfile/live/1010_1.m3u8
+吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林新闻综合,https://epg.pw/stream/06a492e343a224360fbbc17307f7c052f091bb27a18cb550c6880cab6cf3cd1c.m3u8
 吉林新闻综合,https://epg.pw/stream/aac4f4dca3401a761850c8805ab31d6bdcdd0cff66b6b5b1c0a16c388d292b9a.m3u8
 吉林影视,https://epg.pw/stream/a7da806978d832234031c7bb2582e4bc043a36c904af2a977b6854f115122740.m3u8
@@ -2934,63 +2996,6 @@ wugltest,https://www.goodiptv.club/douyu/1844872
 东北戏曲,https://epg.pw/stream/ec9ddb88df62f3689ca552fd4e5feaf723957ed815f60c949f4e3b35e0595936.m3u8
 东北戏曲,https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8
 东北戏曲,https://epg.pw/stream/c3b4223c3ba2b2c6eda732d66b560fe58aa7a5a000031179789978e7260cda03.m3u8
-延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
-延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
-延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
-白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
-长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
-靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
-敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
-珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
-磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
-舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
-东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
-双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
-柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
-通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
-延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
-延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-通化新闻,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-吉林市新闻综合,http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774
-吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-四平新闻综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8
-辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-松原新闻综合,http://stream2.jlntv.cn/sytv/sd/live.m3u8
-松原公共频道,http://stream8.jlntv.cn/sytv2/sd/live.m3u8
-白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8
-德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-农安新闻综合,http://stream2.jlntv.cn/naxw/sd/live.m3u8
-双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
-江源综合频道,http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
-靖宇综合频道,http://stream8.jlntv.cn/jytv/sd/live.m3u8
-敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
-珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8
-龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
-梅河口综合,http://stream4.jlntv.cn/mhk/sd/live.m3u8
-桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
-磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
-舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
-永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
-东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8
-东辽综合,http://stream5.jlntv.cn/dl/sd/live.m3u8
-双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
-前郭综合频道,http://stream2.jlntv.cn/qg/sd/live.m3u8
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
-集安综合频道,http://stream2.jlntv.cn/ja/sd/live.m3u8
-柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8
-通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
-汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 三國演義94年經典版,https://epg.pw/stream/d7846a50e034c40a597c8ff1faad8e88d01c0a7e6b7653636c818a4a27986d95.ctv
 三國演義【1994】,https://epg.pw/stream/d23271c5a6bb2a632d9cd82f6ad692e53d734e0bca0e0a8f4632fe4158cb83b7.ctv
 上海灘,https://epg.pw/stream/40679597c64e726e52fed9a81804fbb38c1c9ee9c75d2dd33d4409a41fbd80cb.ctv
