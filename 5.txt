@@ -882,7 +882,7 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 
 
 庆余年,https://ygbh--xingkongbujian.repl.co/huya/11352960
-庆余年,https://www.goodiptv.club/huya/11352960
+庆余年,https://www.goodiptv.club/huya/11352960(?cdn=AL)
 大染坊,https://www.goodiptv.club/huya/11602086
 雪豹,https://www.goodiptv.club/douyu/11863823
 征服,https://www.goodiptv.club/huya/11601970
