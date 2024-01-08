@@ -1070,6 +1070,10 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119&uid=2244059750
 地下交通站,http://mmitv.top/pltv/yy.php?id=1353428972&uid=2463800499
 隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619&uid=2338241617
+射雕英雄传,http://mmitv.top/pltv/yy.php?id=1354210357
+薛刚反唐,http://mmitv.top/pltv/yy.php?id=31313785
+神雕侠侣,http://mmitv.top/pltv/yy.php?id=1351762426
+西游记,http://mmitv.top/pltv/yy.php?id=1353392400
 张卫健版西游记,https://live.metshop.top/huya/23728660
 楚汉骄雄,https://live.metshop.top/huya/23740156
 鹿鼎记小春版,https://live.metshop.top/huya/23865080
@@ -1100,13 +1104,6 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 雍正帝王,http://epg.112114.xyz/douyu/9650836
 隋唐演义,http://epg.112114.xyz/douyu/7552568
 大宋神探,http://epg.112114.xyz/douyu/7784862
-射雕英雄传,http://mmitv.top/pltv/yy.php?id=1354210357
-薛刚反唐,http://mmitv.top/pltv/yy.php?id=31313785
-神雕侠侣,http://mmitv.top/pltv/yy.php?id=1351762426
-西游记,http://mmitv.top/pltv/yy.php?id=1353392400
-军旅电视剧,https://myvercel-iota.vercel.app/yy/1352575322
-票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
-热播剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8?key
 连续剧1,http://epg.112114.xyz/douyu/4549169
 连续剧2,http://epg.112114.xyz/douyu/7623292
 连续剧3,http://epg.112114.xyz/douyu/5689514
@@ -1409,7 +1406,7 @@ YY小品2,http://mmitv.top/pltv/yy.php?id=1354936198
 
 体育频道,#genre#
 
-WWE,https://www.goodiptv.club/huya/20971519
+WWE,http://43.138.170.29:35455/huya/20971519
 WWE,http://live.aptvapp.com/live/huya/20971519
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 足球1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
