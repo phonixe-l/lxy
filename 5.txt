@@ -525,16 +525,23 @@ CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=0
 
 吉林频道,#genre#
 
+
+吉视都市,http://125.32.116.75:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+吉视影视,http://125.32.116.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+吉视生活,http://125.32.116.75:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林综艺,http://125.32.116.75:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
-吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+长影频道,http://125.32.116.75:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
 长影频道,http://jltpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
 永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
+松原,http://125.32.116.75:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
@@ -874,7 +881,7 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 法国时尚,https://epg.pw/stream/68eb18ff5f1c9c6e1dcaf8dfe6dc821495b7b6cf36adc67501bfa0e24a4e1f98.m3u8
 法国时尚,http://89.248.160.57/iptv/RFPEEUQNURN7MN/4005/index.m3u8
 法国时尚,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/4005/index.m3u8
-
+星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 
 
@@ -1450,6 +1457,13 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
+卡酷少儿,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000002709/index.m3u8?channel-id=wasusyt&Contentid=6000000003000002709&livemode=1&stbId=3$1.8M SD
+金鹰卡通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000016791/index.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3$1.8M SD
+优漫卡通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000030492/index.m3u8?channel-id=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3$1.8M SD
+嘉佳卡通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000025508/index.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=3$1.8M SD
+黑莓动画,http://[2409:8087:7001:20:1000::95]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3$4M FHD
+动漫秀场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3$2M FHD
+动漫秀场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3$FHD
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
 爱玩具,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
@@ -5153,6 +5167,22 @@ HBO Family,http://208.115.225.174:14144
 
 测试,#genre#
 
+吉视都市,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=317
+吉视影视,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=352
+吉视生活,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=354
+吉林综艺,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=362
+吉林公共,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=358
+吉林乡村,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=356
+吉林戏曲,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=319
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$4M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000002898/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3$4M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$4M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3$4M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3$3.5M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3$3.5M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3$4M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3$4M FHD
+百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$4M FHD
 玫瑰轮播台,http://maomao.kandiantv.cn/m3u8.php?/migu/788816794
 热剧联播,http://maomao.kandiantv.cn/m3u8.php?/migu/629943613
 红色轮播台,http://maomao.kandiantv.cn/m3u8.php?/migu/713600957
