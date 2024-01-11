@@ -526,14 +526,14 @@ CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=0
 吉林频道,#genre#
 
 
+吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉视都市,http://125.32.116.75:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 吉视影视,http://125.32.116.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 吉视生活,http://125.32.116.75:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林综艺,http://125.32.116.75:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
-吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
-吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
-吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 长影频道,http://125.32.116.75:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
 长影频道,http://jltpc.x3322.net:9901/tsfile/live/1010_1.m3u8
@@ -5167,13 +5167,7 @@ HBO Family,http://208.115.225.174:14144
 
 测试,#genre#
 
-吉视都市,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=317
-吉视影视,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=352
-吉视生活,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=354
-吉林综艺,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=362
-吉林公共,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=358
-吉林乡村,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=356
-吉林戏曲,https://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=319
+
 百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$4M FHD
 百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000002898/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3$4M FHD
 百视通,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$4M FHD
