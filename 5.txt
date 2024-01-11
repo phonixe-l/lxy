@@ -537,6 +537,7 @@ CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=0
 东北戏曲,https://stream12.jlntv.cn/xqpdhd/sd/live.m3u8?_upt=d4588ca71704946843
 东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
 吉林综艺,https://stream13.jlntv.cn/zypdhd_sd/1704936200/1704939427976.ts?_upt=a8a437311704946627
+吉林生活,https://stream12.jlntv.cn/shpdhd/sd/live.m3u8?_upt=db2a65cf1704946969
 长影频道,http://125.32.116.75:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 长影频道,http://jltpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
