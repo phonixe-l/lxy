@@ -4978,10 +4978,12 @@ HBO Family,http://208.115.225.174:14144
 
 IPV6备用,#genre#
 
-https://stream13.jlntv.cn/zypdhd_sd/1704936200/1704939427976.ts?_upt=a8a437311704946627
+吉林综艺,https://stream13.jlntv.cn/zypdhd_sd/1704936200/1704939427976.ts?_upt=a8a437311704946627
+吉林生活,https://stream12.jlntv.cn/shpdhd/sd/live.m3u8?_upt=db2a65cf1704946969
+东北戏曲,https://stream12.jlntv.cn/xqpdhd/sd/live.m3u8?_upt=d4588ca71704946843
 吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098
 吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
-吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
+吉林生活1,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
 
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
