@@ -688,6 +688,7 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 
 轮播,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 庆余年,http://cfss.cc/cdn/hy/11352960.flv
+庆余年,https://live.freetv.top/douyu/7489563
 大染坊,http://cfss.cc/cdn/hy/11602086.flv
 雪豹,https://live.freetv.top/douyu/11863823
 征服,http://cfss.cc/cdn/hy/11601970.flv
