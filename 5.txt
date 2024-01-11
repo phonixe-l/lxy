@@ -1320,28 +1320,16 @@ YY电影8,http://mmitv.top/pltv/yy.php?id=24066336
 
 
 
-
-
-
 体育频道,#genre#
 
-WWE,http://43.138.170.29:35455/huya/20971519
+
 WWE,http://cfss.cc/cdn/hy/20971519.flv
+WWE,http://43.138.170.29:35455/huya/20971519
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-足球1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-足球2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-足球3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-足球4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw2171676545_-681351191/ott.mobaibox.com/PLTV/3/224/3221227522/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-五星体育,http://49.235.110.121:9090/898/peda/bestv.php?id=wxty
-劲爆体育,http://49.235.110.121:9090/898/peda/bestv.php?id=jbty
-魅力足球,http://49.235.110.121:9090/898/peda/bestv.php?id=mlzq
-风云足球,http://111.20.40.162/PLTV/88888893/224/3221226984/index.m3u8
-央视台球,http://111.20.40.162/PLTV/88888893/224/3221226956/index.m3u8
-网球高尔夫,http://111.20.40.164/PLTV/88888893/224/3221226978/index.m3u8
-快乐垂钓,http://49.235.110.121:9090/898/peda/bestv.php?id=klcd
-四海钓鱼,http://49.235.110.121:9090/898/peda/小果.php?id=shdy_4000
-先锋乒羽,http://49.235.110.121:9090/898/peda/小果.php?id=xfpy_4000
 辽宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
@@ -1355,21 +1343,10 @@ AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://skycw.vicp.net:4022/udp/238.1.79.41:4440
 安徽体育,http://321257.cn:8888/udp/238.1.79.41:4440
-山东体育,http://60.208.44.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,rtmp://9wv7.mine.nu/sat/tv721
-纬来体育,rtmp://219.80.97.77/sat/tv721
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 24小时体育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
 BRTV体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-杭州体育,https://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-精品体育,http://111.40.196.37:443/PLTV/88888888/224/3221225608/1.m3u8
-欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
 天空体育 德甲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
 Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
 MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 BT 体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
@@ -1379,7 +1356,6 @@ Bein体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
 FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 澳视体育,http://61.244.22.5/ch4/sport_ch4.live/chunklist_w1501922041.m3u8
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-深圳体育健康,http://jh.d7g.cn/sztv.php?id=sztyjk
 深圳体育健康,http://113.117.74.12:8081/hls/70/index.m3u8
 
 
@@ -4117,6 +4093,14 @@ wugltest,https://live.freetv.top/douyu/1844872
 
 MTV-演唱会,#genre#
 
+经典老歌,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+抖音歌曲连唱1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
+抖音歌曲连唱2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
+抖音歌曲连唱3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4bb7bjc77u3qo5vuu10&ratio=720p&line=0
 烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257647.mp4
@@ -4220,10 +4204,6 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 云朵_天上的云儿,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnO_a4gUoiNWDoAc.mp4
 一曲相思.门丽龙飞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4oDG4gUo69_8zAQ.mp4
 叶倩文-我的爱对你说,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
-怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
-经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
-怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 新年大吉(群星）,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
 香水有毒_桂莹莹,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg99vx9wUoxorauAE.mp4
 陷阱,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh7GM5gUowOmHhwM.mp4
@@ -4384,10 +4364,6 @@ BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc
 孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-
 我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
-经典老歌,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
-抖音歌曲连唱1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
-抖音歌曲连唱2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
-抖音歌曲连唱3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4bb7bjc77u3qo5vuu10&ratio=720p&line=0
 毛不易-不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
 蔡丽津月圆情,http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
