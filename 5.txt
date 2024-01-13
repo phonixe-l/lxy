@@ -4770,8 +4770,6 @@ SiTV欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653
 纯享4KHDR,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-2135022099/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1674373571&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1527557465_-1431215922/ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8?icpid=3&RTS=1674385937&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1750497522_339657307/ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
@@ -5113,48 +5111,3 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 
 
-
-Asian Porn,https://live.adultiptv.net/asian.m3u8
-JStar极限台,mitv://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
-JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
-彩虹e,mitv://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
-彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹电影,mitv://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
-彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹K,mitv://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
-彩虹K,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
-彩虹K,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-彩虹K,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-LOOK,mitv://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-LOOK,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-LOOK,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-LOOK,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
-幻灯片电影,mitv://4506/6260e2b000004933172c99712568d815
-幻灯片电影,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815
-惊艳,mitv://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-惊艳,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-潘多拉完美,mitv://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
-潘多拉完美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-潘多拉完美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-松视1,mitv://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
-松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松视2,mitv://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
-松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视3,mitv://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
-松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-PLAYBOY,mitv://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
-PLAYBOY,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
-PLAYBOY,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY,mitv://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-HAPPY,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-HAPPY,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-香蕉台,mitv://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
