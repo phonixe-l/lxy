@@ -687,7 +687,7 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 
 轮播,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 庆余年,http://cfss.cc/cdn/hy/11352960.flv
-庆余年,https://live.freetv.top/douyu/7489563
+庆余年,http://cfss.cc/cdn/dyu/7489563.flv
 大染坊,http://cfss.cc/cdn/hy/11602086.flv
 雪豹,https://live.freetv.top/douyu/11863823
 征服,http://cfss.cc/cdn/hy/11601970.flv
@@ -696,7 +696,8 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
 我是特种兵利刃出鞘,http://mmitv.top/pltv/yy.php?id=1354127609
 特种兵之火凤凰,http://mmitv.top/pltv/yy.php?id=1356326459
-芈月传,http://cfss.cc/cdn/hy/11352975.flv
+雪中悍刀行,http://cfss.cc/cdn/hy/11336592.flv
+康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
 武林外传,http://mmitv.top/pltv/yy.php?id=21092633
 狂飙,http://mmitv.top/pltv/yy.php?id=1382754187
 狂飙,http://mmitv.top/pltv/yy.php?id=1354790484
@@ -1160,17 +1161,16 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_145
 熊出没之探险日记,http://mmitv.top/pltv/yy.php?id=1354930977
 萌鸡小队,http://mmitv.top/pltv/yy.php?id=1382736904
 熊仔之正义守护,http://mmitv.top/pltv/yy.php?id=1382736836
+哆啦A梦,http://cfss.cc/cdn/dyu/11602067.flv
+茶啊二中,http://cfss.cc/cdn/dyu/2925610.flv
+樱桃小丸子,http://cfss.cc/cdn/dyu/11342394.flv
 开心锤锤,http://epg.112114.xyz/douyu/9018297
 海绵宝宝,http://cfss.cc/cdn/hy/huya/11352919.flv
-茶啊二中,http://cfss.cc/cdn/dyu/2925610.flv
-猫和老鼠,http://epg.112114.xyz/douyu/7888428
-柯南,http://epg.112114.xyz/douyu/6484910
-柯南,http://epg.112114.xyz/douyu/5377297
-柯南,http://epg.112114.xyz/douyu/1783144
-舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
-最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
-记录你的王者峡谷生活,http://epg.112114.xyz/douyu/9360149
-中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
+猫和老鼠,http://cfss.cc/cdn/dyu/7888428.flv
+名侦探柯南,http://cfss.cc/cdn/dyu/6484910.flv
+名侦探柯南,http://cfss.cc/cdn/dyu/1783144.flv
+记录你的王者峡谷生活,http://cfss.cc/cdn/dyu/9360149.flv
+中二日记搞笑日常更新,http://cfss.cc/cdn/dyu/9505575.flv
 棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 熊出没变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
@@ -1431,6 +1431,32 @@ iHOT系列,#genre#
 埋堆堆17,http://cfss.cc/cdn/hy/23734223.flv
 埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv
 埋堆堆19,http://cfss.cc/cdn/hy/23728674.flv
+张卫健版西游记,http://cfss.cc/cdn/hy/23728660.flv
+楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
+鹿鼎记小春版,http://cfss.cc/cdn/hy/23865080.flv
+天龙八部97版,http://cfss.cc/cdn/hy/23903123.flv
+刑事侦缉档案,http://cfss.cc/cdn/hy/23734169.flv
+寻秦记,http://cfss.cc/cdn/hy/23864973.flv
+法证先锋,http://cfss.cc/cdn/hy/23863804.flv
+陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
+笑傲江湖,http://cfss.cc/cdn/hy/23865142.flv
+洗冤录,http://cfss.cc/cdn/hy/23903130.flv
+倚天屠龙记,http://cfss.cc/cdn/hy/23734246.flv
+神雕侠侣,http://cfss.cc/cdn/hy/23865171.flv
+鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
+创世纪,http://cfss.cc/cdn/hy/23749083.flv
+使徒行者,http://cfss.cc/cdn/hy/23734256.flv
+金枝欲孽,http://cfss.cc/cdn/hy/23865036.flv
+大唐双龙传,http://cfss.cc/cdn/hy/23728674.flv
+妙手仁心,http://cfss.cc/cdn/hy/23829543.flv
+扫黄先锋,http://cfss.cc/cdn/hy/23903196.flv
+笑看风云,http://cfss.cc/cdn/hy/23865058.flv
+大时代,http://cfss.cc/cdn/hy/23865161.flv
+梁朝伟版鹿鼎记,http://cfss.cc/cdn/hy/23734183.flv
+野蛮亲家血腥对线,http://cfss.cc/cdn/hy/23863796.flv
+射雕之九阴真经,http://cfss.cc/cdn/hy/23824164.flv
+张卫健版西游记,http://cfss.cc/cdn/hy/23728660.flv
+楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
 
 
 
@@ -1447,23 +1473,7 @@ iHOT系列,#genre#
 百视通9,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$4M FHD
 
 
-纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3
-欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-茶友频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
-快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
-金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+
 
 
 
@@ -1531,6 +1541,24 @@ IPTV收视指南,http://58.252.12.164:8000/udp/239.77.0.111:5146
 热剧联播,http://maomao.kandiantv.cn/m3u8.php?/migu/629943613
 红色轮播台,http://maomao.kandiantv.cn/m3u8.php?/migu/713600957
 最强综艺趴,http://maomao.kandiantv.cn/m3u8.php?/migu/629942228
+纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
+东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
+上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
+上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
+都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3
+欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
+七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
+茶友频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+
 
 
 YY频道,#genre#
