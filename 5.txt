@@ -1162,6 +1162,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_145
 熊仔之正义守护,http://mmitv.top/pltv/yy.php?id=1382736836
 开心锤锤,http://epg.112114.xyz/douyu/9018297
 海绵宝宝,http://cfss.cc/cdn/hy/huya/11352919.flv
+茶啊二中,http://cfss.cc/cdn/dyu/2925610.flv
 猫和老鼠,http://epg.112114.xyz/douyu/7888428
 柯南,http://epg.112114.xyz/douyu/6484910
 柯南,http://epg.112114.xyz/douyu/5377297
@@ -1971,7 +1972,6 @@ YY频道,#genre#
 松轩说电影,http://cfss.cc/cdn/hy/21649307.flv
 熊宝乖伤哒,http://cfss.cc/cdn/hy/132752.flv
 依依妹妹在等你,http://cfss.cc/cdn/hy/138531.flv
-周星星,http://cfss.cc/cdn/hy/11342412.flv
 DD-一丽,http://cfss.cc/cdn/hy/28755743.flv
 阿斗归来了,http://cfss.cc/cdn/hy/13303478.flv
 芦苇微微的弟子,http://cfss.cc/cdn/hy/21059558.flv
