@@ -1155,12 +1155,11 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_145
 熊出没,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 熊出没之探险日记,http://mmitv.top/pltv/yy.php?id=1354930977
 萌鸡小队,http://mmitv.top/pltv/yy.php?id=1382736904
-熊仔之正义守护,http://mmitv.top/pltv/yy.php?id=1382736836
-哆啦A梦,http://cfss.cc/cdn/dyu/11602067.flv
+哆啦A梦,http://cfss.cc/cdn/hy/11602067.flv
 茶啊二中,http://cfss.cc/cdn/dyu/2925610.flv
-樱桃小丸子,http://cfss.cc/cdn/dyu/11342394.flv
+樱桃小丸子,http://cfss.cc/cdn/hy/11342394.flv
 开心锤锤,http://epg.112114.xyz/douyu/9018297
-海绵宝宝,http://cfss.cc/cdn/hy/huya/11352919.flv
+海绵宝宝,http://cfss.cc/cdn/hy/11352919.flv
 猫和老鼠,http://cfss.cc/cdn/dyu/7888428.flv
 名侦探柯南,http://cfss.cc/cdn/dyu/6484910.flv
 名侦探柯南,http://cfss.cc/cdn/dyu/1783144.flv
