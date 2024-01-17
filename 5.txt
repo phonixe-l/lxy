@@ -690,6 +690,7 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
 我是特种兵利刃出鞘,http://mmitv.top/pltv/yy.php?id=1354127609
+特种兵之火凤凰,http://mmitv.top/pltv/yy.php?id=1463088777
 特种兵之火凤凰,http://mmitv.top/pltv/yy.php?id=1356326459
 雪中悍刀行,http://cfss.cc/cdn/hy/11336592.flv
 康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
@@ -1161,6 +1162,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_145
 开心锤锤,http://epg.112114.xyz/douyu/9018297
 海绵宝宝,http://cfss.cc/cdn/hy/11352919.flv
 猫和老鼠,http://cfss.cc/cdn/dyu/7888428.flv
+灌篮高手,http://mmitv.top/pltv/yy.php?id=1350984033
 名侦探柯南,http://cfss.cc/cdn/dyu/6484910.flv
 名侦探柯南,http://cfss.cc/cdn/dyu/1783144.flv
 记录你的王者峡谷生活,http://cfss.cc/cdn/dyu/9360149.flv
@@ -1929,7 +1931,6 @@ YY频道,#genre#
 霸道总裁爱上女秘书,http://mmitv.top/pltv/yy.php?id=1354936167
 新三国,http://mmitv.top/pltv/yy.php?id=23206872
 娘亲舅大,http://mmitv.top/pltv/yy.php?id=1354932360
-娘亲舅大,http://mmitv.top/pltv/yy.php?id=1354932360
 嫦娥,http://mmitv.top/pltv/yy.php?id=1354658064
 扫黑剧联播,http://mmitv.top/pltv/yy.php?id=1354932707
 功夫婆媳-家庭剧,http://mmitv.top/pltv/yy.php?id=1382736883
@@ -1977,6 +1978,14 @@ YY频道,#genre#
 欢乐颂,http://mmitv.top/pltv/yy.php?id=1354585252
 狂飙,http://mmitv.top/pltv/yy.php?id=1456656209
 雪中悍刀行,http://mmitv.top/pltv/yy.php?id=1458558991
+法外风云,http://mmitv.top/pltv/yy.php?id=1382736805
+来自星星的你,http://mmitv.top/pltv/yy.php?id=1354930976
+无罪推定—经典律政港剧,http://mmitv.top/pltv/yy.php?id=1354936203
+怪医文三块-影视剧,http://mmitv.top/pltv/yy.php?id=1354936154
+机动步队,http://mmitv.top/pltv/yy.php?id=1354932371
+中国合伙人,http://mmitv.top/pltv/yy.php?id=1354658051
+白鹿原,http://mmitv.top/pltv/yy.php?id=1354931488
+俺娘田小草,http://mmitv.top/pltv/yy.php?id=1382741638
 
 
 
