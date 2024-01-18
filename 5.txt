@@ -681,6 +681,7 @@ RTHK32,https://epg.pw/stream/ae1fbd315940e4755086ecd9d225627014a3a8a0fee02930c1d
 雪中悍刀行,http://cfss.cc/cdn/hy/11336592.flv
 康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
 武林外传,http://mmitv.top/pltv/yy.php?id=21092633
+武林外传动画版,http://cfss.cc/cdn/hy/25749066.flv
 狂飙,http://mmitv.top/pltv/yy.php?id=1382754187
 狂飙,http://mmitv.top/pltv/yy.php?id=1354790484
 鹿鼎记,http://mmitv.top/pltv/yy.php?id=28265277
