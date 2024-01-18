@@ -1518,28 +1518,29 @@ IPTV热播剧场,http://58.252.12.164:8000/udp/239.77.1.90:5146
 IPTV少儿动画,http://58.252.12.164:8000/udp/239.77.0.109:5146
 IPTV少儿动画,http://58.252.12.164:8000/udp/239.77.1.91:5146
 IPTV收视指南,http://58.252.12.164:8000/udp/239.77.0.111:5146
-玫瑰轮播台,http://maomao.kandiantv.cn/m3u8.php?/migu/788816794
-热剧联播,http://maomao.kandiantv.cn/m3u8.php?/migu/629943613
-红色轮播台,http://maomao.kandiantv.cn/m3u8.php?/migu/713600957
-最强综艺趴,http://maomao.kandiantv.cn/m3u8.php?/migu/629942228
-纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3
-欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-茶友频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
-快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
-金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-
+欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
+热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
+足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 
 
 YY频道,#genre#
@@ -5121,7 +5122,23 @@ CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-
+纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
+东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
+上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
+上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
+都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3
+欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
+七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
+茶友频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 
 
 内部测试_147258,#genre#
