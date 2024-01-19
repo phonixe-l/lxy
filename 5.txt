@@ -319,10 +319,12 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林乡村,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林都市,http://125.32.116.75:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林影视,http://125.32.116.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林生活,http://125.32.116.75:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林综艺,http://125.32.116.75:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8
 东北戏曲,http://stream12.jlntv.cn/xqpdhd/playlist.m3u8?_upt=8d94fec21705635320
 东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
 吉林都市,http://stream12.jlntv.cn/dspdhd/playlist.m3u8?_upt=efc65ea21705561886
@@ -508,7 +510,9 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 民视第一台,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
 民视台湾台,mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
 八大优频道,mitv://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
-
+FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8?live_suff
+FashionTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 
 电视剧轮播,#genre#
