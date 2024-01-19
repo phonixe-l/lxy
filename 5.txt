@@ -323,10 +323,10 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 吉林影视,http://125.32.116.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林生活,http://125.32.116.75:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林综艺,http://125.32.116.75:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-东北戏曲,http://stream12.jlntv.cn/xqpdhd/playlist.m3u8?_upt=a1daa1fd1705561252
+东北戏曲,http://stream12.jlntv.cn/xqpdhd/playlist.m3u8?_upt=8d94fec21705635320
 东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
 吉林都市,http://stream12.jlntv.cn/dspdhd/playlist.m3u8?_upt=efc65ea21705561886
-吉林综艺,http://stream13.jlntv.cn/zypdhd/playlist.m3u8?_upt=ff1f43d81705561403
+吉林综艺,http://stream13.jlntv.cn/zypdhd/playlist.m3u8?_upt=06c332921705634917
 吉林生活,http://stream12.jlntv.cn/shpdhd/playlist.m3u8?_upt=f1bcb0b01705561520
 吉林乡村,http://stream13.jlntv.cn/xcpdhd/playlist.m3u8?_upt=8c6914a61705561515
 吉林公共,http://stream12.jlntv.cn/dspdhd/playlist.m3u8?_upt=efc65ea21705561886
