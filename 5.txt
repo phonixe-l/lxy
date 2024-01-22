@@ -333,6 +333,8 @@ CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 吉林乡村,http://nas.tuyuannet.cn:8800/rtp/239.37.0.105:5540
 吉林综艺,http://nas.tuyuannet.cn:8800/rtp/239.37.0.107:5540
 东北戏曲,http://nas.tuyuannet.cn:8800/rtp/239.37.0.109:5540
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.212:5540
+吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.216:5540
 长影频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540
 吉林教育,http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540
 长影频道,http://125.32.116.75:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -4639,17 +4641,7 @@ HBO Family,http://208.115.225.174:14144
 
 IPV6备用,#genre#
 
-吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.205:5540
-吉林篮球1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.206:5540
-吉林篮球2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.207:5540
-吉林篮球3,http://nas.tuyuannet.cn:8800/rtp/239.37.0.208:5540
-吉林篮球4,http://nas.tuyuannet.cn:8800/rtp/239.37.0.209:5540
-吉林篮球5,http://nas.tuyuannet.cn:8800/rtp/239.37.0.210:5540
-吉林篮球6,http://nas.tuyuannet.cn:8800/rtp/239.37.0.211:5540
-吉智聚视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.212:5540
-吉林篮球7,http://nas.tuyuannet.cn:8800/rtp/239.37.0.213:5540
-吉林篮球8,http://nas.tuyuannet.cn:8800/rtp/239.37.0.214:5540
-吉林篮球9,http://nas.tuyuannet.cn:8800/rtp/239.37.0.216:5540
+
 
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
