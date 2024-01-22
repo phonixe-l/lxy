@@ -4997,6 +4997,19 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 
+吉林都市[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.102:5540
+吉林生活[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.104:5540
+吉林影视[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.103:5540
+吉林公共新闻[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.106:5540
+吉林乡村[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.105:5540
+吉林7频道[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.107:5540
+吉林篮球[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.108:5540
+东北戏曲[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.109:5540
+长影频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540
+吉林教育[785*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540
+**公共[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540
+**科教[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540
+**新闻综合[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
 
 内部测试_147258,#genre#
 
