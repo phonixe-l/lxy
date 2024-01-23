@@ -519,9 +519,6 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 八大优频道,mitv://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8?live_suff
-FashionTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 
 电视剧轮播,#genre#
@@ -753,7 +750,6 @@ YY電影-歐美科幻,http://mmitv.top/pltv/yy.php?id=37988782
 YY電影-歐美動作電影,http://mmitv.top/pltv/yy.php?id=1382745089
 YY影视,http://mmitv.top/pltv/yy.php?id=1382702247
 YY经典怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
-武侠玄幻,http://mmitv.top/pltv/yy.php?id=28099939
 YY电影1,http://mmitv.top/pltv/yy.php?id=1382749892
 YY电影2,http://mmitv.top/pltv/yy.php?id=1382735573
 YY电影3,http://mmitv.top/pltv/yy.php?id=24921161
@@ -847,8 +843,6 @@ YY电影8,http://mmitv.top/pltv/yy.php?id=24066336
 电影,http://159.75.85.63:35455/huya/11602058
 国产影片,http://epg.112114.xyz/douyu/5423
 女神金电影,http://epg.112114.xyz/douyu/747764
-小宇60帧,http://epg.112114.xyz/douyu/323876
-怀旧90,http://epg.112114.xyz/douyu/9275635
 变种人电影,http://epg.112114.xyz/douyu/9651304
 华语动作电影,http://epg.112114.xyz/douyu/1504768
 周末影院,http://epg.112114.xyz/douyu/3637765
@@ -960,10 +954,9 @@ YY电影8,http://mmitv.top/pltv/yy.php?id=24066336
 
 WWE,http://cfss.cc/cdn/hy/20971519.flv
 WWE,http://43.138.170.29:35455/huya/20971519
-WWE1,http://111.62.156.15/tx.flv.huya.com/src/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.flv?wsSecret=b795ac6b85c5853bf183ed1ceedd7bb5&wsTime=6283a6bd&u=0&seqid=16527086693872330&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&t=102
-WWE2,http://111.62.156.15/tx.flv.huya.com/src/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.flv?wsSecret=1cadb91cce68eab51800fe601bc8aa7b&wsTime=6283a6bf&u=0&seqid=16527086712487320&ctype=tars_mp&txyp=o%3Azzeic3lt1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&t=102
-WWE,http://111.62.156.15/tx.flv.huya.com/src/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.flv?wsSecret=f1c86a08cf2f5bbc53064326d93280a1&wsTime=6283a6c0&u=0&seqid=16527086725405670&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
-WWE3,http://111.62.156.15/tx.flv.huya.com/src/1099531627783-1099531627783-85899375984771072-2199063379022-10057-A-0-1.flv?wsSecret=685901f8504938a0cff7d9c4ad00074e&wsTime=6283a6c3&u=0&seqid=16527086752792410&ctype=tars_mp&fs=bgct&t=102
+WWE1,http://cfss.cc/cdn/hy/16619834.flv
+WWE2,http://cfss.cc/cdn/hy/119197457.flv
+WWE3,http://cfss.cc/cdn/hy/25282744.flv
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw2171676545_-681351191/ott.mobaibox.com/PLTV/3/224/3221227522/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
