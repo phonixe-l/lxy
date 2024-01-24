@@ -1345,7 +1345,7 @@ iHOT系列,#genre#
 
 
 
-IPTV,#genre#
+数字频道,#genre#
 
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
