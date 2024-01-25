@@ -1225,15 +1225,13 @@ iHOT系列,#genre#
 咪咕直播-54,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播-55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播-56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-咪咕怀旧剧场 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1562418169_1306835337/ott.mobaibox.com/PLTV/3/224/3221228120/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 咪咕视频一,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw336476395_712885226/ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 咪咕视频二,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1562554036_-2064141468/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 咪咕视频三,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 咪咕视频四,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1758408081_1139282982/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8?icpid=3&RTS=1674386168&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 咪咕视频五,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw335987399_819129170/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 咪咕视频六,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw336300127_-934579930/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-咪咕视频七,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw359257769_1895127265/ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?icpid=3&RTS=1674380474&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+
 
 
 
@@ -1394,6 +1392,10 @@ IPTV收视指南,http://58.252.12.164:8000/udp/239.77.0.111:5146
 法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
+
+
 
 
 YY频道,#genre#
@@ -4668,11 +4670,12 @@ HBO Family,http://208.115.225.174:14144
 IPV6备用,#genre#
 
 
+
+SiTV欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653121614_498192706/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1674379473&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw3324980988_-41690276/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?icpid=3&RTS=1674379145&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-SiTV欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653121614_498192706/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1674379473&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3027752919_-1874130277/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1674378848&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443769612_-1188450915/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8?icpid=3&RTS=1674369674&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec27_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
@@ -5042,4 +5045,17 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 香蕉台,P2p://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
 松视3台,P2p://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
 JStar极限台,P2p://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
+潘多拉完美,p3p://108.181.20.159:70050/5fe4450c000c918b829fca233c845311
+香蕉,p3p://108.181.20.159:70050/60626a760005067e6f5bbecb5816771e
+松视1,p3p://108.181.20.159:70050/5fe445280008a40682a0367c343436bb
+松视2,p3p://108.181.20.159:70050/60232b5f00007bc37850649979e379df
+松视3,p3p://108.181.20.159:70050/6109e9590001f40bfd9b661109395f3b
+惊艳,p3p://108.181.20.159:70050/60626a1b00010e3e6f5a5a4f018e5ebe
+LOOK,p3p://108.181.20.159:70050/606271190002a1266f75aaee0463186a
+HAPPY,p3p://108.181.20.159:70050/616b79be000a35b17ab2f7b84c325eeb
+彩虹e,p3p://108.181.20.159:70050/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://108.181.20.159:70050/63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,p3p://108.181.20.159:70050/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://108.181.20.159:70050/63fd589300099ff426db7203798a21f9
+极限电影,p3p://108.181.20.159:70050/6109e9bb0005fd87fd9ce5ea2c1f18d3
 
