@@ -1369,31 +1369,6 @@ IPTV热播剧场,http://58.252.12.164:8000/udp/239.77.1.90:5146
 IPTV少儿动画,http://58.252.12.164:8000/udp/239.77.0.109:5146
 IPTV少儿动画,http://58.252.12.164:8000/udp/239.77.1.91:5146
 IPTV收视指南,http://58.252.12.164:8000/udp/239.77.0.111:5146
-欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
 
 
 
@@ -5038,24 +5013,18 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 内部测试_147258,#genre#
 
-彩虹e台,P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
-彩虹电影台,P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
-松视1台,P2p://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
-松视2台,P2p://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
-香蕉台,P2p://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
-松视3台,P2p://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
-JStar极限台,P2p://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
-潘多拉完美,p3p://108.181.20.159:70050/5fe4450c000c918b829fca233c845311
-香蕉,p3p://108.181.20.159:70050/60626a760005067e6f5bbecb5816771e
-松视1,p3p://108.181.20.159:70050/5fe445280008a40682a0367c343436bb
-松视2,p3p://108.181.20.159:70050/60232b5f00007bc37850649979e379df
-松视3,p3p://108.181.20.159:70050/6109e9590001f40bfd9b661109395f3b
-惊艳,p3p://108.181.20.159:70050/60626a1b00010e3e6f5a5a4f018e5ebe
-LOOK,p3p://108.181.20.159:70050/606271190002a1266f75aaee0463186a
-HAPPY,p3p://108.181.20.159:70050/616b79be000a35b17ab2f7b84c325eeb
-彩虹e,p3p://108.181.20.159:70050/6062716c0008efc86f76f0c44d55329f
-彩虹K,p3p://108.181.20.159:70050/63fd56ec000b5f0d26d4fe1b07963493
-彩虹电影,p3p://108.181.20.159:70050/6253066c00049259f74b05224cf375e6
-彩虹频道,p3p://108.181.20.159:70050/63fd589300099ff426db7203798a21f9
-极限电影,p3p://108.181.20.159:70050/6109e9bb0005fd87fd9ce5ea2c1f18d3
+
+潘多拉完美,p3p://108.181.20.159:74039/5fe4450c000c918b829fca233c845311
+香蕉,p3p://108.181.20.159:74039/60626a760005067e6f5bbecb5816771e
+松视1,p3p://108.181.20.159:74039/5fe445280008a40682a0367c343436bb
+松视2,p3p://108.181.20.159:74039/60232b5f00007bc37850649979e379df
+松视3,p3p://108.181.20.159:74039/6109e9590001f40bfd9b661109395f3b
+惊艳,p3p://108.181.20.159:74039/60626a1b00010e3e6f5a5a4f018e5ebe
+LOOK,p3p://108.181.20.159:74039/606271190002a1266f75aaee0463186a
+HAPPY,p3p://108.181.20.159:74039/616b79be000a35b17ab2f7b84c325eeb
+彩虹e,p3p://108.181.20.159:74039/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://108.181.20.159:74039/63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,p3p://108.181.20.159:74039/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://108.181.20.159:74039/63fd589300099ff426db7203798a21f9
+极限电影,p3p://108.181.20.159:74039/6109e9bb0005fd87fd9ce5ea2c1f18d3
 
