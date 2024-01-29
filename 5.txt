@@ -339,6 +339,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3
 港澳台,#genre#
 
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
 中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
@@ -496,7 +497,7 @@ TVB翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
 美亚电影台,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-
+星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
 电视剧轮播,#genre#
 
@@ -897,9 +898,10 @@ WWE,http://43.138.170.29:35455/huya/20971519
 WWE1,http://cfss.cc/cdn/hy/16619834.flv
 WWE2,http://cfss.cc/cdn/hy/119197457.flv
 WWE3,http://cfss.cc/cdn/hy/19197457.flv
-CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw2171676545_-681351191/ott.mobaibox.com/PLTV/3/224/3221227522/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+CCTV5,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV16,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 魅力足球,http://hls.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
@@ -950,13 +952,6 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_145
 名侦探柯南,http://cfss.cc/cdn/dyu/1783144.flv
 记录你的王者峡谷生活,http://cfss.cc/cdn/dyu/9360149.flv
 中二日记搞笑日常更新,http://cfss.cc/cdn/dyu/9505575.flv
-棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-熊出没变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-大卫贝肯倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-昆塔反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 
 
@@ -4570,6 +4565,23 @@ HBO Family,http://208.115.225.174:14144
 IPV6备用,#genre#
 
 
+凤凰中文,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_FENGHUANGZHONGWEN/G_FENGHUANGZHONGWEN.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231022/1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?
+凤凰中文,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰资讯,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_FENGHUANGZIXUN/G_FENGHUANGZIXUN.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221231003/1.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 SiTV欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653121614_498192706/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1674379473&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
@@ -4968,3 +4980,15 @@ HAPPY,p3p://108.181.20.159:74055/616b79be000a35b17ab2f7b84c325eeb
 极限电影,p3p://108.181.20.159:74055/6109e9bb0005fd87fd9ce5ea2c1f18d3
 
 
+松視1台,https://2.ddyunbo.com/20190914/dSIYelxz/index.m3u8
+松視2台,https://2.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
+松視3台,https://2.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
+潘朵啦粉紅台,https://2.ddyunbo.com/20190908/qvYslaAx/index.m3u8
+香蕉台,https://2.ddyunbo.com/20190908/ETghLd5D/index.m3u8
+彩虹電影台,https://2.ddyunbo.com/20190908/nvueB1Az/index.m3u8
+PLAYBOY,https://2.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
+驚艷成人電影台,https://2.ddyunbo.com/20190914/TFWmOomT/index.m3u8
+彩虹e台,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
+JStar極限台,https://2.ddyunbo.com/20190918/7mkn1AhN/index.m3u8
+
+随机,http://dang.coms.ee/提取.php
