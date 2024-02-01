@@ -961,8 +961,7 @@ CCTV16,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/
 名侦探柯南,http://cfss.cc/cdn/dyu/1783144.flv
 记录你的王者峡谷生活,http://cfss.cc/cdn/dyu/9360149.flv
 中二日记搞笑日常更新,http://cfss.cc/cdn/dyu/9505575.flv
-青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+
 
 
 
@@ -1293,10 +1292,6 @@ iHOT系列,#genre#
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 财富天下,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
-星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
 睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
