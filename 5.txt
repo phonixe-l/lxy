@@ -268,7 +268,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林乡村,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
-东北戏曲,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
+吉林都市,http://61.138.167.36:9901/tsfile/live/1002_1.m3u8
 吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
 吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
 吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8
@@ -1293,10 +1293,6 @@ iHOT系列,#genre#
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 财富天下,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
-淘电影,http://[2409:8087:2:1::38]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKeBjD+fZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng==,,END
-淘剧场,http://[2409:8087:2:1::26]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND&IASHttpSessionId=RR1534320231216130510949952
-淘娱乐,http://[2409:8087:2:1::45]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBOtChdQBj46BMs/mbjOB0PZw==,,END&IASHttpSessionId=RR1536620231216131550953904
-淘BABY,http://[2409:8087:2:1::36]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBOBGhARyizMEPlAOe9nM1b5Q==,,END
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
 睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
@@ -4977,37 +4973,6 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 内部测试_147258,#genre#
 
-香蕉台,p3p://108.181.20.159:9477/60626a760005067e6f5bbecb5816771e
-松视1台,p3p://108.181.20.159:9477/5fe445280008a40682a0367c343436bb
-松视2台,p3p://108.181.20.159:9477/60232b5f00007bc37850649979e379df
-松视3台,mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
-IBIZA台,p3p://108.181.20.159:9477/6109e9590001f40bfd9b661109395f3b
-惊艳台,p3p://108.181.20.159:9477/60626a1b00010e3e6f5a5a4f018e5ebe
-LOOK台,p3p://108.181.20.159:9477/606271190002a1266f75aaee0463186a
-彩虹e台,p3p://108.181.20.159:9477/6062716c0008efc86f76f0c44d55329f
-彩虹K台,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
-国内AV台,p3p://108.181.20.159:9477/63fd56ec000b5f0d26d4fe1b07963493
-彩虹电影台,p3p://108.181.20.159:9477/6253066c00049259f74b05224cf375e6
-彩虹频道台,p3p://108.181.20.159:9477/63fd589300099ff426db7203798a21f9
-极限电影台,p3p://108.181.20.159:9477/6109e9bb0005fd87fd9ce5ea2c1f18d3
 
-彩虹e台,mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
-彩虹电影台,mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
-LOOK台,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
-潘朵拉完美台,mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
-惊艳成人电影台,mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
-香蕉台,mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-松视1台,mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-松视2台,mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-HAPPY台,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-JStar极限台,mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
-
-松视1,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
-玩美台,http://live.redtraffic.xyz:80/pov.m3u8
-限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-
-JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
-JStar极限台,mitv://135.148.104.228:19806/a55acb84487242d882b0b53dd110b845
 
 随机,http://dang.coms.ee/提取.php
