@@ -1280,6 +1280,26 @@ iHOT系列,#genre#
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 财富天下,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+
+淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
+淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
+淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
+淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
+淘BABY,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
+淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
+萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
+淘BABY,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
+淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
+淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
+淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
+
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
 睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
@@ -1296,6 +1316,7 @@ iHOT系列,#genre#
 睛彩羽毛球,http://home.zts1993.com:8887/udp/233.50.202.28:5140
 睛彩广场舞,http://home.zts1993.com:8887/udp/233.50.201.226:5140
 睛彩广场舞,http://home.zts1993.com:8887/udp/233.50.202.29:5140
+
 
 
 
@@ -4588,39 +4609,7 @@ IPV6备用,#genre#
 凤凰资讯,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-SiTV乐游 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw1554068832_-103623048/ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8?icpid=3&RTS=1674385964&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-SiTV动漫秀场 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw2176555154_1254821100/ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8?icpid=3&RTS=1674386586&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-SiTV游戏风云 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1933215962_-1472477943/ott.mobaibox.com/PLTV/3/224/3221227713/index.m3u8?icpid=3&RTS=1674386343&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-SiTV生活时尚 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2056154679_-1106666296/ott.mobaibox.com/PLTV/3/224/3221227707/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-SiTV都市剧场 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1933516814_1869702559/ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8?icpid=3&RTS=1674386343&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-Hot风尚音乐,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000004/index.m3u8?channel-#http://[2409:8087:7000:20:1000::22]:6060/000000001000/5529729098703832176/index.m3u8?channel-
-Hot精品剧场,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000002/index.m3u8?channel-#http://[2409:8087:7000:20:1000::22]:6060/000000001000/8230197131234717902/index.m3u8?channel-
-Hot欧美影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000005/index.m3u8?channel-#http://[2409:8087:7000:20:1000::22]:6060/000000001000/7185203501769528108/index.m3u8?channel-
-Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000006/index.m3u8?channel-#http://[2409:8087:7000:20:1000::22]:6060/000000001000/5841816227539527643/index.m3u8?channel-
 
-淘电影,http://[2409:8087:2:1::38]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKeBjD+fZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng==,,END
-淘剧场,http://[2409:8087:2:1::26]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND&IASHttpSessionId=RR1534320231216130510949952
-淘娱乐,http://[2409:8087:2:1::45]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBOtChdQBj46BMs/mbjOB0PZw==,,END&IASHttpSessionId=RR1536620231216131550953904
-淘BABY,http://[2409:8087:2:1::36]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBOBGhARyizMEPlAOe9nM1b5Q==,,END
-萌宠TV,http://[2409:8087:2:1::28]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
-淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
-淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
-淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
-淘BABY,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
-萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
-淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
-淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
-淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
-淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
-萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
-淘BABY,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
-淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
-淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
-淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 
 
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
