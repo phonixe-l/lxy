@@ -266,8 +266,8 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/2
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
 长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
 吉林市新闻综合,https://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1810543316-0-0-6c00b6138e27b96b115a78fe9168ab40
-吉林市公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540
-吉林市科教,http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540
+吉林市公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540#http://36.49.56.132:8800/rtp/239.37.0.129:5540
+吉林市科教,http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540#http://36.49.56.132:8800/rtp/239.37.0.128:5540
 吉林市新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
