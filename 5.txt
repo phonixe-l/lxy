@@ -246,29 +246,25 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/2
 吉林频道,#genre#
 
 
-吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
-吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
-吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
-吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
-吉林乡村,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
-吉林都市,http://36.49.56.132:8800/rtp/239.37.0.102:5540
-吉林生活,http://36.49.56.132:8800/rtp/239.37.0.104:5540
-吉林影视,http://36.49.56.132:8800/rtp/239.37.0.103:5540
-吉林公共,http://36.49.56.132:8800/rtp/239.37.0.106:5540
-吉林乡村,http://36.49.56.132:8800/rtp/239.37.0.105:5540
-东北戏曲,http://36.49.56.132:8800/rtp/239.37.0.109:5540
+
+吉林都市,http://124.235.218.160:30007/rtp/239.37.0.102:5540#http://124.234.240.160:58888/rtp/239.37.0.102:5540
+吉林生活,http://124.235.218.160:30007/rtp/239.37.0.104:5540#http://124.234.240.160:58888/rtp/239.37.0.104:5540
+吉林影视,http://124.235.218.160:30007/rtp/239.37.0.103:5540#http://124.234.240.160:58888/rtp/239.37.0.103:5540
+吉林公共,http://124.235.218.160:30007/rtp/239.37.0.106:5540#http://124.234.240.160:58888/rtp/239.37.0.106:5540
+吉林乡村,http://124.235.218.160:30007/rtp/239.37.0.105:5540#http://124.234.240.160:58888/rtp/239.37.0.105:5540
+东北戏曲,http://124.235.218.160:30007/rtp/239.37.0.109:5540#http://124.234.240.160:58888/rtp/239.37.0.109:5540
 吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.212:5540
 吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.216:5540
-吉林篮球,http://36.49.56.132:8800/rtp/239.37.0.108:5540
-长影频道,http://36.49.56.132:8800/rtp/239.37.0.125:5540
+吉林篮球,http://124.235.218.160:30007/rtp/239.37.0.108:5540#http://124.234.240.160:58888/rtp/239.37.0.108:5540
+长影频道,http://124.235.218.160:30007/rtp/239.37.0.125:5540#http://124.234.240.160:58888/rtp/239.37.0.125:5540
 长影频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540
 吉林教育,http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
 长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
 吉林市新闻综合,https://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1810543316-0-0-6c00b6138e27b96b115a78fe9168ab40
-吉林市公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540#http://36.49.56.132:8800/rtp/239.37.0.129:5540
-吉林市科教,http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540#http://36.49.56.132:8800/rtp/239.37.0.128:5540
-吉林市新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
+吉林市公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540#http://124.234.240.160:58888/rtp/239.37.0.128:5540
+吉林市科教,http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540#http://124.234.240.160:58888/rtp/239.37.0.129:5540
+吉林市新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540#http://124.234.240.160:58888/rtp/239.37.0.127:5540
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
@@ -4602,6 +4598,11 @@ IPV6备用,#genre#
 凤凰资讯,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
+吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林乡村,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 
 
 
