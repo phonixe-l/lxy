@@ -489,12 +489,12 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 
 
 轮播,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-庆余年,http://cfss.cc/cdn/hy/11352960.flv
+庆余年,http://hls.ye23.vip/wl/huya2205.php?id=11352960.flv#http://cfss.cc/cdn/hy/11352960.flv
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
-大染坊,http://cfss.cc/cdn/hy/11602086.flv
+大染坊,http://hls.ye23.vip/wl/huya2205.php?id=11602086.flv#http://cfss.cc/cdn/hy/11602086.flv
 雪豹,http://mmitv.top/test/douyu.php?id=11863823
 雪豹,https://live.freetv.top/douyu/11863823
-征服,http://cfss.cc/cdn/hy/11601970.flv
+征服,http://hls.ye23.vip/wl/huya2205.php?id=11601970.flv#http://cfss.cc/cdn/hy/11601970.flv
 父母爱情,http://cfss.cc/cdn/hy/11602071.flv
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
@@ -880,11 +880,11 @@ YY经典怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 体育频道,#genre#
 
 
-WWE,http://cfss.cc/cdn/hy/20971519.flv
+WWE,http://hls.ye23.vip/wl/huya2205.php?id=20971519.flv#http://cfss.cc/cdn/hy/20971519.flv
 WWE,http://43.138.170.29:35455/huya/20971519
-WWE1,http://cfss.cc/cdn/hy/16619834.flv
-WWE2,http://cfss.cc/cdn/hy/25282744.flv
-WWE3,http://cfss.cc/cdn/hy/19197457.flv
+WWE1,http://hls.ye23.vip/wl/huya2205.php?id=16619834.flv#http://cfss.cc/cdn/hy/16619834.flv
+WWE2,http://hls.ye23.vip/wl/huya2205.php?id=25282744.flv#http://cfss.cc/cdn/hy/25282744.flv
+WWE3,http://hls.ye23.vip/wl/huya2205.php?id=19197457.flv#http://cfss.cc/cdn/hy/19197457.flv
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 CCTV5,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5+,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
