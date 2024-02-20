@@ -489,7 +489,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 
 
 轮播,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-庆余年,http://hls.ye23.vip/wl/huya2205.php?id=11352960.flv#http://cfss.cc/cdn/hy/11352960.flv
+庆余年,http://cfss.cc/cdn/hy/11352960.flv
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
 大染坊,http://hls.ye23.vip/wl/huya2205.php?id=11602086.flv#http://cfss.cc/cdn/hy/11602086.flv
 雪豹,http://mmitv.top/test/douyu.php?id=11863823
