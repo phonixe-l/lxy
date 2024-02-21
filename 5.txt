@@ -344,6 +344,7 @@ TVB翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
 美亚电影台,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
