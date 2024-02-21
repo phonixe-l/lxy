@@ -115,6 +115,8 @@ CCTV16,http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/8888888
 CCTV17,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
+重温经典,http://111.2.185.168:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 
 卫视频道,#genre#
