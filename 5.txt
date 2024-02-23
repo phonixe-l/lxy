@@ -4975,14 +4975,19 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 内部测试_147258,#genre#
 
 
-松视1,https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-松视2,https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松视3,https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-潘多拉完美,https://z88.ubtvfans.com:443/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-彩虹电影,https://z88.ubtvfans.com:443/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-彩虹e,https://z88.ubtvfans.com:443/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-极限,https://z88.ubtvfans.com:443/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
-彩虹k,https://z88.ubtvfans.com:443/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松視2,http://z88.ubtvfans.com:80/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松視3,http://z88.ubtvfans.com:80/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+完美,https://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+极限,http://z88.ubtvfans.com:80/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+彩虹电影,http://z88.ubtvfans.com:80/ive/rx3/413/f39876dcbac]ca6/td1c]015cfc2af27/index.m3u8
+彩虹e,http://z88.ubtvfans.com:80/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+彩虹k,http://z88.ubtvfans.com:80/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+playboyHD,http://z88.ubtvfans.com:80/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+epassieion,http://z88.ubtvfans.com:80/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+Jredright,http://z88.ubtvfans.com:80/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+babes,http://z88.ubtvfans.com:80/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+hustler,http://z88.ubtvfans.com:80/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
 
 潘朵拉完美台,p3p://108.181.20.159:9600/5fe4450c000c918b829fca233c845311#p3p://108.181.20.159:75136/5fe4450c000c918b829fca233c845311#mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
 香蕉台,p3p://108.181.20.159:9600/60626a760005067e6f5bbecb5816771e#p3p://108.181.20.159:75120/60626a760005067e6f5bbecb5816771e#mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
