@@ -2022,8 +2022,7 @@ TVB经典—九江十二坊,http://cfss.cc/cdn/yy/1382735566.flv
 
 虎牙频道,#genre#
 
-1,http://192.151.243.251/huya.php?id=24654627
-周星星,http://cfss.cc/cdn/hy/11342412.flv#https://www.goodiptv.club/huya/11342412#https://live.freetv.top/huya/11342412
+周星星,http://cfss.cc/cdn/hy/11342412.flv#https://www.goodiptv.club/huya/11342412#https://live.freetv.top/huya/11342412#http://192.151.243.251/huya.php?id=11342412
 7喜先生,http://cfss.cc/cdn/hy/11342421.flv
 普通司机小马,http://cfss.cc/cdn/hy/23749096.flv
 鯎爺,http://cfss.cc/cdn/hy/11352944.flv
