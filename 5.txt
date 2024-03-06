@@ -4854,6 +4854,7 @@ HBO Family,http://208.115.225.174:14144
 
 IPV6备用,#genre#
 
+征服,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=f9f698e7f87cd743050c288488fe70b4&wsTime=65d200ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3An111%3B&fs=bgct
 
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
