@@ -485,11 +485,11 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 轮播,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 庆余年,http://cfss.cc/cdn/hy/11352960.flv
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
-大染坊,http://cfss.cc/cdn/hy/11602086.flv
+大染坊,http://cfss.cc/cdn/hy/11602086.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=c9c30ae92e120423156167ec5f46052d&wsTime=65d1ebb0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
 雪豹,http://mmitv.top/test/douyu.php?id=11863823
 雪豹,https://live.freetv.top/douyu/11863823
-征服,http://cfss.cc/cdn/yy/1461655788.flv
-征服,http://cfss.cc/cdn/hy/11601970.flv
+征服,http://cfss.cc/cdn/yy/1461655788.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=f9f698e7f87cd743050c288488fe70b4&wsTime=65d200ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3An111%3B&fs=bgct
+征服,http://cfss.cc/cdn/dyu/2726977.flv
 父母爱情,http://cfss.cc/cdn/hy/11602071.flv
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/yy/1352227227.flv
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
