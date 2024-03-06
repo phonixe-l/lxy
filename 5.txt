@@ -249,13 +249,13 @@ CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/22
 
 
 
-吉林都市,http://124.235.218.160:30007/rtp/239.37.0.102:5540#http://124.234.240.160:58888/rtp/239.37.0.102:5540#http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
-吉林生活,http://124.235.218.160:30007/rtp/239.37.0.104:5540#http://124.234.240.160:58888/rtp/239.37.0.104:5540#http://61.138.128.226:19901/tsfile/live/1002_1.m3u8
-吉林影视,http://124.235.218.160:30007/rtp/239.37.0.103:5540#http://124.234.240.160:58888/rtp/239.37.0.103:5540#http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
-吉林公共,http://124.235.218.160:30007/rtp/239.37.0.106:5540#http://124.234.240.160:58888/rtp/239.37.0.106:5540#http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
-吉林乡村,http://124.235.218.160:30007/rtp/239.37.0.105:5540#http://124.234.240.160:58888/rtp/239.37.0.105:5540#http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
+吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
+吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8
+吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
+吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
+吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
 吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8
-东北戏曲,http://124.235.218.160:30007/rtp/239.37.0.109:5540#http://124.234.240.160:58888/rtp/239.37.0.109:5540#http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
+东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
 吉林篮球,http://124.235.218.160:30007/rtp/239.37.0.108:5540#http://124.234.240.160:58888/rtp/239.37.0.108:5540
 长影频道,http://124.235.218.160:30007/rtp/239.37.0.125:5540#http://124.234.240.160:58888/rtp/239.37.0.125:5540
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
@@ -337,7 +337,7 @@ TVB翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
 美亚电影台,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
+
 
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
@@ -4854,8 +4854,9 @@ HBO Family,http://208.115.225.174:14144
 
 IPV6备用,#genre#
 
-征服,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=f9f698e7f87cd743050c288488fe70b4&wsTime=65d200ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3An111%3B&fs=bgct
 
+
+凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
