@@ -828,7 +828,7 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739
 体育频道,#genre#
 
 
-WWE,http://cfss.cc/cdn/hy/20971519.flv
+WWE,http://cfss.cc/cdn/hy/20971519.flv#http://hw.hls.huya.com/src/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.m3u8
 WWE,http://43.138.170.29:35455/huya/20971519
 WWE1,http://cfss.cc/cdn/hy/16619834.flv
 WWE2,http://cfss.cc/cdn/hy/25282744.flv
