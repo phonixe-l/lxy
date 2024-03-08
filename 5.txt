@@ -5244,6 +5244,11 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 内部测试_147258,#genre#
 
+1,p3p://108.181.20.159:75205/653e4c6d000965ef0c8e049f4be34103
+
+2,p3p://108.181.32.169:57607/642606be0002dd54ede3d8b40d6c04dc
+
+
 松视1,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
 
