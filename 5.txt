@@ -5244,13 +5244,18 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 内部测试_147258,#genre#
 
-1,p3p://108.181.20.159:75205/653e4c6d000965ef0c8e049f4be34103
-
-2,p3p://108.181.32.169:57607/642606be0002dd54ede3d8b40d6c04dc
-
-
-松视1,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8
+1,https://18.svi-studio.com/live/673960949860/294164781253/001.m3u8
+2,https://18.svi-studio.com/live/673960949860/294164781253/0001.m3u8
+3,https://18.svi-studio.com/live/673960949860/294164781253/00001.m3u8
+4,https://18.svi-studio.com/live/673960949860/294164781253/03.m3u8
+5,https://18.svi-studio.com/live/673960949860/294164781253/04.m3u8
+6,https://18.svi-studio.com/live/673960949860/294164781253/05.m3u8
+7,https://18.svi-studio.com/live/673960949860/294164781253/06.m3u8
 
 
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
