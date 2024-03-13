@@ -5269,5 +5269,5 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 
 
-JStar极限台,P2p://216.244.75.178:9906/65d949ca0007f1fc000c69a615366b51.ts
+JStar极限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a#P2p://216.244.75.178:9906/65d949ca0007f1fc000c69a615366b51.ts
 
