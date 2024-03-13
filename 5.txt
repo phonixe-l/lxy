@@ -830,6 +830,8 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739
 
 WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.flv?wsSecret=663cbecaa4516fed7f1983b0d1f65d73&wsTime=65eabac0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 WWE,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199609295419-1199609295419-5641095237242716160-2399218714294-10057-A-0-1.flv?wsSecret=63ec78152a516af81658dd88a10688d2&wsTime=65eabf7d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+RAW,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199560536633-1199560536633-5431677845980053504-2399121196722-10057-A-0-1.flv?wsSecret=0f17837d884e28eb4b32c4296893a983&wsTime=65f1671e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+RAW剧情,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.flv?wsSecret=df7fd7fe6ddd405ecaf40ed889d63786&wsTime=65f16571&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 CCTV5,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5+,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
