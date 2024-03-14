@@ -5269,6 +5269,20 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 7,https://18.svi-studio.com/live/673960949860/294164781253/06.m3u8
 
 
+彩虹e台,P2p://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
+彩虹电影台,P2p://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
+LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
+潘朵啦玩美台,P2p://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
+惊艳成人电影台,P2p://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
+香蕉台,P2p://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
+松视1台,P2p://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
+松视2台,P2p://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
+松视3台,P2p://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
+HAPPY,P2p://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
+JStar极限台,P2p://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
+K,P2p://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
+PLAYBOY,P2p://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
 
-JStar极限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a#P2p://216.244.75.178:9906/65d949ca0007f1fc000c69a615366b51.ts
+
+
 
