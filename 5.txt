@@ -1120,7 +1120,7 @@ iHOT系列,#genre#
 
 埋堆堆,#genre#
 
-1,https://yang-1989.eu.org/huya/23740156
+
 埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv
 埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv
 埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv
