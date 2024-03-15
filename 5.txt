@@ -122,9 +122,7 @@ CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/22
 卫视频道,#genre#
 
 
-凤凰卫视,https://0472.org/hls/youzaiSB/fhzw.m3u8
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
+
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -1122,7 +1120,7 @@ iHOT系列,#genre#
 
 埋堆堆,#genre#
 
-
+1,https://yang-1989.eu.org/huya/23740156
 埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv
 埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv
 埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv
