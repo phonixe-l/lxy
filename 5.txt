@@ -5296,13 +5296,29 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 
 
 
+極限電影,https://tang.serv00.net/zb/99.php?id=405#https://tang.serv00.net/zb/99.php?id=2909
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
 惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8
 
-
+松視1,https://tang.serv00.net/zb/99.php?id=402
+松视1台,https://tang.serv00.net/zb/99.php?id=2905
+松视2台,https://tang.serv00.net/zb/99.php?id=2906
+松視2,https://tang.serv00.net/zb/99.php?id=403
+松視3,https://tang.serv00.net/zb/99.php?id=404
+松视3台,https://tang.serv00.net/zb/99.php?id=2907
+潘朵拉完美,https://tang.serv00.net/zb/99.php?id=410
+彩虹電影,https://tang.serv00.net/zb/99.php?id=413
+HAPPY,https://tang.serv00.net/zb/99.php?id=2908
+JStar,https://tang.serv00.net/zb/99.php?id=2909
+彩虹E,https://tang.serv00.net/zb/99.php?id=406
+彩虹E,https://tang.serv00.net/zb/99.php?id=2935
+彩虹K,https://tang.serv00.net/zb/99.php?id=2910
+彩虹K,https://tang.serv00.net/zb/99.php?id=415
+Amazing,https://tang.serv00.net/zb/99.php?id=2931
+彩虹电影,https://tang.serv00.net/zb/99.php?id=2934
 
 
 
