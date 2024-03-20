@@ -4080,6 +4080,14 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 IPV6备用,#genre#
 
 
+澳門蓮花,https://tang.serv00.net/zb/99.php?id=70&token=6e5bb553
+鳳凰電影,https://tang.serv00.net/zb/99.php?id=2814&token=6e5bb553
+鳳凰香港,https://tang.serv00.net/zb/99.php?id=2810&token=6e5bb553
+鳳凰衛視,https://tang.serv00.net/zb/99.php?id=2291&token=6e5bb553
+鳳凰衛視,https://tang.serv00.net/zb/99.php?id=2812&token=6e5bb553
+鳳凰资讯,https://tang.serv00.net/zb/99.php?id=2811&token=6e5bb553
+鳳凰资讯,https://tang.serv00.net/zb/99.php?id=2292&token=6e5bb553
+星空衛視,https://tang.serv00.net/zb/99.php?id=56&token=6e5bb553
 
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
