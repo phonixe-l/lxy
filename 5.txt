@@ -853,6 +853,7 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739
 WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.flv?wsSecret=663cbecaa4516fed7f1983b0d1f65d73&wsTime=65eabac0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 WWE,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199609295419-1199609295419-5641095237242716160-2399218714294-10057-A-0-1.flv?wsSecret=63ec78152a516af81658dd88a10688d2&wsTime=65eabf7d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 RAW,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.flv?wsSecret=57bbc765a795871edf201bad2ce97a7b&wsTime=65f25497&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+wwe,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199616710884-1199616710884-5672944416902348800-2399233545224-10057-A-0-1.flv?wsSecret=2d3601a2f985b9bc308f45065b5a71df&wsTime=65fa9a91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 CCTV5,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 CCTV5+,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
@@ -4104,29 +4105,29 @@ IPV6备用,#genre#
 
 
 
-極限電影,https://tang.serv00.net/zb/99.php?id=405#https://tang.serv00.net/zb/99.php?id=2909
+極限電影,https://tang.serv00.net/zb/99.php?id=405?token=6e5bb553#https://tang.serv00.net/zb/99.php?id=2909?token=6e5bb553
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
 惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8
 
-松視1,https://tang.serv00.net/zb/99.php?id=402
-松视1台,https://tang.serv00.net/zb/99.php?id=2905
-松视2台,https://tang.serv00.net/zb/99.php?id=2906
-松視2,https://tang.serv00.net/zb/99.php?id=403
-松視3,https://tang.serv00.net/zb/99.php?id=404
-松视3台,https://tang.serv00.net/zb/99.php?id=2907
-潘朵拉完美,https://tang.serv00.net/zb/99.php?id=410
-彩虹電影,https://tang.serv00.net/zb/99.php?id=413
-HAPPY,https://tang.serv00.net/zb/99.php?id=2908
-JStar,https://tang.serv00.net/zb/99.php?id=2909
-彩虹E,https://tang.serv00.net/zb/99.php?id=406
-彩虹E,https://tang.serv00.net/zb/99.php?id=2935
-彩虹K,https://tang.serv00.net/zb/99.php?id=2910
-彩虹K,https://tang.serv00.net/zb/99.php?id=415
-Amazing,https://tang.serv00.net/zb/99.php?id=2931
-彩虹电影,https://tang.serv00.net/zb/99.php?id=2934
+松視1,https://tang.serv00.net/zb/99.php?id=402?token=6e5bb553
+松视1台,https://tang.serv00.net/zb/99.php?id=2905?token=6e5bb553
+松视2台,https://tang.serv00.net/zb/99.php?id=2906?token=6e5bb553
+松視2,https://tang.serv00.net/zb/99.php?id=403?token=6e5bb553
+松視3,https://tang.serv00.net/zb/99.php?id=404?token=6e5bb553
+松视3台,https://tang.serv00.net/zb/99.php?id=2907?token=6e5bb553
+潘朵拉完美,https://tang.serv00.net/zb/99.php?id=410?token=6e5bb553
+彩虹電影,https://tang.serv00.net/zb/99.php?id=413?token=6e5bb553
+HAPPY,https://tang.serv00.net/zb/99.php?id=2908?token=6e5bb553
+JStar,https://tang.serv00.net/zb/99.php?id=2909?token=6e5bb553
+彩虹E,https://tang.serv00.net/zb/99.php?id=406?token=6e5bb553
+彩虹E,https://tang.serv00.net/zb/99.php?id=2935?token=6e5bb553
+彩虹K,https://tang.serv00.net/zb/99.php?id=2910?token=6e5bb553
+彩虹K,https://tang.serv00.net/zb/99.php?id=415?token=6e5bb553
+Amazing,https://tang.serv00.net/zb/99.php?id=2931?token=6e5bb553
+彩虹电影,https://tang.serv00.net/zb/99.php?id=2934?token=6e5bb553
 
 
 
