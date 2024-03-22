@@ -167,14 +167,22 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3
 
 
 
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+
+凤凰卫视,http://[2409:8087:7000:20::16]/wh7f454c46tw3934030395_900687363/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+凤凰资讯,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
+凤凰卫视,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰卫视,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰卫视,http://fzcds.cn:8822/hls/81/index.m3u8
+凤凰香港,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
+
 北京卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -526,7 +534,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 电视剧轮播,#genre#
 
 
-轮播,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
+
 庆余年,http://cfss.cc/cdn/hy/11352960.flv
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
 大染坊,http://cfss.cc/cdn/hy/11602086.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=c9c30ae92e120423156167ec5f46052d&wsTime=65d1ebb0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
@@ -879,7 +887,7 @@ WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#http://1.62.64.252/0b926d3706
 WWE,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199609295419-1199609295419-5641095237242716160-2399218714294-10057-A-0-1.flv?wsSecret=63ec78152a516af81658dd88a10688d2&wsTime=65eabf7d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 RAW,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.flv?wsSecret=57bbc765a795871edf201bad2ce97a7b&wsTime=65f25497&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 wwe,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199616710884-1199616710884-5672944416902348800-2399233545224-10057-A-0-1.flv?wsSecret=2d3601a2f985b9bc308f45065b5a71df&wsTime=65fa9a91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
-AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+TNA,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 CCTV5,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 CCTV5+,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 CCTV16,http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
@@ -4128,12 +4136,12 @@ IPV6备用,#genre#
 
 
 
-極限電影,https://tang.serv00.net/zb/99.php?id=405?token=6e5bb553#https://tang.serv00.net/zb/99.php?id=2909?token=6e5bb553
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8
+
 
 松視1,https://tang.serv00.net/zb/99.php?id=402?token=6e5bb553
 松视1台,https://tang.serv00.net/zb/99.php?id=2905?token=6e5bb553
