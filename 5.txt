@@ -191,6 +191,10 @@ CCTV-17 农业农村,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/
 凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 凤凰资讯,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 
@@ -909,6 +913,7 @@ WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#http://1.62.64.252/0b926d3706
 WWE,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199609295419-1199609295419-5641095237242716160-2399218714294-10057-A-0-1.flv?wsSecret=63ec78152a516af81658dd88a10688d2&wsTime=65eabf7d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 RAW,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.flv?wsSecret=57bbc765a795871edf201bad2ce97a7b&wsTime=65f25497&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 wwe,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199616710884-1199616710884-5672944416902348800-2399233545224-10057-A-0-1.flv?wsSecret=2d3601a2f985b9bc308f45065b5a71df&wsTime=65fa9a91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+wwe,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199582539197-1199582539197-5526178138788200448-2399165201850-10057-A-0-1.flv?wsSecret=40f980e66da728d16e863c8891288636&wsTime=6603aff3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 TNA,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 CCTV5,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 CCTV5+,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
