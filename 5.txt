@@ -4167,7 +4167,7 @@ IPV6备用,#genre#
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
 
 
 松視1,https://tang.serv00.net/zb/99.php?id=402?token=6e5bb553
