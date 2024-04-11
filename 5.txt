@@ -525,7 +525,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 
 庆余年,http://cfss.cc/cdn/hy/11352960.flv#http://43.138.170.29:35455/huya/11352960
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
-大染坊,http://cfss.cc/cdn/hy/11602086.flv#http://txdirect.flv.huya.com/huyalive/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=031a5ecfb33b2e0aa3f70058030214c9&wsTime=661792e6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
+大染坊,http://cfss.cc/cdn/hy/11602086.flv#https://hw.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=75b7b73704779f1c66841080a31efa78&wsTime=6618e95b&seqid=2912463263169&ctype=tars_mobile&ver=1&txyp=o%3Aq6%3B&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=471790321&t=103&sv=2402211431&sdk_sid=1712822265304
 雪豹,http://mmitv.top/test/douyu.php?id=11863823
 雪豹,https://live.freetv.top/douyu/11863823
 征服,http://cfss.cc/cdn/yy/1461655788.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=f9f698e7f87cd743050c288488fe70b4&wsTime=65d200ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3An111%3B&fs=bgct
@@ -539,7 +539,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 特种兵之火凤凰,http://cfss.cc/cdn/yy/1356326459.flv
 父母爱情,http://cfss.cc/cdn/yy/1382746276.flv
 武林外传,http://cfss.cc/cdn/yy/21092633.flv
-武林外传动画版,http://cfss.cc/cdn/hy/25749066.flv#http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/txdirect.flv.huya.com/huyalive/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-1.flv?wsSecret=50e5e46c47cc6a138a1f531ed961689e&wsTime=65ee6b2f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
+武林外传动画版,http://cfss.cc/cdn/hy/25749066.flv#https://txdirect.flv.huya.com/huyalive/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-1.flv?wsSecret=89cc68873537d79e0e53a873a4c59570&wsTime=6618eb22&seqid=2912463689944&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=898560847&t=103&sv=2402211431&sdk_sid=1712822692075
 金婚,http://cfss.cc/cdn/yy/1382736832.flv
 雪中悍刀行,http://cfss.cc/cdn/yy/1460836818.flv
 狂飙,http://cfss.cc/cdn/yy/1382754187.flv
