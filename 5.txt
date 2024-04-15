@@ -24,7 +24,15 @@ CCTV17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 
 CHC高清电影,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
 CHC动作电影,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
+CHC动作电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+CHC高清电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 
 兵器科技,https://www.sxtv.top/cctv.php?id=bqkj
@@ -52,20 +60,9 @@ CHC动作电影,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/
 央视高网,http://dp.sxtv.top:88/live/cqyx.php?id=golfHD
 央视台球,http://dp.sxtv.top:88/live/cqyx.php?id=ystqHD
 
+重温经典,http://mywlkj.ddns.net:754/tv/cwjd.m3u8
+重温经典,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
 
-风云剧场,https://tv.cry33.com/51.php?id=2012513603.m3u8
-第一剧场,https://tv.cry33.com/51.php?id=2012514403.m3u8
-怀旧剧场,https://tv.cry33.com/51.php?id=2012511203.m3u8
-世界地理,https://tv.cry33.com/51.php?id=2012513303.m3u8
-风云音乐,https://tv.cry33.com/51.php?id=2012514103.m3u8
-兵器科技,https://tv.cry33.com/51.php?id=2012513403.m3u8
-风云足球,https://tv.cry33.com/51.php?id=2012514203.m3u8
-央视高网,https://tv.cry33.com/51.php?id=2012512503.m3u8
-女性时尚,https://tv.cry33.com/51.php?id=2012513903.m3u8
-文化精品,https://tv.cry33.com/51.php?id=2012513803.m3u8
-央视台球,https://tv.cry33.com/51.php?id=2012513703.m3u8
-电视指南,https://tv.cry33.com/51.php?id=2012514003.m3u8
-卫生健康,https://tv.cry33.com/51.php?id=2012513503.m3u8
 
 
 
@@ -573,6 +570,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 父母爱情,http://cfss.cc/cdn/yy/1382746276.flv
 武林外传,http://cfss.cc/cdn/yy/21092633.flv
 武林外传动画版,http://cfss.cc/cdn/hy/25749066.flv#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-1.flv?wsSecret=89cc68873537d79e0e53a873a4c59570&wsTime=6618eb22&seqid=2912463689944&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=898560847&t=103&sv=2402211431&sdk_sid=1712822692075
+甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
 金婚,http://cfss.cc/cdn/yy/1382736832.flv
 雪中悍刀行,http://cfss.cc/cdn/yy/1460836818.flv
 狂飙,http://cfss.cc/cdn/yy/1382754187.flv
@@ -3786,6 +3784,8 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
+松视3,http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
+
 
 
 松視1,https://tang.serv00.net/zb/99.php?id=402?token=6e5bb553
