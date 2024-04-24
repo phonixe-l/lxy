@@ -34,34 +34,6 @@ CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 
 
 
-兵器科技,https://www.sxtv.top/cctv.php?id=bqkj
-第一剧场,https://www.sxtv.top/cctv.php?id=dyjc
-怀旧剧场,https://www.sxtv.top/cctv.php?id=hjjc
-风云剧场,https://www.sxtv.top/cctv.php?id=fyjc
-风云音乐,https://www.sxtv.top/cctv.php?id=fyyy
-风云足球,https://www.sxtv.top/cctv.php?id=fyzq
-女性时尚,https://www.sxtv.top/cctv.php?id=nxss
-文化精品,https://www.sxtv.top/cctv.php?id=whjp
-世界地理,https://www.sxtv.top/cctv.php?id=sjdl
-央视高网,https://www.sxtv.top/cctv.php?id=gefwq
-央视台球,https://www.sxtv.top/cctv.php?id=ystq
-卫生健康,https://www.sxtv.top/cctv.php?id=wsjk
-电视指南,https://www.sxtv.top/cctv.php?id=dszn
-
-兵器科技,http://dp.sxtv.top:88/live/cqyx.php?id=bqkjHD
-第一剧场,http://dp.sxtv.top:88/live/cqyx.php?id=diyijuchangHD
-怀旧剧场,http://dp.sxtv.top:88/live/cqyx.php?id=hjjcHD
-风云剧场,http://dp.sxtv.top:88/live/cqyx.php?id=fyjcHD
-风云音乐,http://dp.sxtv.top:88/live/cqyx.php?id=fyyyHD
-风云足球,http://dp.sxtv.top:88/live/cqyx.php?id=fyzqHD
-文化精品,http://dp.sxtv.top:88/live/cqyx.php?id=yswhHD
-女性时尚,http://dp.sxtv.top:88/live/cqyx.php?id=nvxing
-央视高网,http://dp.sxtv.top:88/live/cqyx.php?id=golfHD
-央视台球,http://dp.sxtv.top:88/live/cqyx.php?id=ystqHD
-
-重温经典,http://mywlkj.ddns.net:754/tv/cwjd.m3u8
-重温经典,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
-
 
 
 
