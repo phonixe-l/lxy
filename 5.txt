@@ -711,7 +711,7 @@ WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#https://v22r0oqaiiqz68lls9yph
 WWE,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199560644265-1199560644265-5432140121900056576-2399121411986-10057-A-0-1.flv?wsSecret=d78e67717eceb4e724cb3406e5cf19a9&wsTime=6618eef5&seqid=2912464668831&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=1877195504&t=103&sv=2402211431&sdk_sid=1712823670710
 RAW,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.flv?wsSecret=5fd822abeedbbba612f811e0f8536e4f&wsTime=6618eeb1&seqid=2912464600506&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=1808830651&t=103&sv=2402211431&sdk_sid=1712823602344
 wwe,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199609295419-1199609295419-5641095237242716160-2399218714294-10057-A-0-1.flv?wsSecret=37f5ede65b1c6c675fa57240da4f49d9&wsTime=6618ef5f&seqid=2912464775105&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=1983730896&t=103&sv=2402211431&sdk_sid=1712823777245
-wwe新,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199616710884-1199616710884-5672944416902348800-2399233545224-10057-A-0-1.flv?wsSecret=18c49a89ce3e93e59f0527118fab64b0&wsTime=6620dd4e&seqid=2912984437935&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=1955503035&t=103&sv=2402211431&sdk_sid=1713343440060
+wwe新,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/huyalive/1199609587875-1199609587875-5642351326198235136-2399219299206-10057-A-0-1.flv?ver=1&sdkPcdn=1_1&t=103&t=103&uuid=809872472&wsTime=6629c289&seqid=2913567407847&dMod=mseh-0&uid=1199640997836&sv=2402211431&sdk_sid=1713926409982&fs=bgct&ctype=tars_mobile&wsSecret=4b37675abc0f31198369ba49b1beb1ab&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn5627&ali_302c=700&ali_st=cn6706&ali_ts=1713926410
 TNA,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 CCTV5,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5+,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
@@ -853,22 +853,6 @@ CCTV16,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 咪咕直播-54,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播-55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播-56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-
-
-
-百事通,#genre#
-
-
-百视通1,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$4M FHD
-百视通2,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000002898/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3$4M FHD
-百视通3,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$4M FHD
-百视通4,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3$4M FHD
-百视通5,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3$3.5M FHD
-百视通6,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3$3.5M FHD
-百视通7,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3$4M FHD
-百视通8,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3$4M FHD
-百视通9,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$4M FHD
 
 
 
