@@ -114,11 +114,9 @@ CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u
 
 
 
-
-
-凤凰卫视,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰卫视,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
