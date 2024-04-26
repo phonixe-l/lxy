@@ -530,7 +530,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 
 电视剧轮播,#genre#
 
-周星星,http://43.138.170.29:35455/huya/24470631
+周星星,http://43.138.170.29:35455/huya/24470631#http://124.248.69.76:35455/huya/11342412
 
 庆余年,http://cfss.cc/cdn/hy/11352960.flv#https://tv.iill.top/huya/11352960
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
@@ -3706,6 +3706,7 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 内部测试_147258,#genre#
 
 
+香蕉台,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
 
 
 惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
