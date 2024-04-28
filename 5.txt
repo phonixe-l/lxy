@@ -532,14 +532,14 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 
 周星星,http://43.138.170.29:35455/huya/24470631#http://124.248.69.76:35455/huya/11342412
 
-庆余年,http://cfss.cc/cdn/hy/11352960.flv#https://tv.iill.top/huya/11352960
+庆余年,http://cfss.cc/cdn/hy/11352960.flv#http://124.248.69.76:35455/huya/11352960
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
 大染坊,http://43.138.170.29:35455/huya/11602086#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=b54abbe20fc4b3a9505567c2f5ce63d6&wsTime=661a3441&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
 雪豹,http://mmitv.top/test/douyu.php?id=11863823
 雪豹,https://live.freetv.top/douyu/11863823
 征服,http://cfss.cc/cdn/yy/1461655788.flv#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=f9f698e7f87cd743050c288488fe70b4&wsTime=65d200ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3An111%3B&fs=bgct
 征服,http://cfss.cc/cdn/dyu/2726977.flv
-父母爱情,http://cfss.cc/cdn/hy/11602071.flv
+父母爱情,http://124.248.69.76:35455/huya/11602071
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/yy/1352227227.flv
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 宰相刘罗锅,http://cfss.cc/cdn/yy/1382745191.flv
@@ -3704,6 +3704,11 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 
 
 内部测试_147258,#genre#
+
+
+
+爽歪歪,http://168.227.22.18:1935/live/mobile-125/playlist.m3u8
+限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=liv
 
 
 香蕉台,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
