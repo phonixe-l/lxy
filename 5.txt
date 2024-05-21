@@ -4404,33 +4404,17 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 
 
 香蕉台,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
-
+松视2,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
 
 惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
+松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#
 松视3,http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
 
 
 
-松視1,https://tang.serv00.net/zb/99.php?id=402?token=6e5bb553
-松视1台,https://tang.serv00.net/zb/99.php?id=2905?token=6e5bb553
-松视2台,https://tang.serv00.net/zb/99.php?id=2906?token=6e5bb553
-松視2,https://tang.serv00.net/zb/99.php?id=403?token=6e5bb553
-松視3,https://tang.serv00.net/zb/99.php?id=404?token=6e5bb553
-松视3台,https://tang.serv00.net/zb/99.php?id=2907?token=6e5bb553
-潘朵拉完美,https://tang.serv00.net/zb/99.php?id=410?token=6e5bb553
-彩虹電影,https://tang.serv00.net/zb/99.php?id=413?token=6e5bb553
-HAPPY,https://tang.serv00.net/zb/99.php?id=2908?token=6e5bb553
-JStar,https://tang.serv00.net/zb/99.php?id=2909?token=6e5bb553
-彩虹E,https://tang.serv00.net/zb/99.php?id=406?token=6e5bb553
-彩虹E,https://tang.serv00.net/zb/99.php?id=2935?token=6e5bb553
-彩虹K,https://tang.serv00.net/zb/99.php?id=2910?token=6e5bb553
-彩虹K,https://tang.serv00.net/zb/99.php?id=415?token=6e5bb553
-Amazing,https://tang.serv00.net/zb/99.php?id=2931?token=6e5bb553
-彩虹电影,https://tang.serv00.net/zb/99.php?id=2934?token=6e5bb553
 
 
 
