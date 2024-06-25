@@ -585,8 +585,9 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 庆余年,http://cfss.cc/cdn/hy/11352960.flv#http://124.248.69.76:35455/huya/11352960
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
 大染坊,http://124.248.69.76:35455/huya/11602086#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=b54abbe20fc4b3a9505567c2f5ce63d6&wsTime=661a3441&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
-雪豹,http://cfss.cc/cdn/dyu/11956226.flv
-雪豹,http://cfss.cc/cdn/dyu/11578904.flv#http://124.248.69.76:35455/huya/29580970
+雪豹,http://124.248.69.76:35455/huya/29580970
+雪豹,http://124.248.69.76:35455/huya/29920656
+雪豹,http://cfss.cc/cdn/yy/1450496699.flv
 征服,http://124.248.69.76:35455/huya/1461655788#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=f9f698e7f87cd743050c288488fe70b4&wsTime=65d200ba&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3An111%3B&fs=bgct
 征服,http://cfss.cc/cdn/dyu/2726977.flv
 父母爱情,http://124.248.69.76:35455/huya/11602071
@@ -609,7 +610,6 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 新三国,http://cfss.cc/cdn/yy/1382705738.flv
 封神榜,http://cfss.cc/cdn/yy/1353426319.flv
 神探狄仁杰,http://cfss.cc/cdn/yy/38338029.flv
-雪豹,http://cfss.cc/cdn/yy/28099939.flv
 地下交通站,http://cfss.cc/cdn/yy/1353428972.flv
 鹊刀门传奇,http://cfss.cc/cdn/yy/1382745997.flv
 案发现场,http://cfss.cc/cdn/yy/33567888.flv
@@ -650,7 +650,6 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 东北一家人,http://cfss.cc/cdn/yy/1355273385.flv
 父母爱情,http://cfss.cc/cdn/yy/1382768483.flv
 新三国,http://cfss.cc/cdn/yy/1354555195.flv
-雪豹,http://cfss.cc/cdn/yy/1450496699.flv
 神医喜来乐,http://cfss.cc/cdn/yy/1382714119.flv
 天道,http://cfss.cc/cdn/yy/1382735574.flv
 黑冰,http://cfss.cc/cdn/yy/1354932427.flv
