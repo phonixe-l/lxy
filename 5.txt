@@ -583,7 +583,7 @@ EVE频道,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 电视剧轮播,#genre#
 
 
-庆余年,http://119.29.230.161/huya/11352960#http://119.29.230.161/huya.php?id=11352960#http://124.248.69.76:35455/huya/11352960
+庆余年,http://119.29.230.161/huya/11352960#http://119.29.230.161:5678/huya.php?id=11352960#http://124.248.69.76:56/huya/11352960
 庆余年,http://cfss.cc/cdn/dyu/7489563.flv
 大染坊,http://124.248.69.76:35455/huya/11602086#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=b54abbe20fc4b3a9505567c2f5ce63d6&wsTime=661a3441&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
 雪豹,http://124.248.69.76:35455/huya/29580970
