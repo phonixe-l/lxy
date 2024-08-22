@@ -25,17 +25,17 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
-兵器科技, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?sig=4d985873c4610a45fbb66811ef76be08&ext_start_limit=1702893674&int_start_limit=1702893674&expires=1702893674&c=null
-怀旧剧场, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?sig=f42d64a6d1d041b2f2c8aa4ca463982f&ext_start_limit=1702888944&int_start_limit=1702888944&expires=1702888944&c=null
-第一剧场, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?sig=d460d9c35b7e096518c80351d4d66faa&ext_start_limit=1702894718&int_start_limit=1702894718&expires=1702894718&c=null
-女性时尚, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?sig=12bca0f8b73cdd67a2feff69db71f795&ext_start_limit=1702891492&int_start_limit=1702891492&expires=1702891492&c=null
-央视精品, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8?sig=07e0ae70d306bd7e65bdf4ffc97a26cc&ext_start_limit=1702894817&int_start_limit=1702894817&expires=1702894817&c=null
-中学生, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8?sig=4e353b63e59e63902455e1f10e02ca18&ext_start_limit=1702888517&int_start_limit=1702888517&expires=1702888517&c=null
-发现之旅, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8?sig=b9b8c9dabd09d48dacd05218205e09d6&ext_start_limit=1702894912&int_start_limit=1702894912&expires=1702894912&c=null
-风云剧场, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?sig=90b9c4a468722146e66dd1f70e401ae5&ext_start_limit=1702889173&int_start_limit=1702889173&expires=1702889173&c=null
-风云足球, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?sig=5f96b21606f6cfebccbefe95f9f077e4&ext_start_limit=1702893667&int_start_limit=1702893667&expires=1702893667&c=null
-央视台球, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=7e6c5d142b5c9575bf1dc0a415ed9149&ext_start_limit=1702891065&int_start_limit=1702891065&expires=1702891065&c=null
-央视高网, http://tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?sig=80a928b63f52f61d1c2506ff229c4d65&ext_start_limit=1702894936&int_start_limit=1702894936&expires=1702894936&c=null
+兵器科技,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?sig=4d985873c4610a45fbb66811ef76be08&ext_start_limit=1702893674&int_start_limit=1702893674&expires=1702893674&c=null
+怀旧剧场,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?sig=f42d64a6d1d041b2f2c8aa4ca463982f&ext_start_limit=1702888944&int_start_limit=1702888944&expires=1702888944&c=null
+第一剧场,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?sig=d460d9c35b7e096518c80351d4d66faa&ext_start_limit=1702894718&int_start_limit=1702894718&expires=1702894718&c=null
+女性时尚,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?sig=12bca0f8b73cdd67a2feff69db71f795&ext_start_limit=1702891492&int_start_limit=1702891492&expires=1702891492&c=null
+央视精品,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8?sig=07e0ae70d306bd7e65bdf4ffc97a26cc&ext_start_limit=1702894817&int_start_limit=1702894817&expires=1702894817&c=null
+中学生,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8?sig=4e353b63e59e63902455e1f10e02ca18&ext_start_limit=1702888517&int_start_limit=1702888517&expires=1702888517&c=null
+发现之旅,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8?sig=b9b8c9dabd09d48dacd05218205e09d6&ext_start_limit=1702894912&int_start_limit=1702894912&expires=1702894912&c=null
+风云剧场,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?sig=90b9c4a468722146e66dd1f70e401ae5&ext_start_limit=1702889173&int_start_limit=1702889173&expires=1702889173&c=null
+风云足球,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?sig=5f96b21606f6cfebccbefe95f9f077e4&ext_start_limit=1702893667&int_start_limit=1702893667&expires=1702893667&c=null
+央视台球,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?sig=7e6c5d142b5c9575bf1dc0a415ed9149&ext_start_limit=1702891065&int_start_limit=1702891065&expires=1702891065&c=null
+央视高网,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?sig=80a928b63f52f61d1c2506ff229c4d65&ext_start_limit=1702894936&int_start_limit=1702894936&expires=1702894936&c=null
 
 
 
