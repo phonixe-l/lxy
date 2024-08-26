@@ -872,7 +872,7 @@ amc电影台,P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
 武林外传,http://cfyy.cc/cdn/yy/21092633.flv
 武林外传动画版,http://124.248.69.76:35455/huya/25749066#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-1.flv?wsSecret=89cc68873537d79e0e53a873a4c59570&wsTime=6618eb22&seqid=2912463689944&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=1199640997836&uuid=898560847&t=103&sv=2402211431&sdk_sid=1712822692075
 金婚,http://cfyy.cc/cdn/yy/1382736832.flv
-雪中悍刀行,http://cfyy.cc/cdn/yy/59719179.flv#http://cfyy.cc/cdn/yy/1382660835
+雪中悍刀行,http://cfyy.cc/cdn/yy/59719179.flv#https://tx.p2p.huya.com/huyalive/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1_420_2_66.slice?wsSecret=24ef796b332a13573ab73a0d011c20c9&wsTime=66cc1050&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&ex1=0&dMod=wcs-25&hxtype=0&baseIndex=4611422693131186&baseSubs=128&sub=0&maxSeq=4611422693131186&timeStamp2024-08-26_13:14:23.566&uuid=2103523369&u=1466282072710&t=100&sv=2407180944&sdk_sid=1724649258137&a_block=0
 83射雕英雄传,http://cfyy.cc/cdn/yy/1354210357.flv
 鹿鼎记,http://cfyy.cc/cdn/yy/28265277.flv
 神雕侠侣,http://cfyy.cc/cdn/yy/1351762426.flv
