@@ -25,12 +25,29 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
+CCTV女性时尚,http://36.49.51.22:8800/rtp/239.37.0.069:5540
+CCTV世界地理,http://36.49.51.22:8800/rtp/239.37.0.079:5540
+CCTV第一剧场,http://36.49.51.22:8800/rtp/239.37.0.078:5540
+CCTV风云足球,http://36.49.51.22:8800/rtp/239.37.0.080:5540
+CCTV风云音乐,http://36.49.51.22:8800/rtp/239.37.0.081:5540
+CCTV怀旧剧场,http://36.49.51.22:8800/rtp/239.37.0.082:5540
+CCTV文化精品,http://36.49.51.22:8800/rtp/239.37.0.083:5540
+CCTV兵器科技,http://36.49.51.22:8800/rtp/239.37.0.084:5540
+CCTV央视高网,http://36.49.51.22:8800/rtp/239.37.0.230:5540
+CCTV卫生健康,http://36.49.51.22:8800/rtp/239.37.0.229:5540
+CCTV风云剧场,http://36.49.51.22:8800/rtp/239.37.0.114:5540
+CCTV央视台球,http://36.49.51.22:8800/rtp/239.37.0.163:5540
+CCTV电视指南,http://36.49.51.22:8800/rtp/239.37.0.115:5540
 
 
 
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+
+CHC动作电影,http://36.49.51.22:8800/rtp/239.37.0.186:5540
+CHC影迷电影,http://36.49.51.22:8800/rtp/239.37.0.187:5540
+CHC家庭影院,http://36.49.51.22:8800/rtp/239.37.0.188:5540
 
 
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
@@ -170,24 +187,25 @@ CCTV16,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000016/index.m3u8
 
 
 
-CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
-CCTV2,http://175.31.21.146:4480/hls/2/index.m3u8
-CCTV3,http://175.31.21.146:4480/hls/3/index.m3u8
-CCTV4,http://175.31.21.146:4480/hls/4/index.m3u8
-CCTV5,http://175.31.21.146:4480/hls/5/index.m3u8
-CCTV5+,http://175.31.21.146:4480/hls/6/index.m3u8
-CCTV6,http://175.31.21.146:4480/hls/7/index.m3u8
-CCTV7,http://175.31.21.146:4480/hls/8/index.m3u8
-CCTV8,http://175.31.21.146:4480/hls/9/index.m3u8
-CCTV9,http://175.31.21.146:4480/hls/10/index.m3u8
-CCTV10,http://175.31.21.146:4480/hls/11/index.m3u8
-CCTV11,http://175.31.21.146:4480/hls/12/index.m3u8
-CCTV12,http://175.31.21.146:4480/hls/13/index.m3u8
-CCTV13,http://175.31.21.146:4480/hls/14/index.m3u8
-CCTV14,http://175.31.21.146:4480/hls/15/index.m3u8
-CCTV15,http://175.31.21.146:4480/hls/16/index.m3u8
+
+CCTV1,http://36.49.51.22:8800/rtp/239.37.0.008:5540
+CCTV2,http://36.49.51.22:8800/rtp/239.37.0.003:5540
+CCTV3,http://36.49.51.22:8800/rtp/239.37.0.231:5540
+CCTV4,http://36.49.51.22:8800/rtp/239.37.0.022:5540
+CCTV5,http://36.49.51.22:8800/rtp/239.37.0.232:5540
+CCTV5+,http://36.49.51.22:8800/rtp/239.37.0.121:5540
+CCTV6,http://36.49.51.22:8800/rtp/239.37.0.233:5540
+CCTV7,http://182.138.201.26:9991/udp/239.93.1.67:5140
+CCTV8,http://36.49.51.22:8800/rtp/239.37.0.234:5540
+CCTV9,http://36.49.51.22:8800/rtp/239.37.0.001:5540
+CCTV10,http://36.49.51.22:8800/rtp/239.37.0.007:5540
+CCTV11,http://182.138.201.26:9991/udp/239.93.0.102:5140
+CCTV12,http://36.49.51.22:8800/rtp/239.37.0.006:5540
+CCTV13,http://36.49.51.22:8800/rtp/239.37.0.028:5540
+CCTV14,http://36.49.51.22:8800/rtp/239.37.0.005:5540
+CCTV15,http://182.138.201.26:9991/udp/239.93.0.103:5140
 CCTV16,http://175.31.21.146:4480/hls/17/index.m3u8
-CCTV17,http://175.31.21.146:4480/hls/18/index.m3u8
+CCTV17,http://36.49.51.22:8800/rtp/239.37.0.002:5540
 
 
 
@@ -500,21 +518,24 @@ CCTV17,http://175.31.21.146:4480/hls/18/index.m3u8
 
 
 
-吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=jlds
-吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=jlsh
-吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=jlys
-吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=jlgg
-吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=jlxc
-吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=jlzy
-东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8#http://wuqikuanglan.serv00.net/jl.php?id=dbxq
-吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
+吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
+吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8
+吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
+吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
+吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
+吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8
+东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
+吉林教育,http://36.49.51.22:8800/rtp/239.37.0.126:5540#http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
 长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
 
 
 
-吉林市新闻综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
-吉林市公共,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
-吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8
+
+
+
+吉林市新闻综合,http://36.49.51.22:8800/rtp/239.37.0.127:5540#https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
+吉林市公共,http://36.49.51.22:8800/rtp/239.37.0.128:5540#http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
+吉林市科教,http://36.49.51.22:8800/rtp/239.37.0.129:5540#http://61.138.128.226:19901/tsfile/live/1013_1.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
@@ -572,8 +593,8 @@ CCTV17,http://175.31.21.146:4480/hls/18/index.m3u8
 凤凰资讯,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 凤凰资讯,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 凤凰香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
-凤凰電影,p3p://108.181.32.169:24652/6410224e00097a01985ff68e53d22e70 
-星空卫视,p3p://108.181.32.169:24652/64102283000b474e9860c60d1e264899 
+CHANNEL-V,http://182.138.201.26:9991/udp/239.93.0.157:2194
+星空卫视,http://182.138.201.26:9991/udp/239.93.0.156:2193
 澳门莲花,P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242#P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
 澳门-MACAU,P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801#P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf
 纬来电影台,P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
