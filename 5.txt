@@ -60,6 +60,8 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 
 
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 1905国内电影,http://ygbh.live/1905.php?id=1905a
 1905国外电影,http://ygbh.live/1905.php?id=1905b
 
@@ -221,6 +223,9 @@ CCTV17,http://36.49.51.22:8800/rtp/239.37.0.002:5540
 卫视频道,#genre#
 
 
+凤凰卫视,http://free.xiptv.x10.bz/kudou.php?id=122
+凤凰资讯,http://free.xiptv.x10.bz/kudou.php?id=121
+凤凰香港,http://free.xiptv.x10.bz/kudou.php?id=123
 
 
 凤凰卫视,http://171.110.10.194:8181/tsfile/live/1083_1.m3u8
