@@ -265,10 +265,9 @@ CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
 
-凤凰卫视,http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰卫视,http://wouu.net:9977/udp/239.93.1.9:2192
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
+凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?token=512df05ba57ed3414d0e75c93e179adb79c472335e1b461d578d97c59c0f26c25f395bc29286e3144ed4ecef370ce291043e5df6eb8a12112eda406fbc57fd5c21bb65c7
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8?token=512df05ba57ed3414d0e75c93e179adb79c472335e1b461d578d97c59c0f26c25f395bc29286e3144ed4ecef370ce291043e5df6eb8a12112eda4065b157fd5c21bb65c7
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8?token=512df05ba57ed3414d0e75c93e179adb79c472335e1b461d578d97c59c0f26c25f395bc29286e3144ed4ecef370ce291043e5df6eb8a12112eda4064b457fd5c21bb65c7
 
 
 
