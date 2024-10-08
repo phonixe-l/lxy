@@ -53,8 +53,7 @@ CHC家庭影院,http://222.186.57.43:22222/php/cqtv.php?id=chcjt
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-1905国内电影,http://ygbh.live/1905.php?id=1905a
-1905国外电影,http://ygbh.live/1905.php?id=1905b
+
 
 
 
@@ -1111,6 +1110,11 @@ amc电影台,P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 
+
+晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+晴彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 
 WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.flv?wsSecret=663cbecaa4516fed7f1983b0d1f65d73&wsTime=65eabac0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
