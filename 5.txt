@@ -241,7 +241,9 @@ CCTV17,P2p://generationnexxxt.com:19806/d155cd0903944373a0c13e8164532313
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
-
+凤凰卫视,https://vip.taoiptv.cn/source/gzyx.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5.m3u8&sign=ugxuj7
+凤凰资讯,https://vip.taoiptv.cn/source/gzyx.php?id=4ea97af53693ae02392251697dbb52fd.m3u8&sign=ugxuj7
+凤凰香港,
 
 
 
@@ -3836,6 +3838,16 @@ wugltest,http://cfss.cc/cdn/dyu/1844872.flv
 松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
 极限台,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
 彩虹完美台,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
+
+
+
+松視1臺,http://ali.hlspull.yximgs.com/live/e66b318c08a12f8d3f51360658a0ebc0.flv
+松視2臺,http://ali.hlspull.yximgs.com/live/0fca4d751ac6df37496991e20282d590.flv
+松視3臺,http://ali.hlspull.yximgs.com/live/1b655b138b09f45017793a9f6b109130.flv
+彩虹電影臺,http://ali.hlspull.yximgs.com/live/6ec2577ebbc6b6f5b5e65defc0d4916b.flv
+潘多拉紫臺,http://ali.hlspull.yximgs.com/live/2ef534fb3a85548dabec641cc1331917.flv
+奧世驚艷臺,http://ali.hlspull.yximgs.com/live/5ada0fea6e4f2df5185d9e485217f59c.flv
+奧世香蕉臺,http://ali.hlspull.yximgs.com/live/a96b9438e955a688cda661cc97518910.flv
 
 
 
