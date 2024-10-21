@@ -1119,10 +1119,7 @@ amc电影台,P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 
 
-晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-晴彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
 
 
 WWE皇家大战,http://cfss.cc/cdn/hy/20971519.flv#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.flv?wsSecret=663cbecaa4516fed7f1983b0d1f65d73&wsTime=65eabac0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
@@ -1139,12 +1136,17 @@ wwe1,http://120.77.28.4:8648/huya.php?id=27446115
 
 咪咕百事直播,#genre#
 
+晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+晴彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播3,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播4,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播5,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
+晴彩竞技,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+晴彩青少,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+晴彩广场舞,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
 百事通1,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 百事通2,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 百事通3,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -1154,8 +1156,60 @@ wwe1,http://120.77.28.4:8648/huya.php?id=27446115
 百事通7,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 
-
-
+咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播-1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-4,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-5,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-6,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-7,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-17,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-41,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-46,http://111.13.111.242/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-47,http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-48,http://111.13.111.242/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-49,http://111.13.111.242/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-50,http://111.13.111.242/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-51,http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-52,http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-53,http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 
 
