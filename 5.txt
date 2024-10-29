@@ -3790,24 +3790,44 @@ CCTV17,http://36.49.51.252:30007/rtp/239.37.0.002:5540
 
 
 
-CCTV1,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://222.241.154.37:9901/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://222.241.154.37:9901/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://222.241.154.37:9901/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://222.241.154.37:9901/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV-01咪咕,http://180.188.45.80:1665/migu.php?id=cctv1
+CCTV-02咪咕,http://180.188.45.80:1665/migu.php?id=cctv2
+CCTV-03咪咕,http://180.188.45.80:1665/migu.php?id=cctv3
+CCTV-04咪咕,http://180.188.45.80:1665/migu.php?id=cctv4
+CCTV-05咪咕,http://180.188.45.80:1665/migu.php?id=cctv5
+CCTV-5+咪咕,http://180.188.45.80:1665/migu.php?id=cctv5p
+CCTV-06咪咕,http://180.188.45.80:1665/migu.php?id=cctv6
+CCTV-07咪咕,http://180.188.45.80:1665/migu.php?id=cctv7
+CCTV-08咪咕,http://180.188.45.80:1665/migu.php?id=cctv8
+CCTV-09咪咕,http://180.188.45.80:1665/migu.php?id=cctv9
+CCTV-10咪咕,http://180.188.45.80:1665/migu.php?id=cctv10
+CCTV-11咪咕,http://180.188.45.80:1665/migu.php?id=cctv11
+CCTV-12咪咕,http://180.188.45.80:1665/migu.php?id=cctv12
+CCTV-13咪咕,http://180.188.45.80:1665/migu.php?id=cctv13
+CCTV-14咪咕,http://180.188.45.80:1665/migu.php?id=cctv14
+CCTV-15咪咕,http://180.188.45.80:1665/migu.php?id=cctv15
+CCTV-17咪咕,http://180.188.45.80:1665/migu.php?id=cctv17
+
+CCTV-01咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv1
+CCTV-02咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv2
+CCTV-03咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv3
+CCTV-04咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv4
+CCTV-05咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv5
+CCTV-5+咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv5p
+CCTV-06咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv6
+CCTV-07咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv7
+CCTV-08咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv8
+CCTV-09咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv9
+CCTV-10咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv10
+CCTV-11咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv11
+CCTV-12咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv12
+CCTV-13咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv13
+CCTV-14咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv14
+CCTV-15咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv15
+CCTV-17咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv17
+
 
 
 
