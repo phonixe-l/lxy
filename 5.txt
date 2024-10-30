@@ -683,7 +683,7 @@ TechStorm,p2p://generationnexxxt.com:19806/8bc27ba94cc94864a660a217fcc09426
 电视剧轮播,#genre#
 
 
-庆余年,http://120.77.28.4:8648/huya.php?id=11352960#http://124.248.69.76:35455/huya/11352960#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.flv?wsSecret=15dc9d6ce497a032b0b7d5b92e873c9a&wsTime=66d7f87c&seqid=2924984510251&ctype=tars_mobile&ver=1&txyp=o%3Aczeic1%3B&fs=bgct
+庆余年,http://120.77.28.4:8648/huya.php?id=11352960#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.flv?wsSecret=15dc9d6ce497a032b0b7d5b92e873c9a&wsTime=66d7f87c&seqid=2924984510251&ctype=tars_mobile&ver=1&txyp=o%3Aczeic1%3B&fs=bgct
 庆余年,http://cfyy.cc/cdn/dyu/7489563.flv
 大染坊,http://120.77.28.4:8648/huya.php?id=11602086#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=b54abbe20fc4b3a9505567c2f5ce63d6&wsTime=661a3441&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&txyp=o%3Aq6%3B&fs=bgct
 雪豹,http://120.77.28.4:8648/huya.php?id=29580970
@@ -1090,7 +1090,7 @@ wwe1,http://120.77.28.4:8648/huya.php?id=27446115
 
 虎牙频道,#genre#
 
-周星星,http://120.77.28.4:8648/huya.php?id=11342412
+周星星,http://120.77.28.4:8648/huya.php?id=11342412#https://wuqikuanglan.serv00.net/huya.php?id=11342412
 虎牙影院,http://120.77.28.4:8648/huya.php?id=11601968
 回去拿马卡报,http://120.77.28.4:8648/huya.php?id=30080238
 武林萌主唐小姐,http://120.77.28.4:8648/huya.php?id=11336726
