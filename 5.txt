@@ -424,16 +424,32 @@ CCTV17,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/
 吉林频道,#genre#
 
 
+吉林都市,http://122.139.47.206:9901/tsfile/live/1009_1.m3u8?key=txiptv
+吉林生活,http://122.139.47.206:9901/tsfile/live/1011_1.m3u8?key=txiptv
+吉林影视,http://122.139.47.206:9901/tsfile/live/1010_1.m3u8?key=txiptv
+吉林综艺,http://122.139.47.206:9901/tsfile/live/1013_1.m3u8?key=txiptv
+长影频道,http://122.139.47.206:9901/tsfile/live/1012_1.m3u8?key=txiptv
+吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
-吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8#https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?k=53e503b4897c5e568361156fb32e06a3&t=1729672145
-吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8#https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?k=0a198f16b59d053a7bc6ef40c57152e5&t=1729672145
-吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8#https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?k=1002cb6268a423c6df6fb1edf1b39e20&t=1730000505
-吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8#https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?k=9f33c05a042a3ee16819986e9598ea08&t=1730000505
-吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8#https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?k=927efc030afa6fb4a33482a5cb742d7e&t=1730000505
-吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8#https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?k=46af4e98fb52e3a6b7a867b3c628610f&t=1730000505
+
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?k=53e503b4897c5e568361156fb32e06a3&t=1729672145
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?k=0a198f16b59d053a7bc6ef40c57152e5&t=1729672145
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?k=1002cb6268a423c6df6fb1edf1b39e20&t=1730000505
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?k=9f33c05a042a3ee16819986e9598ea08&t=1730000505
+吉林公共,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?k=927efc030afa6fb4a33482a5cb742d7e&t=1730000505
+吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?k=46af4e98fb52e3a6b7a867b3c628610f&t=1730000505
+
+
+吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
+吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8
+吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
+吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
+吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
+吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8
 东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
 长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
+
 
 
 
@@ -3773,21 +3789,42 @@ CCTV16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000
 CCTV17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
 
-CCTV1,http://36.49.51.252:30007/rtp/239.37.0.008:5540
-CCTV2,http://36.49.51.252:30007/rtp/239.37.0.003:5540
-CCTV3,http://36.49.51.252:30007/rtp/239.37.0.231:5540
-cctv4,http://36.49.51.252:30007/rtp/239.37.0.022:5540
-CCTV5,http://36.49.51.252:30007/rtp/239.37.0.232:5540
-CCTV5+,http://36.49.51.252:30007/rtp/239.37.0.121:5540
-CCTV6,http://36.49.51.252:30007/rtp/239.37.0.233:5540
-CCTV8,http://36.49.51.252:30007/rtp/239.37.0.234:5540
-CCTV9,http://36.49.51.252:30007/rtp/239.37.0.001:5540
-CCTV10,http://36.49.51.252:30007/rtp/239.37.0.007:5540
-CCTV12,http://36.49.51.252:30007/rtp/239.37.0.006:5540
-cctv13,http://36.49.51.252:30007/rtp/239.37.0.028:5540
-CCTV14,http://36.49.51.252:30007/rtp/239.37.0.005:5540
-CCTV17,http://36.49.51.252:30007/rtp/239.37.0.002:5540
 
+
+CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
+
+
+
+
+
+CCTV1,http://122.139.47.206:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://122.139.47.206:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://122.139.47.206:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://122.139.47.206:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://122.139.47.206:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6,http://122.139.47.206:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://122.139.47.206:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://122.139.47.206:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://122.139.47.206:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://122.139.47.206:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://122.139.47.206:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://122.139.47.206:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://122.139.47.206:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://122.139.47.206:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://122.139.47.206:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
 
 
