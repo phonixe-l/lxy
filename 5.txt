@@ -4204,7 +4204,22 @@ CCTV14,http://122.139.47.206:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://122.139.47.206:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
 
-
+CCTV1,http://221.199.193.159:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://221.199.193.159:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://221.199.193.159:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://221.199.193.159:9901/tsfile/live/1000_1.m3u8?key=txiptv
+CCTV5,http://221.199.193.159:9901/tsfile/live/1001_1.m3u8?key=txiptv
+CCTV5+,http://221.199.193.159:9901/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV6,http://221.199.193.159:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://221.199.193.159:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://221.199.193.159:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://221.199.193.159:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://221.199.193.159:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://221.199.193.159:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://221.199.193.159:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://221.199.193.159:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://221.199.193.159:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://221.199.193.159:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
 
 
@@ -4224,6 +4239,23 @@ CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
 
 
+CCTV1,http://220.192.5.142:8888/rtp/225.0.4.74:7980
+CCTV2,http://220.192.5.142:8888/rtp/225.0.4.132:7980
+CCTV3,http://220.192.5.142:8888/rtp/225.0.4.142:7980
+CCTV4,http://220.192.5.142:8888/rtp/225.0.4.176:7980
+CCTV5,http://220.192.5.142:8888/rtp/225.0.4.143:7980
+CCTV5+,http://220.192.5.142:8888/rtp/225.0.4.73:7980
+CCTV6,http://220.192.5.142:8888/rtp/225.0.4.144:7980
+CCTV7,http://220.192.5.142:8888/rtp/225.0.4.127:7980
+CCTV8,http://220.192.5.142:8888/rtp/225.0.4.137:7980
+CCTV9,http://220.192.5.142:8888/rtp/225.0.4.131:7980
+CCTV10,http://220.192.5.142:8888/rtp/225.0.4.130:7980
+CCTV11,http://220.192.5.142:8888/rtp/225.0.4.218:7980
+CCTV12,http://220.192.5.142:8888/rtp/225.0.4.129:7980
+CCTV13,http://220.192.5.142:8888/rtp/225.0.4.219:7980
+CCTV14,http://220.192.5.142:8888/rtp/225.0.4.128:7980
+CCTV15,http://220.192.5.142:8888/rtp/225.0.4.220:7980
+CCTV17,http://220.192.5.142:8888/rtp/225.0.4.179:7980
 
 
 
