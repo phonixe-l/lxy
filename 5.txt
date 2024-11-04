@@ -4256,7 +4256,7 @@ CCTV13,http://220.192.5.142:8888/rtp/225.0.4.219:7980
 CCTV14,http://220.192.5.142:8888/rtp/225.0.4.128:7980
 CCTV15,http://220.192.5.142:8888/rtp/225.0.4.220:7980
 CCTV17,http://220.192.5.142:8888/rtp/225.0.4.179:7980
-
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 
 
 CCTV-01咪咕,http://117.72.68.25:9930/migu.php?id=cctv1
@@ -4265,7 +4265,6 @@ CCTV-03咪咕,http://117.72.68.25:9930/migu.php?id=cctv3
 CCTV-04咪咕,http://117.72.68.25:9930/migu.php?id=cctv4
 CCTV-05咪咕,http://117.72.68.25:9930/migu.php?id=cctv5
 CCTV-5+咪咕,http://117.72.68.25:9930/migu.php?id=cctv5p
-CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV-06咪咕,http://117.72.68.25:9930/migu.php?id=cctv6
 CCTV-07咪咕,http://117.72.68.25:9930/migu.php?id=cctv7
 CCTV-08咪咕,http://117.72.68.25:9930/migu.php?id=cctv8
@@ -4277,29 +4276,6 @@ CCTV-13咪咕,http://117.72.68.25:9930/migu.php?id=cctv13
 CCTV-14咪咕,http://117.72.68.25:9930/migu.php?id=cctv14
 CCTV-15咪咕,http://117.72.68.25:9930/migu.php?id=cctv15
 CCTV-17咪咕,http://117.72.68.25:9930/migu.php?id=cctv17
-
-CCTV-01咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv1
-CCTV-02咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv2
-CCTV-03咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv3
-CCTV-04咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv4
-CCTV-05咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv5
-CCTV-5+咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv5p
-CCTV-06咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv6
-CCTV-07咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv7
-CCTV-08咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv8
-CCTV-09咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv9
-CCTV-10咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv10
-CCTV-11咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv11
-CCTV-12咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv12
-CCTV-13咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv13
-CCTV-14咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv14
-CCTV-15咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv15
-CCTV-17咪咕,http://www.joaolei.cn:55667/php/yw/咪咕.php?id=cctv17
-
-
-民视,p3p://108.181.32.169:13132/64251dd200003544ea55fe1c5eb00e42
-
-CCTV-1,p3p://108.181.32.169:13132/64260c74000c73e9edfa2a0e354364a8
 
 
 
