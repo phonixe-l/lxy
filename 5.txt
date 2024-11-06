@@ -565,7 +565,6 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -586,13 +585,11 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+
+
+
+
+
 
 澳门莲花台,http://tttt.findvps.top/api.php?id=25581&tk=1919c911a310d83cae
 澳视澳门台,http://tttt.findvps.top/api.php?id=35109&tk=1919c911a310d83cae
@@ -601,45 +598,21 @@ viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 澳门体育台,http://tttt.findvps.top/api.php?id=84699&tk=1919c911a310d83cae
 星空卫视,http://tttt.findvps.top/api.php?id=63141&tk=1919c911a310d83cae
 星空卫视,http://tttt.findvps.top/api.php?id=54625&tk=1919c911a310d83cae
-莲花卫视,http://tttt.findvps.top/api.php?id=54321&tk=1919c911a310d83cae
 星光视界,http://tttt.findvps.top/api.php?id=29404&tk=1919c911a310d83cae
 民视第一,http://tttt.findvps.top/api.php?id=84532&tk=1919c911a310d83cae
 民视台湾,http://tttt.findvps.top/api.php?id=74858&tk=1919c911a310d83cae
 龙华电影,http://tttt.findvps.top/api.php?id=26358&tk=1919c911a310d83cae
-CMUSIC音樂,http://tttt.findvps.top/api.php?id=22809&tk=1919c911a310d83cae
 博斯运动,http://tttt.findvps.top/api.php?id=41574&tk=1919c911a310d83cae
 TVBS欢乐,http://tttt.findvps.top/api.php?id=43243&tk=1919c911a310d83cae
 博斯高球,http://tttt.findvps.top/api.php?id=57155&tk=1919c911a310d83cae
 东森新闻,http://tttt.findvps.top/api.php?id=71893&tk=1919c911a310d83cae
 亚洲旅游,http://tttt.findvps.top/api.php?id=56236&tk=1919c911a310d83cae
-三立,http://tttt.findvps.top/api.php?id=78094&tk=1919c911a310d83cae
-龙华日韩,http://tttt.findvps.top/api.php?id=60890&tk=1919c911a310d83cae
-龙华戏剧,http://tttt.findvps.top/api.php?id=37824&tk=1919c911a310d83cae
-中视经典,http://tttt.findvps.top/api.php?id=61722&tk=1919c911a310d83cae
-中视青采,http://tttt.findvps.top/api.php?id=54177&tk=1919c911a310d83cae
-寰宇台湾,http://tttt.findvps.top/api.php?id=99202&tk=1919c911a310d83cae
-公视戏剧,http://tttt.findvps.top/api.php?id=18959&tk=1919c911a310d83cae
-全球财经,http://tttt.findvps.top/api.php?id=85243&tk=1919c911a310d83cae
+三立综合,http://tttt.findvps.top/api.php?id=78094&tk=1919c911a310d83cae
 华视新闻,http://tttt.findvps.top/api.php?id=67341&tk=1919c911a310d83cae
-镜新闻,http://tttt.findvps.top/api.php?id=56407&tk=1919c911a310d83cae
-民视,http://tttt.findvps.top/api.php?id=99220&tk=1919c911a310d83cae
-中视,http://tttt.findvps.top/api.php?id=70466&tk=1919c911a310d83cae
-靖洋戏剧,http://tttt.findvps.top/api.php?id=31722&tk=1919c911a310d83cae
-靖天電影,http://tttt.findvps.top/api.php?id=57169&tk=1919c911a310d83cae
-寰宇财经,http://tttt.findvps.top/api.php?id=67683&tk=1919c911a310d83cae
-智林体育,http://tttt.findvps.top/api.php?id=68098&tk=1919c911a310d83cae
-人间卫视,http://tttt.findvps.top/api.php?id=87074&tk=1919c911a310d83cae
-八大綜合,http://tttt.findvps.top/api.php?id=20801&tk=1919c911a310d83cae
+民视HD,http://tttt.findvps.top/api.php?id=99220&tk=1919c911a310d83cae
+中视HD,http://tttt.findvps.top/api.php?id=70466&tk=1919c911a310d83cae
 幸福空间,http://tttt.findvps.top/api.php?id=73402&tk=1919c911a310d83cae
 博斯无线,http://tttt.findvps.top/api.php?id=31264&tk=1919c911a310d83cae
-台视频道,http://tttt.findvps.top/api.php?id=44051&tk=1919c911a310d83cae
-民视频道,http://tttt.findvps.top/api.php?id=61860&tk=1919c911a310d83cae
-纬来日本,http://tttt.findvps.top/api.php?id=42809&tk=1919c911a310d83cae
-东森超视,http://tttt.findvps.top/api.php?id=54049&tk=1919c911a310d83cae
-中视频道,http://tttt.findvps.top/api.php?id=77321&tk=1919c911a310d83cae
-华视频道,http://tttt.findvps.top/api.php?id=61463&tk=1919c911a310d83cae
-纬来育乐,http://tttt.findvps.top/api.php?id=55890&tk=1919c911a310d83cae
-纬来体育,http://tttt.findvps.top/api.php?id=84986&tk=1919c911a310d83cae
 FOX新聞,http://tttt.findvps.top/api.php?id=55845&tk=1919c911a310d83cae
 人间卫视,http://tttt.findvps.top/api.php?id=46542&tk=1919c911a310d83cae
 人间卫视,http://tttt.findvps.top/api.php?id=20121&tk=1919c911a310d83cae
@@ -647,9 +620,6 @@ FOX新聞,http://tttt.findvps.top/api.php?id=55845&tk=1919c911a310d83cae
 八大戏剧,http://tttt.findvps.top/api.php?id=18964&tk=1919c911a310d83cae
 八大綜合,http://tttt.findvps.top/api.php?id=66852&tk=1919c911a310d83cae
 大立电视,http://tttt.findvps.top/api.php?id=69979&tk=1919c911a310d83cae
-MoMo综合,http://tttt.findvps.top/api.php?id=67022&tk=1919c911a310d83cae
-ELEVEN体育1,http://tttt.findvps.top/api.php?id=57335&tk=1919c911a310d83cae
-ELEVEN体育2,http://tttt.findvps.top/api.php?id=42573&tk=1919c911a310d83cae
 
 
 
@@ -4256,44 +4226,27 @@ CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp
 
 
 
-CCTV-1,http://tttt.findvps.top/api.php?id=14653&tk=1919c911a310d83cae
-CCTV-2,http://tttt.findvps.top/api.php?id=87696&tk=1919c911a310d83cae
-CCTV-3,http://tttt.findvps.top/api.php?id=70649&tk=1919c911a310d83cae
-CCTV-4,http://tttt.findvps.top/api.php?id=24303&tk=1919c911a310d83cae
-CCTV-5,http://tttt.findvps.top/api.php?id=27238&tk=1919c911a310d83cae
-CCTV-5+,http://tttt.findvps.top/api.php?id=97871&tk=1919c911a310d83cae
-CCTV-6,http://tttt.findvps.top/api.php?id=67917&tk=1919c911a310d83cae
-CCTV-7,http://tttt.findvps.top/api.php?id=29502&tk=1919c911a310d83cae
-CCTV-8,http://tttt.findvps.top/api.php?id=82940&tk=1919c911a310d83cae
-CCTV-9,http://tttt.findvps.top/api.php?id=93939&tk=1919c911a310d83cae
-CCTV-10,http://tttt.findvps.top/api.php?id=97577&tk=1919c911a310d83cae
-CCTV-11,http://tttt.findvps.top/api.php?id=90579&tk=1919c911a310d83cae
-CCTV-12,http://tttt.findvps.top/api.php?id=12870&tk=1919c911a310d83cae
-CCTV-13,http://tttt.findvps.top/api.php?id=46705&tk=1919c911a310d83cae
-CCTV-14,http://tttt.findvps.top/api.php?id=79398&tk=1919c911a310d83cae
-CCTV-15,http://tttt.findvps.top/api.php?id=89920&tk=1919c911a310d83cae
-CCTV-16,http://tttt.findvps.top/api.php?id=20208&tk=1919c911a310d83cae
-CCTV-17,http://tttt.findvps.top/api.php?id=21045&tk=1919c911a310d83cae
+CCTV1,http://tttt.findvps.top/api.php?id=14653&tk=1919c911a310d83cae
+CCTV2,http://tttt.findvps.top/api.php?id=87696&tk=1919c911a310d83cae
+CCTV3,http://tttt.findvps.top/api.php?id=70649&tk=1919c911a310d83cae
+CCTV4,http://tttt.findvps.top/api.php?id=24303&tk=1919c911a310d83cae
+CCTV5,http://tttt.findvps.top/api.php?id=27238&tk=1919c911a310d83cae
+CCTV5+,http://tttt.findvps.top/api.php?id=97871&tk=1919c911a310d83cae
+CCTV6,http://tttt.findvps.top/api.php?id=67917&tk=1919c911a310d83cae
+CCTV7,http://tttt.findvps.top/api.php?id=29502&tk=1919c911a310d83cae
+CCTV8,http://tttt.findvps.top/api.php?id=82940&tk=1919c911a310d83cae
+CCTV9,http://tttt.findvps.top/api.php?id=93939&tk=1919c911a310d83cae
+CCTV10,http://tttt.findvps.top/api.php?id=97577&tk=1919c911a310d83cae
+CCTV11,http://tttt.findvps.top/api.php?id=90579&tk=1919c911a310d83cae
+CCTV12,http://tttt.findvps.top/api.php?id=12870&tk=1919c911a310d83cae
+CCTV13,http://tttt.findvps.top/api.php?id=46705&tk=1919c911a310d83cae
+CCTV14,http://tttt.findvps.top/api.php?id=79398&tk=1919c911a310d83cae
+CCTV15,http://tttt.findvps.top/api.php?id=89920&tk=1919c911a310d83cae
+CCTV16,http://tttt.findvps.top/api.php?id=20208&tk=1919c911a310d83cae
+CCTV17,http://tttt.findvps.top/api.php?id=21045&tk=1919c911a310d83cae
 
 
-CCTV-1,http://27.25.159.105:18000/url/api.php?id=44178&tk=32724df26a6011964e
-CCTV-2,http://27.25.159.105:18000/url/api.php?id=23774&tk=32724df26a6011964e
-CCTV-3,http://27.25.159.105:18000/url/api.php?id=42268&tk=32724df26a6011964e
-CCTV-4,http://27.25.159.105:18000/url/api.php?id=42032&tk=32724df26a6011964e
-CCTV-5,http://27.25.159.105:18000/url/api.php?id=84735&tk=32724df26a6011964e
-CCTV-5+,http://27.25.159.105:18000/url/api.php?id=72920&tk=32724df26a6011964e
-CCTV-6,http://27.25.159.105:18000/url/api.php?id=73152&tk=32724df26a6011964e
-CCTV-7,http://27.25.159.105:18000/url/api.php?id=83461&tk=32724df26a6011964e
-CCTV-8,http://27.25.159.105:18000/url/api.php?id=23719&tk=32724df26a6011964e
-CCTV-9,http://27.25.159.105:18000/url/api.php?id=35674&tk=32724df26a6011964e
-CCTV-10,http://27.25.159.105:18000/url/api.php?id=29940&tk=32724df26a6011964e
-CCTV-11,http://27.25.159.105:18000/url/api.php?id=81918&tk=32724df26a6011964e
-CCTV-12,http://27.25.159.105:18000/url/api.php?id=55905&tk=32724df26a6011964e
-CCTV-13,http://27.25.159.105:18000/url/api.php?id=64255&tk=32724df26a6011964e
-CCTV-14,http://27.25.159.105:18000/url/api.php?id=50114&tk=32724df26a6011964e
-CCTV-15,http://27.25.159.105:18000/url/api.php?id=88404&tk=32724df26a6011964e
-CCTV-16,http://27.25.159.105:18000/url/api.php?id=56816&tk=32724df26a6011964e
-CCTV-17,http://27.25.159.105:18000/url/api.php?id=53254&tk=32724df26a6011964e
+
 
 
 
