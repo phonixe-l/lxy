@@ -4292,6 +4292,11 @@ CCTV-17,http://tttt.findvps.top/api.php?id=51761&tk=473691e76599e47cbd
 内部测试_147258,#genre#
 
 
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+奧視3,http://125.227.210.55:8917/VideoInput/play.ts
+奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
 
 
 
