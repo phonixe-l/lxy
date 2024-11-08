@@ -4193,22 +4193,6 @@ wugltest,http://cfss.cc/cdn/dyu/1844872.flv
 
 
 
-CCTV1,http://122.139.47.206:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://122.139.47.206:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://122.139.47.206:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://122.139.47.206:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://122.139.47.206:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://122.139.47.206:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7,http://122.139.47.206:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://122.139.47.206:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://122.139.47.206:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://122.139.47.206:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://122.139.47.206:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://122.139.47.206:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://122.139.47.206:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://122.139.47.206:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://122.139.47.206:9901/tsfile/live/0015_1.m3u8?key=txiptv
-
 
 CCTV1,http://221.199.193.159:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://221.199.193.159:9901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -4243,24 +4227,11 @@ CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
-
-
-CCTV1,http://180.117.149.162:9901/tsfile/live/0001_1.m3u8
-CCTV2,http://180.117.149.162:9901/tsfile/live/0002_1.m3u8
-CCTV3,http://180.117.149.162:9901/tsfile/live/0003_1.m3u8
-CCTV4,http://180.117.149.162:9901/tsfile/live/0004_1.m3u8
-CCTV5,http://180.117.149.162:9901/tsfile/live/0005_1.m3u8
-CCTV6,http://180.117.149.162:9901/tsfile/live/0006_1.m3u8
-CCTV7,http://180.117.149.162:9901/tsfile/live/0007_1.m3u8
-CCTV8,http://180.117.149.162:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://180.117.149.162:9901/tsfile/live/0009_1.m3u8
-CCTV10,http://180.117.149.162:9901/tsfile/live/0010_1.m3u8
-CCTV11,http://180.117.149.162:9901/tsfile/live/0011_1.m3u8
-CCTV12,http://180.117.149.162:9901/tsfile/live/0012_1.m3u8
-CCTV13,http://180.117.149.162:9901/tsfile/live/0013_1.m3u8
-CCTV14,http://180.117.149.162:9901/tsfile/live/0014_1.m3u8
-CCTV15,http://180.117.149.162:9901/tsfile/live/0015_1.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+
+
+
+
 
 
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
@@ -4283,24 +4254,55 @@ CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp
 
 
 
-CCTV-1,http://tttt.findvps.top/api.php?id=59550&tk=473691e76599e47cbd
-CCTV-2,http://tttt.findvps.top/api.php?id=44227&tk=473691e76599e47cbd
-CCTV-3,http://tttt.findvps.top/api.php?id=72492&tk=473691e76599e47cbd
-CCTV-4,http://tttt.findvps.top/api.php?id=83691&tk=473691e76599e47cbd
-CCTV-5,http://tttt.findvps.top/api.php?id=65872&tk=473691e76599e47cbd
-CCTV-5+,http://tttt.findvps.top/api.php?id=93170&tk=473691e76599e47cbd
-CCTV-6,http://tttt.findvps.top/api.php?id=18736&tk=473691e76599e47cbd
-CCTV-7,http://tttt.findvps.top/api.php?id=78551&tk=473691e76599e47cbd
-CCTV-8,http://tttt.findvps.top/api.php?id=50883&tk=473691e76599e47cbd
-CCTV-9,http://tttt.findvps.top/api.php?id=12029&tk=473691e76599e47cbd
-CCTV-10,http://tttt.findvps.top/api.php?id=77902&tk=473691e76599e47cbd
-CCTV-11,http://tttt.findvps.top/api.php?id=22823&tk=473691e76599e47cbd
-CCTV-12,http://tttt.findvps.top/api.php?id=78919&tk=473691e76599e47cbd
-CCTV-13,http://tttt.findvps.top/api.php?id=83973&tk=473691e76599e47cbd
-CCTV-14,http://tttt.findvps.top/api.php?id=25433&tk=473691e76599e47cbd
-CCTV-15,http://tttt.findvps.top/api.php?id=84388&tk=473691e76599e47cbd
-CCTV-16,http://tttt.findvps.top/api.php?id=46347&tk=473691e76599e47cbd
-CCTV-17,http://tttt.findvps.top/api.php?id=51761&tk=473691e76599e47cbd
+
+CCTV-1,http://tttt.findvps.top/api.php?id=51272&tk=3f2bee1fb50375b90e
+CCTV-2,http://tttt.findvps.top/api.php?id=47195&tk=3f2bee1fb50375b90e
+CCTV-3,http://tttt.findvps.top/api.php?id=34055&tk=3f2bee1fb50375b90e
+CCTV-4,http://tttt.findvps.top/api.php?id=15068&tk=3f2bee1fb50375b90e
+CCTV-5,http://tttt.findvps.top/api.php?id=51580&tk=3f2bee1fb50375b90e
+CCTV-5+,http://tttt.findvps.top/api.php?id=48869&tk=3f2bee1fb50375b90e
+CCTV-6,http://tttt.findvps.top/api.php?id=33285&tk=3f2bee1fb50375b90e
+CCTV-7,http://tttt.findvps.top/api.php?id=66110&tk=3f2bee1fb50375b90e
+CCTV-8,http://tttt.findvps.top/api.php?id=46144&tk=3f2bee1fb50375b90e
+CCTV-9,http://tttt.findvps.top/api.php?id=93779&tk=3f2bee1fb50375b90e
+CCTV-10,http://tttt.findvps.top/api.php?id=77232&tk=3f2bee1fb50375b90e
+CCTV-11,http://tttt.findvps.top/api.php?id=83023&tk=3f2bee1fb50375b90e
+CCTV-12,http://tttt.findvps.top/api.php?id=50599&tk=3f2bee1fb50375b90e
+CCTV-13,http://tttt.findvps.top/api.php?id=59279&tk=3f2bee1fb50375b90e
+CCTV-14,http://tttt.findvps.top/api.php?id=93032&tk=3f2bee1fb50375b90e
+CCTV-15,http://tttt.findvps.top/api.php?id=89428&tk=3f2bee1fb50375b90e
+CCTV-16,http://tttt.findvps.top/api.php?id=95188&tk=3f2bee1fb50375b90e
+CCTV-17,http://tttt.findvps.top/api.php?id=98602&tk=3f2bee1fb50375b90e
+
+
+
+
+
+长春综合,http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
+长春综合,http://r2bj.vzan.com/v/slowlive_763922717250086092.m3u8
+长春综合,http://r2bj.vzan.com/v/slowlive_763922717250086092.flv
+     
+
+长春文旅体育,http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
+长春文旅体育,http://r2bj.vzan.com/v/slowlive_077592635708642635.m3u8
+长春文旅体育,http://r2bj.vzan.com/v/slowlive_077592635708642635.flv
+        
+
+长春市民生活,http://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
+长春市民生活,http://r2bj.vzan.com/v/slowlive_317775187203351257.m3u8
+长春市民生活,http://r2bj.vzan.com/v/slowlive_317775187203351257.flv
+        
+
+长春经济,http://p2bj.vzan.com/slowlive/349780930188572439/live.m3u8
+长春经济,http://r2bj.vzan.com/v/slowlive_349780930188572439.m3u8
+长春经济,http://r2bj.vzan.com/v/slowlive_349780930188572439.flv
+         
+
+长春汽车,http://p2bj.vzan.com/slowlive/978419341085239014/live.m3u8
+长春汽车,http://r2bj.vzan.com/v/slowlive_978419341085239014.m3u8
+长春汽车,http://r2bj.vzan.com/v/slowlive_978419341085239014.flv
+        
+
 
 
 
