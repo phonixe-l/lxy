@@ -193,13 +193,11 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 
 
 
-凤凰卫视,http://tttt.findvps.top/api.php?id=99978&tk=473691e76599e47cbd
-凤凰资讯,http://tttt.findvps.top/api.php?id=15198&tk=473691e76599e47cbd
-凤凰香港,http://tttt.findvps.top/api.php?id=20696&tk=473691e76599e47cbd
+
 
 
 凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8#https://wuqikuanglan.serv00.net/1.php?id=fhzx
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 
