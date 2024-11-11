@@ -4178,46 +4178,6 @@ wugltest,http://cfss.cc/cdn/dyu/1844872.flv
 
 
 
-CCTV1,http://221.199.193.159:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://221.199.193.159:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://221.199.193.159:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://221.199.193.159:9901/tsfile/live/1000_1.m3u8?key=txiptv
-CCTV5,http://221.199.193.159:9901/tsfile/live/1001_1.m3u8?key=txiptv
-CCTV5+,http://221.199.193.159:9901/tsfile/live/1002_1.m3u8?key=txiptv
-CCTV6,http://221.199.193.159:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7,http://221.199.193.159:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://221.199.193.159:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://221.199.193.159:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://221.199.193.159:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://221.199.193.159:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://221.199.193.159:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://221.199.193.159:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://221.199.193.159:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://221.199.193.159:9901/tsfile/live/0015_1.m3u8?key=txiptv
-
-
-
-CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-
-
-
-
-
-
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
 CCTV3,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
@@ -4236,6 +4196,8 @@ CCTV14,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9
 CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
 CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
 
+
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 
 
 
