@@ -191,13 +191,14 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 卫视频道,#genre#
 
 
-
+凤凰卫视,http://211.72.65.236:8577/.m3u8
+凤凰资讯,http://211.72.65.236:8576/.m3u8
 
 
 
 
 凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8#https://wuqikuanglan.serv00.net/1.php?id=fhzx
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 
@@ -588,58 +589,64 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 
-民視第一,http://tttt.findvps.top/api.php?id=17127&tk=3f2bee1fb50375b90e
-民視台灣,http://tttt.findvps.top/api.php?id=52022&tk=3f2bee1fb50375b90e
-龍華電影,http://tttt.findvps.top/api.php?id=40544&tk=3f2bee1fb50375b90e
-CMUSIC音樂,http://tttt.findvps.top/api.php?id=41627&tk=3f2bee1fb50375b90e
-博斯運動1,http://tttt.findvps.top/api.php?id=44979&tk=3f2bee1fb50375b90e
-TVBS歡樂,http://tttt.findvps.top/api.php?id=42135&tk=3f2bee1fb50375b90e
-博斯高球1,http://tttt.findvps.top/api.php?id=67842&tk=3f2bee1fb50375b90e
-東森新聞,http://tttt.findvps.top/api.php?id=77105&tk=3f2bee1fb50375b90e
-亚洲旅游,http://tttt.findvps.top/api.php?id=36653&tk=3f2bee1fb50375b90e
-三立,http://tttt.findvps.top/api.php?id=23032&tk=3f2bee1fb50375b90e
-龙华日韩,http://tttt.findvps.top/api.php?id=97854&tk=3f2bee1fb50375b90e
-龙华戏剧,http://tttt.findvps.top/api.php?id=91200&tk=3f2bee1fb50375b90e
-中视经典,http://tttt.findvps.top/api.php?id=50128&tk=3f2bee1fb50375b90e
-中视青采,http://tttt.findvps.top/api.php?id=98199&tk=3f2bee1fb50375b90e
-寰宇台湾,http://tttt.findvps.top/api.php?id=70197&tk=3f2bee1fb50375b90e
-全球财经,http://tttt.findvps.top/api.php?id=22657&tk=3f2bee1fb50375b90e
-華視新聞,http://tttt.findvps.top/api.php?id=24035&tk=3f2bee1fb50375b90e
-互動英語,http://tttt.findvps.top/api.php?id=10449&tk=3f2bee1fb50375b90e
-民视,http://tttt.findvps.top/api.php?id=22873&tk=3f2bee1fb50375b90e
-中视,http://tttt.findvps.top/api.php?id=25235&tk=3f2bee1fb50375b90e
-影迷,http://tttt.findvps.top/api.php?id=87894&tk=3f2bee1fb50375b90e
-超人,http://tttt.findvps.top/api.php?id=48821&tk=3f2bee1fb50375b90e
-综艺,http://tttt.findvps.top/api.php?id=31712&tk=3f2bee1fb50375b90e
-影剧,http://tttt.findvps.top/api.php?id=44548&tk=3f2bee1fb50375b90e
-旅游,http://tttt.findvps.top/api.php?id=71026&tk=3f2bee1fb50375b90e
-靖洋戲劇,http://tttt.findvps.top/api.php?id=84445&tk=3f2bee1fb50375b90e
-靖天電影,http://tttt.findvps.top/api.php?id=89030&tk=3f2bee1fb50375b90e
-寰宇财经,http://tttt.findvps.top/api.php?id=90756&tk=3f2bee1fb50375b90e
-智林体育,http://tttt.findvps.top/api.php?id=53601&tk=3f2bee1fb50375b90e
-東森購物,http://tttt.findvps.top/api.php?id=37967&tk=3f2bee1fb50375b90e
-人间卫视,http://tttt.findvps.top/api.php?id=71631&tk=3f2bee1fb50375b90e
-八大綜合,http://tttt.findvps.top/api.php?id=48648&tk=3f2bee1fb50375b90e
-幸福空間,http://tttt.findvps.top/api.php?id=42873&tk=3f2bee1fb50375b90e
-東森購物,http://tttt.findvps.top/api.php?id=75982&tk=3f2bee1fb50375b90e
-博斯無限,http://tttt.findvps.top/api.php?id=73964&tk=3f2bee1fb50375b90e
-台视频道,http://tttt.findvps.top/api.php?id=36444&tk=3f2bee1fb50375b90e
-民视频道,http://tttt.findvps.top/api.php?id=95015&tk=3f2bee1fb50375b90e
-纬来日本,http://tttt.findvps.top/api.php?id=61363&tk=3f2bee1fb50375b90e
-东森超视,http://tttt.findvps.top/api.php?id=88414&tk=3f2bee1fb50375b90e
-中视频道,http://tttt.findvps.top/api.php?id=85392&tk=3f2bee1fb50375b90e
-華視频道,http://tttt.findvps.top/api.php?id=91526&tk=3f2bee1fb50375b90e
-纬来育乐,http://tttt.findvps.top/api.php?id=80332&tk=3f2bee1fb50375b90e
-MoMo综合,http://tttt.findvps.top/api.php?id=54358&tk=3f2bee1fb50375b90e
-ELEVEN体育1,http://tttt.findvps.top/api.php?id=84813&tk=3f2bee1fb50375b90e
-ELEVEN体育2,http://tttt.findvps.top/api.php?id=41256&tk=3f2bee1fb50375b90e
-纬来体育,http://tttt.findvps.top/api.php?id=98144&tk=3f2bee1fb50375b90e
-FOX新聞,http://tttt.findvps.top/api.php?id=72499&tk=3f2bee1fb50375b90e
-人間衛視,http://tttt.findvps.top/api.php?id=38024&tk=3f2bee1fb50375b90e
-人間衛視,http://tttt.findvps.top/api.php?id=15938&tk=3f2bee1fb50375b90e
-人間衛視,http://tttt.findvps.top/api.php?id=63836&tk=3f2bee1fb50375b90e
-八大戲劇,http://tttt.findvps.top/api.php?id=14495&tk=3f2bee1fb50375b90e
-八大綜合,http://tttt.findvps.top/api.php?id=89788&tk=3f2bee1fb50375b90e
+TVBS新闻台,http://211.72.65.236:8574/.m3u8
+年代新闻,http://211.72.65.236:8539/.m3u8
+东森新闻,http://211.72.65.236:8540/.m3u8
+中天新闻,http://211.72.65.236:8541/.m3u8
+民视新闻台,http://211.72.65.236:8542/.m3u8
+三立新闻,http://211.72.65.236:8543/.m3u8
+非凡商业,http://211.72.65.236:8545/.m3u8
+东森财经新闻,http://211.72.65.236:8546/.m3u8
+寰宇新闻台,http://211.72.65.236:8547/.m3u8
+壹新闻,http://211.72.65.236:8548/.m3u8
+龙华戏剧,http://211.72.65.236:8549/.m3u8
+龙华日韩,http://211.72.65.236:8550/.m3u8
+龙华偶像,http://211.72.65.236:8555/.m3u8
+龙华电影,http://211.72.65.236:8556/.m3u8
+龙华偶像,http://211.72.65.236:8555/.m3u8
+龙华电影,http://211.72.65.236:8556/.m3u8
+Bloomberg,http://211.72.65.236:8551/.m3u8
+NHK,http://211.72.65.236:8552/.m3u8
+momo综合台,http://211.72.65.236:8553/.m3u8
+好莱坞电影台,http://211.72.65.236:8554/.m3u8
+CINEMAX,http://211.72.65.236:8559/.m3u8
+卫视合家欢,http://211.72.65.236:8561/.m3u8
+博斯运动1,http://211.72.65.236:8557/.m3u8
+ELEVEN1,http://211.72.65.236:8566/.m3u8
+ELEVEN2,http://211.72.65.236:8567/.m3u8
+中视,http://211.72.65.236:8502/.m3u8
+华视,http://211.72.65.236:8503/.m3u8
+民视,http://211.72.65.236:8504/.m3u8
+公视,http://211.72.65.236:8505/.m3u8
+人间卫视,http://211.72.65.236:8506/.m3u8
+大爱,http://211.72.65.236:8507/.m3u8
+好消息,http://211.72.65.236:8508/.m3u8
+国家地理,http://211.72.65.236:8509/.m3u8
+探索频道,http://211.72.65.236:8510/.m3u8
+TLC,http://211.72.65.236:8511/.m3u8
+动物星球,http://211.72.65.236:8512/.m3u8
+亚洲旅游台,http://211.72.65.236:8513/.m3u8
+东森幼幼,http://211.72.65.236:8515/.m3u8
+龙华卡通,http://211.72.65.236:8516/.m3u8
+纬来综合,http://211.72.65.236:8518/.m3u8
+纬来戏剧,http://211.72.65.236:8533/.m3u8
+纬来日本,http://211.72.65.236:8537/.m3u8
+八大第一台,http://211.72.65.236:8519/.m3u8
+八大综合台,http://211.72.65.236:8520/.m3u8
+八大戏剧台,http://211.72.65.236:8531/.m3u8
+三立台湾台,http://211.72.65.236:8521/.m3u8
+三立都会台,http://211.72.65.236:8522/.m3u8
+卫视中文台,http://211.72.65.236:8523/.m3u8
+东森综合,http://211.72.65.236:8524/.m3u8
+东森戏剧,http://211.72.65.236:8530/.m3u8
+东森超视,http://211.72.65.236:8525/.m3u8
+中天综合,http://211.72.65.236:8526/.m3u8
+中天娱乐,http://211.72.65.236:8527/.m3u8
+东风37,http://211.72.65.236:8528/.m3u8
+年代MUCH,http://211.72.65.236:8529/.m3u8
+TVBS欢乐台,http://211.72.65.236:8532/.m3u8
+TVBS HD,http://211.72.65.236:8575/.m3u8
+
 
 
 
@@ -4172,27 +4179,24 @@ wugltest,http://cfss.cc/cdn/dyu/1844872.flv
 央视IPV4,#genre#
 
 
-
-
-
-
-CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
-CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
-CCTV3,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
-CCTV4,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
-CCTV5,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
-CCTV5+,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
-CCTV6,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
-CCTV7,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
-CCTV8,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
-CCTV9,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
-CCTV10,https://api.livednow.org/migu/624878405?sign=gAAAAABnJcJqUD0VJHgW_jpi9fSEDhVqtVpgjlm5l2RFB5crphtq4Lgd1pE-Tc_n_qCmd9kwraXg4RZcc0KxzMy3Ef70prdHPMgkFbuJGwsobC29UUm_Kh7XbBVy-fqPer-IzPfc4oRJ10aPTq5_azxz8u2Qp6Ay2EYOLMg1O-EnQ79eNgaXc-2s1ccgdc5zllFwTrdP0XNkac4cX20eCWKPBULxodi6KQ%3D%3D
-CCTV11,https://api.livednow.org/migu/667987558?sign=gAAAAABnJcJq0uxG3wXdtrtqiIBCWRnKBVOa5nG_MrcR-XE_FxKhhSx7qj7d71b67HWtpFnV2yWlbi0DB4eVSBIi6y6ATRTRy-BAzHYzmANZxHCzKfrpNUunkDnLY0q7rIKTNSg3JuHII5wLmoBSDoeTzc8Tt6xXcUd5Hv-oHFU6L8gBAJjtBl6u0vGjL4NCXzTdg5rTNQf-Lx3S3ew-DiWy1XnrFEc26g%3D%3D
-CCTV12,https://api.livednow.org/migu/673168185?sign=gAAAAABnJcJqfs_3emdJIy9mYYyN6M29-FRfMp5HBvyku5jviEWtan66IU2XguJLoP7tu5be63y71Amc1LQKABsz3w4K4MYcVJZQ2FpXjnYoI80vaFeq2t-GfRY3n-XhzImihJvGiPd8fDG9pEIVWSneLNgmMkomXAfDlza_TggSrlVcSDkpi6DsXXNOBLsIpsHdWRSbJtzbhkX3j0w7KzFZhMevYAkEqg%3D%3D
-CCTV13,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
-CCTV14,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9d1plZ1uK5RoepfZ6jSSLDNY5MEkVmC6AeWa4kDMXAhPgpPm331nzJkqByvIwyJ1nvMCSyjAqVA9m3RE7fIRDF80f2H3UCJLesDEifymvAsoH5oyavOgYS4KyiZ0tkA_xHI22m-bhjRbDPbkfrr9U1pLOLTTNKxCBVpne91De96PBMhcK7JpHMEqngGthOBNZS4YfMg%3D%3D
-CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
-CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
+CCTV1综合,http://182.92.109.190:1668/migu720/migu720.php?id=cctv1
+CCTV2财经,http://182.92.109.190:1668/migu720/migu720.php?id=cctv2
+CCTV3综艺,http://182.92.109.190:1668/migu720/migu720.php?id=cctv3
+CCTV4中文国际,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4
+CCTV4美洲,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4a
+CCTV4欧洲,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4o
+CCTV5体育,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5
+CCTV5+体育赛事,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
+CCTV6电影,http://182.92.109.190:1668/migu720/migu720.php?id=cctv6
+CCTV7国防军事,http://182.92.109.190:1668/migu720/migu720.php?id=cctv7
+CCTV8电视剧,http://182.92.109.190:1668/migu720/migu720.php?id=cctv8
+CCTV9纪录,http://182.92.109.190:1668/migu720/migu720.php?id=cctv9
+CCTV10科教,http://182.92.109.190:1668/migu720/migu720.php?id=cctv10
+CCTV11戏曲,http://182.92.109.190:1668/migu720/migu720.php?id=cctv11
+CCTV12社会与法,http://182.92.109.190:1668/migu720/migu720.php?id=cctv12
+CCTV13新闻,http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
+CCTV14少儿,http://182.92.109.190:1668/migu720/migu720.php?id=cctv14
+CCTV15音乐,http://182.92.109.190:1668/migu720/migu720.php?id=cctv15
 
 
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
