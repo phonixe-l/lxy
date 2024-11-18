@@ -4222,6 +4222,27 @@ wugltest,http://cfss.cc/cdn/dyu/1844872.flv
 央视IPV4,#genre#
 
 
+CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8
+CCTV2,http://58.51.111.46:1111/tsfile/live/0002_1.m3u8
+CCTV3,http://58.51.111.46:1111/tsfile/live/0003_1.m3u8
+CCTV4,http://58.51.111.46:1111/tsfile/live/1004_1.m3u8
+CCTV5,http://58.51.111.46:1111/tsfile/live/1005_1.m3u8
+CCTV5+,http://58.51.111.46:1111/tsfile/live/1021_1.m3u8
+CCTV6,http://58.51.111.46:1111/tsfile/live/1006_1.m3u8
+CCTV7,http://58.51.111.46:1111/tsfile/live/1007_1.m3u8
+CCTV8,http://58.51.111.46:1111/tsfile/live/1008_1.m3u8
+CCTV9,http://58.51.111.46:1111/tsfile/live/1009_1.m3u8
+CCTV10,http://58.51.111.46:1111/tsfile/live/1010_1.m3u8
+CCTV11,http://58.51.111.46:1111/tsfile/live/1011_1.m3u8
+CCTV12,http://58.51.111.46:1111/tsfile/live/1012_1.m3u8
+CCTV13,http://58.51.111.46:1111/tsfile/live/1013_1.m3u8
+CCTV14,http://58.51.111.46:1111/tsfile/live/1014_1.m3u8
+CCTV15,http://58.51.111.46:1111/tsfile/live/1015_1.m3u8
+CCTV16,http://58.51.111.46:1111/tsfile/live/1017_1.m3u8
+CCTV17,http://58.51.111.46:1111/tsfile/live/1016_1.m3u8
+
+
+
 CCTV-1,http://38.22.89.53:10021//api.php?id=21407&tk=022726bff61011508c
 CCTV-2,http://38.22.89.53:10021//api.php?id=50471&tk=022726bff61011508c
 CCTV-3,http://38.22.89.53:10021//api.php?id=75312&tk=022726bff61011508c
@@ -4320,15 +4341,33 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 
 内部测试_147258,#genre#
 
-CCTV1,P2p://135.148.104.228:19806/62b58f87395c464da422a467e2a06197.ts
-CCTV1,p3p://108.181.32.169:28946/64260c74000c73e9edfa2a0e354364a8
-CCTV2,P2p://135.148.104.228:19806/66c9a8ea000bbdae53ff742c16d15c6f.ts
-CCTV2,p3p://108.181.32.169:28946/64260c83000b5f74edfa64604fe67a12
+
+CCTV1綜合,tvbus://5sa2LWN85UHjkp1HZTsFoHeaLuSdiffM6FfpVcNXDchj7uUqYeK4VfZVK46Jr
+CCTV2財經,tvbus://5zVi8qdtkBoSKJEidJoWZ3vUuYYoKSZhTkpRerH5fLMmPBGeASkdWtVPAY2w8
+CCTV3綜藝,tvbus://6WnCx8UCzjGtzSNVZLR7sbWRvXEYypiuPKSUjmjguGu5K61QjUYS3f9rhtLyE
+CCTV4亞洲,tvbus://5oq9pSeUU9d7A9TDhcYKdcbDty3jnizFxwBfCV7ddvBXLdBBwE42ocBCnoTFx
+CCTV5體育,tvbus://6M9dqtVhCktBaXNvEAp5qGXiZns4zfa3wJvqZVcCehdAPZnD2dHrh1vySihbF
+CCTV6電影,tvbus://66BWpL9GhaLFsmkPFzNMEfrBsYTbSTN55WQ7749c6u96UvJtiwWwsv7WGcVQg
+CCTV7軍事,tvbus://5j1d1QwrohGLNTt7GmYhgVNqipUaLdQDb4Ju2SrPwZYNigzmngGc88rG4ma12
+CCTV8電視,tvbus://6N5nk7UsC8GFH4yANngbNLijS5gXXggyEdGXcqXkX4USgiFh8yhTEg8AVZfw
+CCTV9紀錄,tvbus://65JBWSWjBxaBhhdrTXk7TiacGxEPBobQtVg16kvN5gWu5wpPQVQ2Uvbr6VM68
+CCTV10科教,tvbus://6Tq6AmwWWPcWYtkT8EpKjoTp1WTazKimnpZqQDcDvEe4WHf1qd4B3wbxT6Rko
+CCTV11戲曲,tvbus://5pt3v9PKFxrdFuKT1HjHvdTGLeqYHrCdRMjQwxavTay7sG1uXcfSff92Hx8c2
+CCTV12社會,tvbus://6V6dp9zg9DcVmDHYH2niZXekEWrTPEct7Zf2ES5dMmPBR8xzUgUqbX5zqkxdq
+CCTV13新聞,tvbus://5N2mVmJWahceUjLLXLJwtCVYydJn8L4vcDeVuNojHhejhAgrSN4VjhQA44gzn
+CCTV14少兒,tvbus://5vhgrsPz2tkSc8YaGtWjpt2ardTShguGk36y4A9h1xrzDyuF3ytQxbqArrXks
+CCTV15音樂,tvbus://6duA2ctPGPfyErUy6HuVtcBkKp37Y4Kyj1LHGDUzLdd9SiX2SBxjrx23CAfmp
+CCTV16奧林匹克,tvbus://5M9aHhdNUDXZyFi4mGXMtHFRGfuroHv2ZAucmgahQQuiz5uio39DUGWMWikEG
+CCTV17農業,tvbus://66qQmce719o7ZrWPniaBfDcYU5eDQAnHD2xZ6PPkwYmtGhwH5kreGw6RyQ9zQ
 
 
-
-
-
+香蕉(备用),http://u9v.cn/5FZsLd 
+惊艳(备用),http://m6z.cn/61I2Cw 
+潘朵拉(备用),http://u9v.cn/6hAvUu 
+彩虹(备用),http://m6z.cn/6vMxT6 
 松1(备用),http://mtw.so/6wCBqQ 
 松3(备用),http://mtw.so/6hAvWA 
+
+
+
 
