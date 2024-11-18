@@ -2991,7 +2991,6 @@ CCTV12,http://58.51.111.46:1111/tsfile/live/1012_1.m3u8
 CCTV13,http://58.51.111.46:1111/tsfile/live/1013_1.m3u8
 CCTV14,http://58.51.111.46:1111/tsfile/live/1014_1.m3u8
 CCTV15,http://58.51.111.46:1111/tsfile/live/1015_1.m3u8
-CCTV16,http://58.51.111.46:1111/tsfile/live/1017_1.m3u8
 CCTV17,http://58.51.111.46:1111/tsfile/live/1016_1.m3u8
 
 
