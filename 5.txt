@@ -4342,23 +4342,7 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 内部测试_147258,#genre#
 
 
-CCTV1綜合,tvbus://5sa2LWN85UHjkp1HZTsFoHeaLuSdiffM6FfpVcNXDchj7uUqYeK4VfZVK46Jr
-CCTV2財經,tvbus://5zVi8qdtkBoSKJEidJoWZ3vUuYYoKSZhTkpRerH5fLMmPBGeASkdWtVPAY2w8
-CCTV3綜藝,tvbus://6WnCx8UCzjGtzSNVZLR7sbWRvXEYypiuPKSUjmjguGu5K61QjUYS3f9rhtLyE
-CCTV4亞洲,tvbus://5oq9pSeUU9d7A9TDhcYKdcbDty3jnizFxwBfCV7ddvBXLdBBwE42ocBCnoTFx
-CCTV5體育,tvbus://6M9dqtVhCktBaXNvEAp5qGXiZns4zfa3wJvqZVcCehdAPZnD2dHrh1vySihbF
-CCTV6電影,tvbus://66BWpL9GhaLFsmkPFzNMEfrBsYTbSTN55WQ7749c6u96UvJtiwWwsv7WGcVQg
-CCTV7軍事,tvbus://5j1d1QwrohGLNTt7GmYhgVNqipUaLdQDb4Ju2SrPwZYNigzmngGc88rG4ma12
-CCTV8電視,tvbus://6N5nk7UsC8GFH4yANngbNLijS5gXXggyEdGXcqXkX4USgiFh8yhTEg8AVZfw
-CCTV9紀錄,tvbus://65JBWSWjBxaBhhdrTXk7TiacGxEPBobQtVg16kvN5gWu5wpPQVQ2Uvbr6VM68
-CCTV10科教,tvbus://6Tq6AmwWWPcWYtkT8EpKjoTp1WTazKimnpZqQDcDvEe4WHf1qd4B3wbxT6Rko
-CCTV11戲曲,tvbus://5pt3v9PKFxrdFuKT1HjHvdTGLeqYHrCdRMjQwxavTay7sG1uXcfSff92Hx8c2
-CCTV12社會,tvbus://6V6dp9zg9DcVmDHYH2niZXekEWrTPEct7Zf2ES5dMmPBR8xzUgUqbX5zqkxdq
-CCTV13新聞,tvbus://5N2mVmJWahceUjLLXLJwtCVYydJn8L4vcDeVuNojHhejhAgrSN4VjhQA44gzn
-CCTV14少兒,tvbus://5vhgrsPz2tkSc8YaGtWjpt2ardTShguGk36y4A9h1xrzDyuF3ytQxbqArrXks
-CCTV15音樂,tvbus://6duA2ctPGPfyErUy6HuVtcBkKp37Y4Kyj1LHGDUzLdd9SiX2SBxjrx23CAfmp
-CCTV16奧林匹克,tvbus://5M9aHhdNUDXZyFi4mGXMtHFRGfuroHv2ZAucmgahQQuiz5uio39DUGWMWikEG
-CCTV17農業,tvbus://66qQmce719o7ZrWPniaBfDcYU5eDQAnHD2xZ6PPkwYmtGhwH5kreGw6RyQ9zQ
+
 
 
 香蕉(备用),http://u9v.cn/5FZsLd 
