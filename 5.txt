@@ -200,6 +200,28 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
+CCTV-1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+
+
+
 
 CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8
 CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
@@ -221,9 +243,11 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 卫视频道,#genre#
 
 
-凤凰卫视,http://211.72.65.236:8577/.m3u8
-凤凰资讯,http://211.72.65.236:8576/.m3u8
 
+
+凤凰卫视,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
 
@@ -3113,6 +3137,24 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 
 
 内部测试_147258,#genre#
+
+
+CCTV1,mitv://135.148.104.228:19806/cff3529e8cf64e3195f997c50b5052e6
+CCTV2,mitv://135.148.104.228:19806/66c9a8ea000bbdae53ff742c16d15c6f
+CCTV3,mitv://135.148.104.228:19806/66c9a8eb00037d4353ff75f11760264e
+CCTV4,mitv://135.148.104.228:19806/b76db7e51c6c481e812ff0a137cdbea4
+CCTV5,mitv://135.148.104.228:19806/38c87f18f93c440594b45fd7de89a768
+CCTV5+,mitv://135.148.104.228:19806/7ed1624a62004620bfecc83fe0b70935
+CCTV6,mitv://135.148.104.228:19806/bcd8bbb9c46540a98045c37dce48b29a
+CCTV7,mitv://135.148.104.228:19806/66c9a8eb000a9e7453ff77c62dfb7d24
+CCTV8,mitv://135.148.104.228:19806/2ef18f81383a43d9a3148599842d6ea9
+CCTV9,mitv://135.148.104.228:19806/b36c45df61324a349d67ee7408601031
+CCTV10,mitv://135.148.104.228:19806/d57481ce990f40b1afe524a7a81a610b
+CCTV11,mitv://135.148.104.228:19806/56da32afe6014171aa04ca3b935c4401
+CCTV12,mitv://135.148.104.228:19806/a0785ee578944dfeb5f151b7cb19b9fa
+CCTV13,mitv://135.148.104.228:19806/03b4efeb3d8a4a45b3ebe9aee326f7c7
+CCTV14,mitv://135.148.104.228:19806/0170decf55974c7ca5439f8ae263aab4
+CCTV15,mitv://135.148.104.228:19806/7e9868749080472c8e75bbec62dc630f
 
 
 
