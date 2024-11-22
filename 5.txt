@@ -301,9 +301,9 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
-凤凰卫视,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视,p3p://108.181.32.169:53515/6410229e000655dd98612e41401e3e7d
+凤凰资讯,p3p://108.181.32.169:53515/641022be000e5cc69861ad4f5a025336
+凤凰香港,p3p://108.181.32.169:53515/641022da0005d3069862188000a64525
 
 
 
@@ -313,9 +313,7 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
-凤凰卫视,http://110.185.171.226:96/xhgat/fhzb.php?type=2&id=fhzw
-凤凰资讯,http://110.185.171.226:96/xhgat/fhzb.php?type=2&id=fhzx
-凤凰香港,http://110.185.171.226:96/xhgat/fhzb.php?type=2&id=fhhk
+
 
 
 
@@ -885,7 +883,6 @@ TVBS HD,http://211.72.65.236:8575/.m3u8
 雪中悍刀行,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?wsSecret=36846c9128b8cc3c562f371b679a3b27&wsTime=66cd626b&seqid=3191905703810&ctype=tars_mobile&ver=1&fs=bgct
 
 雪豹,http://jiaojirentv.top/2020/yy.php?id=1450496699
-金婚,http://jiaojirentv.top/2020/yy.php?id=1382736832
 83射雕英雄传,http://jiaojirentv.top/2020/yy.php?id=1354210357
 宰相刘罗锅,http://jiaojirentv.top/2020/yy.php?id=1382745191
 特种兵之火凤凰,http://jiaojirentv.top/2020/yy.php?id=1463088777
@@ -895,6 +892,7 @@ TVBS HD,http://211.72.65.236:8575/.m3u8
 倚天屠龙记,http://jiaojirentv.top/2020/yy.php?id=1354755003
 狂飙,http://jiaojirentv.top/2020/yy.php?id=1382754187
 鹊刀门,http://jiaojirentv.top/2020/yy.php?id=1355344777
+金婚,http://jiaojirentv.top/2020/yy.php?id=1382736832
 少年包青天,http://jiaojirentv.top/2020/yy.php?id=38498680
 武林外传,http://jiaojirentv.top/2020/yy.php?id=1355652820
 新三国,http://jiaojirentv.top/2020/yy.php?id=1382705738
@@ -3341,9 +3339,7 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 深圳卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226510/index.m3u8
 
 
-凤凰卫视,p3p://108.181.32.169:53515/6410229e000655dd98612e41401e3e7d
-凤凰资讯,p3p://108.181.32.169:53515/641022be000e5cc69861ad4f5a025336
-凤凰香港,p3p://108.181.32.169:53515/641022da0005d3069862188000a64525
+
 
 
 
