@@ -301,9 +301,13 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
-凤凰卫视,p3p://108.181.32.169:53515/6410229e000655dd98612e41401e3e7d
-凤凰资讯,p3p://108.181.32.169:53515/641022be000e5cc69861ad4f5a025336
-凤凰香港,p3p://108.181.32.169:53515/641022da0005d3069862188000a64525
+凤凰卫视,http://tttt.findvps.top/api.php?id=16485&tk=3267ea5fd476a41cf6
+凤凰资讯,http://tttt.findvps.top/api.php?id=35461&tk=3267ea5fd476a41cf6
+凤凰香港,http://tttt.findvps.top/api.php?id=22186&tk=3267ea5fd476a41cf6
+凤凰卫视,http://tttt.findvps.top/api.php?id=97607&tk=3267ea5fd476a41cf6
+凤凰资讯,http://tttt.findvps.top/api.php?id=52140&tk=3267ea5fd476a41cf6
+凤凰香港,http://tttt.findvps.top/api.php?id=50072&tk=3267ea5fd476a41cf6
+
 
 
 
