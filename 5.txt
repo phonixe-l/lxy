@@ -3238,43 +3238,24 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
 
 
 
-CCTV-1,http://38.22.89.53:10021//api.php?id=70025&tk=e44a9d72a5330bd994
-CCTV-2,http://38.22.89.53:10021//api.php?id=79191&tk=e44a9d72a5330bd994
-CCTV-3,http://38.22.89.53:10021//api.php?id=51904&tk=e44a9d72a5330bd994
-CCTV-4,http://38.22.89.53:10021//api.php?id=45435&tk=e44a9d72a5330bd994
-CCTV-5,http://38.22.89.53:10021//api.php?id=70998&tk=e44a9d72a5330bd994
-CCTV-5+,http://38.22.89.53:10021//api.php?id=74366&tk=e44a9d72a5330bd994
-CCTV-6,http://38.22.89.53:10021//api.php?id=21947&tk=e44a9d72a5330bd994
-CCTV-7,http://38.22.89.53:10021//api.php?id=31490&tk=e44a9d72a5330bd994
-CCTV-8,http://38.22.89.53:10021//api.php?id=31342&tk=e44a9d72a5330bd994
-CCTV-9,http://38.22.89.53:10021//api.php?id=71951&tk=e44a9d72a5330bd994
-CCTV-10,http://38.22.89.53:10021//api.php?id=89893&tk=e44a9d72a5330bd994
-CCTV-11,http://38.22.89.53:10021//api.php?id=56840&tk=e44a9d72a5330bd994
-CCTV-12,http://38.22.89.53:10021//api.php?id=57677&tk=e44a9d72a5330bd994
-CCTV-13,http://38.22.89.53:10021//api.php?id=91240&tk=e44a9d72a5330bd994
-CCTV-14,http://38.22.89.53:10021//api.php?id=69641&tk=e44a9d72a5330bd994
-CCTV-15,http://38.22.89.53:10021//api.php?id=26740&tk=e44a9d72a5330bd994
-CCTV-16,http://38.22.89.53:10021//api.php?id=74077&tk=e44a9d72a5330bd994
-CCTV-17,http://38.22.89.53:10021//api.php?id=33423&tk=e44a9d72a5330bd994
-
-CCTV-1,http://38.22.89.53:10021//api.php?id=52136&tk=e44a9d72a5330bd994
-CCTV-2,http://38.22.89.53:10021//api.php?id=84891&tk=e44a9d72a5330bd994
-CCTV-3,http://38.22.89.53:10021//api.php?id=55174&tk=e44a9d72a5330bd994
-CCTV-4,http://38.22.89.53:10021//api.php?id=97240&tk=e44a9d72a5330bd994
-CCTV-5,http://38.22.89.53:10021//api.php?id=40989&tk=e44a9d72a5330bd994
-CCTV-6,http://38.22.89.53:10021//api.php?id=92700&tk=e44a9d72a5330bd994
-CCTV-7,http://38.22.89.53:10021//api.php?id=58268&tk=e44a9d72a5330bd994
-CCTV-8,http://38.22.89.53:10021//api.php?id=87792&tk=e44a9d72a5330bd994
-CCTV-9,http://38.22.89.53:10021//api.php?id=80986&tk=e44a9d72a5330bd994
-CCTV-10,http://38.22.89.53:10021//api.php?id=94676&tk=e44a9d72a5330bd994
-CCTV-11,http://38.22.89.53:10021//api.php?id=54163&tk=e44a9d72a5330bd994
-CCTV-12,http://38.22.89.53:10021//api.php?id=10287&tk=e44a9d72a5330bd994
-CCTV-13,http://38.22.89.53:10021//api.php?id=94676&tk=e44a9d72a5330bd994
-CCTV-14,http://38.22.89.53:10021//api.php?id=62440&tk=e44a9d72a5330bd994
-CCTV-15,http://38.22.89.53:10021//api.php?id=24404&tk=e44a9d72a5330bd994
-CCTV-16,http://38.22.89.53:10021//api.php?id=86951&tk=e44a9d72a5330bd994
-CCTV-17,http://38.22.89.53:10021//api.php?id=38155&tk=e44a9d72a5330bd994
-CCTV-5+,http://38.22.89.53:10021//api.php?id=63152&tk=e44a9d72a5330bd994
+CCTV-1,http://tttt.findvps.top/api.php?id=71964&tk=3267ea5fd476a41cf6
+CCTV-2,http://tttt.findvps.top/api.php?id=45969&tk=3267ea5fd476a41cf6
+CCTV-3,http://tttt.findvps.top/api.php?id=30565&tk=3267ea5fd476a41cf6
+CCTV-4,http://tttt.findvps.top/api.php?id=96384&tk=3267ea5fd476a41cf6
+CCTV-5,http://tttt.findvps.top/api.php?id=57989&tk=3267ea5fd476a41cf6
+CCTV-5+,http://tttt.findvps.top/api.php?id=47253&tk=3267ea5fd476a41cf6
+CCTV-6,http://tttt.findvps.top/api.php?id=13710&tk=3267ea5fd476a41cf6
+CCTV-7,http://tttt.findvps.top/api.php?id=78103&tk=3267ea5fd476a41cf6
+CCTV-8,http://tttt.findvps.top/api.php?id=56973&tk=3267ea5fd476a41cf6
+CCTV-9,http://tttt.findvps.top/api.php?id=77866&tk=3267ea5fd476a41cf6
+CCTV-10,http://tttt.findvps.top/api.php?id=63564&tk=3267ea5fd476a41cf6
+CCTV-11,http://tttt.findvps.top/api.php?id=57407&tk=3267ea5fd476a41cf6
+CCTV-12,http://tttt.findvps.top/api.php?id=15833&tk=3267ea5fd476a41cf6
+CCTV-13,http://tttt.findvps.top/api.php?id=37122&tk=3267ea5fd476a41cf6
+CCTV-14,http://tttt.findvps.top/api.php?id=27675&tk=3267ea5fd476a41cf6
+CCTV-15,http://tttt.findvps.top/api.php?id=21941&tk=3267ea5fd476a41cf6
+CCTV-16,http://tttt.findvps.top/api.php?id=31050&tk=3267ea5fd476a41cf6
+CCTV-17,http://tttt.findvps.top/api.php?id=25636&tk=3267ea5fd476a41cf6
 
 
 
