@@ -301,23 +301,20 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
-凤凰卫视,http://tttt.findvps.top/api.php?id=16485&tk=3267ea5fd476a41cf6
-凤凰资讯,http://tttt.findvps.top/api.php?id=35461&tk=3267ea5fd476a41cf6
-凤凰香港,http://tttt.findvps.top/api.php?id=22186&tk=3267ea5fd476a41cf6
+
+凤凰卫视,http://tttt.findvps.top/api.php?id=16949&tk=dd7cdcaa0b8a309677
+凤凰资讯,http://tttt.findvps.top/api.php?id=62378&tk=dd7cdcaa0b8a309677
+凤凰香港,http://tttt.findvps.top/api.php?id=67746&tk=dd7cdcaa0b8a309677
+
 凤凰卫视,http://tttt.findvps.top/api.php?id=97607&tk=3267ea5fd476a41cf6
 凤凰资讯,http://tttt.findvps.top/api.php?id=52140&tk=3267ea5fd476a41cf6
 凤凰香港,http://tttt.findvps.top/api.php?id=50072&tk=3267ea5fd476a41cf6
 
 
 
-
 凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-
-
-
 
 
 
@@ -3177,29 +3174,6 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
-CCTV1,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-1H265_4000
-CCTV2,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-2H265_4000
-CCTV3,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-3H265_4000
-CCTV4,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-4H265_4000
-CCTV5,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-5H265_4000
-CCTV5+,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-5plusH265_4000
-CCTV6,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-6H265_4000
-CCTV7,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-7H265_4000
-CCTV8,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-8H265_4000
-CCTV9,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-9H265_4000
-CCTV10,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-10H265_4000
-CCTV11,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-11-H265_4000
-CCTV12,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-12H265_4000
-CCTV13,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-xw_4000
-CCTV14,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-14H265_4000
-CCTV15,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-15-yyH265_4000
-CCTV16,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-16_4000
-CCTV164K,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-16-4K_8000
-CCTV17,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=CCTV-17_4000
-CCTV4K,http://139.196.228.200:5678/公众号搞机大师/sxg.php?id=ys4Kcq_2000
-
-
-
 
 
 
@@ -3223,24 +3197,24 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
 
 
 
-CCTV-1,http://tttt.findvps.top/api.php?id=71964&tk=3267ea5fd476a41cf6
-CCTV-2,http://tttt.findvps.top/api.php?id=45969&tk=3267ea5fd476a41cf6
-CCTV-3,http://tttt.findvps.top/api.php?id=30565&tk=3267ea5fd476a41cf6
-CCTV-4,http://tttt.findvps.top/api.php?id=96384&tk=3267ea5fd476a41cf6
-CCTV-5,http://tttt.findvps.top/api.php?id=57989&tk=3267ea5fd476a41cf6
-CCTV-5+,http://tttt.findvps.top/api.php?id=47253&tk=3267ea5fd476a41cf6
-CCTV-6,http://tttt.findvps.top/api.php?id=13710&tk=3267ea5fd476a41cf6
-CCTV-7,http://tttt.findvps.top/api.php?id=78103&tk=3267ea5fd476a41cf6
-CCTV-8,http://tttt.findvps.top/api.php?id=56973&tk=3267ea5fd476a41cf6
-CCTV-9,http://tttt.findvps.top/api.php?id=77866&tk=3267ea5fd476a41cf6
-CCTV-10,http://tttt.findvps.top/api.php?id=63564&tk=3267ea5fd476a41cf6
-CCTV-11,http://tttt.findvps.top/api.php?id=57407&tk=3267ea5fd476a41cf6
-CCTV-12,http://tttt.findvps.top/api.php?id=15833&tk=3267ea5fd476a41cf6
-CCTV-13,http://tttt.findvps.top/api.php?id=37122&tk=3267ea5fd476a41cf6
-CCTV-14,http://tttt.findvps.top/api.php?id=27675&tk=3267ea5fd476a41cf6
-CCTV-15,http://tttt.findvps.top/api.php?id=21941&tk=3267ea5fd476a41cf6
-CCTV-16,http://tttt.findvps.top/api.php?id=31050&tk=3267ea5fd476a41cf6
-CCTV-17,http://tttt.findvps.top/api.php?id=25636&tk=3267ea5fd476a41cf6
+CCTV-1,http://tttt.findvps.top/api.php?id=56650&tk=dd7cdcaa0b8a309677
+CCTV-2,http://tttt.findvps.top/api.php?id=16282&tk=dd7cdcaa0b8a309677
+CCTV-3,http://tttt.findvps.top/api.php?id=54183&tk=dd7cdcaa0b8a309677
+CCTV-4,http://tttt.findvps.top/api.php?id=24778&tk=dd7cdcaa0b8a309677
+CCTV-5,http://tttt.findvps.top/api.php?id=24783&tk=dd7cdcaa0b8a309677
+CCTV-5+,http://tttt.findvps.top/api.php?id=44224&tk=dd7cdcaa0b8a309677
+CCTV-6,http://tttt.findvps.top/api.php?id=95169&tk=dd7cdcaa0b8a309677
+CCTV-7,http://tttt.findvps.top/api.php?id=99585&tk=dd7cdcaa0b8a309677
+CCTV-8,http://tttt.findvps.top/api.php?id=30295&tk=dd7cdcaa0b8a309677
+CCTV-9,http://tttt.findvps.top/api.php?id=67012&tk=dd7cdcaa0b8a309677
+CCTV-10,http://tttt.findvps.top/api.php?id=17577&tk=dd7cdcaa0b8a309677
+CCTV-11,http://tttt.findvps.top/api.php?id=33838&tk=dd7cdcaa0b8a309677
+CCTV-12,http://tttt.findvps.top/api.php?id=98841&tk=dd7cdcaa0b8a309677
+CCTV-13,http://tttt.findvps.top/api.php?id=48651&tk=dd7cdcaa0b8a309677
+CCTV-14,http://tttt.findvps.top/api.php?id=27412&tk=dd7cdcaa0b8a309677
+CCTV-15,http://tttt.findvps.top/api.php?id=74430&tk=dd7cdcaa0b8a309677
+CCTV-16,http://tttt.findvps.top/api.php?id=20854&tk=dd7cdcaa0b8a309677
+CCTV-17,http://tttt.findvps.top/api.php?id=43434&tk=dd7cdcaa0b8a309677
 
 
 
