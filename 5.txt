@@ -301,10 +301,12 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
+凤凰卫视,http://dns.yiandrive.com:16813/phenix/fhzw
+凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
+凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
 
 
 
-凤凰卫视,
 凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
@@ -922,7 +924,7 @@ TVBS HD,http://211.72.65.236:8575/.m3u8
 亮剑,http://120.77.28.4:8648/huya.php?id=30080238#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.flv?wsSecret=b05ef8e00d26a4399b0672b10eafe512&wsTime=66cbf161&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
 征服,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=bed0de04c849de17cc1d52a9945e2b9d&wsTime=672db9a9&seqid=2930604500129&ctype=tars_mobile&ver=1&txyp=o%3An111%3B&fs=bgct
 征服,http://120.77.28.4:8648/douyu.php?id=2726977
-父母爱情,http://120.77.28.4:8648/huya.php?id=11602071
+父母爱情,http://dns.yiandrive.com:16813/huya/11602071
 铁齿铜牙纪晓岚,http://120.77.28.4:8648/huya.php?id=29588938
 武林外传动画版,http://120.77.28.4:8648/huya.php?id=25749066#https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-d=1712822691.flv?wsSecret=89cc68873537d79e0e53a873a4c59570&wsTime=6618eb22&seqid=2912463689944&ctype=tars_mobile&ver=1&fs=bgct
 雪中悍刀行,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?wsSecret=36846c9128b8cc3c562f371b679a3b27&wsTime=66cd626b&seqid=3191905703810&ctype=tars_mobile&ver=1&fs=bgct
@@ -1030,7 +1032,7 @@ TVBS HD,http://211.72.65.236:8575/.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 黑莓动画,http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
 哒啵赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
-哒啵电竞,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
+哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-
 游戏风云,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId=
 动漫秀场,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId=
 嘉佳卡通,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000074/index.m3u8?IASHttpSessionId=
