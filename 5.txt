@@ -301,6 +301,16 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
+凤凰卫视,http://kxrj.site:1333/86/fh.php?id=fhzw
+凤凰资讯,http://kxrj.site:1333/86/fh.php?id=fhzx
+凤凰香港,http://kxrj.site:1333/86/fh.php?id=fhhk
+
+
+
+凤凰卫视,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 凤凰卫视,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192
 凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191
