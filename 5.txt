@@ -303,26 +303,8 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
-
-
-凤凰卫视,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-
-
-
 凤凰卫视,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192
 凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191
-凤凰香港,http://tttt.findvps.top/api.php?id=14452&tk=2e2e14e45213ca3d2a
-
-
-
-
-
-
-
-
 
 
 
@@ -860,79 +842,6 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 
-TVBS新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv072
-中天新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv009
-中視新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv074
-非凡新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv010
-台視新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv051
-華視新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv052
-東森新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv152
-寰宇新聞台,https://4gtv.mytvsuper.xyz/litv/litv-longturn14
-中天亞洲台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv109
-三立新聞iNEWS,https://4gtv.mytvsuper.xyz/litv/iNEWS
-民視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv155
-中視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv040
-華視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv041
-台視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv066
-八大精彩台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv034
-八大綜藝台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv039
-民視台灣台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv001
-民視第一台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv003
-民視綜藝台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv004
-靖天卡通台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv044
-靖天綜合台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv046
-靖天日本台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv047
-非凡商業台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv048
-采昌影劇台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv049
-靖天映畫,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv055
-台視財經,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv056
-靖洋卡通,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv057
-靖天戲劇台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv058
-古典樂,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv059
-靖天電影台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv061
-靖天育樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv062
-靖天國際台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv063
-中視菁采台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv064
-靖天資訊台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv065
-TVBS精采台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv067
-TVBS歡樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv068
-TVBS,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv073
-中視經典台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv080
-國會頻道1台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv084
-國會頻道2台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv085
-智林體育台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv101
-第1商業台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv104
-東森財經新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv153
-民視旅遊台,https://4gtv.mytvsuper.xyz/litv/litv-ftv07
-民視影劇台,https://4gtv.mytvsuper.xyz/litv/litv-ftv09
-半島國際新聞台,https://4gtv.mytvsuper.xyz/litv/litv-ftv10
-民視新聞台,https://4gtv.mytvsuper.xyz/litv/litv-ftv13
-i-Fun動漫台,https://4gtv.mytvsuper.xyz/litv/litv-ftv15
-好消息,https://4gtv.mytvsuper.xyz/litv/litv-ftv16
-好消息2台,https://4gtv.mytvsuper.xyz/litv/litv-ftv17
-龍華卡通台,https://4gtv.mytvsuper.xyz/litv/litv-longturn01
-龍華電影台,https://4gtv.mytvsuper.xyz/litv/litv-longturn03
-博斯魅力台,https://4gtv.mytvsuper.xyz/litv/litv-longturn04
-博斯高球台,https://4gtv.mytvsuper.xyz/litv/litv-longturn05
-博斯高球二台,https://4gtv.mytvsuper.xyz/litv/litv-longturn06
-博斯運動一台,https://4gtv.mytvsuper.xyz/litv/litv-longturn07
-博斯運動二台,https://4gtv.mytvsuper.xyz/litv/litv-longturn08
-博斯網球台,https://4gtv.mytvsuper.xyz/litv/litv-longturn09
-博斯無限台,https://4gtv.mytvsuper.xyz/litv/litv-longturn10
-博斯無限二台,https://4gtv.mytvsuper.xyz/litv/litv-longturn13
-龍華日韓台,https://4gtv.mytvsuper.xyz/litv/litv-longturn11
-龍華偶像台,https://4gtv.mytvsuper.xyz/litv/litv-longturn12
-寰宇財經台,https://4gtv.mytvsuper.xyz/litv/litv-longturn23
-寰宇新聞台灣台,https://4gtv.mytvsuper.xyz/litv/litv-longturn15
-亞洲旅遊台,https://4gtv.mytvsuper.xyz/litv/litv-longturn17
-龍華戲劇台,https://4gtv.mytvsuper.xyz/litv/litv-longturn18
-龍華經典台,https://4gtv.mytvsuper.xyz/litv/litv-longturn21
-台灣戲劇台,https://4gtv.mytvsuper.xyz/litv/litv-longturn22
-影迷數位電影台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv011
-
-
-
-
 
 
 
@@ -1386,6 +1295,26 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
+CCTV-1,http://tttt.findvps.top/api.php?id=72944&tk=48a9d04741edbe16b1
+CCTV-2,http://tttt.findvps.top/api.php?id=96591&tk=48a9d04741edbe16b1
+CCTV-3,http://tttt.findvps.top/api.php?id=50172&tk=48a9d04741edbe16b1
+CCTV-4,http://tttt.findvps.top/api.php?id=29362&tk=48a9d04741edbe16b1
+CCTV-5,http://tttt.findvps.top/api.php?id=97416&tk=48a9d04741edbe16b1
+CCTV-5+,http://tttt.findvps.top/api.php?id=61230&tk=48a9d04741edbe16b1
+CCTV-6,http://tttt.findvps.top/api.php?id=52867&tk=48a9d04741edbe16b1
+CCTV-7,http://tttt.findvps.top/api.php?id=65009&tk=48a9d04741edbe16b1
+CCTV-8,http://tttt.findvps.top/api.php?id=27222&tk=48a9d04741edbe16b1
+CCTV-9,http://tttt.findvps.top/api.php?id=98325&tk=48a9d04741edbe16b1
+CCTV-10,http://tttt.findvps.top/api.php?id=53817&tk=48a9d04741edbe16b1
+CCTV-11,http://tttt.findvps.top/api.php?id=43536&tk=48a9d04741edbe16b1
+CCTV-12,http://tttt.findvps.top/api.php?id=82970&tk=48a9d04741edbe16b1
+CCTV-13,http://tttt.findvps.top/api.php?id=38745&tk=48a9d04741edbe16b1
+CCTV-14,http://tttt.findvps.top/api.php?id=72644&tk=48a9d04741edbe16b1
+CCTV-15,http://tttt.findvps.top/api.php?id=84829&tk=48a9d04741edbe16b1
+CCTV-16,http://tttt.findvps.top/api.php?id=35130&tk=48a9d04741edbe16b1
+CCTV-17,http://tttt.findvps.top/api.php?id=59623&tk=48a9d04741edbe16b1
+
+
 
 
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv
@@ -1416,24 +1345,7 @@ CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
 
 
-CCTV-1,http://tttt.findvps.top/api.php?id=70589&tk=2e2e14e45213ca3d2a
-CCTV-2,http://tttt.findvps.top/api.php?id=60832&tk=2e2e14e45213ca3d2a
-CCTV-3,http://tttt.findvps.top/api.php?id=58825&tk=2e2e14e45213ca3d2a
-CCTV-4,http://tttt.findvps.top/api.php?id=78344&tk=2e2e14e45213ca3d2a
-CCTV-5,http://tttt.findvps.top/api.php?id=73602&tk=2e2e14e45213ca3d2a
-CCTV-5+,http://tttt.findvps.top/api.php?id=24454&tk=2e2e14e45213ca3d2a
-CCTV-6,http://tttt.findvps.top/api.php?id=59765&tk=2e2e14e45213ca3d2a
-CCTV-7,http://tttt.findvps.top/api.php?id=94443&tk=2e2e14e45213ca3d2a
-CCTV-8,http://tttt.findvps.top/api.php?id=50375&tk=2e2e14e45213ca3d2a
-CCTV-9,http://tttt.findvps.top/api.php?id=13355&tk=2e2e14e45213ca3d2a
-CCTV-10,http://tttt.findvps.top/api.php?id=21707&tk=2e2e14e45213ca3d2a
-CCTV-11,http://tttt.findvps.top/api.php?id=51630&tk=2e2e14e45213ca3d2a
-CCTV-12,http://tttt.findvps.top/api.php?id=30444&tk=2e2e14e45213ca3d2a
-CCTV-13,http://tttt.findvps.top/api.php?id=36521&tk=2e2e14e45213ca3d2a
-CCTV-14,http://tttt.findvps.top/api.php?id=11698&tk=2e2e14e45213ca3d2a
-CCTV-15,http://tttt.findvps.top/api.php?id=49614&tk=2e2e14e45213ca3d2a
-CCTV-16,http://tttt.findvps.top/api.php?id=15457&tk=2e2e14e45213ca3d2a
-CCTV-17,http://tttt.findvps.top/api.php?id=56872&tk=2e2e14e45213ca3d2a
+
 
 
 
