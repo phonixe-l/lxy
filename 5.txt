@@ -277,9 +277,10 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
 
-CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8
-CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
-CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
+
+CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 
 
 
@@ -303,9 +304,9 @@ CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 
 
 
-凤凰卫视,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192
-凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191
-
+凤凰卫视,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 
 
@@ -1293,25 +1294,6 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
-CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=m3u8
-CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
-CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 CCTV-1,http://tttt.findvps.top/api.php?id=72944&tk=48a9d04741edbe16b1
