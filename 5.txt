@@ -1295,25 +1295,24 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
-
-CCTV-1,http://tttt.findvps.top/api.php?id=72944&tk=48a9d04741edbe16b1
-CCTV-2,http://tttt.findvps.top/api.php?id=96591&tk=48a9d04741edbe16b1
-CCTV-3,http://tttt.findvps.top/api.php?id=50172&tk=48a9d04741edbe16b1
-CCTV-4,http://tttt.findvps.top/api.php?id=29362&tk=48a9d04741edbe16b1
-CCTV-5,http://tttt.findvps.top/api.php?id=97416&tk=48a9d04741edbe16b1
-CCTV-5+,http://tttt.findvps.top/api.php?id=61230&tk=48a9d04741edbe16b1
-CCTV-6,http://tttt.findvps.top/api.php?id=52867&tk=48a9d04741edbe16b1
-CCTV-7,http://tttt.findvps.top/api.php?id=65009&tk=48a9d04741edbe16b1
-CCTV-8,http://tttt.findvps.top/api.php?id=27222&tk=48a9d04741edbe16b1
-CCTV-9,http://tttt.findvps.top/api.php?id=98325&tk=48a9d04741edbe16b1
-CCTV-10,http://tttt.findvps.top/api.php?id=53817&tk=48a9d04741edbe16b1
-CCTV-11,http://tttt.findvps.top/api.php?id=43536&tk=48a9d04741edbe16b1
-CCTV-12,http://tttt.findvps.top/api.php?id=82970&tk=48a9d04741edbe16b1
-CCTV-13,http://tttt.findvps.top/api.php?id=38745&tk=48a9d04741edbe16b1
-CCTV-14,http://tttt.findvps.top/api.php?id=72644&tk=48a9d04741edbe16b1
-CCTV-15,http://tttt.findvps.top/api.php?id=84829&tk=48a9d04741edbe16b1
-CCTV-16,http://tttt.findvps.top/api.php?id=35130&tk=48a9d04741edbe16b1
-CCTV-17,http://tttt.findvps.top/api.php?id=59623&tk=48a9d04741edbe16b1
+CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5789&tk=97475bb89d45
+CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9848&tk=97475bb89d45
+CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8738&tk=97475bb89d45
+CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8376&tk=97475bb89d45
+CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8327&tk=97475bb89d45
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8144&tk=97475bb89d45
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0637&tk=97475bb89d45
+CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2646&tk=97475bb89d45
+CCTV-8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5925&tk=97475bb89d45
+CCTV-9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2158&tk=97475bb89d45
+CCTV-10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5154&tk=97475bb89d45
+CCTV-11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6377&tk=97475bb89d45
+CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0965&tk=97475bb89d45
+CCTV-13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6117&tk=97475bb89d45
+CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9343&tk=97475bb89d45
+CCTV-15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1794&tk=97475bb89d45
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8548&tk=97475bb89d45
+CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1096&tk=97475bb89d45
 
 
 
