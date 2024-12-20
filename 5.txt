@@ -1309,6 +1309,26 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
+CCTV-1,http://ced8ee.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
+CCTV-2,http://ced8ee.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
+CCTV-4,http://ced8ee.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
+CCTV-5,http://ced8ee.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
+CCTV-5+,http://ced8ee.tv.netsite.cc/proxy/485668034/485668034.m3u8
+CCTV-6,http://ced8ee.tv.netsite.cc/proxy/584456678/584456678.m3u8
+CCTV-7,http://ced8ee.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
+CCTV-9,http://ced8ee.tv.netsite.cc/proxy/675916385/675916385.m3u8
+CCTV-10,http://ced8ee.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
+CCTV-11,http://ced8ee.tv.netsite.cc/proxy/421024024/421024024.m3u8
+CCTV-12,http://ced8ee.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
+CCTV-13,http://ced8ee.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
+CCTV-14,http://ced8ee.tv.netsite.cc/proxy/512439688/512439688.m3u8
+CCTV-15,http://ced8ee.tv.netsite.cc/proxy/323678478/323678478.m3u8
+CCTV-16,http://ced8ee.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
+CCTV-17,http://ced8ee.tv.netsite.cc/proxy/199561397/199561397.m3u8
+
+
+
+
 CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5789&tk=97475bb89d45
 CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9848&tk=97475bb89d45
 CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8738&tk=97475bb89d45
