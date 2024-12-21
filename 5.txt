@@ -271,37 +271,21 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 
 
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-
-
-
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-
-
-
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-
-
-
-CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
-CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 
 
 
 CHC动作电影,https://migu.freetv.top/migu/644368714.m3u8?migutoken=93e1d4277b24acd525c7df15220d2598eda3309ebb7460fd676fc15e801b256a0c22e9e996d2c390f7da559c47fc980ad0e56882372f441562db98b426d22cf5b79e9d13d7803804a62bdce049
 CHC家庭影院,https://migu.freetv.top/migu/644368373.m3u8?migutoken=e67ef62add6f40954dabda873a766ad6d4192e3b321a609eb07cbee43541d49fa6fd4af8ba5276ac1239453ee6d6012d2515701b82a87f3974b20780e63a17507ecb4fd101466c1051667a81c9
+
+
+
+
+
+
+
 
 
 
