@@ -26,31 +26,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
-CCTV1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
-CCTV2,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
-CCTV3,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=
-CCTV3,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000371/index.m3u8?IASHttpSessionId=
-CCTV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId=
-CCTV5,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId=
-CCTV5,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000372/index.m3u8?IASHttpSessionId=
-CCTV5+,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=
-CCTV6,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8?IASHttpSessionId=
-CCTV6,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000374/index.m3u8?IASHttpSessionId=
-CCTV7,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8?IASHttpSessionId=
-CCTV8,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8?IASHttpSessionId=
-CCTV8,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000376/index.m3u8?IASHttpSessionId=
-CCTV9,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000319/index.m3u8?IASHttpSessionId=
-CCTV10,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8?IASHttpSessionId=
-CCTV11,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8?IASHttpSessionId=
-CCTV12,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8?IASHttpSessionId=
-CCTV13,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId=
-CCTV14,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8?IASHttpSessionId=
-CCTV15,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId=
-CCTV17,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=
-
-
-
-
 
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
@@ -73,6 +48,7 @@ CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 
 
 
+
 CCTV1,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000001
 CCTV2,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000502
 CCTV3,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000003
@@ -91,6 +67,7 @@ CCTV14,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000511
 CCTV15,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000512
 CCTV16,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000016
 CCTV17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000513
+
 
 
 
@@ -360,48 +337,6 @@ CHC家庭影院,https://migu.freetv.top/migu/644368373.m3u8?migutoken=e67ef62add
 安多卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8
 
 
-
-
-
-
-
-
-山东卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000301/index.m3u8?IAS
-湖南卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000324/index.m3u8?IAS
-湖北卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000325/index.m3u8?IAS
-辽宁卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000326/index.m3u8?IAS
-安徽卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000328/index.m3u8?IAS
-贵州卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000329/index.m3u8?IAS
-河北卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000330/index.m3u8?IAS
-北京卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000302/index.m3u8?IAS
-江苏卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000304/index.m3u8?IAS
-浙江卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000305/index.m3u8?IAS
-黑龙江卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000306/index.m3u8?IAS
-广东卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000307/index.m3u8?IAS
-深圳卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000308/index.m3u8?IAS
-东方卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000309/index.m3u8?IAS
-东南卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000310/index.m3u8?IAS
-天津卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000327/index.m3u8?IAS
-江西卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000335/index.m3u8?IAS
-重庆卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000341/index.m3u8?IAS
-海南卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000347/index.m3u8?IAS
-四川卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000348/index.m3u8?IAS
-甘肃卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000349/index.m3u8?IAS
-河南卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000358/index.m3u8?IAS
-吉林卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000363/index.m3u8?IAS
-青海卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000366/index.m3u8?IAS
-云南卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000367/index.m3u8?IAS
-广西卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000368/index.m3u8?IAS
-陕西卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000029/index.m3u8?IAS
-山西卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000032/index.m3u8?IAS
-内蒙古卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000040/index.m3u8?IAS
-宁夏卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000043/index.m3u8?IAS
-新疆卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000044/index.m3u8?IAS
-西藏卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000045/index.m3u8?IAS
-兵团卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000071/index.m3u8?IAS
-农林卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000072/index.m3u8?IAS
-厦门卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000075/index.m3u8?IAS
-三沙卫视,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com//00/SNM/CHANNEL00000078/index.m3u8?IAS
 
 
 
