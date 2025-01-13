@@ -1356,28 +1356,6 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
-CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8668&tk=7877e7cc41c7
-CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1610&tk=7877e7cc41c7
-CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0235&tk=7877e7cc41c7
-CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0938&tk=7877e7cc41c7
-CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4222&tk=7877e7cc41c7
-CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3327&tk=7877e7cc41c7
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2271&tk=7877e7cc41c7
-CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7018&tk=7877e7cc41c7
-CCTV-8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5722&tk=7877e7cc41c7
-CCTV-9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7226&tk=7877e7cc41c7
-CCTV-10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7047&tk=7877e7cc41c7
-CCTV-11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8360&tk=7877e7cc41c7
-CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5197&tk=7877e7cc41c7
-CCTV-13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2365&tk=7877e7cc41c7
-CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6570&tk=7877e7cc41c7
-CCTV-15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4500&tk=7877e7cc41c7
-CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6941&tk=7877e7cc41c7
-CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5548&tk=7877e7cc41c7
-
-
-
-
 
 CCTV1,P2p://starvod.xyz:19806/9ceaa547a0a940f9b4525825ccc94d17
 CCTV2,P2p://starvod.xyz:19806/54a9cc9d06a94654b51ade24a31a2057
@@ -1425,6 +1403,7 @@ CHC家庭影院,P2p://starvod.xyz:19806/fa9f578c3c094a1b9a17102f1889fadf
 
 
 
+
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -1442,6 +1421,23 @@ CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
 
 
+CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
+CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
+CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
+CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8
+CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
+CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
+CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8
+CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
+CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8
+CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
+CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
+CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
+CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
+CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
+CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
+CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
+CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
 
 
 
