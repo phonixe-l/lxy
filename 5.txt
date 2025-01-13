@@ -724,13 +724,13 @@ CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 
 
 
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=4bc54b882c88433bfa6d542df2f82cb5&txTime=677F5C7C
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=6f3a2a04e5c7bc9734245958102a50e9&txTime=677F5D24
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=3d7d0336b8c3365a725fead50a9d50f0&txTime=677F5D5B
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=c6afa96ca07bb42f18a984c63f57a7e7&txTime=677F5D94
-吉林公共,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?txSecret=51c771810eb374f3c451e432472fd1df&txTime=677F5DBF
-吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?txSecret=3b86de812de17e9f47ab3fe997367c8a&txTime=677F5DD7
-东北戏曲,https://hls.avap.jilintv.cn/zqvk7vpj/channel/1ceb537a60664ac49649b639e823678c/1.m3u8?txSecret=c4d2cd49519e9027cef8c542ea824cdd&txTime=677F5DF5
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=02856721405b7746e15b959b9f8a500f&txTime=6784E63B
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
+吉林公共,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
+吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=634adfcc4b161ce61a129f52333269df&txTime=6784E70F
+东北戏曲,https://hls.avap.jilintv.cn/zqvk7vpj/channel/1ceb537a60664ac49649b639e823678c/index.m3u8?txSecret=634adfcc4b161ce61a129f52333269df&txTime=6784E70F
 
 
 
