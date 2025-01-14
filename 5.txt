@@ -1467,7 +1467,16 @@ CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
 
 
-
+香蕉,http://jaz9.my.to:2390/udp/224.1.4.205:11111
+惊艳,http://mtw.so/5NweOs
+惊艳,http://jaz9.my.to:2390/udp/230.1.2.27:11111
+K频道,http://jaz9.my.to:2390/udp/224.1.4.65:11111
+潘朵拉,http://jaz9.my.to:2390/udp/230.1.2.39:11111
+彩虹e台,http://jaz9.my.to:2390/udp/224.1.4.63:11111
+彩虹电影,http://jaz9.my.to:2390/udp/224.1.4.64:11111
+松视1,http://jaz9.my.to:2390/udp/224.1.4.68:11111
+松视3,http://jaz9.my.to:2390/udp/224.1.4.70:11111
+Jastar极限电影台,http://jaz9.my.to:2390/udp/230.1.2.32:11111
 
 
 
