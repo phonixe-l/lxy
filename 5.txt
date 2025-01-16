@@ -24,6 +24,94 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
+CCTV1,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=ace
+CCTV2,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=ace
+CCTV3,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=ace
+CCTV4,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=ace
+CCTV5,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=ace
+CCTV5+,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=ace
+CCTV6,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=ace
+CCTV7,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=ace
+CCTV8,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=ace
+CCTV9,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=ace
+CCTV10,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=ace
+CCTV11,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=ace
+CCTV12,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=ace
+CCTV13,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=ace
+CCTV14,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=ace
+CCTV15,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=ace
+CCTV16,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=ace
+CCTV17,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=ace
+
+
+
+
+
+CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fe8M_1QCWSd35gkY-Q1BSH%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192539%2C%2C%2C20240420192539%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EqTu3rtglooDaG_6P7QG0G%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192550%2C%2C%2C20240420192550%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7G2pNzf8WZUYdQj6fRj0xqk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192551%2C%2C%2C20240420192551%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fu7CeinMHJqra3zokMRz7n%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192552%2C%2C%2C20240420192552%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HnJxyKiyVyy_NI7qKUlh3o%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192553%2C%2C%2C20240420192553%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Gjz8eIMyPUF5CKBM1zLuEZ%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192555%2C%2C%2C20240420192555%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+
+
+
+
+
+
+
+
+
+CCTV1,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=ace
+CCTV2,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=ace
+CCTV3,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=ace
+CCTV4,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=ace
+CCTV5,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=ace
+CCTV5+,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=ace
+CCTV6,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=ace
+CCTV7,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=ace
+CCTV8,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=ace
+CCTV9,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=ace
+CCTV10,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=ace
+CCTV11,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=ace
+CCTV12,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=ace
+CCTV13,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=ace
+CCTV14,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=ace
+CCTV15,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=ace
+CCTV16,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=ace
+CCTV17,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=ace
+
+
+
+
+CCTV1,http://[2409:8087:74d4:21::36]/270000001128/9900000501/1.m3u8
+CCTV1,http://[2409:8087:74d4:21::36]/270000001128/9900000001/1.m3u8
+CCTV2,http://[2409:8087:74d4:21::36]/270000001128/9900000502/1.m3u8
+CCTV3,http://[2409:8087:74d4:21::36]/270000001128/9900000003/1.m3u8
+CCTV4,http://[2409:8087:74d4:21::36]/270000001128/9900000503/1.m3u8
+CCTV5,http://[2409:8087:74d4:21::36]/270000001128/9900000005/1.m3u8
+CCTV5+,http://[2409:8087:74d4:21::36]/270000001128/9900000507/1.m3u8
+CCTV6,http://[2409:8087:74d4:21::36]/270000001128/9900000006/1.m3u8
+CCTV7,http://[2409:8087:74d4:21::36]/270000001128/9900000504/1.m3u8
+CCTV8,http://[2409:8087:74d4:21::36]/270000001128/9900000008/1.m3u8
+CCTV9,http://[2409:8087:74d4:21::36]/270000001128/9900000505/1.m3u8
+CCTV10,http://[2409:8087:74d4:21::36]/270000001128/9900000506/1.m3u8
+CCTV11,http://[2409:8087:74d4:21::36]/270000001128/9900000508/1.m3u8
+CCTV12,http://[2409:8087:74d4:21::36]/270000001128/9900000509/1.m3u8
+CCTV13,http://[2409:8087:74d4:21::36]/270000001128/9900000510/1.m3u8
+CCTV14,http://[2409:8087:74d4:21::36]/270000001128/9900000511/1.m3u8
+CCTV15,http://[2409:8087:74d4:21::36]/270000001128/9900000512/1.m3u8
+CCTV16,http://[2409:8087:74d4:21::36]/270000001128/9900000016/1.m3u8
+CCTV17,http://[2409:8087:74d4:21::36]/270000001128/9900000513/1.m3u8
+
+
+
 
 CCTV1,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -228,24 +316,7 @@ CCTV16,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-CCTV1,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=ace
-CCTV2,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=ace
-CCTV3,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=ace
-CCTV4,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=ace
-CCTV5,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=ace
-CCTV5+,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=ace
-CCTV6,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=ace
-CCTV7,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=ace
-CCTV8,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=ace
-CCTV9,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=ace
-CCTV10,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=ace
-CCTV11,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=ace
-CCTV12,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=ace
-CCTV13,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=ace
-CCTV14,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=ace
-CCTV15,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=ace
-CCTV16,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=ace
-CCTV17,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=ace
+
 
 
 
@@ -272,20 +343,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 
 
-
-
-第一剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-风云剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
-怀旧剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-风云音乐,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
-文化精品,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
-兵器科技,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
-风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
-央视高网,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
-女性时尚,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-央视台球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
-电视指南,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 
 
 
@@ -316,10 +373,7 @@ CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
-凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
-凤凰卫视,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
-凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
-凤凰香港,http://110.235.24.100:8800/play/a00m  
+
 
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -368,6 +422,45 @@ CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 康巴卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8
 
+
+
+湖南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8655038471675748531&livemode=1&stbId=ace
+东方卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=ace
+江苏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=ace
+广东卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6604532991586541024&livemode=1&stbId=ace
+浙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7889730693553663314&livemode=1&stbId=ace
+北京卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8258663409451267714&livemode=1&stbId=ace
+深圳卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7696950400632248401&livemode=1&stbId=ace
+天津卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8798367982904688776&livemode=1&stbId=ace
+山东卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7744799445271696577&livemode=1&stbId=ace
+安徽卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=ace
+江西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5616078396620462481&livemode=1&stbId=ace
+黑龙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=ace
+四川卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8744805262559782299&livemode=1&stbId=ace
+贵州卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5468064193211864646&livemode=1&stbId=ace
+湖北卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=ace
+辽宁卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=ace
+广西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8069815772565148726&livemode=1&stbId=ace
+重庆卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=4995134319251569870&livemode=1&stbId=ace
+东南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7721801662260370363&livemode=1&stbId=ace
+吉林卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=ace
+海南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=ace
+云南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8567124785369040339&livemode=1&stbId=ace
+厦门卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=ace
+河南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=ace
+河北卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8360637122634561354&livemode=1&stbId=ace
+陕西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7120278140251237664&livemode=1&stbId=ace
+山西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=4821787565788875765&livemode=1&stbId=ace
+甘肃卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8938598377512027715&livemode=1&stbId=ace
+宁夏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=ace
+青海卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6721180114242078041&livemode=1&stbId=ace
+西藏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=ace
+新疆卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=ace
+内蒙古卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=ace
+农林卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=ace
+延边卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=ace
+兵团卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=ace
+康巴卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=9131971102485823367&livemode=1&stbId=ace
 
 
 
@@ -1075,10 +1168,10 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 数字频道,#genre#
 
 
-黑莓电影,http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=YanG-1989
-黑莓动画,http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=YanG-1989
-哒啵电竞,http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=YanG-1989
-哒啵赛事,http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=YanG-1989
+黑莓电影,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=ace
+黑莓动画,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=ace
+哒啵赛事,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=ace
+哒啵电竞,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=ace
 
 
 卡酷少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
@@ -1330,6 +1423,71 @@ CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 
 
 
+
+CCTV1,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv1
+CCTV2,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv2
+CCTV3,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv3
+CCTV4,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv4
+CCTV5,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv5
+CCTV5+,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv5p
+CCTV6,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv6
+CCTV7,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv7
+CCTV8,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv8
+CCTV9,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv9
+CCTV10,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv10
+CCTV11,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv11
+CCTV12,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv12
+CCTV13,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv13
+CCTV14,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv14
+CCTV15,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv15
+CCTV16,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv16
+CCTV17,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv17
+
+东方卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=dfws
+重庆卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cqws
+吉林卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=jlws
+辽宁卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=lnws
+内蒙古卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=nmws
+宁夏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=nxws
+甘肃卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gsws
+青海卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=qhws
+陕西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=sxws
+山东卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=sdws
+河南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hnws
+湖北卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hubws
+湖南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hunws
+江西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=jxws
+江苏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=jsws
+东南卫视x,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=dnws
+海峡卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hxws
+广东卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gdws
+大湾区卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=dwqws
+广西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gxws
+云南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=ynws
+贵州卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gzws
+新疆卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=xjws
+西藏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=xzws
+海南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hinws
+
+
+CCTV1,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv1
+CCTV2,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv2
+CCTV3,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv3
+CCTV4,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv4
+CCTV5,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv5
+CCTV5+,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv5p
+CCTV6,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv6
+CCTV7,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv7
+CCTV8,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv8
+CCTV9,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv9
+CCTV10,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv10
+CCTV11,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv11
+CCTV12,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv12
+CCTV13,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv13
+CCTV14,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv14
+CCTV15,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv15
+CCTV16,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv16
+CCTV17,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv17
 
 
 
