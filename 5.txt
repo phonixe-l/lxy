@@ -65,50 +65,24 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servi
 
 
 
-
-
-
-CCTV1,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=ace
-CCTV2,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=ace
-CCTV3,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=ace
-CCTV4,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=ace
-CCTV5,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=ace
-CCTV5+,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=ace
-CCTV6,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=ace
-CCTV7,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=ace
-CCTV8,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=ace
-CCTV9,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=ace
-CCTV10,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=ace
-CCTV11,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=ace
-CCTV12,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=ace
-CCTV13,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=ace
-CCTV14,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=ace
-CCTV15,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=ace
-CCTV16,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=ace
-CCTV17,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=ace
-
-
-
-
-CCTV1,http://[2409:8087:74d4:21::36]/270000001128/9900000501/1.m3u8
-CCTV1,http://[2409:8087:74d4:21::36]/270000001128/9900000001/1.m3u8
-CCTV2,http://[2409:8087:74d4:21::36]/270000001128/9900000502/1.m3u8
-CCTV3,http://[2409:8087:74d4:21::36]/270000001128/9900000003/1.m3u8
-CCTV4,http://[2409:8087:74d4:21::36]/270000001128/9900000503/1.m3u8
-CCTV5,http://[2409:8087:74d4:21::36]/270000001128/9900000005/1.m3u8
-CCTV5+,http://[2409:8087:74d4:21::36]/270000001128/9900000507/1.m3u8
-CCTV6,http://[2409:8087:74d4:21::36]/270000001128/9900000006/1.m3u8
-CCTV7,http://[2409:8087:74d4:21::36]/270000001128/9900000504/1.m3u8
-CCTV8,http://[2409:8087:74d4:21::36]/270000001128/9900000008/1.m3u8
-CCTV9,http://[2409:8087:74d4:21::36]/270000001128/9900000505/1.m3u8
-CCTV10,http://[2409:8087:74d4:21::36]/270000001128/9900000506/1.m3u8
-CCTV11,http://[2409:8087:74d4:21::36]/270000001128/9900000508/1.m3u8
-CCTV12,http://[2409:8087:74d4:21::36]/270000001128/9900000509/1.m3u8
-CCTV13,http://[2409:8087:74d4:21::36]/270000001128/9900000510/1.m3u8
-CCTV14,http://[2409:8087:74d4:21::36]/270000001128/9900000511/1.m3u8
-CCTV15,http://[2409:8087:74d4:21::36]/270000001128/9900000512/1.m3u8
-CCTV16,http://[2409:8087:74d4:21::36]/270000001128/9900000016/1.m3u8
-CCTV17,http://[2409:8087:74d4:21::36]/270000001128/9900000513/1.m3u8
+CCTV1,http://[2409:8087:74d2:21::6]/270000001128/9900000001/1.m3u8
+CCTV2,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002135/index.m3u8
+CCTV3,http://[2409:8087:74d2:21::6]/270000001128/9900000003/index.m3u8
+CCTV4,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226539/index.m3u8
+CCTV5,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226146/index.m3u8
+CCTV5+,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002139/index.m3u8
+CCTV6,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226148/index.m3u8
+CCTV7,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002141/index.m3u8
+CCTV8,http://[2409:8087:74d2:21::6]/270000001128/9900000008/index.m3u8
+CCTV9,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226434/index.m3u8
+CCTV10,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226164/index.m3u8
+CCTV11,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226541/index.m3u8
+CCTV12,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226436/index.m3u8
+CCTV13,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226438/index.m3u8
+CCTV14,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002148/index.m3u8
+CCTV15,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226616/index.m3u8
+CCTV16,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226413/index.m3u8
+CCTV17,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 
 
 
@@ -215,7 +189,6 @@ CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u
 
 
 
-
 CCTV1,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000501
 CCTV2,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
 CCTV3,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
@@ -304,8 +277,15 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 
 
+
+CHC动作电影,https://video.mytvsuper.xyz/live/c91216bf5ddaeff6c20a0e539354d1f225363b8ca079420993ec2ddfeaf5583b.m3u8?token=832278992603457
+CHC家庭影院,https://video.mytvsuper.xyz/live/afbd9c6571a55c4fb1cb2d6c00278f14a98906425276a0794b05bb717970af24.m3u8?token=832278992603457
+CHC影迷电影,https://video.mytvsuper.xyz/live/d3c6bb8c1486bd1c1bfb299551f29fe149a224c0938804520b011f31fcc5b151.m3u8?token=832278992603457
+
+
 CHC动作电影,https://video.mytvsuper.xyz/live/05fa3ee6529bb81cfd28c7586e97b41cd3da40f6ad61d44b0380a2652b9a552e.m3u8?token=832278992603457
 CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5b9f189a130b93cc34408fb3d1895dcec7.m3u8?token=832278992603457
+
 
 
 
@@ -430,6 +410,27 @@ CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5
 
 
 
+北京卫视,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226739/index.m3u8
+东方卫视,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221225755/index.m3u8
+吉林卫视,http://[2409:8087:74d2:21::6]/270000001128/9900000030/index.m3u8
+四川卫视,http://[2409:8087:74d2:21::6]/270000001128/9900000025/index.m3u8
+天津卫视,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002205/index.m3u8
+山东卫视,http://[2409:8087:74d2:21::6]/270000001128/9900000067/index.m3u8
+广东卫视,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226180/index.m3u8
+江苏卫视,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226157/index.m3u8
+浙江卫视,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002206/index.m3u8
+湖南卫视,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226193/index.m3u8
+深圳卫视,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002140/index.m3u8
+安徽卫视,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002200/index.m3u8
+辽宁卫视,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002201/index.m3u8
+黑龙江卫视,http://[2409:8087:74d2:21::6]/270000001322/69900158041111100000002142/index.m3u8
+
+
+
+
+
+
+
 北京卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000410
 东方卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000301
 天津卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000329
@@ -469,43 +470,8 @@ CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5
 
 
 
-北京卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265011&livemode=1&stbId=ace
-东方卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265007&livemode=1&stbId=ace
-东南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=ace
-云南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=ace
-吉林卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=ace
-四川卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=ace
-天津卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=ace
-山东卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=ace
-广东卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=ace
-广西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=ace
-江苏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=ace
-江西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=ace
-河北卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=ace
-河南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=ace
-浙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=ace
-湖南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=ace
-湖北卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=ace
-深圳卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=ace
-安徽卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=ace
-甘肃卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=ace
-辽宁卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=ace
-重庆卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=ace
-黑龙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=ace
-贵州卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=ace
-青海卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=ace
-兵团卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=ace
-新疆卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=ace
-陕西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=ace
-山西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=ace
-厦门卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5084893189220221988&livemode=1&stbId=ace
-宁夏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=ace
-安多卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=ace
-海南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=ace
-三沙卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=ace
-西藏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5381760837640571168&livemode=1&stbId=ace
-内蒙古卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=7331079758781182663&livemode=1&stbId=ace
-康巴卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=ace
+
+
 
 
 
