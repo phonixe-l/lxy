@@ -1,3 +1,48 @@
+央卫临时,#genre#
+
+CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv
+CCTV6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
+
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
+东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
+辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv
+浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv
+湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv
+深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv
+贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv
+山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
+安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv
+江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
+河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
+
+
+
+
 央视频道,#genre#
 
 
@@ -24,6 +69,25 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
+
+
+CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fe8M_1QCWSd35gkY-Q1BSH%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192539%2C%2C%2C20240420192539%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EqTu3rtglooDaG_6P7QG0G%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192550%2C%2C%2C20240420192550%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7G2pNzf8WZUYdQj6fRj0xqk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192551%2C%2C%2C20240420192551%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fu7CeinMHJqra3zokMRz7n%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192552%2C%2C%2C20240420192552%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HnJxyKiyVyy_NI7qKUlh3o%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192553%2C%2C%2C20240420192553%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Gjz8eIMyPUF5CKBM1zLuEZ%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192555%2C%2C%2C20240420192555%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+
+
+
+
+
 CCTV1,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=ace
 CCTV2,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=ace
 CCTV3,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=ace
@@ -47,18 +111,7 @@ CCTV17,http://[2409:8087:5e20:24::d]:6610/000000001000/0/1.m3u8?channel-id=ysten
 
 
 
-CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fe8M_1QCWSd35gkY-Q1BSH%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192539%2C%2C%2C20240420192539%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EqTu3rtglooDaG_6P7QG0G%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192550%2C%2C%2C20240420192550%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7G2pNzf8WZUYdQj6fRj0xqk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192551%2C%2C%2C20240420192551%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fu7CeinMHJqra3zokMRz7n%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192552%2C%2C%2C20240420192552%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HnJxyKiyVyy_NI7qKUlh3o%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192553%2C%2C%2C20240420192553%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Gjz8eIMyPUF5CKBM1zLuEZ%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192555%2C%2C%2C20240420192555%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
-CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2&icpid=88888888&from=1&ocs=2_2409:8087:8:20::d_80&hms_devid=3729
+
 
 
 
@@ -301,6 +354,9 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 
 
+
+
+
 第一剧场,http://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
 世界地理,http://139.215.98.88/PLTV/88888888/224/3221225783/10000100000000060000000014254033_0.smil
 风云足球,http://139.215.98.88/PLTV/88888888/224/3221225747/10000100000000060000000014253997_0.smil
@@ -474,6 +530,8 @@ CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5
 
 
 
+
+
 北京卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
 湖南卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
 东方卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=
@@ -531,9 +589,6 @@ CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5
 四川卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000025
 云南卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
 浙江卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000531
-
-
-
 
 
 
@@ -1071,7 +1126,7 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 征服,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=bed0de04c849de17cc1d52a9945e2b9d&wsTime=672db9a9&seqid=2930604500129&ctype=tars_mobile&ver=1&txyp=o%3An111%3B&fs=bgct
 征服,http://120.77.28.4:8648/douyu.php?id=2726977
 父母爱情,http://182.40.120.229/test-txdwk.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv
-铁齿铜牙纪晓岚,http://itv.yhtv.us.kg/huya/29588938
+铁齿铜牙纪晓岚,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=29588938
 武林外传动画版,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-d=1712822691.flv?wsSecret=89cc68873537d79e0e53a873a4c59570&wsTime=6618eb22&seqid=2912463689944&ctype=tars_mobile&ver=1&fs=bgct
 雪中悍刀行,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?wsSecret=36846c9128b8cc3c562f371b679a3b27&wsTime=66cd626b&seqid=3191905703810&ctype=tars_mobile&ver=1&fs=bgct
 
@@ -1461,56 +1516,6 @@ CCTV17,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%
 
 
 
-
-
-
-
-CCTV1,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv1
-CCTV2,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv2
-CCTV3,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv3
-CCTV4,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv4
-CCTV5,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv5
-CCTV5+,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv5p
-CCTV6,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv6
-CCTV7,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv7
-CCTV8,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv8
-CCTV9,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv9
-CCTV10,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv10
-CCTV11,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv11
-CCTV12,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv12
-CCTV13,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv13
-CCTV14,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv14
-CCTV15,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv15
-CCTV16,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv16
-CCTV17,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cctv17
-
-东方卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=dfws
-重庆卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=cqws
-吉林卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=jlws
-辽宁卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=lnws
-内蒙古卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=nmws
-宁夏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=nxws
-甘肃卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gsws
-青海卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=qhws
-陕西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=sxws
-山东卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=sdws
-河南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hnws
-湖北卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hubws
-湖南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hunws
-江西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=jxws
-江苏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=jsws
-东南卫视x,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=dnws
-海峡卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hxws
-广东卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gdws
-大湾区卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=dwqws
-广西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gxws
-云南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=ynws
-贵州卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=gzws
-新疆卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=xjws
-西藏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=xzws
-海南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu.php?id=hinws
-
-
 CCTV1,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv1
 CCTV2,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv2
 CCTV3,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv3
@@ -1529,6 +1534,8 @@ CCTV14,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv14
 CCTV15,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv15
 CCTV16,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv16
 CCTV17,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cctv17
+
+
 
 
 
@@ -1594,6 +1601,32 @@ CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
+
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
+东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
+辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv
+浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv
+湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv
+深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv
+贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv
+山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
+安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv
+江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
+河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
+
+
 
 
 CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
