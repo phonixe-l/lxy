@@ -847,7 +847,7 @@ CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5
 
 
 
-吉林都市,http://139.215.98.88/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil
+吉林都市,http://175.20.236.20/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil?icpid=88888888&from=12&hms_devid=1724&online=1737096123
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
 吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
 吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
