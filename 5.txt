@@ -126,9 +126,10 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
-CHC动作电影,https://video.mytvsuper.xyz/live/c91216bf5ddaeff6c20a0e539354d1f225363b8ca079420993ec2ddfeaf5583b.m3u8?token=832278992603457
-CHC家庭影院,https://video.mytvsuper.xyz/live/afbd9c6571a55c4fb1cb2d6c00278f14a98906425276a0794b05bb717970af24.m3u8?token=832278992603457
-CHC影迷电影,https://video.mytvsuper.xyz/live/d3c6bb8c1486bd1c1bfb299551f29fe149a224c0938804520b011f31fcc5b151.m3u8?token=832278992603457
+CHC动作影院,http://www.8239999.xyz:8188/udp/239.93.52.7:5140
+CHC家庭影院,http://www.8239999.xyz:8188/udp/239.93.52.6:5140
+CHC影迷电影,http://www.8239999.xyz:8188/udp/239.93.52.5:5140
+
 
 
 CHC动作电影,https://video.mytvsuper.xyz/live/05fa3ee6529bb81cfd28c7586e97b41cd3da40f6ad61d44b0380a2652b9a552e.m3u8?token=832278992603457
@@ -154,6 +155,11 @@ CHC家庭影院,https://video.mytvsuper.xyz/live/146d1139d3462c9fac5b2224aeec0d5
 凤凰卫视,http://61.163.58.154:1321/ms/IPTV.php?id=123
 凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?id=124
 凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?id=125
+
+
+
+凤凰卫视,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8
+凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
 
 
 凤凰卫视,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
