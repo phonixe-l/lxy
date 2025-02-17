@@ -325,16 +325,18 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 电视剧轮播,#genre#
 
 
-庆余年,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.flv?wsSecret=15dc9d6ce497a032b0b7d5b92e873c9a&wsTime=66d7f87c&seqid=2924984510251&ctype=tars_mobile&ver=1&txyp=o%3Aczeic1%3B&fs=bgct
+庆余年,http://182.40.120.229/test.txdirect.hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.flv
 庆余年,http://120.77.28.4:8648/douyu.php?id=5062195
-大染坊,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=e2fab6f2a5bfa21508f688a3bb9ac201&wsTime=672c66dc&seqid=2930603871498&ctype=huya_live&ver=1&txyp=o%3Aq6%3B&fs=bgct
-亮剑,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.flv?wsSecret=b05ef8e00d26a4399b0672b10eafe512&wsTime=66cbf161&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct
-征服,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv?wsSecret=bed0de04c849de17cc1d52a9945e2b9d&wsTime=672db9a9&seqid=2930604500129&ctype=tars_mobile&ver=1&txyp=o%3An111%3B&fs=bgct
+大染坊,http://182.40.120.229/test.txdirect.hls.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv
+亮剑,http://182.40.120.229/test.txdirect.hls.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.flv
+征服,http://182.40.120.229/test.txdirect.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.flv
 征服,http://120.77.28.4:8648/douyu.php?id=2726977
-父母爱情,http://182.40.120.229/test-txdwk.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv
-铁齿铜牙纪晓岚,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=29588938
-武林外传动画版,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-d=1712822691.flv?wsSecret=89cc68873537d79e0e53a873a4c59570&wsTime=6618eb22&seqid=2912463689944&ctype=tars_mobile&ver=1&fs=bgct
-雪中悍刀行,https://v22r0oqaiiqz68lls9yphk68ece0oixpv.mobgslb.tbcache.com/aldirect.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?wsSecret=36846c9128b8cc3c562f371b679a3b27&wsTime=66cd626b&seqid=3191905703810&ctype=tars_mobile&ver=1&fs=bgct
+父母爱情,http://182.40.120.229/test.txdirect.hls.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv
+铁齿铜牙纪晓岚,http://182.40.120.229/test.txdirect.hls.huya.com/src/1199649333227-1199649333227-5813056313206243328-2399298789910-10057-A-0-1.flv
+武林外传动画版,http://182.40.120.229/test.txdirect.hls.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-d=1712822691.flv
+雪中悍刀行,http://182.40.120.229/test.txdirect.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv
+
+
 
 雪豹,http://jiaojirentv.top/2020/yy.php?id=1450496699
 83射雕英雄传,http://jiaojirentv.top/2020/yy.php?id=1354210357
@@ -404,8 +406,8 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 宫心计,http://jiaojirentv.top/2020/yy.php?id=1354933540
 鹊刀门,http://jiaojirentv.top/2020/yy.php?id=1355344777
 易中天品三国,http://jiaojirentv.top/2020/yy.php?id=1461244449
-周星驰,http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
-沈腾,http://182.40.120.229/test-txdwk.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+周星驰,http://182.40.120.229/test.txdirect.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+沈腾,http://182.40.120.229/test.txdirect.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
 
 
 
