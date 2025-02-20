@@ -175,13 +175,13 @@ CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 
 
 
-吉林都市,http://175.20.236.20/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil?icpid=88888888&from=12&hms_devid=1724&online=1737096123
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
-吉林公共,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?txSecret=7c4e7dc05f80dfbf29a9436c82fd1710&txTime=6784E70F
-吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=634adfcc4b161ce61a129f52333269df&txTime=6784E70F
-东北戏曲,https://hls.avap.jilintv.cn/zqvk7vpj/channel/1ceb537a60664ac49649b639e823678c/index.m3u8?txSecret=634adfcc4b161ce61a129f52333269df&txTime=6784E70F
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
+吉林公共,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
+吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
+东北戏曲,https://hls.avap.jilintv.cn/zqvk7vpj/channel/1ceb537a60664ac49649b639e823678c/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
 吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
 
@@ -278,6 +278,8 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 电视剧轮播,#genre#
+
+
 
 
 
@@ -390,16 +392,21 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 数字频道,#genre#
 
 
-黑莓电影,http://115.229.24.84:8866/TVOD/2000000003000000001/hnbblive/index.m3u8
-黑莓电影,http://115.229.24.84:8866/TVOD/1000000004000019624/bestzb/index.m3u8
-黑莓动画,http://115.229.24.84:8866/TVOD/1000000004000021734/bestzb/index.m3u8
-黑莓动画,http://115.229.24.84:8866/TVOD/2000000003000000002/bestzb/index.m3u8
-哒啵电竞,http://115.229.24.84:8866/TVOD/1000000006000032327/bestzb/index.m3u8
-哒啵赛事,http://115.229.24.84:8866/TVOD/1000000001000003775/bestzb/index.m3u8
+黑莓电影,http://122.157.245.8:8834/TVOD/2000000003000000001/hnbblive/index.m3u8
+黑莓电影,http://122.157.245.8:8834/TVOD/1000000004000019624/ystenlive/index.m3u8
+黑莓动画,http://122.157.245.8:8834/TVOD/2000000003000000002/hnbblive/index.m3u8
+黑莓动画,http://122.157.245.8:8834/TVOD/1000000004000021734/ystenlive/index.m3u8
+哒啵赛事,http://122.157.245.8:8834/TVOD/2000000003000000004/hnbblive/index.m3u8
+哒啵赛事,http://122.157.245.8:8834/TVOD/2000000003000000039/hnbblive/index.m3u8
+哒啵赛事,http://122.157.245.8:8834/TVOD/2000000003000000040/hnbblive/index.m3u8
+哒啵赛事,http://122.157.245.8:8834/TVOD/1000000001000003775/ystenlive/index.m3u8
+哒啵赛事,http://122.157.245.8:8834/TVOD/1000000001000006906/ystenlive/index.m3u8
+哒啵电竞,http://122.157.245.8:8834/TVOD/2000000003000000066/hnbblive/index.m3u8
+哒啵电竞,http://122.157.245.8:8834/TVOD/1000000006000032327/ystenlive/index.m3u8
 电子竞技,http://182.46.42.17:9000/TVOD/2000000004000000015/hnbblive/index.m3u8?ace
 电子竞技,http://182.46.42.17:9000/TVOD/6000000003000011654/wasusyt/index.m3u8?ace
-高清娱乐,http://182.46.42.17:9000/TVOD/2000000004000000013/hnbblive/index.m3u8?ace
-高清娱乐,http://182.46.42.17:9000/TVOD/6000000003000001569/wasusyt/index.m3u8?ace
+高清娱乐,http://122.157.245.8:8834/TVOD/2000000004000000013/hnbblive/index.m3u8
+高清娱乐,http://122.157.245.8:8834/TVOD/6000000003000001569/wasusyt/index.m3u8
 精彩影视,http://182.46.42.17:9000/TVOD/2000000004000000063/hnbblive/index.m3u8?ace
 精彩影视,http://182.46.42.17:9000/TVOD/6000000006000320630/wasusyt/index.m3u8?ace
 漫游世界,http://182.46.42.17:9000/TVOD/2000000004000000017/hnbblive/index.m3u8?ace
@@ -492,6 +499,7 @@ NewTV炫舞未来,http://182.46.42.17:9000/TVOD/1000000001000000515/ystenlive/in
 NewTV怡伴健康,http://182.46.42.17:9000/TVOD/2000000003000000023/hnbblive/index.m3u8?ace
 NewTV怡伴健康,http://182.46.42.17:9000/TVOD/1000000005000266011/ystenlive/index.m3u8?ace
 NewTV中国功夫,http://182.46.42.17:9000/TVOD/2000000003000000009/hnbblive/index.m3u8?ace
+
 
 
 
