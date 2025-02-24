@@ -309,7 +309,6 @@ CCTV17,http://189.1.244.48:50001/TVOD/1000000005000056836/ystenlive/index.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
 永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
-松原,http://125.32.116.75:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
