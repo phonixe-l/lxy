@@ -370,6 +370,50 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
+纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
+东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
+龙祥时代电影,http://108.181.20.197/livehttpplay?channel_id=20114
+龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
+龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
+美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197
+FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
+天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
+八大精彩,http://108.181.20.197/livehttpplay?channel_id=20052
+八大综合,http://108.181.20.197/livehttpplay?channel_id=20068
+八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071
+中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079
+东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
+华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086
+民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097
+三立都会,http://108.181.20.197/livehttpplay?channel_id=20100
+纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120
+纬来戏剧,http://108.181.20.197/livehttpplay?channel_id=20200
+纬来娱乐,http://108.181.20.197/livehttpplay?channel_id=20202
+纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303
+ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
+ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107
+TVBS欢乐,http://108.181.20.197/livehttpplay?channel_id=20105
+TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
+NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041
+非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034
+壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
+CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048
+台视,http://108.181.20.197/livehttpplay?channel_id=20076
+公视,http://108.181.20.197/livehttpplay?channel_id=20087
+中视,http://108.181.20.197/livehttpplay?channel_id=20088
+星河,http://108.181.20.197/livehttpplay?channel_id=20070
+民视,http://108.181.20.197/livehttpplay?channel_id=20074
+采昌,http://108.181.20.197/livehttpplay?channel_id=20141
+ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
+ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
+尼克动画,http://108.181.20.197/livehttpplay?channel_id=20089
+国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164
+三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
+博斯运动,http://108.181.20.197/livehttpplay?channel_id=10131
+国家地理,http://108.181.20.197/livehttpplay?channel_id=20037
+年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
+东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
 
 
 
