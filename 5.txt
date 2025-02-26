@@ -374,6 +374,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
+
 电视剧轮播,#genre#
 
 
@@ -824,7 +825,7 @@ K频道,http://jaz9.my.to:2390/udp/224.1.4.65:11111
 彩虹电影,http://jaz9.my.to:2390/udp/224.1.4.64:11111
 松视1,http://jaz9.my.to:2390/udp/224.1.4.68:11111
 松视3,http://jaz9.my.to:2390/udp/224.1.4.70:11111
-Jastar极限电影台,http://jaz9.my.to:2390/udp/230.1.2.32:11111
+Jastar极限电影台,http://ali.hlspull.yximgs.com/live/76c22c28cc74873694b6ba0070ce3696.flv
 
 
 
