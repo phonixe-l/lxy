@@ -861,14 +861,14 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 
 
-香蕉,http://s.mrw.so/94E7W
-惊艳,http://suo.im/8odLv
-潘多拉,http://suo.im/6TuSG
-彩虹电影,http://suo.im/9sOLD
-松视1,http://suo.im/c4FP2
-松视2,http://b.mtw.so/6pAjsB
-松视3,http://suo.im/9wiS2
-pigoo,http://s.mrw.so/7DlBI
-极限台,http://suo.im/aD7Ry
+香蕉,http://ali.hlspull.yximgs.com/live/5824b7881ea48d6f8fe374c73a6ac578.flv
+惊艳,http://ali.hlspull.yximgs.com/live/30c265e8e01326bce72a72b25a7ba671.flv
+潘多拉,http://ali.hlspull.yximgs.com/live/b49e2ad9176fc9b80bcb5c0459b33e25.flv
+彩虹电影,http://ali.hlspull.yximgs.com/live/559b5a538aefd09a621cd1dcddc0f7e7.flv
+松视1,http://ali.hlspull.yximgs.com/live/cbd248070a5237073bd93efe58ae25b6.flv
+松视2,http://ali.hlspull.yximgs.com/live/46d9203e5192553ca78f81e57e3ddb0e.flv
+松视3,http://ali.hlspull.yximgs.com/live/4fa379460355e10d5b9917fc340df8a7.flv
+pigoo,http://ali.hlspull.yximgs.com/live/51b93402c06d79c8ee20b04057e3988f.flv
+极限台,http://ali.hlspull.yximgs.com/live/da71b245a7869fdfc6c6e832c7b6e874.flv
 
 
