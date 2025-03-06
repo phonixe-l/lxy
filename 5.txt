@@ -222,7 +222,7 @@ CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
 
 北京卫视,https://tv.bfsu.edu.cn/hls/btv1hd.m3u8
 东方卫视,https://tv.bfsu.edu.cn/hls/dfhd.m3u8
-天津卫视,
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
 重庆卫视,https://tv.bfsu.edu.cn/hls/cqhd.m3u8
 辽宁卫视,https://tv.bfsu.edu.cn/hls/lnhd.m3u8
 黑龙江卫视,https://tv.bfsu.edu.cn/hls/hljhd.m3u8
@@ -248,7 +248,7 @@ CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
 陕西卫视,https://tv.bfsu.edu.cn/hls/sxhd.m3u8
 河南卫视,https://tv.bfsu.edu.cn/hls/hnhd.m3u8
 甘肃卫视,https://tv.bfsu.edu.cn/hls/gstv.m3u8
-山西卫视,https://tv.bfsu.edu.cn/hls/sxtv.m3u8
+山西卫视,https://tv.bfsu.edu.cn/hls/sxrtv.m3u8
 青海卫视,https://tv.bfsu.edu.cn/hls/qhtv.m3u8
 内蒙古卫视,https://tv.bfsu.edu.cn/hls/nmtv.m3u8
 
