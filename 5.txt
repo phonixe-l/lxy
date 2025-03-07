@@ -1,25 +1,36 @@
 央视频道,#genre#
 
 
-
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
-CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
 CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 CCTV5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
 CCTV5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV6,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV7,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV8,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND
-CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV10,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV11,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV11,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV12,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV13,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV13,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EU-IJJyzlYeEElWsacI4JKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMT7DWkynQtRPzNDJCOY_C_%2CEND
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV14,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND
 CCTV15,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV15,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFQ8BWVFffGkwLTLNv7CwFQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7I2coCeiP5K0pSIMZqcUB%2CEND
@@ -28,21 +39,6 @@ CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 
 
 
-
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 
@@ -74,7 +70,7 @@ CCTV17,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
 
 
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv
-
+CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
 
 CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv
@@ -82,7 +78,7 @@ CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv
 CCTV6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
 
 CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
-
+CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV12,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
