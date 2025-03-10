@@ -40,28 +40,19 @@ CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 
 
 
+CCTV1,http://211.67.191.23/hls/cctv1hd/index.m3u8
+CCTV2,http://211.67.191.23/hls/cctv2hd/index.m3u8
+CCTV3,http://211.67.191.23/hls/cctv3hd/index.m3u8
+CCTV4,http://211.67.191.23/hls/cctv4hd/index.m3u8
+CCTV5,http://211.67.191.23/hls/cctv5hd/index.m3u8
+CCTV5+,http://211.67.191.23/hls/cctv5phd/index.m3u8
+CCTV6,http://211.67.191.23/hls/cctv6hd/index.m3u8
+CCTV7,http://211.67.191.23/hls/cctv7hd/index.m3u8
+CCTV8,http://211.67.191.23/hls/cctv8hd/index.m3u8
+CCTV10,http://211.67.191.23/hls/cctv10hd/index.m3u8
+CCTV12,http://211.67.191.23/hls/cctv12hd/index.m3u8
+CCTV14,http://211.67.191.23/hls/cctv14hd/index.m3u8
 
-
-
-
-CCTV1,http://tv.bfsu.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://tv.bfsu.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://tv.bfsu.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://tv.bfsu.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://tv.bfsu.edu.cn/hls/cctv5hd.m3u8
-CCTV5+,http://tv.bfsu.edu.cn/hls/cctv5phd.m3u8
-CCTV6,http://tv.bfsu.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://tv.bfsu.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://tv.bfsu.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://tv.bfsu.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://tv.bfsu.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://tv.bfsu.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://tv.bfsu.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://tv.bfsu.edu.cn/hls/cctv14hd.m3u8
-CCTV15,http://tv.bfsu.edu.cn/hls/cctv15hd.m3u8
-CCTV16,http://tv.bfsu.edu.cn/hls/cctv16hd.m3u8
-CCTV17,http://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
 
 
 
@@ -185,13 +176,15 @@ CCTV17,http://142.171.105.169:50001/TVOD/1000000005000056836/ystenlive/index.m3u
 
 
 
+CHC家庭影院,http://211.67.191.23/hls/chctv/index.m3u8
+CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
+
 CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8
-CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
 
 
 
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#https://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
+
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
 
@@ -203,50 +196,13 @@ CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
 卫视频道,#genre#
 
 
-凤凰卫视,http://108.181.20.197/livehttpplay?channel_id=20065
-凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=20066
-凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067
-
-
-
-凤凰卫视,https://tv.bfsu.edu.cn/hls/fhzw.m3u8
-凤凰资讯,https://tv.bfsu.edu.cn/hls/fhzx.m3u8
-凤凰香港,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
+凤凰卫视,http://211.67.191.23/hls/fhzw/index.m3u8
+凤凰资讯,http://211.67.191.23/hls/fhzx/index.m3u8
+凤凰香港,http://211.67.191.23/hls/fhdy/index.m3u8
 
 
 
 
-北京卫视,https://tv.bfsu.edu.cn/hls/btv1hd.m3u8
-东方卫视,https://tv.bfsu.edu.cn/hls/dfhd.m3u8
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
-重庆卫视,https://tv.bfsu.edu.cn/hls/cqhd.m3u8
-辽宁卫视,https://tv.bfsu.edu.cn/hls/lnhd.m3u8
-黑龙江卫视,https://tv.bfsu.edu.cn/hls/hljhd.m3u8
-吉林卫视,https://tv.bfsu.edu.cn/hls/jlhd.m3u8
-江苏卫视,https://tv.bfsu.edu.cn/hls/jshd.m3u8
-浙江卫视,https://tv.bfsu.edu.cn/hls/zjhd.m3u8
-湖南卫视,https://tv.bfsu.edu.cn/hls/hunanhd.m3u8
-东南卫视,https://tv.bfsu.edu.cn/hls/dnhd.m3u8
-河北卫视,https://tv.bfsu.edu.cn/hls/hebtv.m3u8
-宁夏卫视,https://tv.bfsu.edu.cn/hls/nxtv.m3u8
-新疆卫视,https://tv.bfsu.edu.cn/hls/xjtv.m3u8
-广西卫视,https://tv.bfsu.edu.cn/hls/gxhd.m3u8
-陕西卫视,https://tv.bfsu.edu.cn/hls/sxhd.m3u8
-深圳卫视,https://tv.bfsu.edu.cn/hls/szhd.m3u8
-四川卫视,https://tv.bfsu.edu.cn/hls/schd.m3u8
-云南卫视,https://tv.bfsu.edu.cn/hls/yntv.m3u8
-广东卫视,https://tv.bfsu.edu.cn/hls/gdhd.m3u8
-贵州卫视,https://tv.bfsu.edu.cn/hls/gzhd.m3u8
-湖北卫视,https://tv.bfsu.edu.cn/hls/hbhd.m3u8
-山东卫视,https://tv.bfsu.edu.cn/hls/sdhd.m3u8
-安徽卫视,https://tv.bfsu.edu.cn/hls/ahhd.m3u8
-江西卫视,https://tv.bfsu.edu.cn/hls/jxhd.m3u8
-陕西卫视,https://tv.bfsu.edu.cn/hls/sxhd.m3u8
-河南卫视,https://tv.bfsu.edu.cn/hls/hnhd.m3u8
-甘肃卫视,https://tv.bfsu.edu.cn/hls/gstv.m3u8
-山西卫视,https://tv.bfsu.edu.cn/hls/sxrtv.m3u8
-青海卫视,https://tv.bfsu.edu.cn/hls/qhtv.m3u8
-内蒙古卫视,https://tv.bfsu.edu.cn/hls/nmtv.m3u8
 
 
 
@@ -279,6 +235,41 @@ CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
 河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
+
+
+
+
+北京卫视,http://211.67.191.23/hls/btv1hd/index.m3u8
+湖南卫视,http://211.67.191.23/hls/hunanhd/index.m3u8
+浙江卫视,http://211.67.191.23/hls/zjhd/index.m3u8
+江苏卫视,http://211.67.191.23/hls/jshd/index.m3u8
+东方卫视,http://211.67.191.23/hls/dfhd/index.m3u8
+安徽卫视,http://211.67.191.23/hls/ahhd/index.m3u8
+黑龙江卫视,http://211.67.191.23/hls/hljhd/index.m3u8
+辽宁卫视,http://211.67.191.23/hls/lnhd/index.m3u8
+深圳卫视,http://211.67.191.23/hls/szhd/index.m3u8
+湖北卫视,http://211.67.191.23/hls/hbhd/index.m3u8
+山东卫视,http://211.67.191.23/hls/sdhd/index.m3u8
+重庆卫视,http://211.67.191.23/hls/cqhd/index.m3u8
+东南卫视,http://211.67.191.23/hls/dnhd/index.m3u8
+四川卫视,http://211.67.191.23/hls/schd/index.m3u8
+江西卫视,http://211.67.191.23/hls/jxhd/index.m3u8
+河北卫视,http://211.67.191.23/hls/hebtv/index.m3u8
+西藏卫视,http://211.67.191.23/hls/xztv/index.m3u8
+内蒙古卫视,http://211.67.191.23/hls/nmtv/index.m3u8
+青海卫视,http://211.67.191.23/hls/qhtv/index.m3u8
+山西卫视,http://211.67.191.23/hls/sxrtv/index.m3u8
+厦门卫视,http://211.67.191.23/hls/xmtv/index.m3u8
+新疆卫视,http://211.67.191.23/hls/xjtv/index.m3u8
+云南卫视,http://211.67.191.23/hls/yntv/index.m3u8
+宁夏卫视,http://211.67.191.23/hls/nxtv/index.m3u8
+甘肃卫视,http://211.67.191.23/hls/gstv/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -924,17 +915,11 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 内部测试_147258,#genre#
 
 
-
-
-
-香蕉,http://ali.hlspull.yximgs.com/live/5824b7881ea48d6f8fe374c73a6ac578.flv
-惊艳,http://ali.hlspull.yximgs.com/live/30c265e8e01326bce72a72b25a7ba671.flv
-潘多拉,http://ali.hlspull.yximgs.com/live/b49e2ad9176fc9b80bcb5c0459b33e25.flv
-彩虹电影,http://ali.hlspull.yximgs.com/live/559b5a538aefd09a621cd1dcddc0f7e7.flv
-松视1,http://ali.hlspull.yximgs.com/live/cbd248070a5237073bd93efe58ae25b6.flv
-松视2,http://ali.hlspull.yximgs.com/live/46d9203e5192553ca78f81e57e3ddb0e.flv
-松视3,http://ali.hlspull.yximgs.com/live/4fa379460355e10d5b9917fc340df8a7.flv
-pigoo,http://ali.hlspull.yximgs.com/live/51b93402c06d79c8ee20b04057e3988f.flv
-极限台,http://ali.hlspull.yximgs.com/live/da71b245a7869fdfc6c6e832c7b6e874.flv
+香蕉,http://s.mrw.so/94E7W
+惊艳,http://suo.im/8odLv
+潘朵拉,http://suo.im/6TuSG
+彩虹电影,http://suo.im/9sOLD
+松视1,http://suo.im/c4FP2
+松视3,http://suo.im/9wiS2
 
 
