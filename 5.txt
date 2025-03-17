@@ -424,51 +424,6 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
-纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199
-好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
-东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
-龙祥时代电影,http://108.181.20.197/livehttpplay?channel_id=20114
-龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
-龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
-美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197
-FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
-天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
-八大精彩,http://108.181.20.197/livehttpplay?channel_id=20052
-八大综合,http://108.181.20.197/livehttpplay?channel_id=20068
-八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071
-中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079
-东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
-华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086
-民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097
-三立都会,http://108.181.20.197/livehttpplay?channel_id=20100
-纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120
-纬来戏剧,http://108.181.20.197/livehttpplay?channel_id=20200
-纬来娱乐,http://108.181.20.197/livehttpplay?channel_id=20202
-纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303
-ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
-ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107
-TVBS欢乐,http://108.181.20.197/livehttpplay?channel_id=20105
-TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
-NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041
-非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034
-壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
-CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048
-台视,http://108.181.20.197/livehttpplay?channel_id=20076
-公视,http://108.181.20.197/livehttpplay?channel_id=20087
-中视,http://108.181.20.197/livehttpplay?channel_id=20088
-星河,http://108.181.20.197/livehttpplay?channel_id=20070
-民视,http://108.181.20.197/livehttpplay?channel_id=20074
-采昌,http://108.181.20.197/livehttpplay?channel_id=20141
-ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
-ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
-尼克动画,http://108.181.20.197/livehttpplay?channel_id=20089
-国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164
-三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
-博斯运动,http://108.181.20.197/livehttpplay?channel_id=10131
-国家地理,http://108.181.20.197/livehttpplay?channel_id=20037
-年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
-东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
-
 
 
 
@@ -479,7 +434,7 @@ tx.hls.huya.com
 
 
 
-庆余年,http://43.141.50.20/al.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.slice
+庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.slice
 庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5062195
 大染坊,https://aeciriegvbt2ng23.nexusedgeio.com:35862/huyaflv/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.pstream?from=ppio&codec=264&ratio=2000&rts=67c928f8&rid=c7d34148-71f5-4412-bf57-77f33a9f8cee&uid=H_2937916440832_Y&wsSecret=ae7b7d2024e8d7c2647c2e4a772fea8a&wsTime=67c928f8&parmid=0&line=5&calcchek=152&isTestEnv=0&u=1472010870788&t=100&sv=2502121015&sdk_sid=1741236471020&a_block=0&dts=34142835
 亮剑,http://120.222.228.23/tx.p2p.huya.com/huyalive/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u
@@ -571,7 +526,7 @@ tx.hls.huya.com
 
 
 
-埋堆堆1,http://182.40.120.229/hs.flv.huya.com/src/1239543150207-1239543150207-11134998891529764864-2479086423870-10057-A-0-1.flv
+埋堆堆1,http://182.40.120.229/tx.hls.huya.com/src/1239543150207-1239543150207-11134998891529764864-2479086423870-10057-A-0-1.flv
 埋堆堆2,http://182.40.120.229/hs.flv.huya.com/src/1239543150212-1239543150212-11134998913004601344-2479086423880-10057-A-0-1.flv
 埋堆堆3,http://182.40.120.229/hs.flv.huya.com/src/1239543150214-1239543150214-11134998921594535936-2479086423884-10057-A-0-1.flv
 埋堆堆4,http://182.40.120.229/hs.flv.huya.com/src/1239543150215-1239543150215-11134998925889503232-2479086423886-10057-A-0-1.flv
