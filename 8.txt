@@ -3,7 +3,7 @@
 {"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"小小资源","name":"小小资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"爱酷资源","name":"爱酷资源","type": 1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/","searchable":1,"changeable":1},
+{"key":"爱酷资源","name":"爱酷资源","type": 1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"虎牙采集","name":"虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1},
 {"key":"火狐采集","name":"火狐采集","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"木耳影视","name":"木耳影视","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
