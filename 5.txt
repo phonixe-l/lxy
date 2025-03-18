@@ -440,7 +440,7 @@ tx.hls.huya.com
 亮剑,http://120.222.228.23/tx.p2p.huya.com/huyalive/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u
 征服,http://43.141.50.20/tx.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
 征服,http://huanqiuzhibo.cn/manifest/douyu.php?id=2726977
-父母爱情,http://dns.yiandrive.com:15907/huya/11602071
+父母爱情,https://live.iill.top/huya/11602071
 父母爱情,https://tx.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv?wsSecret=8a16402e6b0da2772fe3cb2408435dae&wsTime=67d2cbc3&seqid=3211008462923&ctype=huya_live&ver=1&txyp=o%3An6%3B&fs=bgct&ratio=2000&dMod=wcs-25&sdkPcdn=1_1&u=1471519622927&t=100&sv=2502121015&sdk_sid=1741867673738&a_block=0
 铁齿铜牙纪晓岚,http://182.40.120.229/hs.flv.huya.com/src/1199649333227-1199649333227-5813056313206243328-2399298789910-10057-A-0-1.flv
 武林外传动画版,http://182.40.120.229/hs.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-d=1712822691.flv
@@ -451,7 +451,7 @@ tx.hls.huya.com
 
 
 
-雪豹,http://jiaojirentv.top/2020/yy.php?id=1450496699
+雪豹,https://live.iill.top/yy/1450496699
 83射雕英雄传,http://jiaojirentv.top/2020/yy.php?id=1354210357
 宰相刘罗锅,http://jiaojirentv.top/2020/yy.php?id=1382745191
 特种兵之火凤凰,http://jiaojirentv.top/2020/yy.php?id=1463088777
