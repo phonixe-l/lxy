@@ -375,6 +375,7 @@ tx.hls.huya.com
 
 
 庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
+庆余年,https://al-dm.p2p.huya.com/huyalive/chat-1199561177177_48_0_66.slice?wsSecret=6898653f0ad28eaeba3a7e4ab390ebe7&wsTime=67da4d3e&ex1=0&dMod=mseh-25&hxtype=0&baseIndex=4800476357482484&baseSubs=8&sub=0,1,2,3,4,5,6,7&maxSeq=4800476357482491&timeStamp2025-03-19_12:51:15.371&uuid=1927697376&u=1472010870788&t=100&sv=2502171946&sdk_sid=1742359866420&a_block=0
 庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5062195
 大染坊,http://1.94.31.214:35455/huya/11602086
 亮剑,http://1.94.31.214:35455/huya/30080238
