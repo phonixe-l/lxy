@@ -40,23 +40,6 @@ CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 
 
 
-CCTV1,http://211.67.191.23/hls/cctv1hd/index.m3u8
-CCTV2,http://211.67.191.23/hls/cctv2hd/index.m3u8
-CCTV3,http://211.67.191.23/hls/cctv3hd/index.m3u8
-CCTV4,http://211.67.191.23/hls/cctv4hd/index.m3u8
-CCTV5,http://211.67.191.23/hls/cctv5hd/index.m3u8
-CCTV5+,http://211.67.191.23/hls/cctv5phd/index.m3u8
-CCTV6,http://211.67.191.23/hls/cctv6hd/index.m3u8
-CCTV7,http://211.67.191.23/hls/cctv7hd/index.m3u8
-CCTV8,http://211.67.191.23/hls/cctv8hd/index.m3u8
-CCTV10,http://211.67.191.23/hls/cctv10hd/index.m3u8
-CCTV12,http://211.67.191.23/hls/cctv12hd/index.m3u8
-CCTV14,http://211.67.191.23/hls/cctv14hd/index.m3u8
-
-
-
-
-
 
 
 
@@ -176,12 +159,6 @@ CCTV17,http://142.171.105.169:50001/TVOD/1000000005000056836/ystenlive/index.m3u
 
 
 
-CHC家庭影院,http://211.67.191.23/hls/chctv/index.m3u8
-CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
-
-CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-
-
 
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -199,13 +176,6 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 凤凰卫视,http://211.67.191.23/hls/fhzw/index.m3u8
 凤凰资讯,http://211.67.191.23/hls/fhzx/index.m3u8
 凤凰香港,http://211.67.191.23/hls/fhdy/index.m3u8
-
-
-
-
-
-
-
 
 
 
@@ -235,36 +205,6 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
 河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
-
-
-
-
-北京卫视,http://211.67.191.23/hls/btv1hd/index.m3u8
-湖南卫视,http://211.67.191.23/hls/hunanhd/index.m3u8
-浙江卫视,http://211.67.191.23/hls/zjhd/index.m3u8
-江苏卫视,http://211.67.191.23/hls/jshd/index.m3u8
-东方卫视,http://211.67.191.23/hls/dfhd/index.m3u8
-安徽卫视,http://211.67.191.23/hls/ahhd/index.m3u8
-黑龙江卫视,http://211.67.191.23/hls/hljhd/index.m3u8
-辽宁卫视,http://211.67.191.23/hls/lnhd/index.m3u8
-深圳卫视,http://211.67.191.23/hls/szhd/index.m3u8
-湖北卫视,http://211.67.191.23/hls/hbhd/index.m3u8
-山东卫视,http://211.67.191.23/hls/sdhd/index.m3u8
-重庆卫视,http://211.67.191.23/hls/cqhd/index.m3u8
-东南卫视,http://211.67.191.23/hls/dnhd/index.m3u8
-四川卫视,http://211.67.191.23/hls/schd/index.m3u8
-江西卫视,http://211.67.191.23/hls/jxhd/index.m3u8
-河北卫视,http://211.67.191.23/hls/hebtv/index.m3u8
-西藏卫视,http://211.67.191.23/hls/xztv/index.m3u8
-内蒙古卫视,http://211.67.191.23/hls/nmtv/index.m3u8
-青海卫视,http://211.67.191.23/hls/qhtv/index.m3u8
-山西卫视,http://211.67.191.23/hls/sxrtv/index.m3u8
-厦门卫视,http://211.67.191.23/hls/xmtv/index.m3u8
-新疆卫视,http://211.67.191.23/hls/xjtv/index.m3u8
-云南卫视,http://211.67.191.23/hls/yntv/index.m3u8
-宁夏卫视,http://211.67.191.23/hls/nxtv/index.m3u8
-甘肃卫视,http://211.67.191.23/hls/gstv/index.m3u8
-
 
 
 
@@ -434,7 +374,7 @@ tx.hls.huya.com
 
 
 
-庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.slice
+庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
 庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5062195
 大染坊,http://1.94.31.214:35455/huya/11602086
 亮剑,http://1.94.31.214:35455/huya/30080238
@@ -871,56 +811,6 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 内部测试_147258,#genre#
 
 
-CCTV1,rtp://239.37.0.008:5540
-CCTV1,rtp://239.37.0.254:5540
-CCTV2,rtp://239.37.0.003:5540
-CCTV3,rtp://239.37.0.231:5540
-CCTV5,rtp://239.37.0.232:5540
-CCTV5+,rtp://239.37.0.121:5540
-CCTV6,rtp://239.37.0.233:5540
-CCTV8,rtp://239.37.0.234:5540
-CCTV9,rtp://239.37.0.001:5540
-CCTV10,rtp://239.37.0.007:5540
-CCTV12,rtp://239.37.0.006:5540
-CCTV14,rtp://239.37.0.005:5540
-CCTV17,rtp://239.37.0.002:5540
-
-CCTV-1综合,http://nas.tuyuannet.cn:8800/udp/239.37.0.8:5540
-CCTV-1综合,http://nas.tuyuannet.cn:8800/udp/239.37.0.20:5540
-CCTV-2财*,http://nas.tuyuannet.cn:8800/udp/239.37.0.3:5540
-CCTV-2财*,http://nas.tuyuannet.cn:8800/udp/239.37.0.21:5540
-CCTV-3综艺,http://nas.tuyuannet.cn:8800/udp/239.37.0.231:5540
-CCTV-3综艺,http://nas.tuyuannet.cn:8800/udp/239.37.0.189:5540
-CCTV-4中文国际,http://nas.tuyuannet.cn:8800/udp/239.37.1.25:5540
-CCTV-4中文国际,http://nas.tuyuannet.cn:8800/udp/239.37.0.22:5540
-CCTV-4中文国际欧洲,http://nas.tuyuannet.cn:8800/udp/239.37.1.11:5540
-CCTV-4中文国际美洲,http://nas.tuyuannet.cn:8800/udp/239.37.1.12:5540
-CCTV-5体育,http://nas.tuyuannet.cn:8800/udp/239.37.0.232:5540
-CCTV-5体育,http://nas.tuyuannet.cn:8800/udp/239.37.0.190:5540
-CCTV-5+体育赛事,http://nas.tuyuannet.cn:8800/udp/239.37.0.121:5540
-CCTV-6电影,http://nas.tuyuannet.cn:8800/udp/239.37.0.233:5540
-CCTV-6电影,http://nas.tuyuannet.cn:8800/udp/239.37.0.191:5540
-CCTV-7国防军事,http://nas.tuyuannet.cn:8800/udp/239.37.1.20:5540
-CCTV-8电视剧,http://nas.tuyuannet.cn:8800/udp/239.37.0.234:5540
-CCTV-8电视剧,http://nas.tuyuannet.cn:8800/udp/239.37.0.192:5540
-CCTV-9纪录,http://nas.tuyuannet.cn:8800/udp/239.37.0.1:5540
-CCTV-9纪录,http://nas.tuyuannet.cn:8800/udp/239.37.0.122:5540
-CCTV-10科教,http://nas.tuyuannet.cn:8800/udp/239.37.0.7:5540
-CCTV-10科教,http://nas.tuyuannet.cn:8800/udp/239.37.0.25:5540
-CCTV-11戏曲,http://nas.tuyuannet.cn:8800/udp/239.37.1.26:5540
-CCTV-11戏曲,http://nas.tuyuannet.cn:8800/udp/239.37.0.26:5540
-CCTV-12社会与法,http://nas.tuyuannet.cn:8800/udp/239.37.0.6:5540
-CCTV-12社会与法,http://nas.tuyuannet.cn:8800/udp/239.37.0.27:5540
-CCTV-13新闻,http://nas.tuyuannet.cn:8800/udp/239.37.1.27:5540
-CCTV-13新闻,http://nas.tuyuannet.cn:8800/udp/239.37.0.28:5540
-CCTV-14少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.5:5540
-CCTV-14少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.29:5540
-CCTV-15音乐,http://nas.tuyuannet.cn:8800/udp/239.37.1.28:5540
-CCTV-15音乐,http://nas.tuyuannet.cn:8800/udp/239.37.0.30:5540
-CCTV-16奥运,http://nas.tuyuannet.cn:8800/udp/239.37.1.21:5540
-CCTV-16奥运,http://nas.tuyuannet.cn:8800/udp/239.37.1.22:5540
-CCTV-17农村农业,http://nas.tuyuannet.cn:8800/udp/239.37.0.2:5540
-CCTV-17农村农业,http://nas.tuyuannet.cn:8800/udp/239.37.0.23:5540
 
 
 
