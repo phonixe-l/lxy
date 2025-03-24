@@ -285,11 +285,11 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
 庆余年,http://zzy789.xyz/douyu1.php?id=5062195
-大染坊,http://59.110.231.171/huya/11602086
-亮剑,http://59.110.231.171/huya/30080238
+大染坊,http://124.248.69.76:26781/11602086
+亮剑,http://124.248.69.76:26781/30080238
 征服,http://43.141.50.20/tx.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
 征服,http://zzy789.xyz/douyu1.php?id=2726977
-父母爱情,http://124.248.69.76:26781/huya/11602071
+父母爱情,https://025365.xyz:8082/huya.php?id=11602071
 父母爱情,http://43.141.50.20/tx.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv?wsSecret=8a16402e6b0da2772fe3cb2408435dae&wsTime=67d2cbc3&seqid=3211008462923&ctype=huya_live&ver=1&txyp=o%3An6%3B&fs=bgct&ratio=2000&dMod=wcs-25&sdkPcdn=1_1&u=1471519622927&t=100&sv=2502121015&sdk_sid=1741867673738&a_block=0
 铁齿铜牙纪晓岚,http://182.40.120.229/hs.flv.huya.com/src/1199649333227-1199649333227-5813056313206243328-2399298789910-10057-A-0-1.flv
 武林外传动画版,http://182.40.120.229/hs.flv.huya.com/src/1199589625998-1199589625998-5556615717316460544-2399179375452-10057-A-0-d=1712822691.flv
@@ -369,6 +369,32 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 易中天品三国,http://59.110.231.171/yy/1461244449
 周星驰,http://59.110.231.171/huya/11342412
 沈腾,http://182.40.120.229/hs.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+
+
+
+
+家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
+怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
+都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
+传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
+乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
+智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+王者荣耀,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1047_720P_t10/c59_fast_1047_720P_t10.m3u8?d
+蛋仔派对,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1048_720P_t10/c60_fast_1048_720P_t10.m3u8?d
 
 
 
