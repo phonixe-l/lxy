@@ -105,13 +105,14 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 卫视频道,#genre#
 
 
-凤凰卫视,http://59.110.231.171/fh.php?id=fhzw
-凤凰资讯,http://59.110.231.171/fh.php?id=fhzx
-凤凰香港,http://59.110.231.171/fh.php?id=fhhk
 
+凤凰卫视,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 
-
-
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
+凤凰卫视,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 
 
 北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
@@ -283,11 +284,11 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
-庆余年,http://59.110.231.171/douyu/5062195
+庆余年,http://zzy789.xyz/douyu1.php?id=5062195
 大染坊,http://59.110.231.171/huya/11602086
 亮剑,http://59.110.231.171/huya/30080238
 征服,http://43.141.50.20/tx.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
-征服,http://59.110.231.171/douyu/2726977
+征服,http://zzy789.xyz/douyu1.php?id=2726977
 父母爱情,http://124.248.69.76:26781/huya/11602071
 父母爱情,http://43.141.50.20/tx.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv?wsSecret=8a16402e6b0da2772fe3cb2408435dae&wsTime=67d2cbc3&seqid=3211008462923&ctype=huya_live&ver=1&txyp=o%3An6%3B&fs=bgct&ratio=2000&dMod=wcs-25&sdkPcdn=1_1&u=1471519622927&t=100&sv=2502121015&sdk_sid=1741867673738&a_block=0
 铁齿铜牙纪晓岚,http://182.40.120.229/hs.flv.huya.com/src/1199649333227-1199649333227-5813056313206243328-2399298789910-10057-A-0-1.flv
