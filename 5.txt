@@ -193,14 +193,6 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 
 
 
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-吉林公共,https://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-吉林综艺,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-东北戏曲,https://hls.avap.jilintv.cn/zqvk7vpj/channel/1ceb537a60664ac49649b639e823678c/1.m3u8?txSecret=340937f8eb53259f3e6b61a45f9021df&txTime=67B6AF66
-吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
 
 
@@ -301,7 +293,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
 庆余年,http://zzy789.xyz/douyu1.php?id=5062195
 大染坊,http://124.248.69.76:26781/11602086
-亮剑,http://124.248.69.76:26781/30080238
+亮剑,http://82.156.237.221:35455/huya/30080238
 征服,http://43.141.50.20/tx.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
 征服,http://zzy789.xyz/douyu1.php?id=2726977
 父母爱情,http://82.156.237.221/huya.php?id=11602071
