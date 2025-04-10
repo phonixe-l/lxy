@@ -98,7 +98,7 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 
 
 
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://82.156.237.221:35455/bptv/10000100000000050000000003887494.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
@@ -320,7 +320,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
-庆余年,http://zzy789.xyz/douyu1.php?id=5062195
+庆余年,http://82.156.237.221:35455/douyu/7812810
 大染坊,http://82.156.237.221/huya.php?id=11602086
 亮剑,http://82.156.237.221/huya.php?id=30080238
 征服,http://43.141.50.20/tx.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
@@ -404,7 +404,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 鹊刀门,http://6666666.mghost.site/1/yy4.php?id=1355344777
 易中天品三国,http://6666666.mghost.site/1/yy4.php?id=1461244449
 
-周星驰,http://82.156.237.221:35455/huya/11342412?cdn=txcdn
+周星驰,http://82.156.237.221:35455/huya/11342412?cdn=hycdn
 沈腾,http://182.40.120.229/hs.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
 
 
