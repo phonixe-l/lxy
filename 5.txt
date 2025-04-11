@@ -136,6 +136,7 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 
 
+
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -150,9 +151,14 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 
 
+
 凤凰卫视,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
+凤凰卫视,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 
 
 
@@ -184,6 +190,36 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 新疆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND
 西藏卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+
+
+
+
+北京卫视,http://211.141.56.169:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://211.141.56.169:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://211.141.56.169:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://211.141.56.169:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://211.141.56.169:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://211.141.56.169:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://211.141.56.169:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://211.141.56.169:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://211.141.56.169:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://211.141.56.169:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://211.141.56.169:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://211.141.56.169:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://211.141.56.169:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://211.141.56.169:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://211.141.56.169:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://211.141.56.169:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://211.141.56.169:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://211.141.56.169:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://211.141.56.169:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://211.141.56.169:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://211.141.56.169:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://211.141.56.169:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://211.141.56.169:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://211.141.56.169:9901/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 
@@ -249,6 +285,8 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 
 
+
+
 吉林频道,#genre#
 
 
@@ -259,7 +297,7 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 吉林乡村,http://211.141.56.169:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林综艺,http://211.141.56.169:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 长影频道,http://211.141.56.169:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-
+吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -281,7 +319,7 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 吉林市新闻综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 吉林市公共,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
-吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8
+吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8#http://222.162.192.198:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
