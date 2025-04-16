@@ -167,6 +167,36 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 
 
+北京卫视,http://82.156.237.221/kb.php?id=bjws
+东方卫视,http://82.156.237.221/kb.php?id=dfws
+天津卫视,http://82.156.237.221/kb.php?id=tjws
+重庆卫视,http://82.156.237.221/kb.php?id=
+吉林卫视,http://82.156.237.221/kb.php?id=jlws
+辽宁卫视,http://82.156.237.221/kb.php?id=lnws
+黑龙江卫视,http://82.156.237.221/kb.php?id=hljws
+浙江卫视,http://82.156.237.221/kb.php?id=zjws
+江苏卫视,http://82.156.237.221/kb.php?id=jsws
+湖南卫视,http://82.156.237.221/kb.php?id=hunws
+安徽卫视,http://82.156.237.221/kb.php?id=ahws
+东南卫视,http://82.156.237.221/kb.php?id=dnws
+山东卫视,http://82.156.237.221/kb.php?id=sdws
+河南卫视,http://82.156.237.221/kb.php?id=hnws
+河北卫视,http://82.156.237.221/kb.php?id=hbws
+湖北卫视,http://82.156.237.221/kb.php?id=hubws
+广东卫视,http://82.156.237.221/kb.php?id=gdws
+广西卫视,http://82.156.237.221/kb.php?id=gxws
+深圳卫视,http://82.156.237.221/kb.php?id=szws
+四川卫视,http://82.156.237.221/kb.php?id=scws
+江西卫视,http://82.156.237.221/kb.php?id=jxws
+甘肃卫视,http://82.156.237.221/kb.php?id=
+青海卫视,http://82.156.237.221/kb.php?id=qhws
+陕西卫视,http://82.156.237.221/kb.php?id=sxws
+贵州卫视,http://82.156.237.221/kb.php?id=gzws
+新疆卫视,http://82.156.237.221/kb.php?id=xjws
+海南卫视,http://82.156.237.221/kb.php?id=hinws
+ 
+
+
 
 
 北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
