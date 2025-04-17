@@ -338,9 +338,8 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
-延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
-延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+延边,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+
 
 
 
