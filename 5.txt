@@ -369,7 +369,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
 庆余年,http://82.156.237.221:35455/douyu/7812810
-大染坊http://diyp.zxyxndc.top/huya/11602086
+大染坊,http://diyp.zxyxndc.top/huya/11602086
 亮剑,http://diyp.zxyxndc.top/huya/30080238
 征服,http://diyp.zxyxndc.top/huya/30311494
 征服,http://82.156.237.221:35455/douyu/2726977
