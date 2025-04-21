@@ -138,35 +138,6 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 
 
-
-北京卫视,http://211.141.56.169:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://211.141.56.169:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://211.141.56.169:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://211.141.56.169:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://211.141.56.169:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://211.141.56.169:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://211.141.56.169:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://211.141.56.169:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://211.141.56.169:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://211.141.56.169:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://211.141.56.169:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://211.141.56.169:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://211.141.56.169:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://211.141.56.169:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://211.141.56.169:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://211.141.56.169:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://211.141.56.169:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://211.141.56.169:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://211.141.56.169:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://211.141.56.169:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://211.141.56.169:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://211.141.56.169:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://211.141.56.169:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://211.141.56.169:9901/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
 北京卫视,http://82.156.237.221/kb.php?id=bjws
 东方卫视,http://82.156.237.221/kb.php?id=dfws
 天津卫视,http://82.156.237.221/kb.php?id=tjws
@@ -222,6 +193,37 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
 河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
+
+
+
+
+
+
+北京卫视,http://211.141.56.169:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://211.141.56.169:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://211.141.56.169:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://211.141.56.169:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://211.141.56.169:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://211.141.56.169:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://211.141.56.169:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://211.141.56.169:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://211.141.56.169:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://211.141.56.169:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://211.141.56.169:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://211.141.56.169:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://211.141.56.169:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://211.141.56.169:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://211.141.56.169:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://211.141.56.169:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://211.141.56.169:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://211.141.56.169:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://211.141.56.169:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://211.141.56.169:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://211.141.56.169:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://211.141.56.169:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://211.141.56.169:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://211.141.56.169:9901/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
@@ -644,6 +646,21 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 内部测试_147258,#genre#
 
 
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
 
 
 
