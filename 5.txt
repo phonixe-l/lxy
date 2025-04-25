@@ -122,6 +122,9 @@ CCTV央视台球,http://211.141.56.169:9901/tsfile/live/1028_1.m3u8?key=txiptv&p
 
 
 
+CHC-家庭影院,http://itv.iptv1688.top:2016/itv.php?id=CHC家庭影院
+CHC-影迷电影,http://itv.iptv1688.top:2016/itv.php?id=CHC影迷电影
+CHC-动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 
 CHC动作电影,http://211.141.56.169:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://211.141.56.169:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -326,22 +329,19 @@ CHC高清电影,http://211.141.56.169:9901/tsfile/live/1009_1.m3u8?key=txiptv&pl
 
 
 
-吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
-吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8
-吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
-吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
-吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
-吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8
-东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
-吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
-长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
+
+吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+吉林乡村,https://lsfb.avap.jilintv.cn:443/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+吉林综艺,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8
 
 
 
 
 
 
-吉林市新闻综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
+吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 吉林市公共,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
 吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8#http://222.162.192.198:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
@@ -430,7 +430,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 雪豹,http://diyp.zxyxndc.top/huya/29580970
 
 
-雪豹,http://6666666.mghost.site/1/yy3.php?id=1450496699
+雪豹,http://cfss.cc/yy/1450496699
 83射雕英雄传,http://6666666.mghost.site/1/yy3.php?id=1354210357
 宰相刘罗锅,http://6666666.mghost.site/1/yy3.php?id=1382745191
 特种兵之火凤凰,http://6666666.mghost.site/1/yy3.php?id=1463088777
@@ -506,20 +506,13 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
+埋堆堆1,http://cfss.cc/cdn/hy/23863796.flv
+埋堆堆2,http://cfss.cc/cdn/hy/23824164.flv
 
 
 
 
-埋堆堆1,http://182.40.120.229/tx.hls.huya.com/src/1239543150207-1239543150207-11134998891529764864-2479086423870-10057-A-0-1.flv
-埋堆堆2,http://182.40.120.229/hs.flv.huya.com/src/1239543150212-1239543150212-11134998913004601344-2479086423880-10057-A-0-1.flv
-埋堆堆3,http://182.40.120.229/hs.flv.huya.com/src/1239543150214-1239543150214-11134998921594535936-2479086423884-10057-A-0-1.flv
-埋堆堆4,http://182.40.120.229/hs.flv.huya.com/src/1239543150215-1239543150215-11134998925889503232-2479086423886-10057-A-0-1.flv
-埋堆堆5,http://182.40.120.229/hs.flv.huya.com/src/1239543150217-1239543150217-11134998934479437824-2479086423890-10057-A-0-1.flv
-埋堆堆6,http://182.40.120.229/hs.flv.huya.com/src/1199650974351-1199650974351-5820104887114924032-2399302072158-10057-A-0-1.flv
-埋堆堆7,http://182.40.120.229/hs.flv.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.flv
-埋堆堆8,http://182.40.120.229/hs.flv.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.flv
-埋堆堆9,http://182.40.120.229/hs.flv.huya.com/src/1239543150212-1239543150212-11134998913004601344-2479086423880-10057-A-0-1.flv
-埋堆堆10,http://182.40.120.229/hs.flv.huya.com/src/1239543150203-1239543150203-11134998874349895680-2479086423862-10057-A-0-1.flv
+
 
 
 
@@ -695,6 +688,7 @@ CCTV-2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV-3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
 CCTV-4,http://itv.iptv1688.top:2016/itv.php?id=CCTV4
 CCTV-5,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+CCTV-5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
 CCTV-6,http://itv.iptv1688.top:2016/itv.php?id=CCTV6
 CCTV-7,http://itv.iptv1688.top:2016/itv.php?id=CCTV7
 CCTV-8,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
@@ -707,25 +701,23 @@ CCTV-14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 CCTV-15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV-16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
-CCTV-5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
-CETV-1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
-CETV-2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
-CETV-4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
+
+
 北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
+东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
+天津卫视,http://itv.iptv1688.top:2016/itv.php?id=天津卫视
+重庆卫视,http://itv.iptv1688.top:2016/itv.php?id=重庆卫视
+辽宁卫视,http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
+吉林卫视,http://itv.iptv1688.top:2016/itv.php?id=吉林卫视
+黑龙江卫视,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
 湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
 江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
 广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
-东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
 东南卫视,http://itv.iptv1688.top:2016/itv.php?id=东南卫视
-辽宁卫视,http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
-广东深圳卫视,http://itv.iptv1688.top:2016/itv.php?id=深圳卫视
-天津卫视,http://itv.iptv1688.top:2016/itv.php?id=天津卫视
+深圳卫视,http://itv.iptv1688.top:2016/itv.php?id=深圳卫视
 安徽卫视,http://itv.iptv1688.top:2016/itv.php?id=安徽卫视
 河北卫视,http://itv.iptv1688.top:2016/itv.php?id=河北卫视
-重庆卫视,http://itv.iptv1688.top:2016/itv.php?id=重庆卫视
-吉林卫视,http://itv.iptv1688.top:2016/itv.php?id=吉林卫视
-黑龙江卫视,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
 山东卫视,http://itv.iptv1688.top:2016/itv.php?id=山东卫视
 海南卫视,http://itv.iptv1688.top:2016/itv.php?id=海南卫视
 贵州卫视,http://itv.iptv1688.top:2016/itv.php?id=贵州卫视
@@ -742,38 +734,17 @@ CETV-4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
 甘肃卫视,http://itv.iptv1688.top:2016/itv.php?id=甘肃卫视
 新疆卫视,http://itv.iptv1688.top:2016/itv.php?id=新疆卫视
 青海卫视,http://itv.iptv1688.top:2016/itv.php?id=青海卫视
-吉林延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
-新疆兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
-山东教育卫视,http://itv.iptv1688.top:2016/itv.php?id=山东教育
-北京卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=北京卡酷少儿
-上海哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
-江苏优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
-湖南金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
-北京科教纪实,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
+延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
+兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
+
+卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=北京卡酷少儿
+哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
+优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
+金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
+
 CHC-家庭影院,http://itv.iptv1688.top:2016/itv.php?id=CHC家庭影院
 CHC-影迷电影,http://itv.iptv1688.top:2016/itv.php?id=CHC影迷电影
 CHC-动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
-咪咕体育,http://itv.iptv1688.top:2016/itv.php?id=咪咕体育
-睛彩篮球,http://itv.iptv1688.top:2016/itv.php?id=睛彩篮球
-睛彩广场舞,http://itv.iptv1688.top:2016/itv.php?id=睛彩广场舞
-超级电影,http://itv.iptv1688.top:2016/itv.php?id=超级电影
-超级综艺,http://itv.iptv1688.top:2016/itv.php?id=超级综艺
-超级电视剧,http://itv.iptv1688.top:2016/itv.php?id=超级电视剧
-惊悚悬疑,http://itv.iptv1688.top:2016/itv.php?id=惊悚悬疑
-金牌综艺,http://itv.iptv1688.top:2016/itv.php?id=金牌综艺
-动作电影,http://itv.iptv1688.top:2016/itv.php?id=动作电影
-黑莓动画,http://itv.iptv1688.top:2016/itv.php?id=黑莓动画
-军旅剧场,http://itv.iptv1688.top:2016/itv.php?id=军旅剧场
-精品大剧,http://itv.iptv1688.top:2016/itv.php?id=精品大剧
-东北热剧,http://itv.iptv1688.top:2016/itv.php?id=东北热剧
-欢乐剧场,http://itv.iptv1688.top:2016/itv.php?id=欢乐剧场
-黑莓电影,http://itv.iptv1688.top:2016/itv.php?id=黑莓电影
-超级体育,http://itv.iptv1688.top:2016/itv.php?id=超级体育
-古装剧场,http://itv.iptv1688.top:2016/itv.php?id=古装剧场
-爱情喜剧,http://itv.iptv1688.top:2016/itv.php?id=爱情喜剧
-海外剧场,http://itv.iptv1688.top:2016/itv.php?id=海外剧场
-家庭剧场,http://itv.iptv1688.top:2016/itv.php?id=家庭剧场
-武搏世界,http://itv.iptv1688.top:2016/itv.php?id=武搏世界
-中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
+
 
 
