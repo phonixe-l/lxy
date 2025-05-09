@@ -123,7 +123,7 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 
 
 
-凤凰卫视,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8
+凤凰卫视,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
