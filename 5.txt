@@ -1,6 +1,26 @@
 央视频道,#genre#
 
 
+CCTV1,http://122.141.60.245:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://122.141.60.245:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://122.141.60.245:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://122.141.60.245:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://122.141.60.245:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://122.141.60.245:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://122.141.60.245:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://122.141.60.245:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://122.141.60.245:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://122.141.60.245:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://122.141.60.245:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://122.141.60.245:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://122.141.60.245:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://122.141.60.245:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://122.141.60.245:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://122.141.60.245:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://122.141.60.245:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://122.141.60.245:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 CCTV1,http://82.156.237.221/mg.php?id=cctv1
@@ -25,6 +45,7 @@ CCTV17,http://82.156.237.221/mg.php?id=cctv17
 
 
 
+
 CCTV1,http://82.156.237.221/kb.php?id=cctv1
 CCTV2,http://82.156.237.221/kb.php?id=cctv2
 CCTV3,http://82.156.237.221/kb.php?id=cctv3
@@ -45,46 +66,23 @@ CCTV17,http://82.156.237.221/kb.php?id=cctv17
 
 
 
-
-CCTV1,ttp://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-CCTV1,http://122.141.60.245:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://122.141.60.245:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://122.141.60.245:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://122.141.60.245:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://122.141.60.245:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://122.141.60.245:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://122.141.60.245:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://122.141.60.245:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://122.141.60.245:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://122.141.60.245:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://122.141.60.245:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://122.141.60.245:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://122.141.60.245:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://122.141.60.245:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://122.141.60.245:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://122.141.60.245:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://122.141.60.245:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://122.141.60.245:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
+CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV5,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV5+,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV6,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV7,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV8,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV9,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV10,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV11,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV12,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV13,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 
 
@@ -126,109 +124,14 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 
 
-凤凰卫视,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
 凤凰卫视,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
-
-
-
-
-
-北京卫视,http://82.156.237.221/kb.php?id=bjws
-东方卫视,http://82.156.237.221/kb.php?id=dfws
-天津卫视,http://82.156.237.221/kb.php?id=tjws
-重庆卫视,http://82.156.237.221/kb.php?id=cqws
-吉林卫视,http://82.156.237.221/kb.php?id=jlws
-辽宁卫视,http://82.156.237.221/kb.php?id=lnws
-黑龙江卫视,http://82.156.237.221/kb.php?id=hljws
-浙江卫视,http://82.156.237.221/kb.php?id=zjws
-江苏卫视,http://82.156.237.221/kb.php?id=jsws
-湖南卫视,http://82.156.237.221/kb.php?id=hunws
-安徽卫视,http://82.156.237.221/kb.php?id=ahws
-东南卫视,http://82.156.237.221/kb.php?id=dnws
-山东卫视,http://82.156.237.221/kb.php?id=sdws
-河南卫视,http://82.156.237.221/kb.php?id=hnws
-河北卫视,http://82.156.237.221/kb.php?id=hbws
-湖北卫视,http://82.156.237.221/kb.php?id=hubws
-广东卫视,http://82.156.237.221/kb.php?id=gdws
-广西卫视,http://82.156.237.221/kb.php?id=gxws
-深圳卫视,http://82.156.237.221/kb.php?id=szws
-四川卫视,http://82.156.237.221/kb.php?id=scws
-江西卫视,http://82.156.237.221/kb.php?id=jxws
-甘肃卫视,http://82.156.237.221/kb.php?id=gsws
-青海卫视,http://82.156.237.221/kb.php?id=qhws
-陕西卫视,http://82.156.237.221/kb.php?id=sxws
-贵州卫视,http://82.156.237.221/kb.php?id=gzws
-新疆卫视,http://82.156.237.221/kb.php?id=xjws
-海南卫视,http://82.156.237.221/kb.php?id=hinws
- 
-
-
-
-
-北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
-
-
-
-
-
-重庆卫视,http://82.156.237.221/mg.php?id=cqws
-吉林卫视,http://82.156.237.221/mg.php?id=jlws
-辽宁卫视,http://82.156.237.221/mg.php?id=lnws
-内蒙古卫视,http://82.156.237.221/mg.php?id=nmws
-宁夏卫视,http://82.156.237.221/mg.php?id=nxws
-甘肃卫视,http://82.156.237.221/mg.php?id=gsws
-青海卫视,http://82.156.237.221/mg.php?id=qhws
-陕西卫视,http://82.156.237.221/mg.php?id=sxws
-山东卫视,http://82.156.237.221/mg.php?id=sdws
-河南卫视,http://82.156.237.221/mg.php?id=hnws
-湖北卫视,http://82.156.237.221/mg.php?id=hubws
-湖南卫视,http://82.156.237.221/mg.php?id=hunws
-江西卫视,http://82.156.237.221/mg.php?id=jxws
-江苏卫视,http://82.156.237.221/mg.php?id=jsws
-东南卫视,http://82.156.237.221/mg.php?id=dnws
-海峡卫视,http://82.156.237.221/mg.php?id=hxws
-广东卫视,http://82.156.237.221/mg.php?id=gdws
-大湾区卫视,http://82.156.237.221/mg.php?id=dwqws
-广西卫视,http://82.156.237.221/mg.php?id=gxws
-云南卫视,http://82.156.237.221/mg.php?id=ynws
-贵州卫视,http://82.156.237.221/mg.php?id=gzws
-新疆卫视,http://82.156.237.221/mg.php?id=xjws
-西藏卫视,http://82.156.237.221/mg.php?id=xzws
-海南卫视,http://82.156.237.221/mg.php?id=hinws
-东方卫视,http://82.156.237.221/mg.php?id=dfws
-
 
 
 
@@ -268,6 +171,74 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 新疆卫视,http://122.141.60.245:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://122.141.60.245:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://122.141.60.245:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+北京卫视,http://82.156.237.221/kb.php?id=bjws
+东方卫视,http://82.156.237.221/kb.php?id=dfws
+天津卫视,http://82.156.237.221/kb.php?id=tjws
+重庆卫视,http://82.156.237.221/kb.php?id=cqws
+吉林卫视,http://82.156.237.221/kb.php?id=jlws
+辽宁卫视,http://82.156.237.221/kb.php?id=lnws
+黑龙江卫视,http://82.156.237.221/kb.php?id=hljws
+浙江卫视,http://82.156.237.221/kb.php?id=zjws
+江苏卫视,http://82.156.237.221/kb.php?id=jsws
+湖南卫视,http://82.156.237.221/kb.php?id=hunws
+安徽卫视,http://82.156.237.221/kb.php?id=ahws
+东南卫视,http://82.156.237.221/kb.php?id=dnws
+山东卫视,http://82.156.237.221/kb.php?id=sdws
+河南卫视,http://82.156.237.221/kb.php?id=hnws
+河北卫视,http://82.156.237.221/kb.php?id=hbws
+湖北卫视,http://82.156.237.221/kb.php?id=hubws
+广东卫视,http://82.156.237.221/kb.php?id=gdws
+广西卫视,http://82.156.237.221/kb.php?id=gxws
+深圳卫视,http://82.156.237.221/kb.php?id=szws
+四川卫视,http://82.156.237.221/kb.php?id=scws
+江西卫视,http://82.156.237.221/kb.php?id=jxws
+甘肃卫视,http://82.156.237.221/kb.php?id=gsws
+青海卫视,http://82.156.237.221/kb.php?id=qhws
+陕西卫视,http://82.156.237.221/kb.php?id=sxws
+贵州卫视,http://82.156.237.221/kb.php?id=gzws
+新疆卫视,http://82.156.237.221/kb.php?id=xjws
+海南卫视,http://82.156.237.221/kb.php?id=hinws
+ 
+
+
+
+
+
+重庆卫视,http://82.156.237.221/mg.php?id=cqws
+吉林卫视,http://82.156.237.221/mg.php?id=jlws
+辽宁卫视,http://82.156.237.221/mg.php?id=lnws
+内蒙古卫视,http://82.156.237.221/mg.php?id=nmws
+宁夏卫视,http://82.156.237.221/mg.php?id=nxws
+甘肃卫视,http://82.156.237.221/mg.php?id=gsws
+青海卫视,http://82.156.237.221/mg.php?id=qhws
+陕西卫视,http://82.156.237.221/mg.php?id=sxws
+山东卫视,http://82.156.237.221/mg.php?id=sdws
+河南卫视,http://82.156.237.221/mg.php?id=hnws
+湖北卫视,http://82.156.237.221/mg.php?id=hubws
+湖南卫视,http://82.156.237.221/mg.php?id=hunws
+江西卫视,http://82.156.237.221/mg.php?id=jxws
+江苏卫视,http://82.156.237.221/mg.php?id=jsws
+东南卫视,http://82.156.237.221/mg.php?id=dnws
+海峡卫视,http://82.156.237.221/mg.php?id=hxws
+广东卫视,http://82.156.237.221/mg.php?id=gdws
+大湾区卫视,http://82.156.237.221/mg.php?id=dwqws
+广西卫视,http://82.156.237.221/mg.php?id=gxws
+云南卫视,http://82.156.237.221/mg.php?id=ynws
+贵州卫视,http://82.156.237.221/mg.php?id=gzws
+新疆卫视,http://82.156.237.221/mg.php?id=xjws
+西藏卫视,http://82.156.237.221/mg.php?id=xzws
+海南卫视,http://82.156.237.221/mg.php?id=hinws
+东方卫视,http://82.156.237.221/mg.php?id=dfws
+
+
+
+
+
+
 
 
 
@@ -374,13 +345,12 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-庆余年,http://43.141.50.20/tx.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
+庆余年,http://fmbox.cc/huya.php?id=23740156
 庆余年,http://82.156.237.221:35455/douyu/7812810
 大染坊,http://diyp.zxyxndc.top/huya/11602086
 亮剑,http://diyp.zxyxndc.top/huya/30080238
 征服,http://diyp.zxyxndc.top/huya/30311494
 征服,http://82.156.237.221:35455/douyu/2726977
-父母爱情,http://82.156.237.221/huya.php?id=11602071
 父母爱情,http://diyp.zxyxndc.top/huya/11602071
 铁齿铜牙纪晓岚,http://diyp.zxyxndc.top/huya/11342396
 武林外传动画版,http://diyp.zxyxndc.top/huya/10980725
@@ -389,10 +359,11 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 雪豹,http://jiaojirentv.top/2020/yy.php?id=1450496699
-83射雕英雄传,http://jiaojirentv.top/2020/yy.php?id=1354210357
+83射雕英雄传,http://iptv.jxpan.vip:18888/aio/yy/1354210357
 宰相刘罗锅,http://jiaojirentv.top/2020/yy.php?id=1382745191
 特种兵之火凤凰,http://jiaojirentv.top/2020/yy.php?id=1463088777
-父母爱情,http://jiaojirentv.top/2020/yy.php?id=1382746276
+特种兵支利刃出鞘,http://jiaojirentv.top/2020/yy.php?id=1382773686
+父母爱情,http://jiaojirentv.top/2020/yy.php?id=1382768483
 鹿鼎记,http://jiaojirentv.top/2020/yy.php?id=1382704650
 神雕侠侣,http://jiaojirentv.top/2020/yy.php?id=1382704651
 倚天屠龙记,http://jiaojirentv.top/2020/yy.php?id=1354755003
@@ -415,7 +386,6 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 勇敢的心,http://jiaojirentv.top/2020/yy.php?id=1354744544
 雍正王朝,http://jiaojirentv.top/2020/yy.php?id=1356043620
 倚天屠龙记,http://jiaojirentv.top/2020/yy.php?id=1449856066
-特种兵系列,http://jiaojirentv.top/2020/yy.php?id=1508456184
 神医喜来乐,http://jiaojirentv.top/2020/yy.php?id=1382714119
 天道,http://jiaojirentv.top/2020/yy.php?id=1382735574
 黑冰,http://jiaojirentv.top/2020/yy.php?id=1354932427
