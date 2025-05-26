@@ -31,6 +31,7 @@ CCTV17,http://120.196.232.76:8088/PLTV/81/224/3221226660/1.m3u8
 CCTV17,http://120.196.232.76:8088/PLTV/81/224/3221226727/1.m3u8
 
 
+
 CCTV1,http://221.226.4.10:85/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://221.226.4.10:85/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://221.226.4.10:85/tsfile/live/0003_1.m3u8?key=txiptv
@@ -118,6 +119,9 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 
 
 
+CHC家庭影院,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-JTYY-HD/index.m3u8
+CHC高清电影,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-HCGQ-HD/index.m3u8
+CHC动作电影,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DZDY-HD/index.m3u8
 
 
 
@@ -127,9 +131,7 @@ CHC家庭影院,http://58.245.255.38:9999/tsfile/live/1016_1.m3u8?key=txiptv&pla
 
 
 
-CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
-CHC高清电影,http://107.174.52.32/itv.php?id=CHC影迷电影
-CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
+
 
 
 
@@ -607,6 +609,31 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 
 测试,#genre#
+
+
+
+CCTV1,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-1HD/index.m3u8
+CCTV2,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
+CCTV3,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-3HD/index.m3u8
+CCTV4,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-4HD/index.m3u8
+CCTV5,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
+CCTV5+,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
+CCTV6,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-6HD/index.m3u8
+CCTV7,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-7HD/index.m3u8
+CCTV8,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-8HD/index.m3u8
+CCTV9,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-9HD/index.m3u8
+CCTV10,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-10HD/index.m3u8
+CCTV11,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-11HD/index.m3u8
+CCTV12,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-12HD/index.m3u8
+CCTV13,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8
+CCTV14,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-14HD/index.m3u8
+CCTV15,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
+CCTV16,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
+CCTV17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
+
+
+
+
 
 CCTV1,http://rrs02.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
 CCTV1,http://rrs02.hw.gmcc.net:8088/PLTV/81/224/3221226705/1.m3u8
