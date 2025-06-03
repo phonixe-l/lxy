@@ -126,9 +126,6 @@ CHC家庭影院,http://58.245.255.38:9999/tsfile/live/1016_1.m3u8
 卫视频道,#genre#
 
 
-凤凰卫视,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 
 
 凤凰卫视,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
