@@ -580,6 +580,28 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 测试,#genre#
 
 
+CCTV1,http://a1.gs/8/p/akmg.php?id=cctv1
+CCTV2,http://a1.gs/8/p/akmg.php?id=cctv2
+CCTV3,http://a1.gs/8/p/akmg.php?id=cctv3
+CCTV4,http://a1.gs/8/p/akmg.php?id=cctv4
+CCTV5,http://a1.gs/8/p/akmg.php?id=cctv5
+CCTV5+,http://a1.gs/8/p/akmg.php?id=cctv5p⁭
+CCTV6,http://a1.gs/8/p/akmg.php?id=cctv6
+CCTV7,http://a1.gs/8/p/akmg.php?id=cctv7
+CCTV8,http://a1.gs/8/p/akmg.php?id=cctv8
+CCTV9,http://a1.gs/8/p/akmg.php?id=cctv9
+CCTV10,http://a1.gs/8/p/akmg.php?id=cctv10
+CCTV11,http://a1.gs/8/p/akmg.php?id=cctv11
+CCTV12,http://a1.gs/8/p/akmg.php?id=cctv12
+CCTV13,http://a1.gs/8/p/akmg.php?id=cctv13
+CCTV14,http://a1.gs/8/p/akmg.php?id=cctv14
+CCTV15,http://a1.gs/8/p/akmg.php?id=cctv15
+CCTV17,http://a1.gs/8/p/akmg.php?id=cctv17
+
+
+
+
+
 
 CCTV1,http://82.156.237.221/migu.php?/PLTV/&ip=116.31.83.63:5000&id=CCTV-1HD
 CCTV2,http://82.156.237.221/migu.php?/PLTV/&ip=116.31.83.63:5000&id=CCTV-2HD
@@ -636,62 +658,6 @@ CCTV17,http://82.156.237.221/migu.php?/PLTV/&ip=116.31.83.63:5000&id=CCTV-17HD
 兵团卫视,http://82.156.237.221/migu.php?id=btws.m3u8
 
 
-
-
-CCTV1综合,http://39.164.174.139:5000/nl.m3u8?id=CCTV1HD
-CCTV2财经,http://39.164.174.139:5000/nl.m3u8?id=CCTV2HD
-CCTV3综艺,http://39.164.174.139:5000/nl.m3u8?id=CCTV3
-CCTV4中文国际,http://39.164.174.139:5000/nl.m3u8?id=CCTV4HD
-CCTV5体育,http://39.164.174.139:5000/nl.m3u8?id=CCTV5
-CCTV5+体育赛事,http://39.164.174.139:5000/nl.m3u8?id=CCTV5PHD
-CCTV6电影,http://39.164.174.139:5000/nl.m3u8?id=CCTV6
-CCTV7国防军事,http://39.164.174.139:5000/nl.m3u8?id=CCTV7HD
-CCTV8电视剧,http://39.164.174.139:5000/nl.m3u8?id=CCTV8
-CCTV9纪录,http://39.164.174.139:5000/nl.m3u8?id=CCTV9HD
-CCTV10科教,http://39.164.174.139:5000/nl.m3u8?id=CCTV10HD
-CCTV11戏曲,http://39.164.174.139:5000/nl.m3u8?id=CCTV11
-CCTV12科教,http://39.164.174.139:5000/nl.m3u8?id=CCTV12HD
-CCTV13新闻,http://39.164.174.139:5000/nl.m3u8?id=CCTV13
-CCTV14少儿,http://39.164.174.139:5000/nl.m3u8?id=CCTV14
-CCTV15音乐,http://39.164.174.139:5000/nl.m3u8?id=CCTV15
-CCTV17农业农村,http://39.164.174.139:5000/nl.m3u8?id=CCTV17HD
-
-CHC动作电影,http://39.164.174.139:5000/nl.m3u8?id=CHCDZDYHD
-CHC家庭影院,http://39.164.174.139:5000/nl.m3u8?id=CHCJTYYHD
-CHC影迷电影,http://39.164.174.139:5000/nl.m3u8?id=CHCYMDYHD
-北京卫视,http://39.164.174.139:5000/nl.m3u8?id=BJWSHD
-东方卫视,http://39.164.174.139:5000/nl.m3u8?id=DFWSHD
-天津卫视,http://39.164.174.139:5000/nl.m3u8?id=TJWSHD
-重庆卫视,http://39.164.174.139:5000/nl.m3u8?id=CQWS
-黑龙江卫视,http://39.164.174.139:5000/nl.m3u8?id=HLJWSHD
-吉林卫视,http://39.164.174.139:5000/nl.m3u8?id=JLWSHD
-辽宁卫视,http://39.164.174.139:5000/nl.m3u8?id=LNWSHD
-内蒙古卫视,http://39.164.174.139:5000/nl.m3u8?id=NMGWS
-宁夏卫视,http://39.164.174.139:5000/nl.m3u8?id=NXWS
-甘肃卫视,http://39.164.174.139:5000/nl.m3u8?id=GSWS
-青海卫视,http://39.164.174.139:5000/nl.m3u8?id=QHWS
-陕西卫视,http://39.164.174.139:5000/nl.m3u8?id=SXWS
-河北卫视,http://39.164.174.139:5000/nl.m3u8?id=HEBWSHD
-山西卫视,http://39.164.174.139:5000/nl.m3u8?id=SAXWS
-山东卫视,http://39.164.174.139:5000/nl.m3u8?id=SDWSHD
-安徽卫视,http://39.164.174.139:5000/nl.m3u8?id=AHWSHD
-河南卫视,http://39.164.174.139:5000/nl.m3u8?id=HENWSHD
-湖北卫视,http://39.164.174.139:5000/nl.m3u8?id=HBWSHD
-湖南卫视,http://39.164.174.139:5000/nl.m3u8?id=HNWSHD
-江西卫视,http://39.164.174.139:5000/nl.m3u8?id=JXWSHD
-江苏卫视,http://39.164.174.139:5000/nl.m3u8?id=JSWSHD
-浙江卫视,http://39.164.174.139:5000/nl.m3u8?id=ZJWSHD
-东南卫视,http://39.164.174.139:5000/nl.m3u8?id=DNWS
-广东卫视,http://39.164.174.139:5000/nl.m3u8?id=GDWSHD
-深圳卫视,http://39.164.174.139:5000/nl.m3u8?id=SZWSHD
-广西卫视,http://39.164.174.139:5000/nl.m3u8?id=GXWS
-云南卫视,http://39.164.174.139:5000/nl.m3u8?id=YNWS
-四川卫视,http://39.164.174.139:5000/nl.m3u8?id=SCWSHD
-新疆卫视,http://39.164.174.139:5000/nl.m3u8?id=XJWS
-兵团卫视,http://39.164.174.139:5000/nl.m3u8?id=BTWS
-西藏卫视,http://39.164.174.139:5000/nl.m3u8?id=XZWS
-凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
-凤凰资讯,http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
 
 
 
