@@ -611,25 +611,25 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 测试,#genre#
 
 
-CCTV1,http://a1.gs/8/p/akmg.php?id=cctv1
-CCTV2,http://a1.gs/8/p/akmg.php?id=cctv2
-CCTV3,http://a1.gs/8/p/akmg.php?id=cctv3
-CCTV4,http://a1.gs/8/p/akmg.php?id=cctv4
-CCTV5,http://a1.gs/8/p/akmg.php?id=cctv5
-CCTV5+,http://a1.gs/8/p/akmg.php?id=cctv5p⁭
-CCTV6,http://a1.gs/8/p/akmg.php?id=cctv6
-CCTV7,http://a1.gs/8/p/akmg.php?id=cctv7
-CCTV8,http://a1.gs/8/p/akmg.php?id=cctv8
-CCTV9,http://a1.gs/8/p/akmg.php?id=cctv9
-CCTV10,http://a1.gs/8/p/akmg.php?id=cctv10
-CCTV11,http://a1.gs/8/p/akmg.php?id=cctv11
-CCTV12,http://a1.gs/8/p/akmg.php?id=cctv12
-CCTV13,http://a1.gs/8/p/akmg.php?id=cctv13
-CCTV14,http://a1.gs/8/p/akmg.php?id=cctv14
-CCTV15,http://a1.gs/8/p/akmg.php?id=cctv15
-CCTV17,http://a1.gs/8/p/akmg.php?id=cctv17
 
-
+CCTV1,http://ds.shixd.cn:5957/rtp/239.49.8.19:9614
+CCTV2,http://ds.shixd.cn:5957/rtp/239.49.8.50:9802
+CCTV3,http://ds.shixd.cn:5957/rtp/239.49.8.74:8000
+CCTV4,http://ds.shixd.cn:5957/rtp/239.49.8.51:9806
+CCTV5+,http://ds.shixd.cn:5957/rtp/239.49.8.18:9610
+CCTV5,http://ds.shixd.cn:5957/rtp/239.49.8.75:8000
+CCTV6,http://ds.shixd.cn:5957/rtp/239.49.8.76:8000
+CCTV7,http://ds.shixd.cn:5957/rtp/239.49.0.126:8000
+CCTV8,http://ds.shixd.cn:5957/rtp/239.49.8.77:8000
+CCTV9,http://ds.shixd.cn:5957/rtp/239.49.8.53:9814
+CCTV10,http://ds.shixd.cn:5957/rtp/239.49.8.54:9818
+CCTV11,http://ds.shixd.cn:5957/rtp/239.49.0.127:8000
+CCTV12,http://ds.shixd.cn:5957/rtp/239.49.8.55:9822
+CCTV13,http://ds.shixd.cn:5957/rtp/239.49.8.109:8000
+CCTV14,http://ds.shixd.cn:5957/rtp/239.49.8.56:9826
+CCTV15,http://ds.shixd.cn:5957/rtp/239.49.0.128:8000
+CCTV16,http://ds.shixd.cn:5957/rtp/239.49.8.31:8000
+CCTV17,http://ds.shixd.cn:5957/rtp/239.49.8.52:9810
 
 
 
