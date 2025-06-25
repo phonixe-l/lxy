@@ -93,10 +93,9 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-CHC高清电影,http://8.138.7.223/tv/hot.php?id=65
-CHC动作电影,http://8.138.7.223/tv/hot.php?id=66
-CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
-
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 
 
 
@@ -115,9 +114,15 @@ CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 卫视频道,#genre#
 
 
+凤凰卫视,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+
+
 凤凰卫视,http://8.138.7.223/tv/fh.php?id=1
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
 凤凰香港,http://8.138.7.223/tv/fh.php?id=3
+
 
 
 凤凰卫视,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -125,9 +130,6 @@ CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
-凤凰卫视,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 
 
 
