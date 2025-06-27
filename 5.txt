@@ -144,7 +144,7 @@ CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
 CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
@@ -426,7 +426,111 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 港澳台,#genre#
 
+中视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视
+中视新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视新闻
+中视经典,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视经典
+公视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视
+小公视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=小公视
+公视戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视戏剧
+公视台语台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视台语台
+公视新闻网,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视新闻网
+民视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视
+民视第一台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视第一台
+民视台湾台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视台湾台
+民视新闻台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
+民视影剧台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视影剧台
+民视旅游台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视旅游台
+民视综艺台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视综艺台
+台视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视
+台视新闻HD,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视新闻HD
+台视综合,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视综合
+台视财经,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视财经
+台湾戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾戏剧
+华视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华视
+CTS华视新闻资讯,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTS华视新闻资讯
+霹雳台湾台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=霹雳台湾台
+壹新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
+壹电影,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹电影
+JET综合台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=JET综合台
+年代新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
+年代Much,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代Much
+非凡新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
+非凡商业,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡商业
+寰宇新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻
+寰宇新闻台湾,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻台湾
+寰宇财经,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇财经
+鏡新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
+东森超视美洲,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视美洲
+东森美洲,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲
+东森美洲卫视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲卫视
+东森中国台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森中国台
+东森超视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视
+东森幼幼,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森幼幼
+MOMO亲子台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MOMO亲子台
+国兴卫视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=国兴卫视
+龙华偶像,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华偶像
+龙华戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华戏剧
+龙华日韩,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华日韩
+龙华电影,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华电影
+龙华影剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华影剧
+龙华洋片,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华洋片
+龙华卡通,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华卡通
+龙华经典,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华经典
+三立都会台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立都会台
+三立综合台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立综合台
+三立台湾台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立台湾台
+三立戏剧台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立戏剧台
+三立新闻台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
+三立iNEWS,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
+三立国际台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立国际台
+LIVE三立,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LIVE三立
+CTI+中天2台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTI+中天2台
+中天综合,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天综合
+中天娱乐,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天娱乐
+纬来日本,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来日本
+纬来育乐,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来育乐
+八大第一台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大第一台
+八大戏剧台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
+八大综合台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大综合台
+八大精彩台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大精彩台
+八大娱乐台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大娱乐台
+TVBS新闻台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS新闻台
+TVBS精采台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS精采台
+TVBS欢乐台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS欢乐台
+TVBSHD,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSHD
+TVBSNEWS,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSNEWS
+靖天综合台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天综合台
+靖天日本台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天日本台
+靖天卡通台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天卡通台
+靖洋卡通台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖洋卡通台
+靖天国际台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天国际台
+靖天育乐台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天育乐台
+靖天映画台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天映画台
+靖天欢乐台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天欢乐台
+EYETV旅游,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV旅游
+EYETV戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV戏剧
+ELTA日韩,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA日韩
+ELTA影剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA影剧
+ELTA综合,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA综合
+ELTA娱乐,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA娱乐
+ELTA生活旅游,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA生活旅游
+采昌影剧台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=采昌影剧台
+高点综合,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=高点综合
+东风卫视,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东风卫视
+MTV音乐频道,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MTV音乐频道
+娱家台,http://api.mytv666.top/api/qwt.php?t=国外频道&id=娱家台
+都会台,http://api.mytv666.top/api/qwt.php?t=国外频道&id=都会台
+新时代1,http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代1
+新时代2,http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代2
+动物星球,http://api.mytv666.top/api/qwt.php?t=国外频道&id=动物星球
+国家地理,http://api.mytv666.top/api/qwt.php?t=国外频道&id=国家地理
+探索频道,http://api.mytv666.top/api/qwt.php?t=国外频道&id=探索频道
 
+
+
+中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+東森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
 天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
 明珠台,http://bx.757888.xyz/api.php?id=mz
@@ -542,7 +646,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 易中天品三国,http://jiaojirentv.top/2020/yy.php?id=1461244449
 
 周星驰,http://diyp.zxyxndc.top/huya/11342412
-沈腾,http://182.40.120.229/hs.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+沈腾,http://82.156.237.221/huya.php?id=11601968
 
 
 
@@ -750,44 +854,47 @@ CCTV17,http://8.138.7.223/tv/hot.php?id=17
 
 
 
-北京卫视,http://82.156.237.221/migu.php?id=bjwshd.m3u8
-天津卫视,http://82.156.237.221/migu.php?id=tjwshd.m3u8
-辽宁卫视,http://82.156.237.221/migu.php?id=lnwshd.m3u8
-吉林卫视,http://82.156.237.221/migu.php?id=jlwshd.m3u8
-黑龙江卫视,http://82.156.237.221/migu.php?id=hljwshd.m3u8
-山东卫视,http://82.156.237.221/migu.php?id=sdwshd.m3u8
-浙江卫视,http://82.156.237.221/migu.php?id=zjwshd.m3u8
-东方卫视,http://82.156.237.221/migu.php?id=dfwshd.m3u8
-江苏卫视,http://82.156.237.221/migu.php?id=jswshd.m3u8
-江西卫视,http://82.156.237.221/migu.php?id=jxwshd.m3u8
-安徽卫视,http://82.156.237.221/migu.php?id=ahwshd.m3u8
-湖南卫视,http://82.156.237.221/migu.php?id=hnwshd.m3u8
-湖北卫视,http://82.156.237.221/migu.php?id=hubwshd.m3u8
-河南卫视,http://82.156.237.221/migu.php?id=henwshd.m3u8
-河北卫视,http://82.156.237.221/migu.php?id=hebwshd.m3u8
-四川卫视,http://82.156.237.221/migu.php?id=scwshd.m3u8
-重庆卫视,http://82.156.237.221/migu.php?id=cqwshd.m3u8
-甘肃卫视,http://82.156.237.221/migu.php?id=gswshd.m3u8
-云南卫视,http://82.156.237.221/migu.php?id=ynwshd.m3u8
-贵州卫视,http://82.156.237.221/migu.php?id=gzwshd.m3u8
-东南卫视,http://82.156.237.221/migu.php?id=dnwshd.m3u8
-广西卫视,http://82.156.237.221/migu.php?id=gxwshd.m3u8
-广东卫视,http://82.156.237.221/migu.php?id=gdwshd.m3u8
-深圳卫视,http://82.156.237.221/migu.php?id=szwshd.m3u8
-海南卫视,http://82.156.237.221/migu.php?id=hainwshd.m3u8
-三沙卫视,http://82.156.237.221/migu.php?id=sswshd.m3u8
-内蒙古卫视,http://82.156.237.221/migu.php?id=nmgws.m3u8
-陕西卫视,http://82.156.237.221/migu.php?id=sx3ws.m3u8
-山西卫视,http://82.156.237.221/migu.php?id=sx1ws.m3u8
-厦门卫视,http://82.156.237.221/migu.php?id=xmws.m3u8
-宁夏卫视,http://82.156.237.221/migu.php?id=nxws.m3u8
-青海卫视,http://82.156.237.221/migu.php?id=qhws.m3u8
-新疆卫视,http://82.156.237.221/migu.php?id=xjws.m3u8
-西藏卫视,http://82.156.237.221/migu.php?id=xzws.m3u8
-兵团卫视,http://82.156.237.221/migu.php?id=btws.m3u8
+CCTV1,http://82.156.237.221/migu.php?id=cctv1
+CCTV2,http://82.156.237.221/migu.php?id=
+CCTV3,http://82.156.237.221/migu.php?id=cctv3
+CCTV4,http://82.156.237.221/migu.php?id=cctv4
+CCTV5,http://82.156.237.221/migu.php?id=cctv5
+CCTV5+,http://82.156.237.221/migu.php?id=cctv5p
+CCTV6,http://82.156.237.221/migu.php?id=cctv6
+CCTV7,http://82.156.237.221/migu.php?id=cctv7
+CCTV8,http://82.156.237.221/migu.php?id=cctv8
+CCTV9,http://82.156.237.221/migu.php?id=cctv9
+CCTV10,http://82.156.237.221/migu.php?id=cctv10
+CCTV11,http://82.156.237.221/migu.php?id=cctv11
+CCTV12,http://82.156.237.221/migu.php?id=cctv12
+CCTV13,http://82.156.237.221/migu.php?id=cctv13
+CCTV14,http://82.156.237.221/migu.php?id=cctv14
+CCTV15,http://82.156.237.221/migu.php?id=cctv15
+CCTV16,http://82.156.237.221/migu.php?id=
+CCTV17,http://82.156.237.221/migu.php?id=cctv17
+
+
+
+中央新影-老故事,http://82.156.237.221/migu.php?id=lgs
+中央新影-发现之旅,http://82.156.237.221/migu.php?id=fxzl
+中央新影-中学生,http://82.156.237.221/migu.php?id=zxs
+CHC家庭影院,http://82.156.237.221/migu.php?id=chcjt
+CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
+江苏卫视,http://82.156.237.221/migu.php?id=jsws
+东方卫视,http://82.156.237.221/migu.php?id=dfws
+吉林卫视,http://82.156.237.221/migu.php?id=jlws
+河南卫视,http://82.156.237.221/migu.php?id=hnws
+陕西卫视,http://82.156.237.221/migu.php?id=sxws
+青海卫视,http://82.156.237.221/migu.php?id=qhws
+湖北卫视,http://82.156.237.221/migu.php?id=hubws
+江西卫视,http://82.156.237.221/migu.php?id=jxws
+东南卫视,http://82.156.237.221/migu.php?id=dnws
+海峡卫视,http://82.156.237.221/migu.php?id=hxws
+广东卫视,http://82.156.237.221/migu.php?id=gdws
+大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
+海南卫视,http://82.156.237.221/migu.php?id=hinws
 
 
 
 
-
-
+   
