@@ -894,7 +894,25 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
 
-
+CCTV1,http://82.156.237.221/mg1.php?id=c74966f7109bc090b8b9f234bec5884f
+CCTV2,http://82.156.237.221/mg1.php?id=1434bac241017d9eb89485bc80491bf6
+CCTV3,http://82.156.237.221/mg1.php?id=5099c074952bff8ba34c81acbaa33ea7
+CCTV4,http://82.156.237.221/mg1.php?id=db976f7874fa07b13dff464bd707b0f2
+CCTV5,http://82.156.237.221/mg1.php?id=76d49a7fe74ad80d13a65e566fbaff03
+CCTV5+,http://82.156.237.221/mg1.php?id=49ffa6abb7be07ff004933081062887a
+CCTV6,http://82.156.237.221/mg1.php?id=9c33ef39a294f72a3913b1fddc93f9f7
+CCTV7,http://82.156.237.221/mg1.php?id=998130516f61f987a32f5b05e9058ee9
+CCTV8,http://82.156.237.221/mg1.php?id=58b791dae3e0541536bd15d22419bf65
+CCTV9,http://82.156.237.221/mg1.php?id=a48b656035c62d77e272ea987b5690f6
+CCTV10,http://82.156.237.221/mg1.php?id=50c2aba67e0291cd497bf36f377fbbff
+CCTV11,http://82.156.237.221/mg1.php?id=69f3e78a39ec1f0d65f2ddb8d98a12a6
+CCTV12,http://82.156.237.221/mg1.php?id=6a822ccee011fee0d96a46bed23bf8d6
+CCTV13,http://82.156.237.221/mg1.php?id=7619bb0ac390807471fc508a34eeea40
+CCTV14,http://82.156.237.221/mg1.php?id=6c55832ac08e5223cbf79aac6dec5d98
+CCTV15,http://82.156.237.221/mg1.php?id=452cc8ca57be9f52bfd55f60de90d02c
+CCTV17,http://82.156.237.221/mg1.php?id=4a755c47b7a7321bd9edcefce8923e16
+CHC家庭影院,http://82.156.237.221/mg1.php?id=e6895ae6ea914ba368da69e487408ecd
+CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478a
 
 
    
