@@ -1,45 +1,46 @@
 央视频道,#genre#
 
 
+CCTV1,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.129:8008
+CCTV2,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.60:8084
+CCTV3,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.172:8001
+CCTV4,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.105:8092
+CCTV5,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.173:8001
+CCTV5+,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.130:8004
+CCTV6,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.174:8001
+CCTV7,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.61:8104
+CCTV8,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.175:8001
+CCTV9,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.62:8112
+CCTV10,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.63:8116
+CCTV11,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.152:8120
+CCTV12,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.64:8124
+CCTV13,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.124:8128
+CCTV14,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.65:8132
+CCTV15,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.153:8136
+CCTV15,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.183:8001
+CCTV16,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.184:8001
+CCTV17,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.151:8144
 
-CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
-CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
-CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
-CCTV4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
-CCTV5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-CCTV5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p
-CCTV6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
-CCTV7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
-CCTV8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
-CCTV9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
-CCTV10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
-CCTV11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
-CCTV12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
-CCTV13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
-CCTV14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
-CCTV15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
-CCTV16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
-CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 
-CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
-CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
-CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
-CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
-CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
-CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
-CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
-CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
+CCTV1,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV1
+CCTV2,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV2
+CCTV3,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV3
+CCTV4,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV4
+CCTV5,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5
+CCTV5p,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5p
+CCTV6,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV6
+CCTV7,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV7
+CCTV8,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV8
+CCTV9,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV9
+CCTV10,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV10
+CCTV11,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV11
+CCTV12,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV12
+CCTV13,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV13
+CCTV14,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV14
+CCTV15,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV15
+CCTV16,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV16
+CCTV17,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV17
 
 
 
@@ -144,8 +145,13 @@ CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
 CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+CHC动作电影,http://templaralone.asuscomm.com:35455/mgtv/644368714.m3u8
+CHC家庭影院,http://templaralone.asuscomm.com:35455/mgtv/644368373.m3u8
+CHC高清电影,http://templaralone.asuscomm.com:35455/mgtv/952383261.m3u8
 
+
+
+重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
 
@@ -155,6 +161,7 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 卫视频道,#genre#
+
 
 
 凤凰卫视,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
@@ -178,6 +185,42 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
+
+北京卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.241:8000
+东方卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.136:8032
+天津卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.141:1234
+重庆卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.122:8160
+辽宁卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.210:8056
+吉林卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.240:8172
+黑龙江卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.133:8016
+湖南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.132:8012
+浙江卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.137:8036
+江苏卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.135:8028
+深圳卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.134:8020
+广东卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.142:8048
+安徽卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.211:8064
+山东卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.209:8052
+河北卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.148:8072
+河南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.50:8184
+湖北卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.138:8044
+贵州卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.149:8076
+东南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.156:8148
+江西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.123:8164
+海南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.45:8304
+云南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.26:8108
+兵团卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.144:4120
+厦门卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.143:4120
+四川卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.29:8288
+宁夏卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.46:8124
+山西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.42:8172
+广西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.39:8300
+新疆卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.48:8160
+甘肃卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.49:8188
+西藏卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.47:8164
+三沙卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.155:4120
+陕西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.41:8140
+青海卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.44:8184
+内蒙古卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%90/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD%E6%BA%9028.php?ID=1.43:8176
 
 
 
@@ -829,66 +872,66 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 测试,#genre#
 
-CCTV1综合,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/608807420.m3u8
-CCTV2财经,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/631780532.m3u8
-CCTV3综艺,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/624878271.m3u8
-CCTV4中文国际,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/631780421.m3u8
-CCTV5体育,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/641886683.m3u8
-CCTV5+体育赛事,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/641886773.m3u8
-CCTV6电影,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/624878396.m3u8
-CCTV7国防军事,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/673168121.m3u8
-CCTV8电视剧,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/624878356.m3u8
-CCTV9纪录,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/673168140.m3u8
-CCTV10科教,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/624878405.m3u8
-CCTV11戏曲,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/667987558.m3u8
-CCTV12社会与法,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/673168185.m3u8
-CCTV13新闻,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/608807423.m3u8
-CCTV14少儿,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/624878440.m3u8
-CCTV15音乐,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/673168223.m3u8
-CCTV16奥林匹克,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/cctv16.m3u8
-CCTV17农业农村,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/673168256.m3u8
-北京卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/beijing.m3u8
-天津卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/tianjing.m3u8
-东方卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/dongfang.m3u8
-东南卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/dongnan.m3u8
-海南卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/hainan.m3u8
-广东卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/guangdong.m3u8
-广西卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/guangxi.m3u8
-深圳卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/shenzheng.m3u8
-江苏卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/623899368.m3u8
-江西卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/783847495.m3u8
-浙江卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/zhejiang.m3u8
-湖南卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/hunan.m3u8
-湖北卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/947472496.m3u8
-安徽卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/anhui.m3u8
-山东卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/shandong.m3u8
-山西卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/shanxi.m3u8
-河南卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/henan.m3u8
-河北卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/hebei.m3u8
-龙江卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/heilongjiang.m3u8
-吉林卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/jiling.m3u8
-辽宁卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/liaoning.m3u8
-云南卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/yunnan.m3u8
-贵州卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/guizhou.m3u8
-四川卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/sichuan.m3u8
-重庆卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/chongqing.m3u8
-陕西卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/738910838.m3u8
-甘肃卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/gansu.m3u8
-宁夏卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/ningxia.m3u8
-青海卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/qinghai.m3u8
-内蒙卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/neimenggu.m3u8
-西藏卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/xizang.m3u8
-新疆卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=nptv/xinjiang.m3u8
-海峡卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/849119120.m3u8
-大湾区卫视,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/608917627.m3u8
-CHC动作电影,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/644368714.m3u8
-CHC影迷电影,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/952383261.m3u8
-CHC家庭影院,http://hxgcs.loli520.xyz/nptv/nptv.php?ID=mgtv/644368373.m3u8
+CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
+CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
+CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
+CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4
+CCTV5,http://106.52.196.79:80/TV/mui.php?id=cctv5
+CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
+CCTV7,http://106.52.196.79:80/TV/mui.php?id=cctv7
+CCTV8,http://106.52.196.79:80/TV/mui.php?id=cctv8
+CCTV9,http://106.52.196.79:80/TV/mui.php?id=cctv9
+CCTV10,http://106.52.196.79:80/TV/mui.php?id=cctv10
+CCTV11,http://106.52.196.79:80/TV/mui.php?id=cctv11
+CCTV12,http://106.52.196.79:80/TV/mui.php?id=cctv12
+CCTV13,http://106.52.196.79:80/TV/mui.php?id=cctv13
+CCTV14,http://106.52.196.79:80/TV/mui.php?id=cctv14
+CCTV15,http://106.52.196.79:80/TV/mui.php?id=cctv15
+CCTV17,http://106.52.196.79:80/TV/mui.php?id=cctv17
 
 
 
 
 
+
+CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
+CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+CCTV4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+CCTV5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+CCTV5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p
+CCTV6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+CCTV7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+CCTV8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+CCTV9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+CCTV10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+CCTV11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+CCTV12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+CCTV13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+CCTV14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+CCTV15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
+CCTV16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+
+
+CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
+CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
+CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
+CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
+CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
+CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
+CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
+CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
+CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
+CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
+CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
+CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
+CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
+CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 CCTV1,http://8.138.7.223/tv/hot.php?id=1
@@ -954,6 +997,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 CCTV1,http://82.156.237.221/mg1.php?id=c74966f7109bc090b8b9f234bec5884f
 CCTV2,http://82.156.237.221/mg1.php?id=1434bac241017d9eb89485bc80491bf6
