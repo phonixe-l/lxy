@@ -836,7 +836,7 @@ CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 
 
 CCTV1,http://82.156.237.221/migu.php?id=cctv1
-CCTV2,http://82.156.237.221/migu.php?id=
+CCTV2,http://82.156.237.221/migu.php?id=cctv2
 CCTV3,http://82.156.237.221/migu.php?id=cctv3
 CCTV4,http://82.156.237.221/migu.php?id=cctv4
 CCTV5,http://82.156.237.221/migu.php?id=cctv5
@@ -851,7 +851,7 @@ CCTV12,http://82.156.237.221/migu.php?id=cctv12
 CCTV13,http://82.156.237.221/migu.php?id=cctv13
 CCTV14,http://82.156.237.221/migu.php?id=cctv14
 CCTV15,http://82.156.237.221/migu.php?id=cctv15
-CCTV16,http://82.156.237.221/migu.php?id=
+CCTV16,http://82.156.237.221/migu.php?id=cctv16
 CCTV17,http://82.156.237.221/migu.php?id=cctv17
 
 
