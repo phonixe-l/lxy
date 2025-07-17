@@ -24,6 +24,7 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
 
 
+
 CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
@@ -43,24 +44,26 @@ CCTV17,http://106.52.196.79:80/TV/mui.php?id=cctv17
 
 
 
-CCTV1,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV1
-CCTV2,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV2
-CCTV3,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV3
-CCTV4,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV4
-CCTV5,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5
-CCTV5p,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5p
-CCTV6,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV6
-CCTV7,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV7
-CCTV8,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV8
-CCTV9,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV9
-CCTV10,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV10
-CCTV11,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV11
-CCTV12,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV12
-CCTV13,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV13
-CCTV14,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV14
-CCTV15,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV15
-CCTV16,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV16
-CCTV17,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV17
+CCTV1,http://kkk.888.3116598.xyz/api.php?n=6887925&id=phXBh5&tk=rRN4Ws5dPOKE
+CCTV2,http://kkk.888.3116598.xyz/api.php?n=6887925&id=68xZTY&tk=rRN4Ws5dPOKE
+CCTV3,http://kkk.888.3116598.xyz/api.php?n=6887925&id=vxY7dh&tk=rRN4Ws5dPOKE
+CCTV4,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Gi0qxz&tk=rRN4Ws5dPOKE
+CCTV5,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Lsb0VQ&tk=rRN4Ws5dPOKE
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=6887925&id=KtdPYh&tk=rRN4Ws5dPOKE
+CCTV6,http://kkk.888.3116598.xyz/api.php?n=6887925&id=I8zotg&tk=rRN4Ws5dPOKE
+CCTV7,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Bt7fw5&tk=rRN4Ws5dPOKE
+CCTV8,http://kkk.888.3116598.xyz/api.php?n=6887925&id=fkLFnd&tk=rRN4Ws5dPOKE
+CCTV9,http://kkk.888.3116598.xyz/api.php?n=6887925&id=PqwDT8&tk=rRN4Ws5dPOKE
+CCTV10,http://kkk.888.3116598.xyz/api.php?n=6887925&id=stcSVL&tk=rRN4Ws5dPOKE
+CCTV11,http://kkk.888.3116598.xyz/api.php?n=6887925&id=FSSrJN&tk=rRN4Ws5dPOKE
+CCTV12,http://kkk.888.3116598.xyz/api.php?n=6887925&id=EoX8em&tk=rRN4Ws5dPOKE
+CCTV13,http://kkk.888.3116598.xyz/api.php?n=6887925&id=YVKaBX&tk=rRN4Ws5dPOKE
+CCTV14,http://kkk.888.3116598.xyz/api.php?n=6887925&id=cxXbc0&tk=rRN4Ws5dPOKE
+CCTV15,http://kkk.888.3116598.xyz/api.php?n=6887925&id=dLCX2E&tk=rRN4Ws5dPOKE
+CCTV16,http://kkk.888.3116598.xyz/api.php?n=6887925&id=8eJw94&tk=rRN4Ws5dPOKE
+CCTV17,http://kkk.888.3116598.xyz/api.php?n=6887925&id=9UXzub&tk=rRN4Ws5dPOKE
+
+
 
 
 
@@ -136,19 +139,10 @@ CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
 CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
+CHC家庭影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=HEuu5S&tk=rRN4Ws5dPOKE
+CHC动作电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=zHTHXn&tk=rRN4Ws5dPOKE
+CHC影迷电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=g2MLmY&tk=rRN4Ws5dPOKE
 
-
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC高清电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-
-
-
-
-
-CHC动作电影,http://templaralone.asuscomm.com:35455/mgtv/644368714.m3u8
-CHC家庭影院,http://templaralone.asuscomm.com:35455/mgtv/644368373.m3u8
-CHC高清电影,http://templaralone.asuscomm.com:35455/mgtv/952383261.m3u8
 
 
 
@@ -165,12 +159,17 @@ CHC高清电影,http://templaralone.asuscomm.com:35455/mgtv/952383261.m3u8
 卫视频道,#genre#
 
 
-凤凰卫视,http://8.138.7.223/tv/fh.php?id=1
-凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
-凤凰香港,http://8.138.7.223/tv/fh.php?id=3
 
 
 
+凤凰卫视,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Q10fHN&tk=rRN4Ws5dPOKE
+凤凰资讯,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Ia8sY1&tk=rRN4Ws5dPOKE
+凤凰香港,http://kkk.888.3116598.xyz/api.php?n=6887925&id=zrPnzS&tk=rRN4Ws5dPOKE
+
+
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 
 
 凤凰卫视,http://t.061899.xyz/tl/dq.php?id=fhzw
