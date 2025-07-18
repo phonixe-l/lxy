@@ -737,6 +737,28 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 测试,#genre#
 
+
+CCTV1,http://live.sxrtv.com/iptv/cctv1.flv
+CCTV2,http://live.sxrtv.com/iptv/cctv2.flv
+CCTV3,http://live.sxrtv.com/iptv/cctv3.flv
+CCTV4,http://live.sxrtv.com/iptv/cctv4.flv
+CCTV5,http://live.sxrtv.com/iptv/cctv5.flv
+CCTV5+,http://live.sxrtv.com/iptv/cctv5p.flv
+CCTV6,http://live.sxrtv.com/iptv/cctv6.flv
+CCTV7,http://live.sxrtv.com/iptv/cctv7.flv
+CCTV8,http://live.sxrtv.com/iptv/cctv8.flv
+CCTV9,http://live.sxrtv.com/iptv/cctv9.flv
+CCTV10,http://live.sxrtv.com/iptv/cctv10.flv
+CCTV11,http://live.sxrtv.com/iptv/cctv11.flv
+CCTV12,http://live.sxrtv.com/iptv/cctv12.flv
+CCTV13,http://live.sxrtv.com/iptv/cctv13.flv
+CCTV14,http://live.sxrtv.com/iptv/cctv14.flv
+CCTV15,http://live.sxrtv.com/iptv/cctv15.flv
+CCTV16,http://live.sxrtv.com/iptv/cctv16.flv
+CCTV17,http://live.sxrtv.com/iptv/cctv17.flv
+
+
+
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226694/1.m3u8
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226705/1.m3u8
