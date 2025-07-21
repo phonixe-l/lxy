@@ -44,27 +44,6 @@ CCTV17,http://106.52.196.79:80/TV/mui.php?id=cctv17
 
 
 
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=6887925&id=phXBh5&tk=rRN4Ws5dPOKE
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=6887925&id=68xZTY&tk=rRN4Ws5dPOKE
-CCTV3,http://kkk.888.3116598.xyz/api.php?n=6887925&id=vxY7dh&tk=rRN4Ws5dPOKE
-CCTV4,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Gi0qxz&tk=rRN4Ws5dPOKE
-CCTV5,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Lsb0VQ&tk=rRN4Ws5dPOKE
-CCTV5+,http://kkk.888.3116598.xyz/api.php?n=6887925&id=KtdPYh&tk=rRN4Ws5dPOKE
-CCTV6,http://kkk.888.3116598.xyz/api.php?n=6887925&id=I8zotg&tk=rRN4Ws5dPOKE
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=6887925&id=Bt7fw5&tk=rRN4Ws5dPOKE
-CCTV8,http://kkk.888.3116598.xyz/api.php?n=6887925&id=fkLFnd&tk=rRN4Ws5dPOKE
-CCTV9,http://kkk.888.3116598.xyz/api.php?n=6887925&id=PqwDT8&tk=rRN4Ws5dPOKE
-CCTV10,http://kkk.888.3116598.xyz/api.php?n=6887925&id=stcSVL&tk=rRN4Ws5dPOKE
-CCTV11,http://kkk.888.3116598.xyz/api.php?n=6887925&id=FSSrJN&tk=rRN4Ws5dPOKE
-CCTV12,http://kkk.888.3116598.xyz/api.php?n=6887925&id=EoX8em&tk=rRN4Ws5dPOKE
-CCTV13,http://kkk.888.3116598.xyz/api.php?n=6887925&id=YVKaBX&tk=rRN4Ws5dPOKE
-CCTV14,http://kkk.888.3116598.xyz/api.php?n=6887925&id=cxXbc0&tk=rRN4Ws5dPOKE
-CCTV15,http://kkk.888.3116598.xyz/api.php?n=6887925&id=dLCX2E&tk=rRN4Ws5dPOKE
-CCTV16,http://kkk.888.3116598.xyz/api.php?n=6887925&id=8eJw94&tk=rRN4Ws5dPOKE
-CCTV17,http://kkk.888.3116598.xyz/api.php?n=6887925&id=9UXzub&tk=rRN4Ws5dPOKE
-
-
-
 
 
 
@@ -85,7 +64,7 @@ CCTV12,http://82.156.237.221/kb.php?id=cctv12
 CCTV13,http://82.156.237.221/kb.php?id=cctv13
 CCTV14,http://82.156.237.221/kb.php?id=cctv14
 CCTV15,http://82.156.237.221/kb.php?id=cctv15
-CCTV16,http://175.16.153.39:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.245.255.38:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://58.245.255.38:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://82.156.237.221/kb.php?id=cctv17
 
 
@@ -137,11 +116,6 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=jtyy
 CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
 CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
-
-
-CHC家庭影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=HEuu5S&tk=rRN4Ws5dPOKE
-CHC动作电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=zHTHXn&tk=rRN4Ws5dPOKE
-CHC影迷电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=g2MLmY&tk=rRN4Ws5dPOKE
 
 
 
@@ -817,7 +791,7 @@ CCTV17,http://live.sxrtv.com/iptv/cctv17.flv
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226694/1.m3u8
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226705/1.m3u8
-CCTV1.576,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226823/1.m3u8
+CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226823/1.m3u8
 CCTV2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
 CCTV3,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
 CCTV4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
@@ -835,7 +809,7 @@ CCTV12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
 CCTV13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 CCTV14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 CCTV14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
-CCTV15.576,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
+CCTV15,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
 CCTV16,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
 CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
@@ -845,9 +819,6 @@ CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 金鹰纪实,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
 东方卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
 北京卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
-北京纪实,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226658/1.m3u8
-北京纪实,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226656/1.m3u8
-北京纪实.576,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
 江苏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
 江西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
@@ -902,10 +873,6 @@ CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 睛彩篮球,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226952/1.m3u8
 睛彩篮球,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226966/1.m3u8
 睛彩篮球,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226994/1.m3u8
-
-
-
-
 
 
 
