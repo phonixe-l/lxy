@@ -152,7 +152,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-
 北京卫视,http://live.sxrtv.com/iptv/bjws.m3u8
 北京卫视,http://live.sxrtv.com/iptv/bjws.flv
 东方卫视,http://live.sxrtv.com/iptv/dfws.m3u8
@@ -215,6 +214,52 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 安徽卫视,http://live.sxrtv.com/iptv/ahws.flv
 河南卫视,http://live.sxrtv.com/iptv/hnws.m3u8
 河南卫视,http://live.sxrtv.com/iptv/hnws.flv
+
+
+
+
+
+
+北京卫视,http://82.156.237.221/zbzg.php?id=30024
+东方卫视,http://82.156.237.221/zbzg.php?id=30023
+天津卫视,http://82.156.237.221/zbzg.php?id=30027
+重庆卫视,http://82.156.237.221/zbzg.php?id=30031
+辽宁卫视,http://82.156.237.221/zbzg.php?id=30033
+吉林卫视,http://82.156.237.221/zbzg.php?id=30037
+黑龙江卫视,http://82.156.237.221/zbzg.php?id=30032
+江苏卫视,http://82.156.237.221/zbzg.php?id=30021
+浙江卫视,http://82.156.237.221/zbzg.php?id=30022
+湖南卫视,http://82.156.237.221/zbzg.php?id=30000
+广东卫视,http://82.156.237.221/zbzg.php?id=30025
+河北卫视,http://82.156.237.221/zbzg.php?id=30035
+安徽卫视,http://82.156.237.221/zbzg.php?id=30030
+东南卫视,http://82.156.237.221/zbzg.php?id=30038
+江西卫视,http://82.156.237.221/zbzg.php?id=30036
+山东卫视,http://82.156.237.221/zbzg.php?id=30028
+河南卫视,http://82.156.237.221/zbzg.php?id=30041
+湖北卫视,http://82.156.237.221/zbzg.php?id=30029
+广西卫视,http://82.156.237.221/zbzg.php?id=30040
+海南卫视,http://82.156.237.221/zbzg.php?id=30048
+山西卫视,http://82.156.237.221/zbzg.php?id=30044
+内蒙古卫视,http://82.156.237.221/zbzg.php?id=30045
+四川卫视,http://82.156.237.221/zbzg.php?id=30034
+贵州卫视,http://82.156.237.221/zbzg.php?id=30039
+云南卫视,http://82.156.237.221/zbzg.php?id=30047
+西藏卫视,http://82.156.237.221/zbzg.php?id=30049
+陕西卫视,http://82.156.237.221/zbzg.php?id=30050
+甘肃卫视,http://82.156.237.221/zbzg.php?id=30042
+青海卫视,http://82.156.237.221/zbzg.php?id=30043
+宁夏卫视,http://82.156.237.221/zbzg.php?id=30046
+新疆卫视,http://82.156.237.221/zbzg.php?id=30051
+兵团卫视,http://82.156.237.221/zbzg.php?id=30121
+深圳卫视,http://82.156.237.221/zbzg.php?id=30026
+厦门卫视,http://82.156.237.221/zbzg.php?id=30123
+
+
+
+
+
+
 
 
 
