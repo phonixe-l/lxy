@@ -876,6 +876,7 @@ CCTV17,http://36.32.99.215:5003/cctv17.m3u8
 三沙卫视,http://36.32.99.215:5003/custom3.m3u8
 
 
+cctv测试,http://120.198.224.36:8088/rrs03.hw.gmcc.net/PLTV/81/224/3221226663/1.m3u8?icpid=81&rrsiplist=183.235.153.202&popid=335&prioritypopid=335&from=335&vqe=3&ocs=2_120.198.224.34_8088&hms_devid=2573&online=1753426322
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226694/1.m3u8
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226705/1.m3u8
