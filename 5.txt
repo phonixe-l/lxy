@@ -15,7 +15,6 @@ CCTV10,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708
 CCTV11,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
 CCTV12,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
 CCTV13,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
-CCTV14,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 CCTV14,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
 CCTV15,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
 CCTV16,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
@@ -401,6 +400,12 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
+
+吉林都市,http://119.51.54.53:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林影视,http://119.51.54.53:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林生活,http://119.51.54.53:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林综艺,http://119.51.54.53:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+长影频道,http://119.51.54.53:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
 
