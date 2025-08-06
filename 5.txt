@@ -1,24 +1,27 @@
 央视频道,#genre#
 
 
-CCTV1,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
-CCTV2,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
-CCTV3,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-CCTV4,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
-CCTV5,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-CCTV5+,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
-CCTV6,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
-CCTV7,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
-CCTV8,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
-CCTV9,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
-CCTV10,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
-CCTV11,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-CCTV12,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
-CCTV13,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
-CCTV14,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
-CCTV15,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
-CCTV16,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
-CCTV17,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
+
+CCTV1,https://mursor.ottiptv.cc/bst/cctv1hd@4000000.m3u8
+CCTV2,https://mursor.ottiptv.cc/bst/cctv2hd8m@8000000.m3u8
+CCTV3,https://mursor.ottiptv.cc/bst/cctv3hd@4000000.m3u8
+CCTV4,https://mursor.ottiptv.cc/bst/cctv4hd4m@4000000.m3u8
+CCTV5,https://mursor.ottiptv.cc/bst/cctv5hd@4000000.m3u8
+CCTV5+,https://mursor.ottiptv.cc/bst/cctv5phd@4000000.m3u8
+CCTV6,https://mursor.ottiptv.cc/bst/cctv6hd@4000000.m3u8
+CCTV7,https://mursor.ottiptv.cc/bst/cctv7hd4m@4000000.m3u8
+CCTV8,https://mursor.ottiptv.cc/bst/cctv8hd@4000000.m3u8
+CCTV9,https://mursor.ottiptv.cc/bst/cctv9hd4mc@4000000.m3u8
+CCTV10,https://mursor.ottiptv.cc/bst/cctv10hd@4000000.m3u8
+CCTV11,https://mursor.ottiptv.cc/bst/cctv11hd4m@4000000.m3u8
+CCTV12,https://mursor.ottiptv.cc/bst/cctv12hd4m@4000000.m3u8
+CCTV13,https://mursor.ottiptv.cc/bst/cctv13hd4m@4000000.m3u8
+CCTV14,https://mursor.ottiptv.cc/bst/cctvsehd@4000000.m3u8
+CCTV15https://mursor.ottiptv.cc/bst/cctvyyhd4m@4000000.m3u8
+CCTV16,https://mursor.ottiptv.cc/bst/cctv16hd4m@4000000.m3u8
+CCTV17,https://mursor.ottiptv.cc/bst/cctv17hd4m@4000000.m3
+
+
 
 
 
@@ -132,6 +135,10 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 
 
 
+CHC影迷电影,https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=3756496016f892a038a4fddd849c53d55655edc908339c6d1c859a84d49ff6e62638a06ea4188e894fb2556db3ff1056bfa5d624904ecec115b223bc917093cd7797a45b7788553e3e6f237b05
+CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=8367fc2b1fdb5f00868da39aa7713b257916ea83b97e1d92cadc4c9af9c4291908a523266d5135d4e7164a0ec6f89d4ee0b3beb5db5c2795426ff8189fad715242b7c178c9e4e1128042f3f4a1
+CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=bb424d04de92b910b011a5f6b14ebcd0d8ab5ae8bd6e41c10206de5e71bbc9251379569a511e743be927089fbdaa3e7430c16508f5472a785229c6946b75671a9cb877ffae0ec90d05a211412a
+
 
 
 CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=jtyy
@@ -142,7 +149,9 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+
+
+重温经典,http://pushrtmphsspef5.douyincdn.com/live/awei_cwjd.flv
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
 
@@ -170,6 +179,45 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 凤凰卫视,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
+
+
+
+北京卫视,https://mursor.ottiptv.cc/bst/bjwshd@4000000.m3u8
+东方卫视,https://mursor.ottiptv.cc/bst/hddfws@4000000.m3u8
+天津卫视,https://mursor.ottiptv.cc/bst/tjwshd@4000000.m3u8
+重庆卫视,https://mursor.ottiptv.cc/bst/cqwshd4m@4000000.m3u8
+吉林卫视,https://mursor.ottiptv.cc/bst/jlwshd4m@4000000.m3u8
+黑龙江卫视,https://mursor.ottiptv.cc/bst/hljwshd@4000000.m3u8
+辽宁卫视,https://mursor.ottiptv.cc/bst/lnwshd@4000000.m3u8
+江苏卫视,https://mursor.ottiptv.cc/bst/jswshd@4000000.m3u8
+浙江卫视,https://mursor.ottiptv.cc/bst/zjwshd@4000000.m3u8
+湖南卫视,https://mursor.ottiptv.cc/bst/hnwshd@4000000.m3u8
+河北卫视,https://mursor.ottiptv.cc/bst/hbwshd4m@4000000.m3u8
+山东卫视,https://mursor.ottiptv.cc/bst/sdwshd@4000000.m3u8
+东南卫视,https://mursor.ottiptv.cc/bst/dnwshd@4000000.m3u8
+安徽卫视,https://mursor.ottiptv.cc/bst/ahwshd@4000000.m3u8
+湖北卫视,https://mursor.ottiptv.cc/bst/hbwshd@4000000.m3u8
+甘肃卫视,https://mursor.ottiptv.cc/bst/gswshd4m@4000000.m3u8
+广东卫视,https://mursor.ottiptv.cc/bst/gdwshd@4000000.m3u8
+广西卫视,https://mursor.ottiptv.cc/bst/gxwshd4m@4000000.m3u8
+贵州卫视,https://mursor.ottiptv.cc/bst/gzwshd4m@4000000.m3u8
+海南卫视,https://mursor.ottiptv.cc/bst/hainwshd4m@4000000.m3u8
+河南卫视,https://mursor.ottiptv.cc/bst/henwshd4m@4000000.m3u8
+江西卫视,https://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8
+深圳卫视,https://mursor.ottiptv.cc/bst/szwshd@4000000.m3u8
+云南卫视,https://mursor.ottiptv.cc/bst/ynwshd4m@4000000.m3u8
+四川卫视,https://mursor.ottiptv.cc/bst/scwshd4m@4000000.m3u8
+山西卫视,https://mursor.ottiptv.cc/bst/shanxiws@1300000.m3u8
+陕西卫视,https://mursor.ottiptv.cc/bst/sxws@1300000.m3u8
+新疆卫视,https://mursor.ottiptv.cc/bst/xjws@1300000.m3u8
+安多卫视,https://mursor.ottiptv.cc/bst/adws2d5m@2500000.m3u8
+西藏卫视,https://mursor.ottiptv.cc/bst/xzws@2500000.m3u8
+兵团卫视,https://mursor.ottiptv.cc/bst/btws@1300000.m3u8
+内蒙古卫视,https://mursor.ottiptv.cc/bst/nmgws@1300000.m3u8
+宁夏卫视,https://mursor.ottiptv.cc/bst/nxws@1300000.m3u8
+青海卫视,https://mursor.ottiptv.cc/bst/qhws@1300000.m3u8
+三沙卫视,https://mursor.ottiptv.cc/bst/ssws2d5m@2500000.m3u8
 
 
 
@@ -421,7 +469,7 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
+吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=18378216850067b43a2f1e9e2ce78746337eea2b2537
 吉林市公共,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
 吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
@@ -467,7 +515,7 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
-延边,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+延边,http://live.ybtvyun.com/video/s10016af95004b6d1a/index.m3u8?zjild
 
 
 
@@ -702,7 +750,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 倚天屠龙记,http://82.156.237.221:35455/yy/1354755003
 狂飙,http://82.156.237.221:35455/yy/1382754187
 鹊刀门,http://82.156.237.221:35455/yy/1355344777
-金婚,http://82.156.237.221:35455/yy/1382736832
+金婚,http://82.156.237.221:35455/yy/138273683
 少年包青天,http://82.156.237.221:35455/yy/38498680
 武林外传,http://82.156.237.221:35455/yy/1355652820
 新三国,http://82.156.237.221:35455/yy/1382705738
@@ -784,14 +832,28 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 数字频道,#genre#
 
 
-哒啵电竞,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
-哒啵赛事,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226905/1.m3u8
-睛彩竞技,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226969/1.m3u8
-睛彩竞技,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226988/1.m3u8
-睛彩青少,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226992/1.m3u8
-睛彩青少,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226930/1.m3u8
-睛彩篮球,http://120.198.224.36:8088/rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226966/1.m3u8
-搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+
+哈哈炫动,https://mursor.ottiptv.cc/bst/hhxdhd@4000000.m3u8
+金鹰纪实,https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8
+金鹰卡通,https://mursor.ottiptv.cc/bst/jykt@1300000.m3u8
+嘉佳卡通,https://mursor.ottiptv.cc/bst/jjkt@1300000.m3u8
+卡酷卡通,https://mursor.ottiptv.cc/bst/kkkt@1300000.m3u8
+卡酷少儿,https://mursor.ottiptv.cc/bst/kkkt2d5m@2500000.m3u8
+动漫秀场,https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
+宝宝动画,https://mursor.ottiptv.cc/bst/bbdhvcc4m@4000000.m3u8
+青春动漫,https://mursor.ottiptv.cc/bst/qcdmvcc4m@4000000.m3u8
+游戏风云,https://mursor.ottiptv.cc/bst/yxfyhd@4000000.m3u8
+电竞天堂,https://mursor.ottiptv.cc/bst/djttvcc4m@4000000.m3u8
+欢笑剧场,https://mursor.ottiptv.cc/bst/hxjchd@4000000.m3u8
+热门剧场,https://mursor.ottiptv.cc/bst/rmjcvcc4m@4000000.m3u8
+都市剧场,https://mursor.ottiptv.cc/bst/dsjchd@4000000.m3u8
+谍战剧场,https://mursor.ottiptv.cc/bst/dzjcvcc4m@4000000.m3u8
+华语影院,https://mursor.ottiptv.cc/bst/hyyyvcc4m@4000000.m3u8
+星光影院,https://mursor.ottiptv.cc/bst/xgyyvcc4m@4000000.m3u8
+全球大片,https://mursor.ottiptv.cc/bst/qqdpvcc4m@4000000.m3u8
+热门综艺,https://mursor.ottiptv.cc/bst/rmzyvcc4m@4000000.m3u8
+
+搜狐剧场,https://hdlvipws.qf.56.com/live/lc_11730.flv
 家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
 怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
 都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
@@ -1064,9 +1126,9 @@ CCTV17,http://82.156.237.221/migu.php?id=cctv17
 
 
 
-中央新影-老故事,http://82.156.237.221/migu.php?id=lgs
-中央新影-发现之旅,http://82.156.237.221/migu.php?id=fxzl
-中央新影-中学生,http://82.156.237.221/migu.php?id=zxs
+中央新影老故事,http://82.156.237.221/migu.php?id=lgs
+中央新影发现之旅,http://82.156.237.221/migu.php?id=fxzl
+中央新影中学生,http://82.156.237.221/migu.php?id=zxs
 CHC家庭影院,http://82.156.237.221/migu.php?id=chcjt
 CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 江苏卫视,http://82.156.237.221/migu.php?id=jsws
@@ -1106,3 +1168,4 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
