@@ -2,24 +2,24 @@
 
 
 
-CCTV1,http://t.061899.xyz/tl/dq.php?id=cctv1
-CCTV2,http://t.061899.xyz/tl/dq.php?id=cctv2
-CCTV3,http://t.061899.xyz/tl/dq.php?id=cctv3
-CCTV4,http://t.061899.xyz/tl/dq.php?id=cctv4
-CCTV5,http://t.061899.xyz/tl/dq.php?id=cctv5
-CCTV5+,http://t.061899.xyz/tl/dq.php?id=cctv5p
-CCTV6,http://t.061899.xyz/tl/dq.php?id=cctv6
-CCTV7,http://t.061899.xyz/tl/dq.php?id=cctv7
-CCTV8,http://t.061899.xyz/tl/dq.php?id=cctv8
-CCTV9,http://t.061899.xyz/tl/dq.php?id=cctv9
-CCTV10,http://t.061899.xyz/tl/dq.php?id=cctv10
-CCTV11,http://t.061899.xyz/tl/dq.php?id=cctv11
-CCTV12,http://t.061899.xyz/tl/dq.php?id=cctv12
-CCTV13,http://t.061899.xyz/tl/dq.php?id=cctv13
-CCTV14,http://t.061899.xyz/tl/dq.php?id=cctv14
-CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
-CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
-CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
+CCTV1,http://223.109.75.19:8000/057754/index.m3u8
+CCTV2,http://223.109.75.19:8000/061465/index.m3u8
+CCTV3,http://223.109.75.19:8000/830965/index.m3u8
+CCTV4,http://223.109.75.19:8000/143097/index.m3u8
+CCTV5,http://223.109.75.19:8000/930480/index.m3u8
+CCTV5+,http://223.109.75.19:8000/470540/index.m3u8
+CCTV6,http://223.109.75.19:8000/520737/index.m3u8
+CCTV7,http://223.109.75.19:8000/649185/index.m3u8
+CCTV8,http://223.109.75.19:8000/235836/index.m3u8
+CCTV9,http://223.109.75.19:8000/827648/index.m3u8
+CCTV10,http://223.109.75.19:8000/502378/index.m3u8
+CCTV11,http://223.109.75.19:8000/554982/index.m3u8
+CCTV12,http://223.109.75.19:8000/422642/index.m3u8
+CCTV13,http://223.109.75.19:8000/593087/index.m3u8
+CCTV14,http://223.109.75.19:8000/271607/index.m3u8
+CCTV15,http://223.109.75.19:8000/399438/index.m3u8
+CCTV16,http://223.109.75.19:8000/246232/index.m3u8
+CCTV17,http://223.109.75.19:8000/299438/index.m3u8
 
 
 
@@ -167,17 +167,15 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 卫视频道,#genre#
 
+
+凤凰卫视,http://223.109.75.19:8000/659394/index.m3u8
+凤凰资讯,http://223.109.75.19:8000/408107/index.m3u8
+凤凰香港,http://223.109.75.19:8000/176698/index.m3u8
+
+
 凤凰卫视,,http://kds.shanxixr.com/fh.php?id=fhzw
 凤凰资讯,http://kds.shanxixr.com/fh.php?id=fhzx
 凤凰香港,http://kds.shanxixr.com/fh.php?id=fhhk
-
-
-凤凰卫视,http://live.sxrtv.com/iptv/fhzw.m3u8
-凤凰卫视,http://live.sxrtv.com/iptv/fhzw.flv
-凤凰资讯,http://live.sxrtv.com/iptv/fhzx.m3u8
-凤凰资讯,http://live.sxrtv.com/iptv/fhzx.flv
-凤凰香港,http://live.sxrtv.com/iptv/fhhk.m3u8
-凤凰香港,http://live.sxrtv.com/iptv/fhhk.flv
 
 
 
@@ -187,42 +185,39 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-
-北京卫视,http://82.156.237.221:35455/bst/bjwshd@4000000.m3u8
-东方卫视,http://82.156.237.221:35455/bst/hddfws@4000000.m3u8
-天津卫视,http://82.156.237.221:35455/bst/tjwshd@4000000.m3u8
-重庆卫视,http://82.156.237.221:35455/bst/cqwshd4m@4000000.m3u8
-吉林卫视,http://82.156.237.221:35455/bst/jlwshd4m@4000000.m3u8
-黑龙江卫视,http://82.156.237.221:35455/bst/hljwshd@4000000.m3u8
-辽宁卫视,http://82.156.237.221:35455/bst/lnwshd@4000000.m3u8
-江苏卫视,http://82.156.237.221:35455/bst/jswshd@4000000.m3u8
-浙江卫视,http://82.156.237.221:35455/bst/zjwshd@4000000.m3u8
-湖南卫视,http://82.156.237.221:35455/bst/hnwshd@4000000.m3u8
-河北卫视,http://82.156.237.221:35455/bst/hbwshd4m@4000000.m3u8
-山东卫视,http://82.156.237.221:35455/bst/sdwshd@4000000.m3u8
-东南卫视,http://82.156.237.221:35455/bst/dnwshd@4000000.m3u8
-安徽卫视,http://82.156.237.221:35455/bst/ahwshd@4000000.m3u8
-湖北卫视,http://82.156.237.221:35455/bst/hbwshd@4000000.m3u8
-甘肃卫视,http://82.156.237.221:35455/bst/gswshd4m@4000000.m3u8
-广东卫视,http://82.156.237.221:35455/bst/gdwshd@4000000.m3u8
-广西卫视,http://82.156.237.221:35455/bst/gxwshd4m@4000000.m3u8
-贵州卫视,http://82.156.237.221:35455/bst/gzwshd4m@4000000.m3u8
-海南卫视,http://82.156.237.221:35455/bst/hainwshd4m@4000000.m3u8
-河南卫视,http://82.156.237.221:35455/bst/henwshd4m@4000000.m3u8
-江西卫视,http://82.156.237.221:35455/bst/jxwshd@4000000.m3u8
-深圳卫视,http://82.156.237.221:35455/bst/szwshd@4000000.m3u8
-云南卫视,http://82.156.237.221:35455/bst/ynwshd4m@4000000.m3u8
-四川卫视,http://82.156.237.221:35455/bst/scwshd4m@4000000.m3u8
-山西卫视,http://82.156.237.221:35455/bst/shanxiws@1300000.m3u8
-陕西卫视,http://82.156.237.221:35455/bst/sxws@1300000.m3u8
-新疆卫视,http://82.156.237.221:35455/bst/xjws@1300000.m3u8
-安多卫视,http://82.156.237.221:35455/bst/adws2d5m@2500000.m3u8
-西藏卫视,http://82.156.237.221:35455/bst/xzws@2500000.m3u8
-兵团卫视,http://82.156.237.221:35455/bst/btws@1300000.m3u8
-内蒙古卫视,http://82.156.237.221:35455/bst/nmgws@1300000.m3u8
-宁夏卫视,http://82.156.237.221:35455/bst/nxws@1300000.m3u8
-青海卫视,http://82.156.237.221:35455/bst/qhws@1300000.m3u8
-三沙卫视,http://82.156.237.221:35455/bst/ssws2d5m@2500000.m3u8
+北京卫视,http://223.109.75.19:8000/184577/index.m3u8
+东方卫视,http://223.109.75.19:8000/060184/index.m3u8
+天津卫视,http://223.109.75.19:8000/025564/index.m3u8
+重庆卫视,http://223.109.75.19:8000/645035/index.m3u8
+吉林卫视,http://223.109.75.19:8000/897356/index.m3u8
+辽宁卫视,http://223.109.75.19:8000/734558/index.m3u8
+黑龙江卫视,http://223.109.75.19:8000/159311/index.m3u8
+四川卫视,http://223.109.75.19:8000/940076/index.m3u8
+江苏卫视,http://223.109.75.19:8000/207246/index.m3u8
+湖南卫视,http://223.109.75.19:8000/153640/index.m3u8
+浙江卫视,http://223.109.75.19:8000/925335/index.m3u8
+深圳卫视,http://223.109.75.19:8000/671133/index.m3u8
+东南卫视,http://223.109.75.19:8000/035961/index.m3u8
+安徽卫视,http://223.109.75.19:8000/761325/index.m3u8
+山东卫视,http://223.109.75.19:8000/067624/index.m3u8
+广东卫视,http://223.109.75.19:8000/186839/index.m3u8
+广西卫视,http://223.109.75.19:8000/973044/index.m3u8
+新疆卫视,http://223.109.75.19:8000/337572/index.m3u8
+江西卫视,http://223.109.75.19:8000/871086/index.m3u8
+河北卫视,http://223.109.75.19:8000/419638/index.m3u8
+河南卫视,http://223.109.75.19:8000/330711/index.m3u8
+云南卫视,http://223.109.75.19:8000/637208/index.m3u8
+海南卫视,http://223.109.75.19:8000/892740/index.m3u8
+湖北卫视,http://223.109.75.19:8000/778621/index.m3u8
+甘肃卫视,http://223.109.75.19:8000/537964/index.m3u8
+贵州卫视,http://223.109.75.19:8000/742800/index.m3u8
+内蒙古卫视,http://223.109.75.19:8000/498543/index.m3u8
+厦门卫视,http://223.109.75.19:8000/959611/index.m3u8
+宁夏卫视,http://223.109.75.19:8000/061088/index.m3u8
+山西卫视,http://223.109.75.19:8000/578473/index.m3u8
+西藏卫视,http://223.109.75.19:8000/425518/index.m3u8
+陕西卫视,http://223.109.75.19:8000/784142/index.m3u8
+青海卫视,http://223.109.75.19:8000/784090/index.m3u8
 
 
 
@@ -250,116 +245,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 山西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16047_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16048_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-北京卫视,http://live.sxrtv.com/iptv/bjws.m3u8
-北京卫视,http://live.sxrtv.com/iptv/bjws.flv
-东方卫视,http://live.sxrtv.com/iptv/dfws.m3u8
-东方卫视,http://live.sxrtv.com/iptv/dfws.flv
-天津卫视,http://live.sxrtv.com/iptv/tjws.m3u8
-天津卫视,http://live.sxrtv.com/iptv/tjws.flv
-重庆卫视,http://live.sxrtv.com/iptv/cqws.m3u8
-重庆卫视,http://live.sxrtv.com/iptv/cqws.flv
-黑龙江卫视,http://live.sxrtv.com/iptv/hljws.m3u8
-黑龙江卫视,http://live.sxrtv.com/iptv/hljws.flv
-吉林卫视,http://live.sxrtv.com/iptv/jlws.m3u8
-吉林卫视,http://live.sxrtv.com/iptv/jlws.flv
-辽宁卫视,http://live.sxrtv.com/iptv/lnws.m3u8
-辽宁卫视,http://live.sxrtv.com/iptv/lnws.flv
-湖南卫视,http://live.sxrtv.com/iptv/hunws.m3u8
-湖南卫视,http://live.sxrtv.com/iptv/hunws.flv
-江苏卫视,http://live.sxrtv.com/iptv/jsws.m3u8
-江苏卫视,http://live.sxrtv.com/iptv/jsws.flv
-浙江卫视,http://live.sxrtv.com/iptv/zjws.m3u8
-浙江卫视,http://live.sxrtv.com/iptv/zjws.flv
-东南卫视,http://live.sxrtv.com/iptv/dnws.m3u8
-东南卫视,http://live.sxrtv.com/iptv/dnws.flv
-广东卫视,http://live.sxrtv.com/iptv/gdws.m3u8
-广东卫视,http://live.sxrtv.com/iptv/gdws.flv
-深圳卫视,http://live.sxrtv.com/iptv/szws.m3u8
-深圳卫视,http://live.sxrtv.com/iptv/szws.flv
-湖北卫视,http://live.sxrtv.com/iptv/hubws.m3u8
-湖北卫视,http://live.sxrtv.com/iptv/hubws.flv
-江西卫视,http://live.sxrtv.com/iptv/jxws.m3u8
-江西卫视,http://live.sxrtv.com/iptv/jxws.flv
-广西卫视,http://live.sxrtv.com/iptv/gxws.m3u8
-广西卫视,http://live.sxrtv.com/iptv/gxws.flv
-云南卫视,http://live.sxrtv.com/iptv/ynws.m3u8
-云南卫视,http://live.sxrtv.com/iptv/ynws.flv
-贵州卫视,http://live.sxrtv.com/iptv/gzws.m3u8
-贵州卫视,http://live.sxrtv.com/iptv/gzws.flv
-四川卫视,http://live.sxrtv.com/iptv/scws.m3u8
-四川卫视,http://live.sxrtv.com/iptv/scws.flv
-新疆卫视,http://live.sxrtv.com/iptv/xjws.m3u8
-新疆卫视,http://live.sxrtv.com/iptv/xjws.flv
-西藏卫视,http://live.sxrtv.com/iptv/xzws.m3u8
-西藏卫视,http://live.sxrtv.com/iptv/xzws.flv
-海南卫视,http://live.sxrtv.com/iptv/hinws.m3u8
-海南卫视,http://live.sxrtv.com/iptv/hinws.flv
-内蒙古卫视,http://live.sxrtv.com/iptv/nmgws.m3u8
-内蒙古卫视,http://live.sxrtv.com/iptv/nmgws.flv
-宁夏卫视,http://live.sxrtv.com/iptv/nxws.m3u8
-宁夏卫视,http://live.sxrtv.com/iptv/nxws.flv
-甘肃卫视,http://live.sxrtv.com/iptv/gsws.m3u8
-甘肃卫视,http://live.sxrtv.com/iptv/gsws.flv
-陕西卫视,http://live.sxrtv.com/iptv/shxws.m3u8
-陕西卫视,http://live.sxrtv.com/iptv/shxws.flv
-河北卫视,http://live.sxrtv.com/iptv/hbws.m3u8
-河北卫视,http://live.sxrtv.com/iptv/hbws.flv
-山西卫视,http://live.sxrtv.com/iptv/sxws.m3u8
-山西卫视,http://live.sxrtv.com/iptv/sxws.flv
-山东卫视,http://live.sxrtv.com/iptv/sdws.m3u8
-山东卫视,http://live.sxrtv.com/iptv/sdws.flv
-安徽卫视,http://live.sxrtv.com/iptv/ahws.m3u8
-安徽卫视,http://live.sxrtv.com/iptv/ahws.flv
-河南卫视,http://live.sxrtv.com/iptv/hnws.m3u8
-河南卫视,http://live.sxrtv.com/iptv/hnws.flv
-
-
-
-
-
-
-北京卫视,http://82.156.237.221/zbzg.php?id=30024
-东方卫视,http://82.156.237.221/zbzg.php?id=30023
-天津卫视,http://82.156.237.221/zbzg.php?id=30027
-重庆卫视,http://82.156.237.221/zbzg.php?id=30031
-辽宁卫视,http://82.156.237.221/zbzg.php?id=30033
-吉林卫视,http://82.156.237.221/zbzg.php?id=30037
-黑龙江卫视,http://82.156.237.221/zbzg.php?id=30032
-江苏卫视,http://82.156.237.221/zbzg.php?id=30021
-浙江卫视,http://82.156.237.221/zbzg.php?id=30022
-湖南卫视,http://82.156.237.221/zbzg.php?id=30000
-广东卫视,http://82.156.237.221/zbzg.php?id=30025
-河北卫视,http://82.156.237.221/zbzg.php?id=30035
-安徽卫视,http://82.156.237.221/zbzg.php?id=30030
-东南卫视,http://82.156.237.221/zbzg.php?id=30038
-江西卫视,http://82.156.237.221/zbzg.php?id=30036
-山东卫视,http://82.156.237.221/zbzg.php?id=30028
-河南卫视,http://82.156.237.221/zbzg.php?id=30041
-湖北卫视,http://82.156.237.221/zbzg.php?id=30029
-广西卫视,http://82.156.237.221/zbzg.php?id=30040
-海南卫视,http://82.156.237.221/zbzg.php?id=30048
-山西卫视,http://82.156.237.221/zbzg.php?id=30044
-内蒙古卫视,http://82.156.237.221/zbzg.php?id=30045
-四川卫视,http://82.156.237.221/zbzg.php?id=30034
-贵州卫视,http://82.156.237.221/zbzg.php?id=30039
-云南卫视,http://82.156.237.221/zbzg.php?id=30047
-西藏卫视,http://82.156.237.221/zbzg.php?id=30049
-陕西卫视,http://82.156.237.221/zbzg.php?id=30050
-甘肃卫视,http://82.156.237.221/zbzg.php?id=30042
-青海卫视,http://82.156.237.221/zbzg.php?id=30043
-宁夏卫视,http://82.156.237.221/zbzg.php?id=30046
-新疆卫视,http://82.156.237.221/zbzg.php?id=30051
-兵团卫视,http://82.156.237.221/zbzg.php?id=30121
-深圳卫视,http://82.156.237.221/zbzg.php?id=30026
-厦门卫视,http://82.156.237.221/zbzg.php?id=30123
-
-
-
-
 
 
 
@@ -805,18 +690,16 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-
-
 埋堆堆1,http://diyp.zxyxndc.top/huya/23863796
-埋堆堆2,http://diyp.zxyxndc.top/huya/23824164
-
-
-
-
-
-
-
-
+埋堆堆2,http://diyp.zxyxndc.top/huya/29465859
+埋堆堆3,http://diyp.zxyxndc.top/huya/29465851
+埋堆堆4,http://diyp.zxyxndc.top/huya/29465848
+埋堆堆5,http://diyp.zxyxndc.top/huya/29465854
+埋堆堆6,http://diyp.zxyxndc.top/huya/29465860
+埋堆堆7,http://diyp.zxyxndc.top/huya/29465855
+埋堆堆8,http://diyp.zxyxndc.top/huya/23734176
+埋堆堆9,http://diyp.zxyxndc.top/huya/29465858
+埋堆堆10,http://diyp.zxyxndc.top/huya/29465849
 
 
 
@@ -825,25 +708,36 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-哈哈炫动,http://82.156.237.221:35455/bst/hhxdhd@4000000.m3u8
-金鹰纪实,http://82.156.237.221:35455/bst/jyjs8m@8000000.m3u8
-金鹰卡通,http://82.156.237.221:35455/bst/jykt@1300000.m3u8
-嘉佳卡通,http://82.156.237.221:35455/bst/jjkt@1300000.m3u8
-卡酷卡通,http://82.156.237.221:35455/bst/kkkt@1300000.m3u8
-卡酷少儿,http://82.156.237.221:35455/bst/kkkt2d5m@2500000.m3u8
-动漫秀场,http://82.156.237.221:35455/bst/dmxchd@4000000.m3u8
-宝宝动画,http://82.156.237.221:35455/bst/bbdhvcc4m@4000000.m3u8
-青春动漫,http://82.156.237.221:35455/bst/qcdmvcc4m@4000000.m3u8
-游戏风云,http://82.156.237.221:35455/bst/yxfyhd@4000000.m3u8
-电竞天堂,http://82.156.237.221:35455/bst/djttvcc4m@4000000.m3u8
-欢笑剧场,http://82.156.237.221:35455/bst/hxjchd@4000000.m3u8
-热门剧场,http://82.156.237.221:35455/bst/rmjcvcc4m@4000000.m3u8
-都市剧场,http://82.156.237.221:35455/bst/dsjchd@4000000.m3u8
-谍战剧场,http://82.156.237.221:35455/bst/dzjcvcc4m@4000000.m3u8
-华语影院,http://82.156.237.221:35455/bst/hyyyvcc4m@4000000.m3u8
-星光影院,http://82.156.237.221:35455/bst/xgyyvcc4m@4000000.m3u8
-全球大片,http://82.156.237.221:35455/bst/qqdpvcc4m@4000000.m3u8
-热门综艺,http://82.156.237.221:35455/bst/rmzyvcc4m@4000000.m3u8
+黑莓电影,http://223.109.75.19:8000/821596/index.m3u8
+黑莓动画,http://223.109.75.19:8000/781399/index.m3u8
+哒啵赛事,http://223.109.75.19:8000/979965/index.m3u8
+哈哈炫动,http://223.109.75.19:8000/106225/index.m3u8
+优漫卡通,http://223.109.75.19:8000/810692/index.m3u8
+金鹰卡通,http://223.109.75.19:8000/483323/index.m3u8
+卡酷少儿,http://223.109.75.19:8000/813028/index.m3u8
+嘉佳卡通,http://223.109.75.19:8000/915618/index.m3u8
+NewTV潮妈辣婆,http://223.109.75.19:8000/302861/index.m3u8
+NewTV中国功夫,http://223.109.75.19:8000/412186/index.m3u8
+NewTV怡伴健康,http://223.109.75.19:8000/387712/index.m3u8
+NewTV军事评论,http://223.109.75.19:8000/956950/index.m3u8
+NewTV军旅剧场,http://223.109.75.19:8000/124966/index.m3u8
+NewTV农业致富,http://223.109.75.19:8000/294940/index.m3u8
+NewTV动作电影,http://223.109.75.19:8000/792880/index.m3u8
+NewTV古装剧场,http://223.109.75.19:8000/743766/index.m3u8
+NewTV家庭剧场,http://223.109.75.19:8000/941508/index.m3u8
+NewTV惊悚悬疑,http://223.109.75.19:8000/619471/index.m3u8
+NewTV炫舞未来,http://223.109.75.19:8000/230407/index.m3u8
+NewTV爱情喜剧,http://223.109.75.19:8000/161959/index.m3u8
+NewTV精品体育,http://223.109.75.19:8000/975062/index.m3u8
+NewTV精品大剧,http://223.109.75.19:8000/475196/index.m3u8
+NewTV精品纪录,http://223.109.75.19:8000/673675/index.m3u8
+NewTV金牌综艺,http://223.109.75.19:8000/839372/index.m3u8
+NewTV明星大片,http://223.109.75.19:8000/575282/index.m3u8
+
+
+
+
+
 
 搜狐剧场,https://hdlvipws.qf.56.com/live/lc_11730.flv
 家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
@@ -1160,6 +1054,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
