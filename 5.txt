@@ -206,6 +206,44 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
+
+北京卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
+东方卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8
+天津卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD.m3u8
+重庆卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
+吉林卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JILIN-CQ/G_JILIN-CQ.m3u8
+辽宁卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LIAONING-MD/G_LIAONING-MD.m3u8
+黑龙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HEILONGJIANG-MD/G_HEILONGJIANG-MD.m3u8
+江苏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8
+湖南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
+浙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
+深圳卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHENZHEN-MD/G_SHENZHEN-MD.m3u8
+四川卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SICHUAN-CQ/G_SICHUAN-CQ.m3u8
+东南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8
+安徽卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8
+山东卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8
+广东卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GUANGDONG-MD/G_GUANGDONG-MD.m3u8
+广西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8
+山西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/
+江西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8 
+河北卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8
+河南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8
+云南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8
+海南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8
+湖北卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8
+贵州卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GUIZHOU-CQ/G_GUIZHOU-CQ.m3u8
+甘肃卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GANSU/G_GANSU.m3u8
+新疆卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
+内蒙古卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
+宁夏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
+西藏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_XIZANG/G_XIZANG.m3u8
+陕西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHANXI-HQ/index.m3u8
+青海卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
+三沙卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8 
+
+
+
+
 北京卫视,http://223.109.75.19:8000/184577/index.m3u8
 东方卫视,http://223.109.75.19:8000/060184/index.m3u8
 天津卫视,http://223.109.75.19:8000/025564/index.m3u8
@@ -1075,6 +1113,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
