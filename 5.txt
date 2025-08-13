@@ -2,6 +2,29 @@
 
 
 
+CCTV1,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
+CCTV2,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
+CCTV3,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
+CCTV4,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
+CCTV5,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
+CCTV5+,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
+CCTV6,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
+CCTV7,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-7-MD/G_CCTV-7-MD.m3u8
+CCTV8,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
+CCTV9,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-9-MD/G_CCTV-9-MD.m3u8
+CCTV10,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-10-MD/G_CCTV-10-MD.m3u8
+CCTV11,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-11-MD/G_CCTV-11-MD.m3u8
+CCTV12,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-12-MD/G_CCTV-12-MD.m3u8
+CCTV13,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-13-MD/G_CCTV-13-MD.m3u8
+CCTV14,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-14-MD/G_CCTV-14-MD.m3u8
+CCTV15,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-15-MD/G_CCTV-15-MD.m3u8
+CCTV16,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-16-MD/G_CCTV-16-MD.m3u8
+CCTV17,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-17-MD/G_CCTV-17-MD.m3u8
+
+
+
+
+
 CCTV1,http://223.109.75.19:8000/057754/index.m3u8
 CCTV2,http://223.109.75.19:8000/061465/index.m3u8
 CCTV3,http://223.109.75.19:8000/830965/index.m3u8
@@ -140,9 +163,7 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-CHC影迷电影,http://82.156.237.221:35455/migu/952383261.m3u8?migutoken=3756496016f892a038a4fddd849c53d55655edc908339c6d1c859a84d49ff6e62638a06ea4188e894fb2556db3ff1056bfa5d624904ecec115b223bc917093cd7797a45b7788553e3e6f237b05
-CHC动作电影,http://82.156.237.221:35455/migu/644368714.m3u8?migutoken=8367fc2b1fdb5f00868da39aa7713b257916ea83b97e1d92cadc4c9af9c4291908a523266d5135d4e7164a0ec6f89d4ee0b3beb5db5c2795426ff8189fad715242b7c178c9e4e1128042f3f4a1
-CHC家庭影院,http://82.156.237.221:35455/migu/644368373.m3u8?migutoken=bb424d04de92b910b011a5f6b14ebcd0d8ab5ae8bd6e41c10206de5e71bbc9251379569a511e743be927089fbdaa3e7430c16508f5472a785229c6946b75671a9cb877ffae0ec90d05a211412a
+
 
 
 
@@ -1054,6 +1075,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
