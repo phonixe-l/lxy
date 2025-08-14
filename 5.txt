@@ -2,24 +2,9 @@
 
 
 
-CCTV1,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
-CCTV2,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
-CCTV3,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
-CCTV4,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-CCTV5,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
-CCTV5+,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
-CCTV6,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
-CCTV7,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-7-MD/G_CCTV-7-MD.m3u8
-CCTV8,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
-CCTV9,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-9-MD/G_CCTV-9-MD.m3u8
-CCTV10,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-10-MD/G_CCTV-10-MD.m3u8
-CCTV11,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-11-MD/G_CCTV-11-MD.m3u8
-CCTV12,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-12-MD/G_CCTV-12-MD.m3u8
-CCTV13,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-13-MD/G_CCTV-13-MD.m3u8
-CCTV14,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-14-MD/G_CCTV-14-MD.m3u8
-CCTV15,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-15-MD/G_CCTV-15-MD.m3u8
-CCTV16,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-16-MD/G_CCTV-16-MD.m3u8
-CCTV17,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-17-MD/G_CCTV-17-MD.m3u8
+
+
+
 
 
 
@@ -48,25 +33,25 @@ CCTV17,http://223.109.75.19:8000/299438/index.m3u8
 
 
 
-CCTV1,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16025_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16020_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16021_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16024_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
+CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
+CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
+CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
+CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
+CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
+CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
+CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
+CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
+CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
+CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
+CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
+CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
+CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 
@@ -194,6 +179,11 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 凤凰香港,http://223.109.75.19:8000/176698/index.m3u8
 
 
+凤凰卫视,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+
+
 凤凰卫视,,http://kds.shanxixr.com/fh.php?id=fhzw
 凤凰资讯,http://kds.shanxixr.com/fh.php?id=fhzx
 凤凰香港,http://kds.shanxixr.com/fh.php?id=fhhk
@@ -205,41 +195,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
-
-
-北京卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
-东方卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8
-天津卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD.m3u8
-重庆卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
-吉林卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JILIN-CQ/G_JILIN-CQ.m3u8
-辽宁卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LIAONING-MD/G_LIAONING-MD.m3u8
-黑龙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HEILONGJIANG-MD/G_HEILONGJIANG-MD.m3u8
-江苏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8
-湖南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
-浙江卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
-深圳卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHENZHEN-MD/G_SHENZHEN-MD.m3u8
-四川卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SICHUAN-CQ/G_SICHUAN-CQ.m3u8
-东南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8
-安徽卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8
-山东卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8
-广东卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GUANGDONG-MD/G_GUANGDONG-MD.m3u8
-广西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8
-山西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/
-江西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8 
-河北卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8
-河南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8
-云南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8
-海南卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8
-湖北卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8
-贵州卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GUIZHOU-CQ/G_GUIZHOU-CQ.m3u8
-甘肃卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_GANSU/G_GANSU.m3u8
-新疆卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
-内蒙古卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
-宁夏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
-西藏卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_XIZANG/G_XIZANG.m3u8
-陕西卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SHANXI-HQ/index.m3u8
-青海卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
-三沙卫视,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8 
 
 
 
@@ -277,6 +232,44 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 西藏卫视,http://223.109.75.19:8000/425518/index.m3u8
 陕西卫视,http://223.109.75.19:8000/784142/index.m3u8
 青海卫视,http://223.109.75.19:8000/784090/index.m3u8
+
+
+
+
+
+浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
+广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
+江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
+东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
+江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
+湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
+河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
+东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
+海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
+北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
+天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
+重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
+河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
+山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
+安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
+深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
+广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
+贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
+四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
+西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
+新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
+宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
+
+
+
+
+
 
 
 
@@ -380,15 +373,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 吉林频道,#genre#
-
-
-
-
-吉林都市,http://119.51.54.53:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林影视,http://119.51.54.53:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林生活,http://119.51.54.53:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林综艺,http://119.51.54.53:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-长影频道,http://119.51.54.53:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
 
@@ -628,19 +612,18 @@ MOMO综合台,http://api.mytv666.top/api/hk.php?id=65343564616339613063393761663
 
 
 
-凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
-凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
-凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
-TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
-天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
-明珠台,http://bx.757888.xyz/api.php?id=mz
-无线新闻台,http://bx.757888.xyz/api.php?id=wxxw
-美亚电影台,http://bx.757888.xyz/api.php?id=meiya
-翡翠台,http://bx.757888.xyz/api.php?id=fct
-中国电影頻道,http://bx.757888.xyz/api.php?id=zgdy
-中天新闻台,http://bx.757888.xyz/api.php?id=ztxw
-东森电影,http://bx.757888.xyz/api.php?id=dsdy
-龙华电影,http://bx.757888.xyz/api.php?id=lhdy
+中天新闻,http://t.061899.xyz/tl/js/tw.php?id=hdztxw 
+东森新闻,http://t.061899.xyz/tl/js/tw.php?id=hddsxw 
+三立新闻,http://t.061899.xyz/tl/js/tw.php?id=hdslxw 
+非凡新闻,http://t.061899.xyz/tl/js/tw.php?id=hdffxw 
+壹新闻,http://t.061899.xyz/tl/js/tw.php?id=hdyxw 
+民视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdmsxw 
+中视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdzsxw 
+华视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdhsxw 
+香港有线18台,https://t.061899.xyz/tl/js/js.php?id=18xgyxt
+华视,http://t.061899.xyz/tl/js/tw.php?id=hdhs 
+台视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
+TVBS欢乐,http://t.061899.xyz/tl/168.php?id=tvbshltbf
 
 
 
@@ -959,67 +942,8 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 测试,#genre#
 
 
-CCTV1综合,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV2财经,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV4中文国际,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV5体育,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5+体育赛事,http://t.061899.xyz/tl/tl.php?id=cctv5p
-CCTV6电影,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV7国防军事,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV8电视剧,http://t.061899.xyz/tl/tl.php?id=cctv8
-CCTV9纪录,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV10科教,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV11戏曲,http://t.061899.xyz/tl/tl.php?id=cctv11
-CCTV12社会与法,http://t.061899.xyz/tl/tl.php?id=cctv12
-CCTV13新闻,http://t.061899.xyz/tl/tl.php?id=cctv13
-CCTV14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
-CCTV15音乐,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV16奥林匹克,http://t.061899.xyz/tl/tl.php?id=cctv16
-CCTV17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
-浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
-江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
-江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
-湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
-河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
-海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
-天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
-重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
-黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
-吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
-河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
-山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
-安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
-深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
-广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
-贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
-四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
-西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
-宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-中天新闻,http://t.061899.xyz/tl/js/tw.php?id=hdztxw 
-东森新闻,http://t.061899.xyz/tl/js/tw.php?id=hddsxw 
-三立新闻,http://t.061899.xyz/tl/js/tw.php?id=hdslxw 
-非凡新闻,http://t.061899.xyz/tl/js/tw.php?id=hdffxw 
-壹新闻,http://t.061899.xyz/tl/js/tw.php?id=hdyxw 
-民视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdmsxw 
-中视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdzsxw 
-华视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdhsxw 
-香港有线18台,https://t.061899.xyz/tl/js/js.php?id=18xgyxt
-华视,http://t.061899.xyz/tl/js/tw.php?id=hdhs 
-台视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
-TVBS欢乐,http://t.061899.xyz/tl/168.php?id=tvbshltbf
+
+
 
 
 
@@ -1089,6 +1013,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
