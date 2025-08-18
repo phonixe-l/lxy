@@ -5,35 +5,6 @@
 
 
 
-
-
-
-
-
-CCTV1,http://223.109.75.19:8000/057754/index.m3u8
-CCTV2,http://223.109.75.19:8000/061465/index.m3u8
-CCTV3,http://223.109.75.19:8000/830965/index.m3u8
-CCTV4,http://223.109.75.19:8000/143097/index.m3u8
-CCTV5,http://223.109.75.19:8000/930480/index.m3u8
-CCTV5+,http://223.109.75.19:8000/470540/index.m3u8
-CCTV6,http://223.109.75.19:8000/520737/index.m3u8
-CCTV7,http://223.109.75.19:8000/649185/index.m3u8
-CCTV8,http://223.109.75.19:8000/235836/index.m3u8
-CCTV9,http://223.109.75.19:8000/827648/index.m3u8
-CCTV10,http://223.109.75.19:8000/502378/index.m3u8
-CCTV11,http://223.109.75.19:8000/554982/index.m3u8
-CCTV12,http://223.109.75.19:8000/422642/index.m3u8
-CCTV13,http://223.109.75.19:8000/593087/index.m3u8
-CCTV14,http://223.109.75.19:8000/271607/index.m3u8
-CCTV15,http://223.109.75.19:8000/399438/index.m3u8
-CCTV16,http://223.109.75.19:8000/246232/index.m3u8
-CCTV17,http://223.109.75.19:8000/299438/index.m3u8
-
-
-
-
-
-
 CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
@@ -56,6 +27,24 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 
+CCTV1,http://223.109.75.19:8000/057754/index.m3u8
+CCTV2,http://223.109.75.19:8000/061465/index.m3u8
+CCTV3,http://223.109.75.19:8000/830965/index.m3u8
+CCTV4,http://223.109.75.19:8000/143097/index.m3u8
+CCTV5,http://223.109.75.19:8000/930480/index.m3u8
+CCTV5+,http://223.109.75.19:8000/470540/index.m3u8
+CCTV6,http://223.109.75.19:8000/520737/index.m3u8
+CCTV7,http://223.109.75.19:8000/649185/index.m3u8
+CCTV8,http://223.109.75.19:8000/235836/index.m3u8
+CCTV9,http://223.109.75.19:8000/827648/index.m3u8
+CCTV10,http://223.109.75.19:8000/502378/index.m3u8
+CCTV11,http://223.109.75.19:8000/554982/index.m3u8
+CCTV12,http://223.109.75.19:8000/422642/index.m3u8
+CCTV13,http://223.109.75.19:8000/593087/index.m3u8
+CCTV14,http://223.109.75.19:8000/271607/index.m3u8
+CCTV15,http://223.109.75.19:8000/399438/index.m3u8
+CCTV16,http://223.109.75.19:8000/246232/index.m3u8
+CCTV17,http://223.109.75.19:8000/299438/index.m3u8
 
 
 
@@ -174,14 +163,15 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 卫视频道,#genre#
 
 
-凤凰卫视,http://223.109.75.19:8000/659394/index.m3u8
-凤凰资讯,http://223.109.75.19:8000/408107/index.m3u8
-凤凰香港,http://223.109.75.19:8000/176698/index.m3u8
-
 
 凤凰卫视,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+
+
+凤凰卫视,http://223.109.75.19:8000/659394/index.m3u8
+凤凰资讯,http://223.109.75.19:8000/408107/index.m3u8
+凤凰香港,http://223.109.75.19:8000/176698/index.m3u8
 
 
 凤凰卫视,,http://kds.shanxixr.com/fh.php?id=fhzw
@@ -273,35 +263,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-湖南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16026_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16027_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16028_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16029_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16030_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16031_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16032_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16034_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16035_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16036_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16037_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16038_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16039_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16040_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16041_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16042_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16043_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16044_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16045_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16046_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16047_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16048_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
 
 北京卫视,http://82.156.237.221/kb.php?id=bjws
 东方卫视,http://82.156.237.221/kb.php?id=dfws
@@ -331,6 +292,8 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 新疆卫视,http://82.156.237.221/kb.php?id=xjws
 海南卫视,http://82.156.237.221/kb.php?id=hinws
  
+
+
 
 
 
@@ -728,7 +691,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 易中天品三国,http://82.156.237.221:35455/yy/1461244449
 
 周星驰,http://diyp.zxyxndc.top/huya/11342412
-沈腾,http://82.156.237.221/huya.php?id=11601968#http://82.156.237.221:35455/huya/11602086
+沈腾,http://82.156.237.221/huya.php?id=11601968#http://diyp.zxyxndc.top/huya/11602086
 
 
 
@@ -1013,6 +976,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
