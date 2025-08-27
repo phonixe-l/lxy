@@ -254,14 +254,12 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 
 
-凤凰卫视,http://223.109.75.19:8000/659394/index.m3u8
-凤凰资讯,http://223.109.75.19:8000/408107/index.m3u8
-凤凰香港,http://223.109.75.19:8000/176698/index.m3u8
+凤凰卫视,http://43.152.143.193:6718/1.v.smtcdns.net/hkmolive.fengshows.com/live/0701pcc72.m3u8
+凤凰资讯,http://43.152.143.193:6718/1.v.smtcdns.net/hkmolive.fengshows.com/live/0701pin72.m3u8
+凤凰香港,http://43.152.143.193:6718/1.v.smtcdns.net/hkmolive.fengshows.com/live/0701phk72.m3u8
 
 
-凤凰卫视,,http://kds.shanxixr.com/fh.php?id=fhzw
-凤凰资讯,http://kds.shanxixr.com/fh.php?id=fhzx
-凤凰香港,http://kds.shanxixr.com/fh.php?id=fhhk
+
 
 
 
@@ -1193,6 +1191,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
