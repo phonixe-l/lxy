@@ -2,25 +2,20 @@
 
 
 
-CCTV1,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$8M%20FHD
+
 CCTV1,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3$4M%20FHD
 CCTV2,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3$4M%20FHD
-CCTV2,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$8M%20FHD
 CCTV3,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3$4M%20FHD
 CCTV4,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3$4M%20FHD
 CCTV5,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3$4M%20FHD
-CCTV5+,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3$8M%20FHD
 CCTV5+,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3$4M%20FHD
 CCTV6,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3$4M%20FHD
 CCTV7,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3$4M%20FHD
 CCTV8,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3$4M%20FHD
-CCTV9,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3$8M%20FHD
 CCTV9,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3$4M%20FHD
-CCTV10,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3$8M%20FHD
 CCTV10,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3$4M%20FHD
 CCTV11,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3$4M%20FHD
 CCTV12,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3$4M%20FHD
-CCTV12,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3$8M%20FHD
 CCTV13,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3$4M%20FHD
 CCTV14,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3$8M%20FHD
 CCTV14,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=3$4M%20FHD
@@ -175,7 +170,6 @@ CCTV12,http://82.156.237.221/kb.php?id=cctv12
 CCTV13,http://82.156.237.221/kb.php?id=cctv13
 CCTV14,http://82.156.237.221/kb.php?id=cctv14
 CCTV15,http://82.156.237.221/kb.php?id=cctv15
-CCTV16,http://58.245.255.38:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://82.156.237.221/kb.php?id=cctv17
 
 
@@ -236,14 +230,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-重温经典,http://pushrtmphsspef5.douyincdn.com/live/awei_cwjd.flv
-星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-
-
-
-
-
-
 
 卫视频道,#genre#
 
@@ -254,12 +240,10 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 
 
+
 凤凰卫视,http://43.152.143.193:6718/1.v.smtcdns.net/hkmolive.fengshows.com/live/0701pcc72.m3u8
 凤凰资讯,http://43.152.143.193:6718/1.v.smtcdns.net/hkmolive.fengshows.com/live/0701pin72.m3u8
 凤凰香港,http://43.152.143.193:6718/1.v.smtcdns.net/hkmolive.fengshows.com/live/0701phk72.m3u8
-
-
-
 
 
 
@@ -379,17 +363,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 西藏卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 甘肃卫视,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 内蒙古卫视,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1191,6 +1164,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
