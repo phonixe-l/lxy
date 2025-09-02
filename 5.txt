@@ -3,32 +3,6 @@
 
 
 
-CCTV1,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3$4M%20FHD
-CCTV2,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3$4M%20FHD
-CCTV3,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3$4M%20FHD
-CCTV4,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3$4M%20FHD
-CCTV5,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3$4M%20FHD
-CCTV5+,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3$4M%20FHD
-CCTV6,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3$4M%20FHD
-CCTV7,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3$4M%20FHD
-CCTV8,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3$4M%20FHD
-CCTV9,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3$4M%20FHD
-CCTV10,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3$4M%20FHD
-CCTV11,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3$4M%20FHD
-CCTV12,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3$4M%20FHD
-CCTV13,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3$4M%20FHD
-CCTV14,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3$8M%20FHD
-CCTV14,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=3$4M%20FHD
-CCTV15,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3$4M%20FHD
-CCTV16,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3$4M%20FHD
-CCTV16,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$8M%20FHD
-CCTV17,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$4M%20FHD
-
-
-
-
-
-
 
 
 CCTV1,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -679,11 +653,11 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 庆余年,http://diyp.zxyxndc.top/huya/23740156
 庆余年,http://82.156.237.221:35455/douyu/7812810
-大染坊,http://diyp.zxyxndc.top/huya/11602086
-亮剑,http://diyp.zxyxndc.top/huya/30080238
-征服,http://diyp.zxyxndc.top/huya/30311494
+大染坊,http://82.156.237.221/huya.php?id=11602086
+亮剑,http://82.156.237.221/huya.php?id=30080238
+征服,http://82.156.237.221/huya.php?id=30311494
 征服,http://82.156.237.221:35455/douyu/2726977
-父母爱情,http://diyp.zxyxndc.top/huya/11602071#http://fmbox.cc/huya.php?id=11602071
+父母爱情,http://diyp.zxyxndc.top/huya/11602071#http://82.156.237.221/huya.php?id=11602071
 铁齿铜牙纪晓岚,http://diyp.zxyxndc.top/huya/11342396
 武林外传动画版,http://diyp.zxyxndc.top/huya/10980725
 雪中悍刀行,http://diyp.zxyxndc.top/huya/11336592
@@ -727,7 +701,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 三国演义94版,http://82.156.237.221:35455/yy/1354930932
 雪中悍刀行,http://82.156.237.221:35455/yy/1462996362
 案发现场,http://82.156.237.221:35455/yy/22089862
-勇敢的心,http://diyp.zxyxndc.top/huya/11602037#http://82.156.237.221:35455/yy/1354744544
+勇敢的心,http://82.156.237.221/huya.php?id=11602037#http://82.156.237.221:35455/yy/1354744544
 
 新白娘子传奇,http://82.156.237.221:35455/yy/1508902755
 新白娘子传奇,http://82.156.237.221:35455/yy/1354930969
@@ -1166,6 +1140,7 @@ CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478
 
 
    
+
 
 
 
