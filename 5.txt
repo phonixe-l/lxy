@@ -429,9 +429,9 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=18378216850067b43a2f1e9e2ce78746337eea2b2537
-吉林市公共,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
-吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8
+吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#http://xyx2.ikuai6.com:888/hls/30/index.m3u8
+吉林市生活,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8#http://xyx2.ikuai6.com:888/hls/32/index.m3u8
+吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8#http://xyx2.ikuai6.com:888/hls/31/index.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
@@ -881,23 +881,115 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 
 
+吉林,#genre#
+
+
+CCTV1,http://xyx2.ikuai6.com:888/hls/1/index.m3u8
+CCTV2,http://xyx2.ikuai6.com:888/hls/2/index.m3u8
+CCTV3,http://xyx2.ikuai6.com:888/hls/3/index.m3u8
+CCTV4,http://xyx2.ikuai6.com:888/hls/4/index.m3u8
+CCTV5,http://xyx2.ikuai6.com:888/hls/5/index.m3u8
+CCTV5+,http://xyx2.ikuai6.com:888/hls/20/index.m3u8
+CCTV6,http://xyx2.ikuai6.com:888/hls/6/index.m3u8
+CCTV7,http://xyx2.ikuai6.com:888/hls/7/index.m3u8
+CCTV8,http://xyx2.ikuai6.com:888/hls/8/index.m3u8
+CCTV9,http://xyx2.ikuai6.com:888/hls/9/index.m3u8
+CCTV10,http://xyx2.ikuai6.com:888/hls/10/index.m3u8
+CCTV11,http://xyx2.ikuai6.com:888/hls/11/index.m3u8
+CCTV12,http://xyx2.ikuai6.com:888/hls/12/index.m3u8
+CCTV13,http://xyx2.ikuai6.com:888/hls/13/index.m3u8
+CCTV14,http://xyx2.ikuai6.com:888/hls/14/index.m3u8
+CCTV15,http://xyx2.ikuai6.com:888/hls/15/index.m3u8
+CCTV16,http://xyx2.ikuai6.com:888/hls/16/index.m3u8
+CCTV17,http://xyx2.ikuai6.com:888/hls/17/index.m3u8
+
+
+CHC家庭影院,http://xyx2.ikuai6.com:888/hls/108/index.m3u8
+CHC动作电影,http://xyx2.ikuai6.com:888/hls/106/index.m3u8
+CHC高清电影,http://xyx2.ikuai6.com:888/hls/107/index.m3u8
+
+
+风云剧场,http://xyx2.ikuai6.com:888/hls/95/index.m3u8
+风云音乐,http://xyx2.ikuai6.com:888/hls/87/index.m3u8
+风云足球,http://xyx2.ikuai6.com:888/hls/85/index.m3u8
+央视台球,http://xyx2.ikuai6.com:888/hls/86/index.m3u8
+央视高网,http://xyx2.ikuai6.com:888/hls/97/index.m3u8
+兵器科技,http://xyx2.ikuai6.com:888/hls/90/index.m3u8
+世界地理,http://xyx2.ikuai6.com:888/hls/84/index.m3u8
+第一剧场,http://xyx2.ikuai6.com:888/hls/83/index.m3u8
+文化精品,http://xyx2.ikuai6.com:888/hls/89/index.m3u8
+怀旧剧场,http://xyx2.ikuai6.com:888/hls/88/index.m3u8
+女性时尚,http://xyx2.ikuai6.com:888/hls/81/index.m3u8
+发现之旅,http://xyx2.ikuai6.com:888/hls/79/index.m3u8
+老故事,http://xyx2.ikuai6.com:888/hls/80/index.m3u8
+中学生,http://xyx2.ikuai6.com:888/hls/91/index.m3u8
+电视指南,http://xyx2.ikuai6.com:888/hls/96/index.m3u8
+
+
+
+吉林都市,http://xyx2.ikuai6.com:888/hls/22/index.m3u8
+吉林生活,http://xyx2.ikuai6.com:888/hls/23/index.m3u8
+吉林影视,http://xyx2.ikuai6.com:888/hls/24/index.m3u8
+吉林乡村,http://xyx2.ikuai6.com:888/hls/25/index.m3u8
+吉林综艺,http://xyx2.ikuai6.com:888/hls/26/index.m3u8
+长影频道,http://xyx2.ikuai6.com:888/hls/29/index.m3u8
+吉林教育,http://xyx2.ikuai6.com:888/hls/28/index.m3u8
+
+
+吉林市新闻综合,http://xyx2.ikuai6.com:888/hls/30/index.m3u8
+吉林市生活,http://xyx2.ikuai6.com:888/hls/32/index.m3u8
+吉林市科教,http://xyx2.ikuai6.com:888/hls/31/index.m3u8
+
+
+北京卫视,http://xyx2.ikuai6.com:888/hls/34/index.m3u8
+东方卫视,http://xyx2.ikuai6.com:888/hls/35/index.m3u8
+天津卫视,http://xyx2.ikuai6.com:888/hls/40/index.m3u8
+重庆卫视,http://xyx2.ikuai6.com:888/hls/50/index.m3u8
+吉林卫视,http://xyx2.ikuai6.com:888/hls/21/index.m3u8
+辽宁卫视,http://xyx2.ikuai6.com:888/hls/39/index.m3u8
+黑龙江卫视,http://xyx2.ikuai6.com:888/hls/46/index.m3u8
+浙江卫视,http://xyx2.ikuai6.com:888/hls/37/index.m3u8
+江苏卫视,http://xyx2.ikuai6.com:888/hls/36/index.m3u8
+湖南卫视,http://xyx2.ikuai6.com:888/hls/38/index.m3u8
+江西卫视,http://xyx2.ikuai6.com:888/hls/58/index.m3u8
+湖北卫视,http://xyx2.ikuai6.com:888/hls/49/index.m3u8
+山西卫视,http://xyx2.ikuai6.com:888/hls/56/index.m3u8
+河南卫视,http://xyx2.ikuai6.com:888/hls/55/index.m3u8
+东南卫视,http://xyx2.ikuai6.com:888/hls/48/index.m3u8
+海南卫视,http://xyx2.ikuai6.com:888/hls/52/index.m3u8
+广东卫视,http://xyx2.ikuai6.com:888/hls/43/index.m3u8
+河北卫视,http://xyx2.ikuai6.com:888/hls/47/index.m3u8
+山东卫视,http://xyx2.ikuai6.com:888/hls/44/index.m3u8
+安徽卫视,http://xyx2.ikuai6.com:888/hls/42/index.m3u8
+深圳卫视,http://xyx2.ikuai6.com:888/hls/41/index.m3u8
+陕西卫视,http://xyx2.ikuai6.com:888/hls/53/index.m3u8
+广西卫视,http://xyx2.ikuai6.com:888/hls/59/index.m3u8
+云南卫视,http://xyx2.ikuai6.com:888/hls/51/index.m3u8
+贵州卫视,http://xyx2.ikuai6.com:888/hls/45/index.m3u8
+四川卫视,http://xyx2.ikuai6.com:888/hls/61/index.m3u8
+三沙卫视,http://xyx2.ikuai6.com:888/hls/66/index.m3u8
+甘肃卫视,http://xyx2.ikuai6.com:888/hls/63/index.m3u8
+西藏卫视,http://xyx2.ikuai6.com:888/hls/60/index.m3u8
+新疆卫视,http://xyx2.ikuai6.com:888/hls/64/index.m3u8
+宁夏卫视,http://xyx2.ikuai6.com:888/hls/65/index.m3u8
+青海卫视,http://xyx2.ikuai6.com:888/hls/54/index.m3u8
+内蒙古卫视,http://xyx2.ikuai6.com:888/hls/57/index.m3u8
+兵团卫视,http://xyx2.ikuai6.com:888/hls/62/index.m3u8
+
+
+卡酷少儿,http://xyx2.ikuai6.com:888/hls/67/index.m3u8
+金鹰卡通,http://xyx2.ikuai6.com:888/hls/68/index.m3u8
+哈哈炫动,http://xyx2.ikuai6.com:888/hls/70/index.m3u8
+嘉佳卡通,http://xyx2.ikuai6.com:888/hls/69/index.m3u8
+动漫秀场,http://xyx2.ikuai6.com:888/hls/114/index.m3u8
+睛彩篮球,http://xyx2.ikuai6.com:888/hls/75/index.m3u8
+睛彩青少,http://xyx2.ikuai6.com:888/hls/76/index.m3u8
+睛彩广场舞,http://xyx2.ikuai6.com:888/hls/77/index.m3u8
 
 
 
 
 测试,#genre#
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1049,28 +1141,9 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 
 
 
-CCTV1,http://82.156.237.221/mg1.php?id=c74966f7109bc090b8b9f234bec5884f
-CCTV2,http://82.156.237.221/mg1.php?id=1434bac241017d9eb89485bc80491bf6
-CCTV3,http://82.156.237.221/mg1.php?id=5099c074952bff8ba34c81acbaa33ea7
-CCTV4,http://82.156.237.221/mg1.php?id=db976f7874fa07b13dff464bd707b0f2
-CCTV5,http://82.156.237.221/mg1.php?id=76d49a7fe74ad80d13a65e566fbaff03
-CCTV5+,http://82.156.237.221/mg1.php?id=49ffa6abb7be07ff004933081062887a
-CCTV6,http://82.156.237.221/mg1.php?id=9c33ef39a294f72a3913b1fddc93f9f7
-CCTV7,http://82.156.237.221/mg1.php?id=998130516f61f987a32f5b05e9058ee9
-CCTV8,http://82.156.237.221/mg1.php?id=58b791dae3e0541536bd15d22419bf65
-CCTV9,http://82.156.237.221/mg1.php?id=a48b656035c62d77e272ea987b5690f6
-CCTV10,http://82.156.237.221/mg1.php?id=50c2aba67e0291cd497bf36f377fbbff
-CCTV11,http://82.156.237.221/mg1.php?id=69f3e78a39ec1f0d65f2ddb8d98a12a6
-CCTV12,http://82.156.237.221/mg1.php?id=6a822ccee011fee0d96a46bed23bf8d6
-CCTV13,http://82.156.237.221/mg1.php?id=7619bb0ac390807471fc508a34eeea40
-CCTV14,http://82.156.237.221/mg1.php?id=6c55832ac08e5223cbf79aac6dec5d98
-CCTV15,http://82.156.237.221/mg1.php?id=452cc8ca57be9f52bfd55f60de90d02c
-CCTV17,http://82.156.237.221/mg1.php?id=4a755c47b7a7321bd9edcefce8923e16
-CHC家庭影院,http://82.156.237.221/mg1.php?id=e6895ae6ea914ba368da69e487408ecd
-CHC动作电影,http://82.156.237.221/mg1.php?id=3247643c60213697372e32d226c8478a
-
 
    
+
 
 
 
