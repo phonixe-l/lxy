@@ -612,13 +612,13 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-庆余年,http://diyp.zxyxndc.top/huya/23740156
+庆余年,http://82.156.237.221/huya.php?id=23740156
 庆余年,http://82.156.237.221:35455/douyu/7812810
 大染坊,http://82.156.237.221/huya.php?id=11602086
 亮剑,http://82.156.237.221/huya.php?id=30080238
 征服,http://82.156.237.221/huya.php?id=30311494
 征服,http://82.156.237.221:35455/douyu/2726977
-父母爱情,http://diyp.zxyxndc.top/huya/11602071#http://82.156.237.221/huya.php?id=11602071
+父母爱情,http://82.156.237.221/huya.php?id=11602071
 铁齿铜牙纪晓岚,http://diyp.zxyxndc.top/huya/11342396
 武林外传动画版,http://diyp.zxyxndc.top/huya/10980725
 雪中悍刀行,http://diyp.zxyxndc.top/huya/11336592
@@ -1235,6 +1235,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 
 
    
+
 
 
 
