@@ -611,18 +611,6 @@ JET综合,http://iptv.4666888.xyz/iptv.php?id=30329
 
 
 
-中天新闻,http://t.061899.xyz/tl/js/tw.php?id=hdztxw 
-东森新闻,http://t.061899.xyz/tl/js/tw.php?id=hddsxw 
-三立新闻,http://t.061899.xyz/tl/js/tw.php?id=hdslxw 
-非凡新闻,http://t.061899.xyz/tl/js/tw.php?id=hdffxw 
-壹新闻,http://t.061899.xyz/tl/js/tw.php?id=hdyxw 
-民视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdmsxw 
-中视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdzsxw 
-华视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdhsxw 
-香港有线18台,https://t.061899.xyz/tl/js/js.php?id=18xgyxt
-华视,http://t.061899.xyz/tl/js/tw.php?id=hdhs 
-台视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
-TVBS欢乐,http://t.061899.xyz/tl/168.php?id=tvbshltbf
 
 
 
@@ -635,6 +623,8 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
+
 
 
 
@@ -1268,6 +1258,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 
 
    
+
 
 
 
