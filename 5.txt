@@ -976,27 +976,6 @@ CHC高清电影,http://xyx2.ikuai6.com:888/hls/107/index.m3u8
 测试,#genre#
 
 
-CCTV-01,http://go.bkpcp.top/mg/cctv1
-CCTV-02,http://go.bkpcp.top/mg/cctv2
-CCTV-03,http://go.bkpcp.top/mg/cctv3
-CCTV-04,http://go.bkpcp.top/mg/cctv4
-CCTV-05,http://go.bkpcp.top/mg/cctv5
-CCTV-5+,http://go.bkpcp.top/mg/cctv5p
-CCTV-06,http://go.bkpcp.top/mg/cctv6
-CCTV-07,http://go.bkpcp.top/mg/cctv7
-CCTV-08,http://go.bkpcp.top/mg/cctv8
-CCTV-09,http://go.bkpcp.top/mg/cctv9
-CCTV-10,http://go.bkpcp.top/mg/cctv10
-CCTV-11,http://go.bkpcp.top/mg/cctv11
-CCTV-12,http://go.bkpcp.top/mg/cctv12
-CCTV-13,http://go.bkpcp.top/mg/cctv13
-CCTV-14,http://go.bkpcp.top/mg/cctv14
-CCTV-15,http://go.bkpcp.top/mg/cctv15
-CCTV-16,http://go.bkpcp.top/mg/cctv16
-CCTV-17,http://go.bkpcp.top/mg/cctv17
-
-
-
 
 
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8?
@@ -1228,6 +1207,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
