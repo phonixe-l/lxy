@@ -976,7 +976,7 @@ CHC高清电影,http://xyx2.ikuai6.com:888/hls/107/index.m3u8
 测试,#genre#
 
 
-1,http://82.156.237.221/hy.php?id=23740156
+
 
 
 
@@ -1210,6 +1210,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
