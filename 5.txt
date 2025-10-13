@@ -1,6 +1,35 @@
 央视频道,#genre#
 
 
+CCTV1,http://82.156.237.221/migu.php?id=608807420
+CCTV2,http://82.156.237.221/migu.php?id=631780532
+CCTV3,http://82.156.237.221/migu.php?id=624878271
+CCTV4,http://82.156.237.221/migu.php?id=631780421
+CCTV5,http://82.156.237.221/migu.php?id=641886683
+CCTV5+,http://82.156.237.221/migu.php?id=641886773
+CCTV6,http://82.156.237.221/migu.php?id=624878396
+CCTV7,http://82.156.237.221/migu.php?id=673168121
+CCTV8,http://82.156.237.221/migu.php?id=624878356
+CCTV9,http://82.156.237.221/migu.php?id=673168140
+CCTV10,http://82.156.237.221/migu.php?id=624878405
+CCTV11,http://82.156.237.221/migu.php?id=667987558
+CCTV12,http://82.156.237.221/migu.php?id=673168185
+CCTV13,http://82.156.237.221/migu.php?id=608807423
+CCTV14,http://82.156.237.221/migu.php?id=624878440
+CCTV15,http://82.156.237.221/migu.php?id=673168223
+CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253
+CCTV17,http://82.156.237.221/migu.php?id=673168256
+
+
+
+
+
+
+
+
+
+
+
 
 CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
@@ -1432,6 +1461,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
