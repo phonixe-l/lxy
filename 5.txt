@@ -17,7 +17,7 @@ CCTV12,http://82.156.237.221/migu.php?id=673168185
 CCTV13,http://82.156.237.221/migu.php?id=608807423
 CCTV14,http://82.156.237.221/migu.php?id=624878440
 CCTV15,http://82.156.237.221/migu.php?id=673168223
-CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253
+CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
 CCTV17,http://82.156.237.221/migu.php?id=673168256
 
 
@@ -1461,6 +1461,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
