@@ -4,14 +4,14 @@
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"小小资源","name":"小小资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱酷资源","name":"爱酷资源","type":1,"api":"https://ikunzy.net/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"虎牙采集","name":"虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1},
-{"key":"蜂巢资源","name":"蜂巢资源","type":1,"api":"https://api.fczy888.me/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"虎牙采集","name":"虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"茅台资源","name":"茅台资源","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/","searchable":1,"changeable":1},
 {"key":"火狐采集","name":"火狐采集","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"木耳影视","name":"木耳影视","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
+{"key":"金蝉影视","name":"金蝉影视","type":1,"api":"http://zy.jinchancaiji.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"旺旺资源","name":"旺旺资源","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"魔都影视","name":"魔都影视","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-{"key":"华为影视","name":"华为影视","type":1,"api":"https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1},
+{"key":"山海影视","name":"山海影视","type":1,"api":" https://zy.sh0o.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"豪华影视","name":"豪华影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -97,3 +97,4 @@
     ]}
     ],
     "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+
