@@ -150,9 +150,9 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 卫视频道,#genre#
 
 
-凤凰卫视,http://120.226.23.11:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://120.226.23.11:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
-凤凰香港,http://120.226.23.11:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
+凤凰卫视,http://1.180.207.70:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://1.180.207.70:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
+凤凰香港,http://1.180.207.70:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
 
 
 
@@ -1246,6 +1246,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
