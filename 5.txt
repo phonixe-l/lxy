@@ -77,21 +77,7 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 
-CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953
-CCTV2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101
-CCTV3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/1.m3u8?channel-id=bestzb&Contentid=5000000002000020548
-CCTV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102
-CCTV5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885
-CCTV6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886
-CCTV7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104
-CCTV8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888
-CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827
-CCTV11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226101/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011
-CCTV12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226103/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012
-CCTV13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108
-CCTV14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673
-CCTV15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109
-CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253
+
 
 
 
@@ -1260,6 +1246,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
