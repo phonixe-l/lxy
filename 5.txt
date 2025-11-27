@@ -2,6 +2,27 @@
 
 
 
+CCTV1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8
+CCTV2,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8
+CCTV3,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
+CCTV4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8
+CCTV5+,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+CCTV6,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
+CCTV7,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8
+CCTV8,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
+CCTV9,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8
+CCTV10,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
+CCTV11,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
+CCTV12,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CCTV13,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226568/1.m3u8
+CCTV14,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+CCTV15,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV16,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
+CCTV17,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
+
+
+
+
 
 CCTV1,http://82.156.237.221/migu.php?id=608807420
 CCTV2,http://82.156.237.221/migu.php?id=631780532
@@ -1193,6 +1214,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
