@@ -122,8 +122,9 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 卫视频道,#genre#
 
 
-凤凰卫视,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
+
+凤凰卫视,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
 
 
@@ -324,7 +325,59 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 港澳台,#genre#
 
-
+中天新聞台,http://sailei.dpdns.org/channel/2a347829/index.m3u8?q=1765860013604
+中視新聞,http://sailei.dpdns.org/channel/n4840462c/index.m3u8?q=1765860013604
+民視第一台,http://sailei.dpdns.org/channel/n1a471266/index.m3u8?q=1765860013604
+民視台灣台,http://sailei.dpdns.org/channel/n1ad630a5/index.m3u8?q=1765860013604
+民視,http://sailei.dpdns.org/channel/n27566be/index.m3u8?q=1765860013604
+大愛電視,http://sailei.dpdns.org/channel/n43d4dfd4/index.m3u8?q=1765860013604
+中視,http://sailei.dpdns.org/channel/n279055a/index.m3u8?q=1765860013604
+中視經典台,http://sailei.dpdns.org/channel/408bd1e5/index.m3u8?q=1765860013604
+華視,http://sailei.dpdns.org/channel/n27282dc/index.m3u8?q=1765860013604
+三立綜合台,http://sailei.dpdns.org/channel/37d77ba5/index.m3u8?q=1765860013604
+客家電視台,http://sailei.dpdns.org/channel/n16463e3c/index.m3u8?q=1765860013604
+八大綜藝台,http://sailei.dpdns.org/channel/583e3af6/index.m3u8?q=1765860013604
+中視菁采台,http://sailei.dpdns.org/channel/40aace24/index.m3u8?q=1765860013604
+TVBS精采台,http://sailei.dpdns.org/channel/n9663e69/index.m3u8?q=1765860013604
+愛爾達娛樂台,http://sailei.dpdns.org/channel/n21ffd92b/index.m3u8?q=1765860013604
+靖天綜合台,http://sailei.dpdns.org/channel/317e7354/index.m3u8?q=1765860013604
+靖天日本台,http://sailei.dpdns.org/channel/3127beb9/index.m3u8?q=1765860013604
+尼克兒童頻道,http://sailei.dpdns.org/channel/n5e5ed549/index.m3u8?q=1765860013604
+夢工廠動畫,http://sailei.dpdns.org/channel/nf050af1/index.m3u8?q=1765860013604
+靖天卡通台,http://sailei.dpdns.org/channel/30e73207/index.m3u8?q=1765860013604
+靖洋卡通,http://sailei.dpdns.org/channel/n1e8261a9/index.m3u8?q=1765860013604
+東森購物一台,http://sailei.dpdns.org/channel/296c7fd7/index.m3u8?q=1765860013604
+鏡電視新聞台,http://sailei.dpdns.org/channel/n7afe2afd/index.m3u8?q=1765860013604
+東森新聞台,http://sailei.dpdns.org/channel/n6a969278/index.m3u8?q=1765860013604
+華視新聞,http://sailei.dpdns.org/channel/n2fd06b2e/index.m3u8?q=1765860013604
+民視新聞台,http://sailei.dpdns.org/channel/n1a919f80/index.m3u8?q=1765860013604
+三立新聞iNEWS,http://sailei.dpdns.org/channel/n21c6f191/index.m3u8?q=1765860013604
+TVBS新聞,http://sailei.dpdns.org/channel/313be55e/index.m3u8?q=1765860013604
+東森財經新聞台,http://sailei.dpdns.org/channel/492edb6/index.m3u8?q=1765860013604
+寰宇新聞台,http://sailei.dpdns.org/channel/n12ca9ab2/index.m3u8?q=1765860013604
+寰宇新聞台灣台,http://sailei.dpdns.org/channel/757f39bb/index.m3u8?q=1765860013604
+TVBS,http://sailei.dpdns.org/channel/n6db37f50/index.m3u8?q=1765860013604
+民視綜藝台,http://sailei.dpdns.org/channel/n1a372833/index.m3u8?q=1765860013604
+靖天育樂台,http://sailei.dpdns.org/channel/318cb230/index.m3u8?q=1765860013604
+電影原聲台CMusic,http://sailei.dpdns.org/channel/n6c82a094/index.m3u8?q=1765860013604
+智林體育台,http://sailei.dpdns.org/channel/n7803a4e8/index.m3u8?q=1765860013604
+時尚運動X,http://sailei.dpdns.org/channel/7f80e1d9/index.m3u8?q=1765860013604
+亞洲旅遊台,http://sailei.dpdns.org/channel/398a97da/index.m3u8?q=1765860013604
+幸福空間居家台,http://sailei.dpdns.org/channel/n35fc1a2e/index.m3u8?q=1765860013604
+公視戲劇,http://sailei.dpdns.org/channel/n46c71fe4/index.m3u8?q=1765860013604
+民視影劇台,http://sailei.dpdns.org/channel/n1aae9f08/index.m3u8?q=1765860013604
+八大精彩台,http://sailei.dpdns.org/channel/5836518c/index.m3u8?q=1765860013604
+霹靂布袋戲,http://sailei.dpdns.org/channel/4baff5c4/index.m3u8?q=1765860013604
+靖天戲劇台,http://sailei.dpdns.org/channel/31175bcb/index.m3u8?q=1765860013604
+靖洋戲劇台,http://sailei.dpdns.org/channel/3a2124a9/index.m3u8?q=1765860013604
+罪案偵查頻道,http://sailei.dpdns.org/channel/32af2563/index.m3u8?q=1765860013604
+視納華仁紀實頻道,http://sailei.dpdns.org/channel/7d9aed64/index.m3u8?q=1765860013604
+影迷數位紀實台,http://sailei.dpdns.org/channel/32888672/index.m3u8?q=1765860013604
+采昌影劇台,http://sailei.dpdns.org/channel/n176bfc88/index.m3u8?q=1765860013604
+靖天映畫,http://sailei.dpdns.org/channel/n27b45285/index.m3u8?q=1765860013604
+靖天電影台,http://sailei.dpdns.org/channel/31df12aa/index.m3u8?q=1765860013604
+影迷數位電影台,http://sailei.dpdns.org/channel/32ea7b82/index.m3u8?q=1765860013604
+amc電影台,http://sailei.dpdns.org/channel/4af2a0e0/index.m3u8?q=1765860013604
 
 
 
@@ -832,6 +885,9 @@ CCTV14,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/322
 CCTV15,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV16,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
 CCTV17,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
+凤凰卫视,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
+凤凰香港,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
 北京卫视,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 东方卫视,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8
 天津卫视,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
@@ -1052,6 +1108,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
