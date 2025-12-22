@@ -112,14 +112,29 @@ CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
 CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
+CHC家庭影院,https://migu.188766.xyz/?migutoken=0e43c14ae1f7ad781f044f5795f397aa&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=8123deaff79662cf838f7b086862473f&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC高清电影,https://migu.188766.xyz/?migutoken=81471833597eec10cdf6fade17a9896d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+
+
+
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
+
 
 
 
 
 
 卫视频道,#genre#
+
+
+
+
+凤凰卫视,https://mgev.188766.xyz/?migutoken=bd5e4f60b580387211779a6833dc0582&id=fhzw&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=36adb6e39dcaf2ca33a8b1046fa6894b&id=fhzx&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=dde1780a10eade873d816400e8a2020c&id=fhhk&pp=1
+
 
 
 
@@ -1108,6 +1123,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
