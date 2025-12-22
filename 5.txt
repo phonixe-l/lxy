@@ -340,6 +340,47 @@ CHC高清电影,https://migu.188766.xyz/?migutoken=81471833597eec10cdf6fade17a98
 
 港澳台,#genre#
 
+
+
+
+
+中天新闻台,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+东森新闻台,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+东森财经新闻台,http://t.061899.xyz/tl/js/js.php?id=dscjxwt
+中视新闻台,http://t.061899.xyz/tl/js/js.php?id=zsxwt
+台视新闻台,http://t.061899.xyz/tl/js/js.php?id=tsxwt
+三立新闻台,http://t.061899.xyz/tl/js/js.php?id=slxwt
+民视新闻台,http://t.061899.xyz/tl/js/js.php?id=msxwt
+华视新闻台,http://t.061899.xyz/tl/js/js.php?id=hsxwt
+镜新闻,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+寰宇新闻台,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt
+中视HD,http://t.061899.xyz/tl/js/js.php?id=hdzs
+台视HD,http://t.061899.xyz/tl/js/js.php?id=hdts
+民视HD,http://t.061899.xyz/tl/js/js.php?id=hdms
+华视HD,http://t.061899.xyz/tl/js/js.php?id=hdhs
+三立台湾台,http://t.061899.xyz/tl/js/js.php?id=sltwt
+緯來體育台,http://t.061899.xyz/tl/js/js.php?id=wltyt
+纬来日本台,http://t.061899.xyz/tl/js/js.php?id=wlrbt
+纬来育乐台,http://t.061899.xyz/tl/js/js.php?id=wlylt
+DAZN 1,http://t.061899.xyz/tl/js/js.php?id=1dazn
+DAZN 2,http://t.061899.xyz/tl/js/js.php?id=2dazn
+爱尔达体育1台,http://t.061899.xyz/tl/js/js.php?id=1aedtyt
+爱尔达体育2台,http://t.061899.xyz/tl/js/js.php?id=2aedtyt
+爱尔达体育3台,http://t.061899.xyz/tl/js/js.php?id=3aedtyt
+爱尔达体育4台,http://t.061899.xyz/tl/js/js.php?id=4aedtyt
+大爱一台,http://t.061899.xyz/tl/js/js.php?id=dayt
+大爱二台,http://t.061899.xyz/tl/js/js.php?id=daet
+HBO HD,http://t.061899.xyz/tl/js/js.php?id=hbohd
+好莱坞电影,http://t.061899.xyz/tl/js/js.php?id=hlwdy
+
+
+
+
+
+
+
+
 中天新聞台,http://sailei.dpdns.org/channel/2a347829/index.m3u8?q=1765860013604
 中視新聞,http://sailei.dpdns.org/channel/n4840462c/index.m3u8?q=1765860013604
 民視第一台,http://sailei.dpdns.org/channel/n1a471266/index.m3u8?q=1765860013604
@@ -1123,6 +1164,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
