@@ -802,7 +802,7 @@ CETV-2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv
 
 
 
-CCTV1,http://110.42.63.57:158/live/miguHD.php?id=CCTV1
+CCTV1,p3p://108.181.20.159:20645/62c200310006b7b2a8c4dade0fd02231
 CCTV2,http://110.42.63.57:158/live/miguHD.php?id=CCTV2
 CCTV3,http://110.42.63.57:158/live/miguHD.php?id=CCTV3
 CCTV4,http://110.42.63.57:158/live/miguHD.php?id=CCTV4
@@ -1164,6 +1164,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
