@@ -2,29 +2,23 @@
 
 
 
-
-
-
-CCTV1,http://82.156.237.221/migu.php?id=608807420
-CCTV2,http://82.156.237.221/migu.php?id=631780532
-CCTV3,http://82.156.237.221/migu.php?id=624878271
-CCTV4,http://82.156.237.221/migu.php?id=631780421
-CCTV5,http://82.156.237.221/migu.php?id=641886683
-CCTV5+,http://82.156.237.221/migu.php?id=641886773
-CCTV6,http://82.156.237.221/migu.php?id=624878396
-CCTV7,http://82.156.237.221/migu.php?id=673168121
-CCTV8,http://82.156.237.221/migu.php?id=624878356
-CCTV9,http://82.156.237.221/migu.php?id=673168140
-CCTV10,http://82.156.237.221/migu.php?id=624878405
-CCTV11,http://82.156.237.221/migu.php?id=667987558
-CCTV12,http://82.156.237.221/migu.php?id=673168185
-CCTV13,http://82.156.237.221/migu.php?id=608807423
-CCTV14,http://82.156.237.221/migu.php?id=624878440
-CCTV15,http://82.156.237.221/migu.php?id=673168223
-CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
-CCTV17,http://82.156.237.221/migu.php?id=673168256
-
-
+CCTV1,http://58.17.89.7:8081/hls/1/index.m3u8
+CCTV2,http://58.17.89.7:8081/hls/2/index.m3u8
+CCTV3,http://58.17.89.7:8081/hls/3/index.m3u8
+CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8
+CCTV5,http://58.17.89.7:8081/hls/5/index.m3u8
+CCTV6,http://58.17.89.7:8081/hls/6/index.m3u8
+CCTV7,http://58.17.89.7:8081/hls/7/index.m3u8
+CCTV8,http://58.17.89.7:8081/hls/8/index.m3u8
+CCTV9,http://58.17.89.7:8081/hls/9/index.m3u8
+CCTV10,http://58.17.89.7:8081/hls/10/index.m3u8
+CCTV11,http://58.17.89.7:8081/hls/11/index.m3u8
+CCTV12,http://58.17.89.7:8081/hls/12/index.m3u8
+CCTV13,http://58.17.89.7:8081/hls/13/index.m3u8
+CCTV14,http://58.17.89.7:8081/hls/14/index.m3u8
+CCTV15,http://58.17.89.7:8081/hls/15/index.m3u8
+CCTV16,http://58.17.89.7:8081/hls/16/index.m3u8
+CCTV17,http://58.17.89.7:8081/hls/17/index.m3u8
 
 
 
@@ -48,15 +42,6 @@ CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
 CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
-
-
-
-
-
-
-
-
-
 
 
 
@@ -801,6 +786,28 @@ CETV-2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv
 
 
 
+CCTV1,http://82.156.237.221/migu.php?id=608807420
+CCTV2,http://82.156.237.221/migu.php?id=631780532
+CCTV3,http://82.156.237.221/migu.php?id=624878271
+CCTV4,http://82.156.237.221/migu.php?id=631780421
+CCTV5,http://82.156.237.221/migu.php?id=641886683
+CCTV5+,http://82.156.237.221/migu.php?id=641886773
+CCTV6,http://82.156.237.221/migu.php?id=624878396
+CCTV7,http://82.156.237.221/migu.php?id=673168121
+CCTV8,http://82.156.237.221/migu.php?id=624878356
+CCTV9,http://82.156.237.221/migu.php?id=673168140
+CCTV10,http://82.156.237.221/migu.php?id=624878405
+CCTV11,http://82.156.237.221/migu.php?id=667987558
+CCTV12,http://82.156.237.221/migu.php?id=673168185
+CCTV13,http://82.156.237.221/migu.php?id=608807423
+CCTV14,http://82.156.237.221/migu.php?id=624878440
+CCTV15,http://82.156.237.221/migu.php?id=673168223
+CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
+CCTV17,http://82.156.237.221/migu.php?id=673168256
+
+
+
+
 
 CCTV1,p3p://108.181.20.159:20645/62c200310006b7b2a8c4dade0fd02231
 CCTV2,http://110.42.63.57:158/live/miguHD.php?id=CCTV2
@@ -1164,6 +1171,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
