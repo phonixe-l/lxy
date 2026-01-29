@@ -965,9 +965,9 @@ CGTn[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.031:5540
 家有购物[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.110:5540
 老故事[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.113:5540
 延边卫视[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.116:5540
-**公共[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540
-**科教[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540
-**新闻综合[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
+吉林市公共[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540
+吉林市科教[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540
+吉林市新闻综合[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
 四平1[1024*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.130:5540
 TTV1[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.132:5540
 四平2[1024*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.131:5540
@@ -1397,6 +1397,7 @@ CHC动作电影,http://82.156.237.221/migu.php?id=chcdz
 广东卫视,http://82.156.237.221/migu.php?id=gdws
 大湾区卫视,http://82.156.237.221/migu.php?id=dwqws
 海南卫视,http://82.156.237.221/migu.php?id=hinws
+
 
 
 
