@@ -46,33 +46,6 @@ CCTV15,http://58.17.89.7:8081/hls/15/index.m3u8
 
 
 
-
-
-
-CCTV1,http://82.156.237.221/mg.php?id=cctv1
-CCTV2,http://82.156.237.221/mg.php?id=cctv2
-CCTV3,http://82.156.237.221/mg.php?id=cctv3
-CCTV4,http://82.156.237.221/mg.php?id=cctv4
-CCTV5,http://82.156.237.221/mg.php?id=cctv5
-CCTV5+,http://82.156.237.221/mg.php?id=cctv5p
-CCTV6,http://82.156.237.221/mg.php?id=cctv6
-CCTV7,http://82.156.237.221/mg.php?id=cctv7
-CCTV8,http://82.156.237.221/mg.php?id=cctv8
-CCTV9,http://82.156.237.221/mg.php?id=cctv9
-CCTV10,http://82.156.237.221/mg.php?id=cctv10
-CCTV11,http://82.156.237.221/mg.php?id=cctv11
-CCTV12,http://82.156.237.221/mg.php?id=cctv12
-CCTV13,http://82.156.237.221/mg.php?id=cctv13
-CCTV14,http://82.156.237.221/mg.php?id=cctv14
-CCTV15,http://82.156.237.221/mg.php?id=cctv15
-CCTV17,http://82.156.237.221/mg.php?id=cctv17
-
-
-
-
-
-
-
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -98,13 +71,6 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-CHC家庭影院,https://migu.188766.xyz/?migutoken=142ef015c0693836fee8caf468af5dd6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC动作电影,https://migu.188766.xyz/?migutoken=a3083796d8ccfe02d52a287cb22681af&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC高清电影,https://migu.188766.xyz/?migutoken=3d4d2022502ef160217f3f13592a635c&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
-
-
-
-
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 
 
@@ -119,15 +85,6 @@ CHC高清电影,https://migu.188766.xyz/?migutoken=3d4d2022502ef160217f3f13592a6
 
 凤凰卫视,http://58.17.89.7:8081/hls/47/index.m3u8
 凤凰资讯,http://58.17.89.7:8081/hls/46/index.m3u8
-凤凰香港,https://mgev.188766.xyz/?migutoken=150292ff28161f0f8510dfc4f8c7309f&id=fhhk&pp=1
-
-
-
-
-凤凰卫视,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
-
 
 
 
@@ -196,87 +153,12 @@ CHC高清电影,https://migu.188766.xyz/?migutoken=3d4d2022502ef160217f3f13592a6
 
 
 
-北京卫视,http://82.156.237.221/kb.php?id=bjws
-东方卫视,http://82.156.237.221/kb.php?id=dfws
-天津卫视,http://82.156.237.221/kb.php?id=tjws
-重庆卫视,http://82.156.237.221/kb.php?id=cqws
-吉林卫视,http://82.156.237.221/kb.php?id=jlws
-辽宁卫视,http://82.156.237.221/kb.php?id=lnws
-黑龙江卫视,http://82.156.237.221/kb.php?id=hljws
-浙江卫视,http://82.156.237.221/kb.php?id=zjws
-江苏卫视,http://82.156.237.221/kb.php?id=jsws
-湖南卫视,http://82.156.237.221/kb.php?id=hunws
-安徽卫视,http://82.156.237.221/kb.php?id=ahws
-东南卫视,http://82.156.237.221/kb.php?id=dnws
-山东卫视,http://82.156.237.221/kb.php?id=sdws
-河南卫视,http://82.156.237.221/kb.php?id=hnws
-河北卫视,http://82.156.237.221/kb.php?id=hbws
-湖北卫视,http://82.156.237.221/kb.php?id=hubws
-广东卫视,http://82.156.237.221/kb.php?id=gdws
-广西卫视,http://82.156.237.221/kb.php?id=gxws
-深圳卫视,http://82.156.237.221/kb.php?id=szws
-四川卫视,http://82.156.237.221/kb.php?id=scws
-江西卫视,http://82.156.237.221/kb.php?id=jxws
-甘肃卫视,http://82.156.237.221/kb.php?id=gsws
-青海卫视,http://82.156.237.221/kb.php?id=qhws
-陕西卫视,http://82.156.237.221/kb.php?id=sxws
-贵州卫视,http://82.156.237.221/kb.php?id=gzws
-新疆卫视,http://82.156.237.221/kb.php?id=xjws
-海南卫视,http://82.156.237.221/kb.php?id=hinws
- 
-
-
-
-
-
-
-重庆卫视,http://82.156.237.221/mg.php?id=cqws
-吉林卫视,http://82.156.237.221/mg.php?id=jlws
-辽宁卫视,http://82.156.237.221/mg.php?id=lnws
-内蒙古卫视,http://82.156.237.221/mg.php?id=nmws
-宁夏卫视,http://82.156.237.221/mg.php?id=nxws
-甘肃卫视,http://82.156.237.221/mg.php?id=gsws
-青海卫视,http://82.156.237.221/mg.php?id=qhws
-陕西卫视,http://82.156.237.221/mg.php?id=sxws
-山东卫视,http://82.156.237.221/mg.php?id=sdws
-河南卫视,http://82.156.237.221/mg.php?id=hnws
-湖北卫视,http://82.156.237.221/mg.php?id=hubws
-湖南卫视,http://82.156.237.221/mg.php?id=hunws
-江西卫视,http://82.156.237.221/mg.php?id=jxws
-江苏卫视,http://82.156.237.221/mg.php?id=jsws
-东南卫视,http://82.156.237.221/mg.php?id=dnws
-海峡卫视,http://82.156.237.221/mg.php?id=hxws
-广东卫视,http://82.156.237.221/mg.php?id=gdws
-大湾区卫视,http://82.156.237.221/mg.php?id=dwqws
-广西卫视,http://82.156.237.221/mg.php?id=gxws
-云南卫视,http://82.156.237.221/mg.php?id=ynws
-贵州卫视,http://82.156.237.221/mg.php?id=gzws
-新疆卫视,http://82.156.237.221/mg.php?id=xjws
-西藏卫视,http://82.156.237.221/mg.php?id=xzws
-海南卫视,http://82.156.237.221/mg.php?id=hinws
-东方卫视,http://82.156.237.221/mg.php?id=dfws
-
-
-
-
-
-
-
-
-
 
 
 
 吉林频道,#genre#
 
 
-吉林都市,http://111.26.109.81:8880/sql/2646/hls.m3u8
-吉林生活,http://111.26.109.81:8880/sql/2647/hls.m3u8
-吉林影视,http://111.26.109.81:8880/sql/2648/hls.m3u8
-吉林乡村,http://111.26.109.81:8880/sql/2649/hls.m3u8
-吉林综艺,http://111.26.109.81:8880/sql/2650/hls.m3u8
-长影频道,http://111.26.109.81:8880/sql/2651/hls.m3u8
-吉林教育,http://111.26.109.81:8880/sql/2661/hls.m3u8
 
 
 
@@ -476,20 +358,10 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 无罪推定,http://82.156.237.221:35455/yy/1354936203
 易中天品三国,http://82.156.237.221:35455/yy/1354931498
 
-周星驰,http://82.156.237.221/huya.php?id=11342412
-沈腾,http://82.156.237.221/huya.php?id=11601968
+周星驰,https://hy.wuqikuanglan.cc.cd/1342412
+沈腾,https://hy.wuqikuanglan.cc.cd/11601968
 
 
-埋堆堆1,http://82.156.237.221/huya.php?id=23863796
-埋堆堆2,http://82.156.237.221/huya.php?id=29465859
-埋堆堆3,http://82.156.237.221/huya.php?id=29465851
-埋堆堆4,http://82.156.237.221/huya.php?id=29465848
-埋堆堆5,http://82.156.237.221/huya.php?id=29465854
-埋堆堆6,http://82.156.237.221/huya.php?id=29465860
-埋堆堆7,http://82.156.237.221/huya.php?id=29465855
-埋堆堆8,http://82.156.237.221/huya.php?id=23734176
-埋堆堆9,http://82.156.237.221/huya.php?id=29465858
-埋堆堆10,http://82.156.237.221/huya.php?id=29465849
 
 
 
@@ -631,14 +503,6 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 
 测试,#genre#
-
-
-1,http://10.255.128.136/PLTV/88888888/224/3221225633/10000100000000060000000000000170_0.smil/index.m3u8?fmt=ts2hls
-2,http://10.255.128.136/PLTV/88888888/224/3221225634/10000100000000060000000000000171_0.smil/index.m3u8?fmt=ts2hls
-3,http://10.255.128.136/PLTV/88888888/224/3221225635/10000100000000060000000000000172_0.smil/index.m3u8?fmt=ts2hls
-4,http://10.255.128.136/PLTV/88888888/224/3221225661/10000100000000060000000000000198_0.smil/index.m3u8?fmt=ts2hls
-5,http://10.255.128.136/PLTV/88888888/224/3221225636/10000100000000060000000000000173_0.smil/index.m3u8?fmt=ts2hls
-
 
 
 
@@ -866,6 +730,7 @@ YBTV2[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.249:5540
 广告购物,http://nas.tuyuannet.cn:8800/rtp/239.37.0.253:5540
 ？公共[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.251:5540
 蛟河[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.252:5540
+
 
 
 
