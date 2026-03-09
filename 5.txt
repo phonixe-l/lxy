@@ -285,17 +285,17 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-庆余年,https://hy.wuqikuanglan.cc.cd/23740156
+庆余年,https://wuqikuanglan.us.ci/23740156
 庆余年,https://live.ottiptv.cc/douyu/7812810
-大染坊,https://hy.wuqikuanglan.cc.cd/11602086
-亮剑,https://hy.wuqikuanglan.cc.cd/30080238
-征服,https://hy.wuqikuanglan.cc.cd/30311494
+大染坊,https://wuqikuanglan.us.ci/11602086
+亮剑,https://wuqikuanglan.us.ci/30080238
+征服,https://wuqikuanglan.us.ci/30311494
 征服,https://live.ottiptv.cc/douyu/2726977
-父母爱情,https://hy.wuqikuanglan.cc.cd/11602071
-铁齿铜牙纪晓岚,https://hy.wuqikuanglan.cc.cd/11342396
-武林外传动画版,https://hy.wuqikuanglan.cc.cd/10980725
-雪中悍刀行,https://hy.wuqikuanglan.cc.cd/11336592
-雪豹,https://hy.wuqikuanglan.cc.cd/29580970
+父母爱情,https://wuqikuanglan.us.ci/11602071
+铁齿铜牙纪晓岚,https://wuqikuanglan.us.ci/11342396
+武林外传动画版,https://wuqikuanglan.us.ci/10980725
+雪中悍刀行,https://wuqikuanglan.us.ci/11336592
+雪豹,https://wuqikuanglan.us.ci/29580970
 
 
 雪豹,https://live.ottiptv.cc/yy/1450496699
@@ -334,7 +334,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 三国演义94版,https://live.ottiptv.cc/yy/1354930932
 雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
 案发现场,https://live.ottiptv.cc/yy/22089862
-勇敢的心,https://wuqikuanglan.cc.cd/11602037#https://live.ottiptv.cc/yy/1354744544 
+勇敢的心,https://wuqikuanglan.us.ci/11602037#https://live.ottiptv.cc/yy/1354744544 
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667   
 新白娘子传奇,https://live.ottiptv.cc/yy/1354930969
 法证先锋,https://live.ottiptv.cc/yy/1354930939
@@ -358,8 +358,8 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 无罪推定,https://live.ottiptv.cc/yy/1354936203
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
 
-周星驰,https://hy.wuqikuanglan.cc.cd/1342412
-沈腾,https://hy.wuqikuanglan.cc.cd/11601968
+周星驰,https://wuqikuanglan.us.ci/1342412
+沈腾,https://wuqikuanglan.us.ci/11601968
 
 
 
@@ -730,6 +730,7 @@ YBTV2[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.249:5540
 广告购物,http://nas.tuyuannet.cn:8800/rtp/239.37.0.253:5540
 ？公共[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.251:5540
 蛟河[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.252:5540
+
 
 
 
