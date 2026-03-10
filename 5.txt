@@ -285,16 +285,16 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-庆余年,https://wuqikuanglan.us.ci/23740156
+庆余年,http://116.148.190.197/al.flv.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.flv?seqid=1201334299994&wsSecret=180465b3d136ca3d2ea440c4876cb74e&uid=1199561177177&t=102&ver=1&fs=bgct&ctype=huya_adr&wsTime=69b00961&ali_302c=701&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666001&ali_stream_type=01&ali_orig_station=cn8394&ali_st=cn8393&ali_pv=1773122784&ali_ts=1773122820&ali_g=u22
 庆余年,https://live.ottiptv.cc/douyu/7812810
-大染坊,https://wuqikuanglan.us.ci/11602086
-亮剑,https://wuqikuanglan.us.ci/30080238
+大染坊,http://al.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.flv?wsSecret=697e94c6833c1050e50958be823288dd&wsTime=69b009a7&ctype=huya_adr&seqid=3297562741&uid=1524439854&fs=bgct&ver=1&t=102
+亮剑,http://116.148.190.197/al.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.flv?seqid=1241316276592&wsSecret=607bdef665d5215f83fcfff34b269e04&uid=1239543153972&t=102&ver=1&fs=bgct&ctype=huya_adr&wsTime=69b0089c&ali_302c=701&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666001&ali_stream_type=01&ali_orig_station=cn8394&ali_st=cn8393&ali_pv=1773122555&ali_ts=1773122622&ali_g=u22
 征服,https://wuqikuanglan.us.ci/30311494
 征服,https://live.ottiptv.cc/douyu/2726977
-父母爱情,https://wuqikuanglan.us.ci/11602071
-铁齿铜牙纪晓岚,https://wuqikuanglan.us.ci/11342396
+父母爱情,http://125.36.11.59/al.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.flv?seqid=3297562683&wsSecret=2beb992ac16bb912e38fafcb0a85de29&uid=1524439831&t=102&ver=1&fs=bgct&ctype=huya_adr&wsTime=69b00984&ali_302c=701&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666001&ali_stream_type=01&ali_orig_station=cn8394&ali_st=cn9215&ali_pv=1773122784&ali_ts=1773122854&ali_g=u22
+铁齿铜牙纪晓岚,http://59.83.199.138/al.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv?seqid=3167688124&wsSecret=8c89bb700678c375e47b89e21fbd537f&uid=1394565204&t=102&ver=1&fs=bgct&ctype=huya_adr&wsTime=69b009c8&ali_302c=701&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666001&ali_stream_type=01&ali_orig_station=cn8394&ali_st=cn7479&ali_pv=1773122784&ali_ts=1773122922&ali_g=u22
 武林外传动画版,https://wuqikuanglan.us.ci/10980725
-雪中悍刀行,https://wuqikuanglan.us.ci/11336592
+雪中悍刀行,http://123.6.171.132/al.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?seqid=3161580181&wsSecret=97457053d0ac905ea5a8ef507e3cce27&uid=1388457235&t=102&ver=1&fs=bgct&ctype=huya_adr&wsTime=69b009e2&ali_302c=701&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666001&ali_stream_type=01&ali_orig_station=cn8394&ali_st=cn9040&ali_pv=1773122784&ali_ts=1773122949&ali_g=u22
 雪豹,https://wuqikuanglan.us.ci/29580970
 
 
@@ -730,6 +730,7 @@ YBTV2[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.249:5540
 广告购物,http://nas.tuyuannet.cn:8800/rtp/239.37.0.253:5540
 ？公共[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.251:5540
 蛟河[768*576],http://nas.tuyuannet.cn:8800/rtp/239.37.0.252:5540
+
 
 
 
