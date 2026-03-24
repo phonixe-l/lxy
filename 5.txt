@@ -322,7 +322,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-庆余年,https://wuqikuanglan.us.ci/11352960
+庆余年,http://82.156.237.221/hy.php?id=11352960
 庆余年,https://live.ottiptv.cc/douyu/7812810
 大染坊,https://wuqikuanglan.us.ci/11602086
 亮剑,https://wuqikuanglan.us.ci/30080238
@@ -842,6 +842,7 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
+
 
 
 
