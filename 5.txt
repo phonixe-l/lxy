@@ -343,15 +343,9 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 倚天屠龙记,https://live.ottiptv.cc/yy/1414846486
 天龙八部,https://live.ottiptv.cc/yy/1351814644
 特种兵之火凤凰,https://wuqikuanglan.us.ci/29982636
-特种兵支利刃出鞘,https://live.ottiptv.cc/yy/1382773686
-狂飙,https://live.ottiptv.cc/yy/1382754187
-鹊刀门,https://live.ottiptv.cc/yy/1355344777
-金婚,https://live.ottiptv.cc/yy/1382736832
-金婚,https://live.ottiptv.cc/yy/1382828768
-上海滩,https://live.ottiptv.cc/yy/1382745184
 亮剑,https://live.ottiptv.cc/yy/1356043643
 宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
-武林外传,https://live.ottiptv.cc/yy/21092633
+武林外传,https://live.ottiptv.cc/yy/1382754187
 少年包青天,https://live.ottiptv.cc/yy/1356043677
 地下交通站,https://live.ottiptv.cc/yy/1382736795
 父母爱情,https://live.ottiptv.cc/yy/1382851594
@@ -360,38 +354,28 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 天道,https://live.ottiptv.cc/yy/1382735574
 黑冰,https://live.ottiptv.cc/yy/1354932427
 炊事班的故事,https://live.ottiptv.cc/yy/1382736885
-血色浪漫,https://live.ottiptv.cc/yy/1354926676
 康熙王朝,https://live.ottiptv.cc/yy/1382736818
 我爱我家,https://live.ottiptv.cc/yy/1382851580
-编辑部的故事,https://live.ottiptv.cc/yy/1354936120
 封神榜,https://live.ottiptv.cc/yy/1353426319
-隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
 水浒传,https://live.ottiptv.cc/yy/1353873252
 三国演义94版,https://live.ottiptv.cc/yy/1354936241
 三国演义94版,https://live.ottiptv.cc/yy/1354930932
+隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
 雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
-案发现场,https://live.ottiptv.cc/yy/22089862
 勇敢的心,https://wuqikuanglan.us.ci/11602037#https://live.ottiptv.cc/yy/1354744544 
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667   
 新白娘子传奇,https://live.ottiptv.cc/yy/1354930969
 法证先锋,https://live.ottiptv.cc/yy/1354930939
 寻秦记,https://live.ottiptv.cc/yy/1382749900
-法证先锋,https://live.ottiptv.cc/yy/1382736802
 刑事侦缉档案,https://live.ottiptv.cc/yy/1382851585
 读心神探,https://live.ottiptv.cc/yy/1382851589
 宫心计,https://live.ottiptv.cc/yy/1382828769
-宫心计,https://live.ottiptv.cc/yy/1354933540
-西游记张卫健版,https://live.ottiptv.cc/yy/1354936155
-法证先锋,https://live.ottiptv.cc/yy/1354888736
 法证先锋,https://live.ottiptv.cc/yy/1382851599
 神雕侠侣,https://live.ottiptv.cc/yy/1354926637
-施公奇案,https://live.ottiptv.cc/yy/1382749918
-施公奇案2,https://live.ottiptv.cc/yy/1382736824
+施公奇案,https://live.ottiptv.cc/yy/1382736824
 读心神探,https://live.ottiptv.cc/yy/1382736875
-法证先锋,https://live.ottiptv.cc/yy/1382736870
-法证先锋,https://live.ottiptv.cc/yy/1382851597
 大时代,https://live.ottiptv.cc/yy/1354930891
-心理追凶,https://live.ottiptv.cc/yy/1354936207
+中国刑侦档案,https://live.ottiptv.cc/yy/1382671124
 无罪推定,https://live.ottiptv.cc/yy/1354936203
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
 
@@ -404,8 +388,6 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 数字频道,#genre#
-
-
 
 
 
