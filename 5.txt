@@ -85,12 +85,10 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 卫视频道,#genre#
 
 
+
 凤凰卫视,https://wuqikuanglan.cc.cd/fhzw
 凤凰资讯,https://wuqikuanglan.cc.cd/fhzx
 凤凰香港,https://wuqikuanglan.cc.cd/fhhk
-
-
-
 
 
 
@@ -102,6 +100,29 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
+北京卫视,http://58.17.89.7:8081/hls/51/index.m3u8
+东方卫视,http://58.17.89.7:8081/hls/49/index.m3u8
+天津卫视,http://58.17.89.7:8081/hls/57/index.m3u8
+重庆卫视,http://58.17.89.7:8081/hls/63/index.m3u8
+吉林卫视,http://58.17.89.7:8081/hls/59/index.m3u8
+辽宁卫视,http://58.17.89.7:8081/hls/58/index.m3u8
+黑龙江卫视,http://58.17.89.7:8081/hls/66/index.m3u8
+江苏卫视,http://58.17.89.7:8081/hls/50/index.m3u8
+浙江卫视,http://58.17.89.7:8081/hls/48/index.m3u8
+湖南卫视,http://58.17.89.7:8081/hls/47/index.m3u8
+山西卫视,http://58.17.89.7:8081/hls/61/index.m3u8
+江西卫视,http://58.17.89.7:8081/hls/16/index.m3u8
+安徽卫视,http://58.17.89.7:8081/hls/52/index.m3u8
+河北卫视,http://58.17.89.7:8081/hls/65/index.m3u8
+东南卫视,http://58.17.89.7:8081/hls/62/index.m3u8
+云南卫视,http://58.17.89.7:8081/hls/68/index.m3u8
+青海卫视,http://58.17.89.7:8081/hls/67/index.m3u8
+广东卫视,http://58.17.89.7:8081/hls/72/index.m3u8
+山东卫视,http://58.17.89.7:8081/hls/53/index.m3u8
+甘肃卫视,http://58.17.89.7:8081/hls/70/index.m3u8
+深圳卫视,http://58.17.89.7:8081/hls/54/index.m3u8
+河南卫视,http://58.17.89.7:8081/hls/64/index.m3u8
+陕西卫视,http://58.17.89.7:8081/hls/69/index.m3u8
 
 
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
@@ -137,29 +158,7 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
-北京卫视,http://58.17.89.7:8081/hls/51/index.m3u8
-东方卫视,http://58.17.89.7:8081/hls/49/index.m3u8
-天津卫视,http://58.17.89.7:8081/hls/57/index.m3u8
-重庆卫视,http://58.17.89.7:8081/hls/63/index.m3u8
-吉林卫视,http://58.17.89.7:8081/hls/59/index.m3u8
-辽宁卫视,http://58.17.89.7:8081/hls/58/index.m3u8
-黑龙江卫视,http://58.17.89.7:8081/hls/66/index.m3u8
-江苏卫视,http://58.17.89.7:8081/hls/50/index.m3u8
-浙江卫视,http://58.17.89.7:8081/hls/48/index.m3u8
-湖南卫视,http://58.17.89.7:8081/hls/47/index.m3u8
-山西卫视,http://58.17.89.7:8081/hls/61/index.m3u8
-江西卫视,http://58.17.89.7:8081/hls/16/index.m3u8
-安徽卫视,http://58.17.89.7:8081/hls/52/index.m3u8
-河北卫视,http://58.17.89.7:8081/hls/65/index.m3u8
-东南卫视,http://58.17.89.7:8081/hls/62/index.m3u8
-云南卫视,http://58.17.89.7:8081/hls/68/index.m3u8
-青海卫视,http://58.17.89.7:8081/hls/67/index.m3u8
-广东卫视,http://58.17.89.7:8081/hls/72/index.m3u8
-山东卫视,http://58.17.89.7:8081/hls/53/index.m3u8
-甘肃卫视,http://58.17.89.7:8081/hls/70/index.m3u8
-深圳卫视,http://58.17.89.7:8081/hls/54/index.m3u8
-河南卫视,http://58.17.89.7:8081/hls/64/index.m3u8
-陕西卫视,http://58.17.89.7:8081/hls/69/index.m3u8
+
 
 
 
