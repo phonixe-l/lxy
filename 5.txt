@@ -335,17 +335,17 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
-庆余年,https://wuqikuanglan.us.ci/11352960 
-庆余年,https://wuqikuanglan.us.ci/23740156    
-大染坊,https://wuqikuanglan.us.ci/11602086
-亮剑,https://wuqikuanglan.us.ci/30080238
-征服,https://wuqikuanglan.us.ci/30311494
+庆余年,https://www.wuqikuanglan.ccwu.cc/11352960 
+庆余年,https://www.wuqikuanglan.ccwu.cc/23740156    
+大染坊,https://www.wuqikuanglan.ccwu.cc/11602086
+亮剑,https://www.wuqikuanglan.ccwu.cc/30080238
+征服,https://www.wuqikuanglan.ccwu.cc/30311494
 征服,https://live.ottiptv.cc/douyu/2726977
-父母爱情,https://wuqikuanglan.us.ci/11602071
-铁齿铜牙纪晓岚,https://wuqikuanglan.us.ci/11342396
-武林外传动画版,https://wuqikuanglan.us.ci/10980725
-雪中悍刀行,https://wuqikuanglan.us.ci/11336592
-雪豹,https://wuqikuanglan.us.ci/29580970
+父母爱情,https://www.wuqikuanglan.ccwu.cc/11602071
+铁齿铜牙纪晓岚,https://www.wuqikuanglan.ccwu.cc/11342396
+武林外传动画版,https://www.wuqikuanglan.ccwu.cc/10980725
+雪中悍刀行,https://www.wuqikuanglan.ccwu.cc/11336592
+雪豹,https://www.wuqikuanglan.ccwu.cc/29580970
 
 
 雪豹,https://live.ottiptv.cc/yy/1450496699
@@ -355,7 +355,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 神雕侠侣,https://live.ottiptv.cc/yy/1351762426
 倚天屠龙记,https://live.ottiptv.cc/yy/1414846486
 天龙八部,https://live.ottiptv.cc/yy/1351814644
-特种兵之火凤凰,https://wuqikuanglan.us.ci/29982636
+特种兵之火凤凰,https://www.wuqikuanglan.ccwu.cc/29982636
 亮剑,https://live.ottiptv.cc/yy/1356043643
 宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
 武林外传,https://live.ottiptv.cc/yy/1382754187
@@ -375,7 +375,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 三国演义94版,https://live.ottiptv.cc/yy/1354930932
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
 雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
-勇敢的心,https://wuqikuanglan.us.ci/11602037#https://live.ottiptv.cc/yy/1354744544 
+勇敢的心,https://www.wuqikuanglan.ccwu.cc/11602037#https://live.ottiptv.cc/yy/1354744544 
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667   
 新白娘子传奇,https://live.ottiptv.cc/yy/1354930969
 法证先锋,https://live.ottiptv.cc/yy/1354930939
@@ -392,8 +392,8 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 无罪推定,https://live.ottiptv.cc/yy/1354936203
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
 
-周星驰,https://wuqikuanglan.us.ci/1342412
-沈腾,https://wuqikuanglan.us.ci/11601968
+周星驰,https://www.wuqikuanglan.ccwu.cc/11342412
+沈腾,https://www.wuqikuanglan.ccwu.cc/11601968
 
 
 
