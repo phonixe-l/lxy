@@ -342,7 +342,7 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 征服,https://live.ottiptv.cc/douyu/2726977
 父母爱情,https://www.wuqikuanglan.ccwu.cc/11602071
 铁齿铜牙纪晓岚,https://www.wuqikuanglan.ccwu.cc/11342396
-武林外传动画版,https://www.wuqikuanglan.ccwu.cc/10980725
+武林外传动画版,https://www.wuqikuanglan.ccwu.cc/31115876
 雪中悍刀行,https://www.wuqikuanglan.ccwu.cc/11336592
 雪豹,https://www.wuqikuanglan.ccwu.cc/29580970
 
@@ -392,7 +392,8 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
 
 周星驰,https://www.wuqikuanglan.ccwu.cc/11342412
-沈腾,https://www.wuqikuanglan.ccwu.cc/11601968
+沈腾,https://www.wuqikuanglan.ccwu.cc/11601968 
+虎牙,https://www.wuqikuanglan.ccwu.cc/880261
 
 
 
