@@ -1,9 +1,9 @@
 {
 "sites": [
-{"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_四虎影院","name":"🙅🏻‍♂️🔞四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MaooXB2/四虎影院.json"},
 {"key":"摆渡传媒","name":"摆渡传媒","type":0,"api":"http://lbapiby.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
+{"key":"极品资源","name":"极品资源","type":1,"api":"https://jipinvip1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"香蕉资源","name":"香蕉资源","type":1,"api":"https://www.xiangjiaozyw.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"幸福资源","name":"幸福资源","type":1,"api":"https://xzybb1.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"杏吧资源","name":"杏吧资源","type":1,"api":"https://xingba222.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
