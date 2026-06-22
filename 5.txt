@@ -195,6 +195,7 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 
+
 吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
@@ -202,13 +203,19 @@ CHC高清电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 吉林综艺,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8
 
 
+吉林都市,http://36.108.172.237:10206/stream/channelid/
+吉林生活,http://36.108.172.237:10206/stream/channelid/
+吉林影视,http://36.108.172.237:10206/stream/channelid/
+吉林乡村,http://36.108.172.237:10206/stream/channelid/
+吉林综艺,http://36.108.172.237:10206/stream/channelid/
 
 
 
 
-吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#http://111.26.109.81:8880/sql/2658/hls.m3u8
-吉林市生活,http://111.26.109.81:8880/sql/2660/hls.m3u8
-吉林市科教,http://111.26.109.81:8880/sql/2659/hls.m3u8
+
+吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8#http://36.108.172.237:10206/stream/channelid/1547302023?ticket=d6f77584ffa38302512849dcd2cdba3f5d522066
+吉林市生活,http://36.108.172.237:10206/stream/channelid/2032964622?ticket=bf5c8215108ec4072bcedbd100edd817000010bf
+吉林市科教,http://36.108.172.237:10206/stream/channelid/678776556?ticket=77ccb1b2dd970e722564a34732c4a0e8b58eeae1
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8
@@ -558,24 +565,6 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 
 
 测试,#genre#
-
-CCTV5,http://120.6.237.233:21234/641886683
-CCTV5+,http://120.6.237.233:21234/641886773
-
-7,http://120.6.237.233:21234/965277994
-8,http://120.6.237.233:21234/965271359
-9,http://120.6.237.233:21234/965271369
-10,http://120.6.237.233:21234/965278466
-11,http://120.6.237.233:21234/965271115
-12,http://120.6.237.233:21234/965278439
-13,http://120.6.237.233:21234/965271095
-14,http://120.6.237.233:21234/965278463
-15,http://120.6.237.233:21234/965278009
-16,http://120.6.237.233:21234/965271551
-17,http://120.6.237.233:21234/965271560
-18,http://120.6.237.233:21234/965271545
-19,http://120.6.237.233:21234/965271520
-20,http://120.6.237.233:21234/965278427
 
 
 
