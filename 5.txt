@@ -309,54 +309,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 
 
 
-中天新闻台,http://t.061899.xyz/tl/js/js.php?id=ztxwt
-东森新闻台,http://t.061899.xyz/tl/js/js.php?id=dsxwt
-东森财经新闻台,http://t.061899.xyz/tl/js/js.php?id=dscjxwt
-中视新闻台,http://t.061899.xyz/tl/js/js.php?id=zsxwt
-台视新闻台,http://t.061899.xyz/tl/js/js.php?id=tsxwt
-三立新闻台,http://t.061899.xyz/tl/js/js.php?id=slxwt
-民视新闻台,http://t.061899.xyz/tl/js/js.php?id=msxwt
-华视新闻台,http://t.061899.xyz/tl/js/js.php?id=hsxwt
-镜新闻,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
-寰宇新闻台,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt
-中视HD,http://t.061899.xyz/tl/js/js.php?id=hdzs
-台视HD,http://t.061899.xyz/tl/js/js.php?id=hdts
-民视HD,http://t.061899.xyz/tl/js/js.php?id=hdms
-华视HD,http://t.061899.xyz/tl/js/js.php?id=hdhs
-三立台湾台,http://t.061899.xyz/tl/js/js.php?id=sltwt
-緯來體育台,http://t.061899.xyz/tl/js/js.php?id=wltyt
-纬来日本台,http://t.061899.xyz/tl/js/js.php?id=wlrbt
-纬来育乐台,http://t.061899.xyz/tl/js/js.php?id=wlylt
-DAZN 1,http://t.061899.xyz/tl/js/js.php?id=1dazn
-DAZN 2,http://t.061899.xyz/tl/js/js.php?id=2dazn
-爱尔达体育1台,http://t.061899.xyz/tl/js/js.php?id=1aedtyt
-爱尔达体育2台,http://t.061899.xyz/tl/js/js.php?id=2aedtyt
-爱尔达体育3台,http://t.061899.xyz/tl/js/js.php?id=3aedtyt
-爱尔达体育4台,http://t.061899.xyz/tl/js/js.php?id=4aedtyt
-大爱一台,http://t.061899.xyz/tl/js/js.php?id=dayt
-大爱二台,http://t.061899.xyz/tl/js/js.php?id=daet
-HBO HD,http://t.061899.xyz/tl/js/js.php?id=hbohd
-好莱坞电影,http://t.061899.xyz/tl/js/js.php?id=hlwdy
-
-
-
-
-
-
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-
-
-
-
-
 电视剧轮播,#genre#
 
 
@@ -422,42 +374,6 @@ amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 周星驰,https://www.wuqikuanglan.ccwu.cc/11342412
 沈腾,https://www.wuqikuanglan.ccwu.cc/11601968 
 虎牙,https://www.wuqikuanglan.ccwu.cc/880261
-
-
-
-
-
-
-数字频道,#genre#
-
-
-
-
-
-
-搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
-怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
-都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
-传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
-古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
-抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
-谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
-欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
-经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
-乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
-电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
-爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
-智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
-相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
-中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
-世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
-传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
-经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
-纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
-王者荣耀,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1047_720P_t10/c59_fast_1047_720P_t10.m3u8?d
-蛋仔派对,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1048_720P_t10/c60_fast_1048_720P_t10.m3u8?d
 
 
 
