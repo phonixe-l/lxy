@@ -483,6 +483,29 @@ CCTV电视指南,http://139.215.98.88/PLTV/88888888/224/3221225831/1000010000000
 测试,#genre#
 
 
+TVBS,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/9f1e34bd
+TVBS新闻,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/78d0b12b
+TVBS新闻1,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/5a3444db
+tvbS新闻SXtv,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/5c94753c
+东森新闻台,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/c38c8f60
+中天新闻(备),https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/71df430e
+中天新闻(备1),https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/bdf2cff2
+中天新闻台,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/eda38422
+中视-HD,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/0aafc1bc
+中视新闻,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/a865838f
+华视-HD,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/d61be5f3
+台视-HD,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/a1ec1608
+台视新闻,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/2fab4313
+寰宇新闻,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/a34bbdaa
+寰宇新闻Hktv,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/ffedf400
+寰宇新闻台,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/f7073a03
+民视,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/53a6a086
+民视-HD,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/7290cafa
+澳门莲花,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/5cf16c4f
+澳门莲花1,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/b8317822
+澳门莲花2,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/5478578d
+非凡新闻,https://iptv-search.com/live/fav/bd8002tAaOUmBM61y1R7n0ktqDvmtVC5/b0a05a6f
+
 
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
