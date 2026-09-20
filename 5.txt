@@ -832,6 +832,29 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 
 
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227461/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227554/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227574/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227714/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226179/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8?servicetype=1
+CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227679/index.m3u8?servicetype=1
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227461/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227554/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227574/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227714/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226179/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
+CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227679/index.m3u8
+
+
+
 CCTV-1,http://219.140.6.156:1234/608807420
 CCTV-1,http://114.102.131.178:5080/608807420
 CCTV-1,http://120.245.84.72:1234/608807420
