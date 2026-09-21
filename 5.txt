@@ -650,6 +650,10 @@ CCTV17,http://www.photoby.us:28012/rtp/239.3.1.151:8144
 
 测试,#genre#
 
+CCTV1综合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV13新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV5,http://45.192.97.170:8880/play/67.m3u8
+CCTV5+,http://45.192.97.170:8880/play/68.m3u8
 
 
 
