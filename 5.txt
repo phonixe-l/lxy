@@ -23,24 +23,26 @@ CCTV4K,http://36.49.50.4:8800/rtp/239.37.0.34:5540
 
 
 
-CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
-CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
-CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
-CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
-CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
-CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
-CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
-CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
+CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+CCTV4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+
 
 
 
@@ -64,13 +66,32 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 
 
 
+CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
+CCTV央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+CCTV风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+CCTV怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+CCTV风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+CCTV风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+CCTV电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
+CCTV兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+CCTV高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
+CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
+
+
+
 
 CHC家庭影院,http://36.49.50.4:8800/rtp/239.37.0.188:5540
 CHC动作电影,http://36.49.50.4:8800/rtp/239.37.0.186:5540
 CHC影迷电影,http://36.49.50.4:8800/rtp/239.37.0.187:5540
-CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=jtyy
-CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
-CHC影迷电影,http://t.061899.xyz/tl/dq.php?id=ymdy
+
+
+
+CHC动作影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
+CHC影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
+CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 
 
 
@@ -133,54 +154,42 @@ CHC影迷电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 兵团卫视,http://36.49.50.4:8800/rtp/239.37.0.33:5540
 
 
-
-北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
-东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
-天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
-重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
-吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
-黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
-浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
-湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-山西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
-青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
-河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
-海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
-河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
-山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
-安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
-深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
-广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
-贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
-四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
-西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
-宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
-
-
-
-
-
-
-
-
-
-
-
+北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
+重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
+黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
+浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
+河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
+东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
+广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
+四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
+贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
+河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
+云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
+山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
+江西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd
+厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
+甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
+新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
+青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
+内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
+西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 
 
 
 
 吉林频道,#genre#
-
-
-
 
 
 
@@ -650,10 +659,7 @@ CCTV17,http://www.photoby.us:28012/rtp/239.3.1.151:8144
 
 测试,#genre#
 
-CCTV1综合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-CCTV13新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-CCTV5,http://45.192.97.170:8880/play/67.m3u8
-CCTV5+,http://45.192.97.170:8880/play/68.m3u8
+
 
 
 
