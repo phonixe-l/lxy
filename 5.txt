@@ -152,11 +152,6 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 
 
 
-凤凰卫视,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-
-
 
 北京卫视,http://36.49.50.4:8800/rtp/239.37.0.9:5540
 东方卫视,http://36.49.50.4:8800/rtp/239.37.0.123:5540
@@ -190,6 +185,7 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 宁夏卫视,http://36.49.50.4:8800/rtp/239.37.0.49:5540
 内蒙古卫视,http://36.49.50.4:8800/rtp/239.37.0.63:5540
 兵团卫视,http://36.49.50.4:8800/rtp/239.37.0.33:5540
+
 
 
 北京卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.161:3000
@@ -227,6 +223,9 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 延边卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.101:3000
 三沙卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.198:3000
 兵团卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.57:3000
+
+
+
 
 北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
@@ -267,13 +266,6 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 
 
 
-吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
-吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
-吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
-吉林乡村,https://lsfb.avap.jilintv.cn:443/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-吉林综艺,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8
-
-
 吉林都市,http://36.49.50.4:8800/rtp/239.37.1.2:5540
 吉林生活,http://36.49.50.4:8800/rtp/239.37.1.4:5540
 吉林影视,http://36.49.50.4:8800/rtp/239.37.1.3:5540
@@ -281,6 +273,13 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 吉林综艺,http://36.49.50.4:8800/rtp/239.37.1.7:5540
 长影频道,http://36.49.50.4:8800/rtp/239.37.0.125:5540
 
+
+
+吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+吉林乡村,https://lsfb.avap.jilintv.cn:443/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+吉林综艺,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8
 
 
 
