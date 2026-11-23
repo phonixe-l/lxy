@@ -1,26 +1,6 @@
 央视频道,#genre#
 
 
-CCTV1,http://36.49.50.4:8800/rtp/239.37.0.55:5540
-CCTV2,http://36.49.50.4:8800/rtp/239.37.0.3:5540
-CCTV3,http://36.49.50.4:8800/rtp/239.37.0.231:5540
-CCTV4,http://36.49.50.4:8800/rtp/239.37.1.25:5540
-CCTV5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV5+,http://36.49.50.4:8800/rtp/239.37.0.121:5540
-CCTV6,http://36.49.50.4:8800/rtp/239.37.0.233:5540
-CCTV7,http://36.49.50.4:8800/rtp/239.37.1.20:5540
-CCTV8,http://36.49.50.4:8800/rtp/239.37.0.234:5540
-CCTV9,http://36.49.50.4:8800/rtp/239.37.0.1:5540
-CCTV10,http://36.49.50.4:8800/rtp/239.37.0.7:5540
-CCTV11,http://36.49.50.4:8800/rtp/239.37.1.26:5540
-CCTV12,http://36.49.50.4:8800/rtp/239.37.0.6:5540
-CCTV13,http://36.49.50.4:8800/rtp/239.37.1.27:5540
-CCTV14,http://36.49.50.4:8800/rtp/239.37.0.5:5540
-CCTV15,http://36.49.50.4:8800/rtp/239.37.1.28:5540
-CCTV16,http://36.49.50.4:8800/rtp/239.37.1.21:5540
-CCTV17,http://36.49.50.4:8800/rtp/239.37.0.2:5540
-CCTV4K,http://36.49.50.4:8800/rtp/239.37.0.34:5540
-
 
 
 CCTV1,http://wanda01.e7q.com:18090/rtp/239.253.142.110:3000
@@ -46,8 +26,6 @@ CCTV17,http://wanda01.e7q.com:18090/rtp/239.253.142.202:3000
 
 
 
-
-
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
@@ -69,6 +47,27 @@ CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CCTV4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
 
 
+
+
+CCTV1,http://36.49.50.4:8800/rtp/239.37.0.55:5540
+CCTV2,http://36.49.50.4:8800/rtp/239.37.0.3:5540
+CCTV3,http://36.49.50.4:8800/rtp/239.37.0.231:5540
+CCTV4,http://36.49.50.4:8800/rtp/239.37.1.25:5540
+CCTV5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV5+,http://36.49.50.4:8800/rtp/239.37.0.121:5540
+CCTV6,http://36.49.50.4:8800/rtp/239.37.0.233:5540
+CCTV7,http://36.49.50.4:8800/rtp/239.37.1.20:5540
+CCTV8,http://36.49.50.4:8800/rtp/239.37.0.234:5540
+CCTV9,http://36.49.50.4:8800/rtp/239.37.0.1:5540
+CCTV10,http://36.49.50.4:8800/rtp/239.37.0.7:5540
+CCTV11,http://36.49.50.4:8800/rtp/239.37.1.26:5540
+CCTV12,http://36.49.50.4:8800/rtp/239.37.0.6:5540
+CCTV13,http://36.49.50.4:8800/rtp/239.37.1.27:5540
+CCTV14,http://36.49.50.4:8800/rtp/239.37.0.5:5540
+CCTV15,http://36.49.50.4:8800/rtp/239.37.1.28:5540
+CCTV16,http://36.49.50.4:8800/rtp/239.37.1.21:5540
+CCTV17,http://36.49.50.4:8800/rtp/239.37.0.2:5540
+CCTV4K,http://36.49.50.4:8800/rtp/239.37.0.34:5540
 
 
 
@@ -151,43 +150,6 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 
 
 
-
-
-北京卫视,http://36.49.50.4:8800/rtp/239.37.0.9:5540
-东方卫视,http://36.49.50.4:8800/rtp/239.37.0.123:5540
-天津卫视,http://36.49.50.4:8800/rtp/239.37.0.4:5540
-重庆卫视,http://36.49.50.4:8800/rtp/239.37.0.158:5540
-吉林卫视,http://36.49.50.4:8800/rtp/239.37.0.111:5540
-辽宁卫视,http://36.49.50.4:8800/rtp/239.37.0.160:5540
-黑龙江卫视,http://36.49.50.4:8800/rtp/239.37.0.13:5540
-浙江卫视,http://36.49.50.4:8800/rtp/239.37.0.153:5540
-江苏卫视,http://36.49.50.4:8800/rtp/239.37.0.112:5540
-湖南卫视,http://36.49.50.4:8800/rtp/239.37.0.10:5540
-深圳卫视,http://36.49.50.4:8800/rtp/239.37.0.14:5540
-江西卫视,http://36.49.50.4:8800/rtp/239.37.0.156:5540
-湖北卫视,http://36.49.50.4:8800/rtp/239.37.0.16:5540
-山西卫视,http://36.49.50.4:8800/rtp/239.37.0.52:5540
-陕西卫视,http://36.49.50.4:8800/rtp/239.37.0.103:5540
-河南卫视,http://36.49.50.4:8800/rtp/239.37.0.155:5540
-东南卫视,http://36.49.50.4:8800/rtp/239.37.0.124:5540
-海南卫视,http://36.49.50.4:8800/rtp/239.37.0.102:5540
-广东卫视,http://36.49.50.4:8800/rtp/239.37.0.12:5540
-河北卫视,http://36.49.50.4:8800/rtp/239.37.0.154:5540
-山东卫视,http://36.49.50.4:8800/rtp/239.37.0.15:5540
-安徽卫视,http://36.49.50.4:8800/rtp/239.37.0.159:5540
-广西卫视,http://36.49.50.4:8800/rtp/239.37.1.23:5540
-贵州卫视,http://36.49.50.4:8800/rtp/239.37.0.157:5540
-四川卫视,http://36.49.50.4:8800/rtp/239.37.0.151:5540
-青海卫视,http://36.49.50.4:8800/rtp/239.37.0.104:5540
-甘肃卫视,http://36.49.50.4:8800/rtp/239.37.1.30:5540
-西藏卫视,http://36.49.50.4:8800/rtp/239.37.0.37:5540
-新疆卫视,http://36.49.50.4:8800/rtp/239.37.0.56:5540
-宁夏卫视,http://36.49.50.4:8800/rtp/239.37.0.49:5540
-内蒙古卫视,http://36.49.50.4:8800/rtp/239.37.0.63:5540
-兵团卫视,http://36.49.50.4:8800/rtp/239.37.0.33:5540
-
-
-
 北京卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.161:3000
 东方卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.122:3000
 天津卫视,http://wanda01.e7q.com:18090/rtp/239.253.142.169:3000
@@ -258,6 +220,43 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
+
+
+
+北京卫视,http://36.49.50.4:8800/rtp/239.37.0.9:5540
+东方卫视,http://36.49.50.4:8800/rtp/239.37.0.123:5540
+天津卫视,http://36.49.50.4:8800/rtp/239.37.0.4:5540
+重庆卫视,http://36.49.50.4:8800/rtp/239.37.0.158:5540
+吉林卫视,http://36.49.50.4:8800/rtp/239.37.0.111:5540
+辽宁卫视,http://36.49.50.4:8800/rtp/239.37.0.160:5540
+黑龙江卫视,http://36.49.50.4:8800/rtp/239.37.0.13:5540
+浙江卫视,http://36.49.50.4:8800/rtp/239.37.0.153:5540
+江苏卫视,http://36.49.50.4:8800/rtp/239.37.0.112:5540
+湖南卫视,http://36.49.50.4:8800/rtp/239.37.0.10:5540
+深圳卫视,http://36.49.50.4:8800/rtp/239.37.0.14:5540
+江西卫视,http://36.49.50.4:8800/rtp/239.37.0.156:5540
+湖北卫视,http://36.49.50.4:8800/rtp/239.37.0.16:5540
+山西卫视,http://36.49.50.4:8800/rtp/239.37.0.52:5540
+陕西卫视,http://36.49.50.4:8800/rtp/239.37.0.103:5540
+河南卫视,http://36.49.50.4:8800/rtp/239.37.0.155:5540
+东南卫视,http://36.49.50.4:8800/rtp/239.37.0.124:5540
+海南卫视,http://36.49.50.4:8800/rtp/239.37.0.102:5540
+广东卫视,http://36.49.50.4:8800/rtp/239.37.0.12:5540
+河北卫视,http://36.49.50.4:8800/rtp/239.37.0.154:5540
+山东卫视,http://36.49.50.4:8800/rtp/239.37.0.15:5540
+安徽卫视,http://36.49.50.4:8800/rtp/239.37.0.159:5540
+广西卫视,http://36.49.50.4:8800/rtp/239.37.1.23:5540
+贵州卫视,http://36.49.50.4:8800/rtp/239.37.0.157:5540
+四川卫视,http://36.49.50.4:8800/rtp/239.37.0.151:5540
+青海卫视,http://36.49.50.4:8800/rtp/239.37.0.104:5540
+甘肃卫视,http://36.49.50.4:8800/rtp/239.37.1.30:5540
+西藏卫视,http://36.49.50.4:8800/rtp/239.37.0.37:5540
+新疆卫视,http://36.49.50.4:8800/rtp/239.37.0.56:5540
+宁夏卫视,http://36.49.50.4:8800/rtp/239.37.0.49:5540
+内蒙古卫视,http://36.49.50.4:8800/rtp/239.37.0.63:5540
+兵团卫视,http://36.49.50.4:8800/rtp/239.37.0.33:5540
+
+
 
 
 
@@ -385,11 +384,11 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 
 
 庆余年,https://www.wuqikuanglan.ccwu.cc/11352960#https://www.wuqikuanglan.ccwu.cc/23740156
-庆余年,https://live.ottiptv.cc/douyu/7812810    
+庆余年,https://mursor.ottiptv.cc/douyu/7812810    
 大染坊,https://www.wuqikuanglan.ccwu.cc/11352944
 亮剑,https://www.wuqikuanglan.ccwu.cc/30080238
 征服,https://www.wuqikuanglan.ccwu.cc/30311494
-征服,https://live.ottiptv.cc/douyu/4549169
+征服,https://mursor.ottiptv.cc/douyu/4549169
 父母爱情,https://www.wuqikuanglan.ccwu.cc/11602071
 铁齿铜牙纪晓岚,https://www.wuqikuanglan.ccwu.cc/11342396
 武林外传动画版,https://www.wuqikuanglan.ccwu.cc/31115876
@@ -397,49 +396,49 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 雪豹,https://www.wuqikuanglan.ccwu.cc/29580970
 
 
-雪豹,https://live.ottiptv.cc/yy/1450496699
-83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
-宰相刘罗锅,https://live.ottiptv.cc/yy/1382745191
-鹿鼎记,https://live.ottiptv.cc/yy/1382704650
-神雕侠侣,https://live.ottiptv.cc/yy/1351762426
-倚天屠龙记,https://live.ottiptv.cc/yy/1414846486
-天龙八部,https://live.ottiptv.cc/yy/1351814644
+雪豹,https://mursor.ottiptv.cc/yy/1450496699
+83射雕英雄传,https://mursor.ottiptv.cc/yy/1354210357
+宰相刘罗锅,https://mursor.ottiptv.cc/yy/1382745191
+鹿鼎记,https://mursor.ottiptv.cc/yy/1382704650
+神雕侠侣,https://mursor.ottiptv.cc/yy/1351762426
+倚天屠龙记,https://mursor.ottiptv.cc/yy/1414846486
+天龙八部,https://mursor.ottiptv.cc/yy/1351814644
 特种兵之火凤凰,https://www.wuqikuanglan.ccwu.cc/29982636
-亮剑,https://live.ottiptv.cc/yy/1356043643
-宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
-武林外传,https://live.ottiptv.cc/yy/1382754187
-少年包青天,https://live.ottiptv.cc/yy/1356043677
-地下交通站,https://live.ottiptv.cc/yy/1382736795
-父母爱情,https://live.ottiptv.cc/yy/1382851594
-雍正王朝,https://live.ottiptv.cc/yy/1356043620
-神医喜来乐,https://live.ottiptv.cc/yy/1382714119
-天道,https://live.ottiptv.cc/yy/1382735574
-黑冰,https://live.ottiptv.cc/yy/1354932427
-炊事班的故事,https://live.ottiptv.cc/yy/1382736885
-康熙王朝,https://live.ottiptv.cc/yy/1382736818
-我爱我家,https://live.ottiptv.cc/yy/1382851580
-封神榜,https://live.ottiptv.cc/yy/1353426319
-水浒传,https://live.ottiptv.cc/yy/1353873252
-三国演义94版,https://live.ottiptv.cc/yy/1354936241
-三国演义94版,https://live.ottiptv.cc/yy/1354930932
-隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
-雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
-勇敢的心,https://www.wuqikuanglan.ccwu.cc/11602037#https://live.ottiptv.cc/yy/1354744544 
-新白娘子传奇,https://live.ottiptv.cc/yy/1354490667   
-新白娘子传奇,https://live.ottiptv.cc/yy/1354930969
-法证先锋,https://live.ottiptv.cc/yy/1354930939
-寻秦记,https://live.ottiptv.cc/yy/1382749900
-刑事侦缉档案,https://live.ottiptv.cc/yy/1382851585
-读心神探,https://live.ottiptv.cc/yy/1382851589
-宫心计,https://live.ottiptv.cc/yy/1382828769
-法证先锋,https://live.ottiptv.cc/yy/1382851599
-神雕侠侣,https://live.ottiptv.cc/yy/1354926637
-施公奇案,https://live.ottiptv.cc/yy/1382736824
-读心神探,https://live.ottiptv.cc/yy/1382736875
-大时代,https://live.ottiptv.cc/yy/1354930891
-中国刑侦档案,https://live.ottiptv.cc/yy/1382671124
-无罪推定,https://live.ottiptv.cc/yy/1354936203
-易中天品三国,https://live.ottiptv.cc/yy/1354931498
+亮剑,https://mursor.ottiptv.cc/yy/1356043643
+宰相刘罗锅,https://mursor.ottiptv.cc/yy/1353892468
+武林外传,https://mursor.ottiptv.cc/yy/1382754187
+少年包青天,https://mursor.ottiptv.cc/yy/1356043677
+地下交通站,https://mursor.ottiptv.cc/yy/1382736795
+父母爱情,https://mursor.ottiptv.cc/yy/1382851594
+雍正王朝,https://mursor.ottiptv.cc/yy/1356043620
+神医喜来乐,https://mursor.ottiptv.cc/yy/1382714119
+天道,https://mursor.ottiptv.cc/yy/1382735574
+黑冰,https://mursor.ottiptv.cc/yy/1354932427
+炊事班的故事,https://mursor.ottiptv.cc/yy/1382736885
+康熙王朝,https://mursor.ottiptv.cc/yy/1382736818
+我爱我家,https://mursor.ottiptv.cc/yy/1382851580
+封神榜,https://mursor.ottiptv.cc/yy/1353426319
+水浒传,https://mursor.ottiptv.cc/yy/1353873252
+三国演义94版,https://mursor.ottiptv.cc/yy/1354936241
+三国演义94版,https://mursor.ottiptv.cc/yy/1354930932
+隋唐英雄传,https://mursor.ottiptv.cc/yy/1352475619
+雪中悍刀行,https://mursor.ottiptv.cc/yy/1462996362
+勇敢的心,https://www.wuqikuanglan.ccwu.cc/11602037#https://mursor.ottiptv.cc/yy/1354744544 
+新白娘子传奇,https://mursor.ottiptv.cc/yy/1354490667   
+新白娘子传奇,https://mursor.ottiptv.cc/yy/1354930969
+法证先锋,https://mursor.ottiptv.cc/yy/1354930939
+寻秦记,https://mursor.ottiptv.cc/yy/1382749900
+刑事侦缉档案,https://mursor.ottiptv.cc/yy/1382851585
+读心神探,https://mursor.ottiptv.cc/yy/1382851589
+宫心计,https://mursor.ottiptv.cc/yy/1382828769
+法证先锋,https://mursor.ottiptv.cc/yy/1382851599
+神雕侠侣,https://mursor.ottiptv.cc/yy/1354926637
+施公奇案,https://mursor.ottiptv.cc/yy/1382736824
+读心神探,https://mursor.ottiptv.cc/yy/1382736875
+大时代,https://mursor.ottiptv.cc/yy/1354930891
+中国刑侦档案,https://mursor.ottiptv.cc/yy/1382671124
+无罪推定,https://mursor.ottiptv.cc/yy/1354936203
+易中天品三国,https://mursor.ottiptv.cc/yy/1354931498
 
 周星驰,https://www.wuqikuanglan.ccwu.cc/11342412
 沈腾,https://www.wuqikuanglan.ccwu.cc/11601968 
