@@ -665,10 +665,6 @@ CCTV17,http://www.photoby.us:28012/rtp/239.3.1.151:8144
 测试,#genre#
 
 
-CCTV1,http://jscbn.ws-cdn.gitv.tv/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-CCTV1,http://jscbn.ws-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
-CCTV1,http://jscbn.ws-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
-
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
